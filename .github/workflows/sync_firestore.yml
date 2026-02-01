@@ -1,16 +1,14 @@
-name: Sync Arc Raiders Data to Firestore
+name: Upload Images to Firebase Storage (One-Time)
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: '0 0 * * *'
 
 jobs:
-  sync:
+  upload-images:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repo
+      - name: Checkout repository
         uses: actions/checkout@v4
 
       - name: Set up Node.js
@@ -21,7 +19,7 @@ jobs:
       - name: Install dependencies
         run: npm install
 
-      - name: Sync data to Firestore
+      - name: Upload images to Firebase Storage
         env:
           FIREBASE_SERVICE_ACCOUNT_KEY: ${{ secrets.FIREBASE_SERVICE_ACCOUNT_KEY }}
         run: node scripts/upload_images.js

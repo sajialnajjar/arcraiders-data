@@ -24,4 +24,4 @@ jobs:
       - name: Sync data to Firestore
         env:
           FIREBASE_SERVICE_ACCOUNT_KEY: ${{ secrets.FIREBASE_SERVICE_ACCOUNT_KEY }}
-        run: node scripts/sync_data.js
+        run: node scripts/upload_images.js

@@ -129,3 +129,26 @@ main().catch(err => {
   console.error("🔥 Sync failed:", err);
   process.exit(1);
 });
+
+async function uploadFolderAsCollection(folderName) {
+  const folderPath = path.join(process.cwd(), folderName);
+
+  if (!fs.existsSync(folderPath)) {
+    console.log(`⚠️ Folder not found: ${folderName}`);
+    return;
+  }
+
+  const files = fs
+    .readdirSync(folderPath)
+    .filter(f => f.endsWith(".json"));
+
+  for (const file of files) {
+    const docId = file.replace(".json", "");
+    const filePath = path.join(folderPath, file);
+    const jsonData = JSON.parse(fs.readFileSync(filePath, "utf8"));
+
+    await uploadCollection(folderName, {
+      [docId]: jsonData,
+    });
+  }
+}

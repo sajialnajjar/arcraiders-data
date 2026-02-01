@@ -40,23 +40,25 @@ async function uploadCollection(collectionName, data) {
 const dataDir = process.cwd();
 
 async function main() {
-  if (!fs.existsSync(dataDir)) {
-    throw new Error("data folder not found");
-  }
+  const files = fs
+    .readdirSync(dataDir)
+    .filter(f => f.endsWith(".json"));
 
-  const files = fs.readdirSync(dataDir).filter(f => f.endsWith(".json"));
+  if (files.length === 0) {
+    throw new Error("No JSON files found in repository root");
+  }
 
   for (const file of files) {
-    const name = file.replace(".json", "");
-    const content = JSON.parse(
-      fs.readFileSync(path.join(dataDir, file), "utf8")
-    );
+    const collectionName = file.replace(".json", "");
+    const filePath = path.join(dataDir, file);
+    const jsonData = JSON.parse(fs.readFileSync(filePath, "utf8"));
 
-    await uploadCollection(name, content);
+    await uploadCollection(collectionName, jsonData);
   }
 
-  console.log("🎉 Firestore sync completed");
+  console.log("🎉 Firestore sync completed successfully");
 }
+
 
 main().catch(err => {
   console.error("🔥 Sync failed:", err);

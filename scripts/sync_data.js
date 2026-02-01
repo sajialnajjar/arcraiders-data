@@ -23,26 +23,64 @@ admin.initializeApp({
 
 const db = admin.firestore();
 
-// ===== 3. Upload JSON to Firestore =====
+// ===== 3. Upload JSON to Firestore (Object + Array safe) =====
 async function uploadCollection(collectionName, data) {
-  const batch = db.batch();
   const colRef = db.collection(collectionName);
+  let batch = db.batch();
+  let operationCount = 0;
 
-  for (const [id, value] of Object.entries(data)) {
-    batch.set(colRef.doc(id), value);
+  const commitBatch = async () => {
+    if (operationCount > 0) {
+      await batch.commit();
+      batch = db.batch();
+      operationCount = 0;
+    }
+  };
+
+  // Case 1: JSON is an Array
+  if (Array.isArray(data)) {
+    for (let i = 0; i < data.length; i++) {
+      const item = data[i];
+      if (typeof item !== "object" || item === null) continue;
+
+      const docId = item.id?.toString() || i.toString();
+      batch.set(colRef.doc(docId), item);
+      operationCount++;
+
+      if (operationCount === 450) {
+        await commitBatch();
+      }
+    }
+  }
+  // Case 2: JSON is an Object
+  else if (typeof data === "object") {
+    for (const [key, value] of Object.entries(data)) {
+      if (typeof value !== "object" || value === null) continue;
+
+      batch.set(colRef.doc(key), value);
+      operationCount++;
+
+      if (operationCount === 450) {
+        await commitBatch();
+      }
+    }
+  }
+  // Unsupported JSON format
+  else {
+    throw new Error(`Unsupported JSON format in ${collectionName}`);
   }
 
-  await batch.commit();
+  await commitBatch();
   console.log(`✅ Uploaded: ${collectionName}`);
 }
 
-// ===== 4. Load data files =====
+// ===== 4. Load JSON files from repository root =====
 const dataDir = process.cwd();
 
 async function main() {
   const files = fs
     .readdirSync(dataDir)
-    .filter(f => f.endsWith(".json"));
+    .filter(file => file.endsWith(".json"));
 
   if (files.length === 0) {
     throw new Error("No JSON files found in repository root");
@@ -58,7 +96,6 @@ async function main() {
 
   console.log("🎉 Firestore sync completed successfully");
 }
-
 
 main().catch(err => {
   console.error("🔥 Sync failed:", err);

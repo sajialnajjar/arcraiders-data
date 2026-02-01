@@ -37,7 +37,7 @@ async function uploadCollection(collectionName, data) {
 }
 
 // ===== 4. Load data files =====
-const dataDir = path.join(process.cwd(), "data");
+const dataDir = process.cwd();
 
 async function main() {
   if (!fs.existsSync(dataDir)) {

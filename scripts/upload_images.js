@@ -19,8 +19,9 @@ const serviceAccount = JSON.parse(
 // ===== Initialize Firebase Admin with Storage =====
 admin.initializeApp({
   credential: admin.credential.cert(serviceAccount),
-  storageBucket: `${serviceAccount.project_id}.appspot.com`,
+  storageBucket: "arc-raiders-wiki.firebasestorage.app",
 });
+
 
 const bucket = admin.storage().bucket();
 

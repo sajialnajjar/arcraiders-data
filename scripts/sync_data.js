@@ -34,7 +34,7 @@ function sanitize(value) {
   if (value !== null && typeof value === "object") {
     const clean = {};
     for (const [key, val] of Object.entries(value)) {
-      if (!key || key.trim() === "") continue; // 🔥 remove empty keys
+      if (!key || key.trim() === "") continue;
       const sanitized = sanitize(val);
       if (sanitized !== undefined) {
         clean[key] = sanitized;
@@ -43,7 +43,6 @@ function sanitize(value) {
     return clean;
   }
 
-  // primitive
   return value;
 }
 
@@ -79,7 +78,6 @@ async function uploadCollection(collectionName, data) {
     }
   };
 
-  // Array JSON
   if (Array.isArray(data)) {
     for (let i = 0; i < data.length; i++) {
       const item = data[i];
@@ -87,9 +85,7 @@ async function uploadCollection(collectionName, data) {
       const id = item.id?.toString() || i.toString();
       await writeDoc(id, item);
     }
-  }
-  // Object JSON
-  else if (typeof data === "object") {
+  } else if (typeof data === "object") {
     for (const [key, value] of Object.entries(data)) {
       if (!key || key.trim() === "") continue;
       if (typeof value !== "object" || value === null) continue;
@@ -103,33 +99,7 @@ async function uploadCollection(collectionName, data) {
   console.log(`✅ Uploaded: ${collectionName}`);
 }
 
-// ===== 5. Load JSON files from repo root =====
-const dataDir = process.cwd();
-
-async function main() {
-  const files = fs.readdirSync(dataDir).filter(f => f.endsWith(".json"));
-
-  if (files.length === 0) {
-    throw new Error("No JSON files found in repository root");
-  }
-
-  for (const file of files) {
-    const name = file.replace(".json", "");
-    const content = JSON.parse(
-      fs.readFileSync(path.join(dataDir, file), "utf8")
-    );
-
-    await uploadCollection(name, content);
-  }
-
-  console.log("🎉 Firestore sync completed successfully");
-}
-
-main().catch(err => {
-  console.error("🔥 Sync failed:", err);
-  process.exit(1);
-});
-
+// ===== 5. Upload folder JSON files as collection =====
 async function uploadFolderAsCollection(folderName) {
   const folderPath = path.join(process.cwd(), folderName);
 
@@ -152,3 +122,37 @@ async function uploadFolderAsCollection(folderName) {
     });
   }
 }
+
+// ===== 6. Main =====
+async function main() {
+  // Root JSON files
+  const rootFiles = fs
+    .readdirSync(process.cwd())
+    .filter(f => f.endsWith(".json"));
+
+  for (const file of rootFiles) {
+    if (["package.json", "package-lock.json"].includes(file)) continue;
+
+    const name = file.replace(".json", "");
+    const content = JSON.parse(
+      fs.readFileSync(path.join(process.cwd(), file), "utf8")
+    );
+
+    await uploadCollection(name, content);
+  }
+
+  // Folder-based collections
+  const folders = ["items", "quests", "hideout", "map-events"];
+
+  for (const folder of folders) {
+    await uploadFolderAsCollection(folder);
+  }
+
+  console.log("🎉 Firestore sync completed successfully");
+}
+
+// ===== 7. Run =====
+main().catch(err => {
+  console.error("🔥 Sync failed:", err);
+  process.exit(1);
+});

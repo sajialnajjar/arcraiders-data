@@ -1,6 +1,7 @@
 {
   "id": "bettina_ii",
   "name": {
+    "ar": "بيتينا II",
     "da": "Bettina II",
     "de": "Bettina II",
     "en": "Bettina II",
@@ -23,6 +24,7 @@
     "zh-TW": "Bettina II"
   },
   "description": {
+    "ar": "لديه معدل إطلاق نار بطيء وإخراج ضرر عالي.",
     "da": "Har lav skudfrekvens og høj skadeeffekt.",
     "de": "Hat eine langsame Feuerrate und hohen Schadensausstoß.",
     "en": "Has slow fire rate and high damage output.",
@@ -52,6 +54,7 @@
   "effects": {
     "Ammo Type": {
       "value": "Heavy Ammo",
+      "ar": "نوع الذخيرة",
       "da": "Ammunitionstype",
       "de": "Munitionstyp",
       "en": "Ammo Type",
@@ -75,6 +78,7 @@
     },
     "ARC Armor Penetration": {
       "value": "Strong",
+      "ar": "اختراق دروع ARC",
       "da": "ARC-rustningspenetrering",
       "de": "ARC-Rüstungsdurchdringung",
       "en": "ARC Armor Penetration",
@@ -98,6 +102,7 @@
     },
     "Durability": {
       "value": "110/110",
+      "ar": "التحمل",
       "da": "Holdbarhed",
       "de": "Haltbarkeit",
       "en": "Durability",
@@ -121,6 +126,7 @@
     },
     "Firing Mode": {
       "value": "Fully-Automatic",
+      "ar": "وضع الإطلاق",
       "da": "Skydningstilstand",
       "de": "Feuermodus",
       "en": "Firing Mode",
@@ -144,6 +150,7 @@
     },
     "Increased Fire Rate": {
       "value": "5%",
+      "ar": "زيادة معدل الإطلاق",
       "da": "Øget skudhastighed",
       "de": "Erhöhte Feuerrate",
       "en": "Increased Fire Rate",
@@ -167,6 +174,7 @@
     },
     "Magazine Size": {
       "value": 20,
+      "ar": "حجم المخزن",
       "da": "Magasinstørrelse",
       "de": "Magazingröße",
       "en": "Magazine Size",
@@ -190,6 +198,7 @@
     },
     "Reduced Reload Time": {
       "value": "11.1%",
+      "ar": "تقليل وقت إعادة التحميل",
       "da": "Reduceret genindlæsningstid",
       "de": "Verringerte Nachladezeit",
       "en": "Reduced Reload Time",

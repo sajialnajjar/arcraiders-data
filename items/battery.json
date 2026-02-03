@@ -1,6 +1,7 @@
 {
   "id": "battery",
   "name": {
+    "ar": "بطارية",
     "da": "Batteri",
     "de": "Akku",
     "en": "Battery",
@@ -23,6 +24,7 @@
     "zh-TW": "電池"
   },
   "description": {
+    "ar": "تستخدم لصناعة مجموعة واسعة من العناصر. يمكن إعادة تدويرها إلى خردة معدنية. تستخدم لصناعة: مشبك الطاقة، درع متوسط، لغم الصدمة",
     "da": "Bruges til at lave en bred vifte af genstande. Kan genbruges til skrotmetal. Bruges til at lave: Energiklip, Mellemstort skjold, Stødmine",
     "de": "Wird zur Herstellung verschiedenster Gegenstände verwendet. Kann zu Metallschrott recycelt werden. Zur Herstellung von: Energieclip, Mittlerer Schild, Schockmine",
     "en": "Used to craft a wide range of items. Can be recycled into scrap metal. Used to craft: Energy Clip, Medium Shield, Jolt Mine",

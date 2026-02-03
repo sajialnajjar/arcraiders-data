@@ -1,6 +1,7 @@
 {
   "id": "buried_city_town_hall_key",
   "name": {
+    "ar": "مفتاح مبنى بلدية المدينة المدفونة",
     "da": "Begravet by rådhus-nøgle",
     "de": "Rathausschlüssel (Begrabene Stadt)",
     "en": "Buried City Town Hall Key",
@@ -23,6 +24,7 @@
     "zh-TW": "埋沒之城市政廳鑰匙"
   },
   "description": {
+    "ar": "يفتح الباب لمبنى البلدية في المدينة المدفونة.",
     "da": "Låser døren op til rådhuset i den begravede by",
     "de": "Öffnet die Tür zum Rathaus in der Begrabenen Stadt",
     "en": "Unlocks the door to the Town Hall in Buried City",

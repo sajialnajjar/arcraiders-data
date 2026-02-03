@@ -1,6 +1,7 @@
 {
   "id": "arc_motion_core",
   "name": {
+    "ar": "نواة حركة ARC",
     "da": "ARC-bevægelseskerne",
     "de": "ARC-Bewegungskern",
     "en": "ARC Motion Core",
@@ -23,6 +24,7 @@
     "zh-TW": "ARC動力核心"
   },
   "description": {
+    "ar": "يتم الحصول عليها من أعداء ARC أو من الأنشطة. تستخدم لصناعة المكونات. يمكن إعادة تدويرها إلى سبيكة ARC. تستخدم لصناعة: المسرع المغناطيسي",
     "da": "Opnået fra ARC-fjender eller aktiviteter. Bruges til at lave komponenter. Kan genbruges til ARC-legering. Bruges til at lave: Magnetisk accelerator",
     "de": "Erhältlich von ARC-Gegnern oder durch Aktivitäten. Wird zur Herstellung von Komponenten verwendet. Kann zu ARC-Legierung recycelt werden. Zur Herstellung von: Werfermunition, Wolfpack, Magnetischer Beschleuniger",
     "en": "Obtained from ARC enemies or activities. Used to craft components. Can be recycled into ARC Alloy. Used to craft: Magnetic Accelerator",

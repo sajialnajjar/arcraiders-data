@@ -1,6 +1,7 @@
 {
   "id": "blue_gate_cellar_key",
   "name": {
+    "ar": "مفتاح قبو البوابة الزرقاء",
     "da": "Blå port kælder-nøgle",
     "de": "Blauer Tor Kellerschlüssel",
     "en": "Blue Gate Cellar Key",
@@ -23,6 +24,7 @@
     "zh-TW": "藍門地窖鑰匙"
   },
   "description": {
+    "ar": "مفتاح للقبو في البوابة الزرقاء.",
     "da": "En nøgle til kælderen i Blå port.",
     "de": "Ein Schlüssel zum Keller im Blauen Tor.",
     "en": "A key to the cellar in Blue Gate.",

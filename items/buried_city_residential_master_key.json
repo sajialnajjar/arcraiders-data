@@ -1,6 +1,7 @@
 {
   "id": "buried_city_residential_master_key",
   "name": {
+    "ar": "المفتاح الرئيسي السكني للمدينة المدفونة",
     "da": "Begravet by boligområde hovednøgle",
     "de": "Vergrabene Stadt Wohngebiet-Hauptschlüssel",
     "en": "Buried City Residential Master Key",
@@ -23,6 +24,7 @@
     "zh-TW": "埋沒之城住宅區萬能鑰匙"
   },
   "description": {
+    "ar": "مفتاح رئيسي للمناطق السكنية في المدينة المدفونة.",
     "da": "En hovednøgle til boligområder i den begravede by.",
     "de": "Ein Hauptschlüssel für Wohngebiete in der vergrabenen Stadt.",
     "en": "A master key for residential areas in Buried City.",

@@ -1,6 +1,7 @@
 {
   "id": "barricade_kit_blueprint",
   "name": {
+    "ar": "مخطط عدة المتراس",
     "da": "Barrikade-sæt-tegning",
     "de": "Bauplan: Barrikadenset",
     "en": "Barricade Kit Blueprint",
@@ -23,6 +24,7 @@
     "zh-TW": "路障套組藍圖"
   },
   "description": {
+    "ar": "غطاء قابل للنشر يمكنه صد الضرر القادم حتى ينكسر.",
     "da": "En udplaceringsdækning, der kan blokere indgående skade, indtil den går i stykker.",
     "de": "Eine einsetzbare Deckung, die Schaden abfängt, bis sie zerstört wird.",
     "en": "A deployable cover that can block incoming damage until it breaks.",

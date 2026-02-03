@@ -1,6 +1,7 @@
 {
   "id": "bicycle_pump",
   "name": {
+    "ar": "مضخة دراجة",
     "da": "Cykelpumpe",
     "de": "Fahrradpumpe",
     "en": "Bicycle Pump",
@@ -23,6 +24,7 @@
     "zh-TW": "腳踏車打氣筒"
   },
   "description": {
+    "ar": "يمكن إعادة تدويره إلى مواد حرفية.",
     "da": "Kan genbruges til håndværksmaterialer.",
     "de": "Kann zu Herstellungsmaterialien recycelt werden.",
     "en": "Can be recycled into crafting materials.",

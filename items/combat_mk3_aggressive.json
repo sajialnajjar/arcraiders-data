@@ -1,6 +1,7 @@
 {
   "id": "combat_mk3_aggressive",
   "name": {
+    "ar": "قتال Mk. 3 (هجومي)",
     "da": "Kamp Mk. 3 (Aggressiv)",
     "de": "Kampf-Marke 3 (Aggressiv)",
     "en": "Combat Mk. 3 (Aggressive)",
@@ -23,6 +24,7 @@
     "zh-TW": "戰鬥 Mk. 3（進攻型）"
   },
   "description": {
+    "ar": "نسخة محسنة من تعزيز قتال II. يدعم أنواع دروع أكثر، ويأتي مع مساحة إضافية للقنابل.",
     "da": "En forbedret version af Kamp II-forstærkningen. Understøtter flere skjoldtyper og kommer med ekstra plads til granater.",
     "de": "Eine verbesserte Version des Kampf II-Augments. Unterstützt mehr Schildtypen und bietet zusätzlichen Platz für Granaten.",
     "en": "An improved version of the Combat II augment. Supports more shield types, and comes with extra space for grenades.",
@@ -53,6 +55,7 @@
   "effects": {
     "Backpack Slots": {
       "value": 18,
+      "ar": "فتحات حقيبة الظهر",
       "da": "Rygsækpladser",
       "de": "Rucksackplätze",
       "en": "Backpack Slots",
@@ -76,6 +79,7 @@
     },
     "Grenade Use Slots": {
       "value": 2,
+      "ar": "فتحات استخدام القنابل",
       "da": "Granatbrugspladser",
       "de": "Granaten-Nutzungsplätze",
       "en": "Grenade Use Slots",
@@ -99,6 +103,7 @@
     },
     "Health Regeneration": {
       "value": "Restores 2 health every 5 seconds. When damage is taken the effect is paused for 30 seconds.",
+      "ar": "تجديد الصحة",
       "da": "Sundhedsregenerering",
       "de": "Gesundheitsregeneration",
       "en": "Health Regeneration",
@@ -122,6 +127,7 @@
     },
     "Quick Use Slots": {
       "value": 4,
+      "ar": "فتحات استخدام سريع",
       "da": "Hurtigbrugspladser",
       "de": "Schnellzugriffsplätze",
       "en": "Quick Use Slots",
@@ -145,6 +151,7 @@
     },
     "Safe Pocket Slots": {
       "value": 1,
+      "ar": "فتحات الجيب الآمن",
       "da": "Sikre Lommepladser",
       "de": "Sichere Taschenplätze",
       "en": "Safe Pocket Slots",
@@ -168,6 +175,7 @@
     },
     "Shield Compatibility": {
       "value": "Light, Medium, Heavy",
+      "ar": "توافق الدرع",
       "da": "Skjoldkompatibilitet",
       "de": "Schildkompatibilität",
       "en": "Shield Compatibility",
@@ -191,6 +199,7 @@
     },
     "Weapon Slots": {
       "value": 2,
+      "ar": "فتحات الأسلحة",
       "da": "Våbenpladser",
       "de": "Waffenplätze",
       "en": "Weapon Slots",
@@ -214,6 +223,7 @@
     },
     "Weight Limit": {
       "value": 65,
+      "ar": "حد الوزن",
       "da": "Vægtgrænse",
       "de": "Gewichtslimit",
       "en": "Weight Limit",

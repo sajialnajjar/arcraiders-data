@@ -1,6 +1,7 @@
 {
   "id": "binoculars",
   "name": {
+    "ar": "منظار",
     "da": "Kikkert",
     "de": "Fernglas",
     "en": "Binoculars",
@@ -23,6 +24,7 @@
     "zh-TW": "雙筒望遠鏡"
   },
   "description": {
+    "ar": "زوج أساسي من المناظير بمستويين من التكبير.",
     "da": "Et grundlæggende par kikkerter med to forstørrelsesniveauer.",
     "de": "Ein einfaches Fernglas mit zwei Vergrößerungsstufen.",
     "en": "A basic pair of binoculars with two levels of magnification.",
@@ -51,6 +53,7 @@
   "effects": {
     "Durability": {
       "value": "100/100",
+      "ar": "المتانة",
       "da": "Holdbarhed",
       "de": "Haltbarkeit",
       "en": "Durability",

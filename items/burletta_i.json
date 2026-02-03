@@ -1,6 +1,7 @@
 {
   "id": "burletta_i",
   "name": {
+    "ar": "بورليتا I",
     "da": "Burletta I",
     "de": "Burletta I",
     "en": "Burletta I",
@@ -23,6 +24,7 @@
     "zh-TW": "布雷塔 I"
   },
   "description": {
+    "ar": "مسدس نصف آلي ذو ضرر ودقة جيدين. يمكن إطلاقه بالسرعة التي يمكنك بها سحب الزناد.",
     "da": "Halvautomatisk pistol med anstændig skade og præcision. Kan affyres så hurtigt som du kan trække i aftrækkeren.",
     "de": "Verursacht ordentlichen Schaden bei annehmbarer Genauigkeit.",
     "en": "Semi-automatic pistol with decent damage output and accuracy. Can be fired as fast as you can pull the trigger.",
@@ -52,6 +54,7 @@
   "effects": {
     "Ammo Type": {
       "value": "Light Ammo",
+      "ar": "نوع الذخيرة",
       "da": "Ammunitionstype",
       "de": "Munitionstyp",
       "en": "Ammo Type",
@@ -75,6 +78,7 @@
     },
     "ARC Armor Penetration": {
       "value": "Very Weak",
+      "ar": "اختراق دروع ARC",
       "da": "ARC-rustningspenetration",
       "de": "ARC-Panzerungsdurchdringung",
       "en": "ARC Armor Penetration",
@@ -98,6 +102,7 @@
     },
     "Durability": {
       "value": "100/100",
+      "ar": "التحمل",
       "da": "Holdbarhed",
       "de": "Haltbarkeit",
       "en": "Durability",
@@ -121,6 +126,7 @@
     },
     "Firing Mode": {
       "value": "Semi-Automatic",
+      "ar": "وضع الإطلاق",
       "da": "Skydningstilstand",
       "de": "Feuermodus",
       "en": "Firing Mode",
@@ -144,6 +150,7 @@
     },
     "Magazine Size": {
       "value": 12,
+      "ar": "حجم المخزن",
       "da": "Magasinstørrelse",
       "de": "Magazingröße",
       "en": "Magazine Size",

@@ -1,6 +1,7 @@
 {
   "id": "anvil_blueprint",
   "name": {
+    "ar": "مخطط سندان",
     "da": "Anvil-tegning",
     "de": "Bauplan: Anvil",
     "en": "Anvil Blueprint",
@@ -23,6 +24,7 @@
     "zh-TW": "鐵砧藍圖"
   },
   "description": {
+    "ar": "مدفع يدوي أحادي الحركة ذو ضرر عالٍ وضرر رأس كبير، لكن تحكمه بطيء.",
     "da": "Har høj skadeeffekt og hovedskudsskade, men langsom håndtering.",
     "de": "Hat hohen Schadensausstoß und Kopfschussschaden, aber langsame Handhabung.",
     "en": "Has high damage output and headshot damage, but slow handling.",

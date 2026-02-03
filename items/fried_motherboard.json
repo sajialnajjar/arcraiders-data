@@ -1,6 +1,7 @@
 {
   "id": "fried_motherboard",
   "name": {
+    "ar": "لوحة أم محترقة",
     "da": "Stegt bundkort",
     "de": "Durchgebranntes Motherboard",
     "en": "Fried Motherboard",
@@ -23,6 +24,7 @@
     "zh-TW": "燒毀的主機板"
   },
   "description": {
+    "ar": "يمكن إعادة تدويره إلى مواد تصنيع.",
     "da": "Kan genbruges til håndværksmaterialer.",
     "de": "Kann zu Herstellungsmaterialien recycelt werden.",
     "en": "Can be recycled into crafting materials.",

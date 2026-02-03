@@ -1,6 +1,7 @@
 {
   "id": "burgerboy",
   "name": {
+    "ar": "برجر بوي",
     "da": "Burgerboy",
     "de": "Burgerboy",
     "en": "Burgerboy",
@@ -23,6 +24,7 @@
     "zh-TW": "漢堡男孩"
   },
   "description": {
+    "ar": "سيتم إضافة عنصر تجميلي جديد إلى مجموعتك.",
     "da": "Et nyt kosmetisk element vil blive tilføjet til din samling.",
     "de": "Ein neues Kosmetikitem wird deiner Sammlung hinzugefügt.",
     "en": "A new cosmetic will be added to your collection.",

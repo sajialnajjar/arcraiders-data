@@ -1,6 +1,7 @@
 {
   "id": "broken_handheld_radio",
   "name": {
+    "ar": "راديو محمول مكسور",
     "da": "Ødelagt håndholdt radio",
     "de": "Kaputtes Miniaturradio",
     "en": "Broken Handheld Radio",
@@ -23,6 +24,7 @@
     "zh-TW": "損壞的手持無線電"
   },
   "description": {
+    "ar": "يمكن إعادة تدويره إلى مواد حرفية.",
     "da": "Kan genbruges til håndværksmaterialer.",
     "de": "Kann zu Herstellungsmaterialien recycelt werden.",
     "en": "Can be recycled into crafting materials.",

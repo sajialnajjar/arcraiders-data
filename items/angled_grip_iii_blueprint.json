@@ -1,6 +1,7 @@
 {
   "id": "angled_grip_iii_blueprint",
   "name": {
+    "ar": "مخطط مقبض زاوي III",
     "da": "Vinklet greb III-tegning",
     "de": "Bauplan: Abgewinkelter Griff III",
     "en": "Angled Grip III Blueprint",
@@ -23,6 +24,7 @@
     "zh-TW": "斜角握把 III 藍圖"
   },
   "description": {
+    "ar": "يقلل بشكل كبير من الارتداد الأفقي.",
     "da": "Reducerer betydeligt horisontal rekyl. Kompatibel med: Arpeggio, Ferro, Venator, Il Toro, Stitcher",
     "de": "Verringert den horizontalen Ruckstoß erheblich. Kompatibel mit: Arpeggio, Ferro, Venator, Il Toro, Stitcher",
     "en": "Significantly reduces horizontal recoil. Compatible with: Arpeggio, Ferro, Venator, Il Toro, Stitcher",

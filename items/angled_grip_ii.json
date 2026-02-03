@@ -1,6 +1,7 @@
 {
   "id": "angled_grip_ii",
   "name": {
+    "ar": "مقبض زاوي II",
     "da": "Vinklet greb II",
     "de": "Abgewinkelter Griff II",
     "en": "Angled Grip II",
@@ -23,6 +24,7 @@
     "zh-TW": "斜角握把 II"
   },
   "description": {
+    "ar": "يقلل بشكل معتدل من الارتداد الأفقي.",
     "da": "Reducerer horisontalt rekyl moderat. Kompatibel med: Arpeggio, Ferro, Il Toro, Stitcher",
     "de": "Verringert den horizontalen Rückstoß moderat. Kompatibel mit: Arpeggio, Rattler, Kettle, Ferro, Venator",
     "en": "Moderately reduces horizontal recoil. Compatible with: Arpeggio, Ferro, Il Toro, Stitcher",
@@ -48,10 +50,17 @@
   "rarity": "Uncommon",
   "value": 2000,
   "weightKg": 0.5,
-  "compatibleWith": ["Arpeggio", "Rattler", "Kettle", "Il Toro", "Stitcher"],
+  "compatibleWith": [
+    "Arpeggio",
+    "Rattler",
+    "Kettle",
+    "Il Toro",
+    "Stitcher"
+  ],
   "blueprintLocked": true,
   "effects": {
     "Reduced Horizontal Recoil": {
+      "ar": "ارتداد أفقي مخفض",
       "value": "30%",
       "da": "Reduceret horisontalt rekyl",
       "de": "Verringerter horizontaler Rückstoß",

@@ -1,6 +1,7 @@
 {
   "id": "aphelion_blueprint",
   "name": {
+    "ar": "مخطط أفليون",
     "da": "Aphelion-tegning",
     "de": "Bauplan: Aphelion",
     "en": "Aphelion Blueprint",
@@ -23,6 +24,7 @@
     "zh-TW": "遠日點藍圖"
   },
   "description": {
+    "ar": "سلاح شعاع ARC تجريبي يعمل بمفاعل Matriarch.",
     "da": "Et eksperimentelt ARC-stralevaben drevet af en Matriarch-reaktor.",
     "de": "Eine experimentelle ARC-Strahlenwaffe, angetrieben von einem Matriarch-Reaktor.",
     "en": "An experimental ARC beam weapon powered by a Matriarch Reactor.",

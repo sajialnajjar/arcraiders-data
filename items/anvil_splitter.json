@@ -1,6 +1,7 @@
 {
   "id": "anvil_splitter",
   "name": {
+    "ar": "مقسم السندان",
     "da": "Anvil-splitter",
     "de": "Amboss-Spalter",
     "en": "Anvil Splitter",
@@ -23,6 +24,7 @@
     "zh-TW": "鐵砧分裂器"
   },
   "description": {
+    "ar": "تعديل تقني للسندان يستبدل رصاصاته بأخرى تنقسم إلى 4 مقذوفات أضعف.",
     "da": "Teknisk modifikation til Anvil, der erstatter dens kugler med nogle, der deler sig i 4 svagere projektiler.",
     "de": "Technische Modifikation für den Amboss, die seine Kugeln durch solche ersetzt, die sich in 4 schwächere Projektile aufteilen.",
     "en": "Tech mod for the Anvil that replaces its bullets with ones that split into 4 weaker projectiles.",
@@ -50,6 +52,7 @@
   "weightKg": 0.5,
   "effects": {
     "Projectiles Per Shot": {
+      "ar": "مقذوفات لكل طلقة",
       "value": "+3",
       "da": "Projektiler per skud",
       "de": "Projektile pro Schuss",
@@ -73,6 +76,7 @@
       "zh-TW": "每次射擊彈體數"
     },
     "Reduced Projectile Damage": {
+      "ar": "ضرر مقذوف منخفض",
       "value": "70%",
       "da": "Reduceret projektilskade",
       "de": "Reduzierter Projektilschaden",

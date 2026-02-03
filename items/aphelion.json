@@ -1,6 +1,7 @@
 {
   "id": "aphelion",
   "name": {
+    "ar": "أفليون",
     "da": "Aphelion",
     "de": "Aphelion",
     "en": "Aphelion",
@@ -23,6 +24,7 @@
     "zh-TW": "遠日點"
   },
   "description": {
+    "ar": "سلاح شعاع ARC تجريبي يعمل بمفاعل Matriarch.",
     "da": "Et eksperimentelt ARC-stralevaben drevet af en Matriarch-reaktor.",
     "de": "Eine experimentelle ARC-Strahlenwaffe, angetrieben von einem Matriarch-Reaktor.",
     "en": "An experimental ARC beam weapon powered by a Matriarch Reactor.",
@@ -52,6 +54,7 @@
   "blueprintLocked": true,
   "effects": {
     "Ammo Type": {
+      "ar": "نوع الذخيرة",
       "value": "Energy Clip",
       "da": "Ammunitionstype",
       "de": "Munitionstyp",
@@ -75,6 +78,7 @@
       "zh-TW": "彈藥類型"
     },
     "ARC Armor Penetration": {
+      "ar": "اختراق درع ARC",
       "value": "Very Strong",
       "da": "ARC rustningspenetrering",
       "de": "ARC-Rustungsdurchdringung",
@@ -98,6 +102,7 @@
       "zh-TW": "ARC 裝甲穿透"
     },
     "Durability": {
+      "ar": "المتانة",
       "value": "100/100",
       "da": "Holdbarhed",
       "de": "Haltbarkeit",
@@ -121,6 +126,7 @@
       "zh-TW": "耐久度"
     },
     "Firing Mode": {
+      "ar": "وضع الإطلاق",
       "value": "Fully-Automatic",
       "da": "Skydetilstand",
       "de": "Feuermodus",

@@ -1,6 +1,7 @@
 {
   "id": "burletta_iii",
   "name": {
+    "ar": "بورليتا III",
     "da": "Burletta III",
     "de": "Burletta III",
     "en": "Burletta III",
@@ -23,6 +24,7 @@
     "zh-TW": "布雷塔 III"
   },
   "description": {
+    "ar": "مسدس نصف آلي ذو ضرر ودقة جيدين. يمكن إطلاقه بالسرعة التي يمكنك بها سحب الزناد.",
     "da": "Halvautomatisk pistol med anstændig skade og præcision. Kan affyres så hurtigt som du kan trække i aftrækkeren.",
     "de": "Verursacht ordentlichen Schaden bei annehmbarer Genauigkeit.",
     "en": "Semi-automatic pistol with decent damage output and accuracy. Can be fired as fast as you can pull the trigger.",

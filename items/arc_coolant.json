@@ -1,6 +1,7 @@
 {
   "id": "arc_coolant",
   "name": {
+    "ar": "مبرد ARC",
     "da": "ARC-kølevæske",
     "de": "ARC-Kühlmittel",
     "en": "ARC Coolant",
@@ -23,6 +24,7 @@
     "zh-TW": "ARC冷卻劑"
   },
   "description": {
+    "ar": "يتم الحصول عليها من أعداء ARC أو من الأنشطة. يمكن إعادة تدويرها إلى مواد كيميائية.",
     "da": "Opnået fra ARC-fjender eller aktiviteter. Kan genbruges til kemikalier.",
     "de": "Kann zu Herstellungsmaterialien recycelt werden.",
     "en": "Obtained from ARC enemies or activities. Can be recycled into chemicals.",

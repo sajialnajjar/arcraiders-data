@@ -1,6 +1,7 @@
 {
   "id": "combat_mk2",
   "name": {
+    "ar": "قتال Mk. 2",
     "da": "Kamp Mk. 2",
     "de": "Kampf-Marke 2",
     "en": "Combat Mk. 2",
@@ -23,6 +24,7 @@
     "zh-TW": "戰鬥型 Mk. 2"
   },
   "description": {
+    "ar": "تعزيز قتالي يركز أكثر على المناورة من امتصاص الضرر.",
     "da": "En kampforstærkning mere fokuseret på manøvredygtighed end at absorbere skade.",
     "de": "Ein Kampf-Augment, dessen Fokus mehr auf Manövrierfähigkeit und weniger auf Schadensabsorption liegt.",
     "en": "A Combat augment more focused on maneuverability than absorbing damage.",
@@ -75,6 +77,7 @@
     },
     "Max Loadout Weight": {
       "value": 55,
+      "ar": "الحد الأقصى لوزن العتاد",
       "da": "Maks. udstyrsvægt",
       "de": "Max. Loadout-Gewicht",
       "en": "Max Loadout Weight",
@@ -98,6 +101,7 @@
     },
     "Restores": {
       "value": "1 health every 5 seconds. When damage is taken, the effect is paused for 30 seconds.",
+      "ar": "يستعيد",
       "da": "Gendanner",
       "de": "Stellt wieder her",
       "en": "Restores",
@@ -121,6 +125,7 @@
     },
     "Shield Compatibility": {
       "value": "Light, Medium, Heavy",
+      "ar": "توافق الدرع",
       "da": "Skjoldkompatibilitet",
       "de": "Schildkompatibilität",
       "en": "Shield Compatibility",

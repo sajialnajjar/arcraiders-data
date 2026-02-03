@@ -1,6 +1,7 @@
 {
   "id": "arc_circuitry",
   "name": {
+    "ar": "دوائر ARC",
     "da": "ARC-kredsløb",
     "de": "ARC-Schaltkreise",
     "en": "ARC Circuitry",
@@ -23,6 +24,7 @@
     "zh-TW": "ARC電路"
   },
   "description": {
+    "ar": "يتم الحصول عليها من أعداء ARC أو من الأنشطة. تستخدم لصناعة المكونات. يمكن إعادة تدويرها إلى سبيكة ARC. تستخدم لصناعة: درع متوسط، عصا الطاقة",
     "da": "Opnået fra ARC-fjender eller aktiviteter. Bruges til at lave komponenter. Kan genbruges til ARC-legering. Bruges til at lave: Mellemstort skjold, Kraftstav",
     "de": "Erhältlich von ARC-Gegnern oder durch Aktivitäten. Wird zur Herstellung von Komponenten verwendet. Kann zu ARC-Legierung recycelt werden. Zur Herstellung von: Mittlerer Schild, Deadline, Energiestab",
     "en": "Obtained from ARC enemies or activities. Used to craft components. Can be recycled into ARC Alloy. Used to craft: Medium Shield, Power Rod",

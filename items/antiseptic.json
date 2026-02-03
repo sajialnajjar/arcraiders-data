@@ -1,6 +1,7 @@
 {
   "id": "antiseptic",
   "name": {
+    "ar": "مطهر",
     "da": "Antiseptisk middel",
     "de": "Desinfektionsmittel",
     "en": "Antiseptic",
@@ -23,6 +24,7 @@
     "zh-TW": "防腐劑"
   },
   "description": {
+    "ar": "يستخدم لصناعة المستلزمات الطبية. يمكن إعادة تدويره إلى مواد كيميائية.",
     "da": "Bruges til at lave medicinske forsyninger. Kan genbruges til kemikalier. Bruges til at lave: Steriliseret bandage, Vita-spray, Vita-indsprøjtning",
     "de": "Wird zur Herstellung medizinischer Objekte verwendet. Kann zu Chemikalien recycelt werden. Zur Herstellung von: Steriler Verband, Vita-Spray, Vita-Spritze",
     "en": "Used to craft medical supplies. Can be recycled into chemicals. Used to craft: Sterilized Bandage, Vita Spray, Vita Shot",

@@ -1,6 +1,7 @@
 {
   "id": "apricot",
   "name": {
+    "ar": "مشمش",
     "da": "Abrikos",
     "de": "Aprikose",
     "en": "Apricot",
@@ -23,6 +24,7 @@
     "zh-TW": "杏桃"
   },
   "description": {
+    "ar": "مشمش ناضج بالشمس. يمكن تناوله للحصول على كمية صغيرة من القدرة على التحمل.",
     "da": "En solmoden abrikos. Kan indtages for en lille mængde udholdenhed.",
     "de": "Eine sonnengereifte Aprikose. Kann zum Gewinn einer kleinen Menge Ausdauer verzehrt werden.",
     "en": "A sun ripe apricot. Can be consumed for a small amount of stamina.",
@@ -52,6 +54,7 @@
   "stackSize": 10,
   "effects": {
     "Stamina": {
+      "ar": "القدرة على التحمل",
       "value": 20,
       "da": "Udholdenhed",
       "de": "Ausdauer",
@@ -75,6 +78,7 @@
       "zh-TW": "耐力"
     },
     "Use Time": {
+      "ar": "وقت الاستخدام",
       "value": "1s",
       "da": "Brugstid",
       "de": "Verwendungszeit",

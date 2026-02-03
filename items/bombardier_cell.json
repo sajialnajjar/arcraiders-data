@@ -1,6 +1,7 @@
 {
   "id": "bombardier_cell",
   "name": {
+    "ar": "خلية القاصف",
     "da": "Bombardør-celle",
     "de": "Kanonierzelle",
     "en": "Bombardier Cell",
@@ -23,6 +24,7 @@
     "zh-TW": "轟炸者電池"
   },
   "description": {
+    "ar": "يمكن إعادة تدويره إلى مواد حرفية.",
     "da": "Kan genbruges til håndværksmaterialer.",
     "de": "Kann zu Herstellungsmaterialien recycelt werden.",
     "en": "Can be recycled into crafting materials.",

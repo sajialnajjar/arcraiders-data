@@ -1,6 +1,7 @@
 {
   "id": "bloated_tuna_can",
   "name": {
+    "ar": "علبة تونة منتفخة",
     "da": "Oppustet tunfiskdåse",
     "de": "Aufgeblähte Thunfischdose",
     "en": "Bloated Tuna Can",
@@ -23,6 +24,7 @@
     "zh-TW": "膨脹的鮪魚罐頭"
   },
   "description": {
+    "ar": "شيء ما يخبرك أنك لا تريد فتح هذا... يمكن (على مضض) استهلاكه لاستعادة كميات صغيرة من القدرة على التحمل.",
     "da": "Noget fortæller dig, at du ikke vil åbne dette... Kan (modvilligt) indtages for at genoprette små mængder udholdenhed.",
     "de": "Etwas sagt dir, dass du das nicht öffnen willst... Kann (widerwillig) konsumiert werden, um kleine Mengen Ausdauer wiederherzustellen.",
     "en": "Something tells you that you don't want to open this... Can (reluctantly) be consumed to restore small amounts of stamina.",
@@ -53,6 +55,7 @@
   "effects": {
     "Stamina": {
       "value": 25,
+      "ar": "التحمل",
       "da": "Udholdenhed",
       "de": "Ausdauer",
       "en": "Stamina",
@@ -76,6 +79,7 @@
     },
     "Use Time": {
       "value": "1s",
+      "ar": "وقت الاستخدام",
       "da": "Brugstid",
       "de": "Verwendungszeit",
       "en": "Use Time",

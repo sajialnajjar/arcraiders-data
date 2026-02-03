@@ -1,6 +1,7 @@
 {
   "id": "bettina_blueprint",
   "name": {
+    "ar": "مخطط بيتينا",
     "da": "Bettina-tegning",
     "de": "Bauplan: Bettina",
     "en": "Bettina Blueprint",
@@ -23,6 +24,7 @@
     "zh-TW": "貝蒂娜藍圖"
   },
   "description": {
+    "ar": "لديه معدل إطلاق نار بطيء وإخراج ضرر عالي.",
     "da": "Har lav skudhastighed og høj skadeproduktion.",
     "de": "Hat eine langsame Feuerrate und hohen Schadensausstoß.",
     "en": "Has slow fire rate and high damage output.",

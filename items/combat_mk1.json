@@ -1,6 +1,7 @@
 {
   "id": "combat_mk1",
   "name": {
+    "ar": "قتال Mk. 1",
     "da": "Kamp Mk. 1",
     "de": "Kampf-Marke 1",
     "en": "Combat Mk. 1",
@@ -23,6 +24,7 @@
     "zh-TW": "戰鬥型 Mk. 1"
   },
   "description": {
+    "ar": "تعزيز قتالي أساسي. يدعم دروعًا أقوى، ولكن بسعة حقيبة ظهر محدودة وفتحات استخدام سريع محدودة.",
     "da": "Grundlæggende kampforstærkning. Understøtter stærkere skjolde, men med begrænset rygsækkapacitet og hurtigbrugspladser.",
     "de": "Basis-Kampf-Augment. Unterstützt stärkere Schilde, schränkt aber die Rucksackkapazität und die Schnelleinsatz-Plätze ein.",
     "en": "Basic combat augment. Supports stronger shields, but with limited backpack capacity and Quick Use slots.",
@@ -75,6 +77,7 @@
     },
     "Max Loadout Weight": {
       "value": 45,
+      "ar": "الحد الأقصى لوزن العتاد",
       "da": "Maks. udstyrsvægt",
       "de": "Max. Loadout-Gewicht",
       "en": "Max Loadout Weight",
@@ -98,6 +101,7 @@
     },
     "Shield Compatibility": {
       "value": "Light, Medium",
+      "ar": "توافق الدرع",
       "da": "Skjoldkompatibilitet",
       "de": "Schildkompatibilität",
       "en": "Shield Compatibility",

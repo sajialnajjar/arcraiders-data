@@ -1,6 +1,7 @@
 {
   "id": "arc_alloy",
   "name": {
+    "ar": "سبيكة ARC",
     "da": "ARC-legering",
     "de": "ARC-Legierung",
     "en": "ARC Alloy",
@@ -23,6 +24,7 @@
     "zh-TW": "ARC合金"
   },
   "description": {
+    "ar": "يتم الحصول عليها من أعداء ARC أو من الأنشطة، أو عن طريق إعادة تدوير أجزاء ARC معينة. تستخدم لصناعة المكونات. تستخدم لصناعة: درع خفيف، نواة حركة ARC، دوائر ARC",
     "da": "Opnås fra ARC-fjender eller aktiviteter, eller ved at genbruge visse ARC-dele. Bruges til at lave komponenter. Bruges til at lave: Let skjold, ARC-bevægelseskerne, ARC-kredsløb",
     "de": "Erhältlich von ARC-Gegnern, durch Aktivitäten oder durch das Recyceln bestimmter ARC-Teile. Wird zur Herstellung von Komponenten verwendet. Zur Herstellung von: Leichter Schild, Suchgranate, ARC-Bewegungskern, ARC-Schaltkreise",
     "en": "Obtained from ARC enemies or activities, or by recycling certain ARC parts. Used to craft components. Used to craft: Light Shield, ARC Motion Core, ARC Circuitry",

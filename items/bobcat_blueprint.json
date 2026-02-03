@@ -1,6 +1,7 @@
 {
   "id": "bobcat_blueprint",
   "name": {
+    "ar": "مخطط بوبكات",
     "da": "Bobcat-tegning",
     "de": "Bauplan: Bobcat",
     "en": "Bobcat Blueprint",
@@ -23,6 +24,7 @@
     "zh-TW": "山貓藍圖"
   },
   "description": {
+    "ar": "SMG أوتوماتيكي بالكامل بمعدل إطلاق نار عالٍ ولكن دقة منخفضة.",
     "da": "Fuldautomatisk SMG med høj skudhastighed men lav præcision.",
     "de": "Vollautomatische MP mit hoher Feuerrate, aber geringer Genauigkeit.",
     "en": "Fully automatic SMG with high fire rate but low accuracy.",

@@ -1,6 +1,7 @@
 {
   "id": "breathtaking_snow_globe",
   "name": {
+    "ar": "كرة ثلجية مذهلة",
     "da": "Betagende snekugle",
     "de": "Entzückende Schneekugel",
     "en": "Breathtaking Snow Globe",
@@ -23,6 +24,7 @@
     "zh-TW": "令人驚嘆的雪球"
   },
   "description": {
+    "ar": "محط حسد كل سبيرانزي. دليل على أن هذا العالم كان يومًا ما مزدهرًا وساحرًا.",
     "da": "Misundelsen fra enhver Speranzan. Bevis på, at denne verden engang var blomstrende og magisk.",
     "de": "Darum würde dich jeder Speranzer beneiden. Ein Beweis dafür, dass diese Welt einst blühend und magisch war.",
     "en": "The envy of every Speranzan. Proof that this world was once thriving and magical.",

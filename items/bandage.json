@@ -1,6 +1,7 @@
 {
   "id": "bandage",
   "name": {
+    "ar": "ضمادة",
     "da": "Bandage",
     "de": "Verband",
     "en": "Bandage",
@@ -23,6 +24,7 @@
     "zh-TW": "繃帶"
   },
   "description": {
+    "ar": "عنصر طبي يعيد الصحة تدريجياً بمرور الوقت.",
     "da": "En medicinsk genstand der gradvist genopretter helbred over tid.",
     "de": "Ein medizinischer Gegenstand, der allmählich Gesundheit wiederherstellt.",
     "en": "A medical item that gradually restores health over time.",
@@ -52,6 +54,7 @@
   "effects": {
     "Duration": {
       "value": "10s",
+      "ar": "المدة",
       "da": "Varighed",
       "de": "Dauer",
       "en": "Duration",
@@ -75,6 +78,7 @@
     },
     "Healing": {
       "value": "2/s",
+      "ar": "الشفاء",
       "da": "Helbredelse",
       "de": "Heilen",
       "en": "Healing",
@@ -98,6 +102,7 @@
     },
     "Use Time": {
       "value": "1.5s",
+      "ar": "وقت الاستخدام",
       "da": "Brugstid",
       "de": "Verwendungszeit",
       "en": "Use Time",
@@ -120,7 +125,10 @@
       "zh-TW": "使用時間"
     }
   },
-  "craftBench": ["workbench", "med_station"],
+  "craftBench": [
+    "workbench",
+    "med_station"
+  ],
   "recipe": {
     "fabric": 5
   },

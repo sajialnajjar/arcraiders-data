@@ -1,6 +1,7 @@
 {
   "id": "burletta_blueprint",
   "name": {
+    "ar": "مخطط بورليتا",
     "da": "Burletta-tegning",
     "de": "Bauplan: Burletta",
     "en": "Burletta Blueprint",
@@ -23,6 +24,7 @@
     "zh-TW": "布雷塔藍圖"
   },
   "description": {
+    "ar": "مخطط لصناعة سلاح بورليتا.",
     "da": "En tegning til at fremstille Burletta-våbnet.",
     "de": "Verursacht ordentlichen Schaden bei annehmbarer Genauigkeit.",
     "en": "A blueprint to craft the Burletta weapon.",

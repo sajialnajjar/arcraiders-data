@@ -1,6 +1,7 @@
 {
   "id": "blaze_grenade_trap",
   "name": {
+    "ar": "فخ قنبلة حارقة",
     "da": "Flammegranatefælde",
     "de": "Laserfalle: Feuer",
     "en": "Blaze Grenade Trap",
@@ -23,6 +24,7 @@
     "zh-TW": "烈焰手榴彈陷阱"
   },
   "description": {
+    "ar": "سلك ليزر يفجر قنبلة حارقة.",
     "da": "En lasertråd der detonerer en flammegranat.",
     "de": "Ein Laser-Stolperdraht, der eine Flammengranate detonieren lässt.",
     "en": "A laser trip wire that detonates a Blaze Grenade.",
@@ -52,6 +54,7 @@
   "effects": {
     "Damage": {
       "value": "5/s",
+      "ar": "الضرر",
       "da": "Skade",
       "de": "Schaden",
       "en": "Damage",
@@ -75,6 +78,7 @@
     },
     "Duration": {
       "value": "10s",
+      "ar": "المدة",
       "da": "Varighed",
       "de": "Dauer",
       "en": "Duration",

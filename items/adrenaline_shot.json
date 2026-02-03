@@ -1,6 +1,7 @@
 {
   "id": "adrenaline_shot",
   "name": {
+    "ar": "حقنة أدرينالين",
     "da": "Adrenalin-indsprøjtning",
     "de": "Adrenalinspritze",
     "en": "Adrenaline Shot",
@@ -23,6 +24,7 @@
     "zh-TW": "腎上腺素注射劑"
   },
   "description": {
+    "ar": "مصل يستعيد القدرة على التحمل بالكامل ويزيد مؤقتًا من تجديد القدرة على التحمل.",
     "da": "Et serum, der fuldt ud gendanner udholdenhed og midlertidigt øger udholdenhedsregenerering.",
     "de": "Ein Serum, das deine Ausdauer vollständig wiederherstellt und deine Ausdauerregeneration vorübergehend erhöht.",
     "en": "A serum that fully restores stamina and temporarily increases stamina regeneration.",
@@ -51,6 +53,7 @@
   "stackSize": 5,
   "effects": {
     "Duration": {
+      "ar": "المدة",
       "value": "10s",
       "da": "Varighed",
       "de": "Dauer",
@@ -74,6 +77,7 @@
       "zh-TW": "持續時間"
     },
     "Stamina Regeneration": {
+      "ar": "تجديد القدرة على التحمل",
       "value": "5/s",
       "da": "Udholdenhedsregenerering",
       "de": "Ausdauerregeneration",
@@ -97,6 +101,7 @@
       "zh-TW": "耐力恢復"
     },
     "Use Time": {
+      "ar": "وقت الاستخدام",
       "value": "1s",
       "da": "Brugstid",
       "de": "Verwendungszeit",

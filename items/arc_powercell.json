@@ -1,6 +1,7 @@
 {
   "id": "arc_powercell",
   "name": {
+    "ar": "خلية طاقة ARC",
     "da": "ARC-kraftcelle",
     "de": "ARC-Energiezelle",
     "en": "ARC Powercell",
@@ -23,6 +24,7 @@
     "zh-TW": "ARC 能量電池"
   },
   "description": {
+    "ar": "مورد قيم يسقط من جميع أعداء ARC. يستخدم لصناعة: شاحن الدرع. يمكن استخدامه لإصلاح الدروع.",
     "da": "Værdifuld ressource, der falder fra alle ARC-fjender. Bruges til at lave: Skjoldoplader Kan bruges til at reparere skjolde.",
     "de": "Wertvolle Ressource, die von allen ARC-Gegnern fallengelassen wird. Zur Herstellung von: Schildauflader. Kann zur Reparatur von Schilden verwendet werden.",
     "en": "Valuable resource that drops from all ARC enemies. Used to craft: Shield Recharger Can be used to repair shields.",
@@ -53,6 +55,7 @@
   "effects": {
     "Duration": {
       "value": "10s",
+      "ar": "المدة",
       "da": "Varighed",
       "de": "Dauer",
       "en": "Duration",
@@ -76,6 +79,7 @@
     },
     "Recharge": {
       "value": "2/s",
+      "ar": "إعادة الشحن",
       "da": "Opladning",
       "de": "Aufladung",
       "en": "Recharge",
@@ -99,6 +103,7 @@
     },
     "Use Time": {
       "value": "3s",
+      "ar": "وقت الاستخدام",
       "da": "Brugstid",
       "de": "Verwendungszeit",
       "en": "Use Time",

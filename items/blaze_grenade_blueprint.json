@@ -1,6 +1,7 @@
 {
   "id": "blaze_grenade_blueprint",
   "name": {
+    "ar": "مخطط قنبلة حارقة",
     "da": "Flammegranate-tegning",
     "de": "Bauplan: Flammengranate",
     "en": "Blaze Grenade Blueprint",
@@ -23,6 +24,7 @@
     "zh-TW": "烈焰手榴彈藍圖"
   },
   "description": {
+    "ar": "قنبلة تنفجر عند الاصطدام، وتغطي منطقة بالنيران التي تلحق الضرر بمرور الوقت.",
     "da": "En granate, der detonerer ved sammenstød, dækker et område med ild, der forårsager skade over tid.",
     "de": "Eine Granate, die beim Aufprall explodiert und einen großen Bereich mit Feuer bedeckt, um Schaden über Zeit zu verursachen.",
     "en": "A grenade that detonates on impact, covering an area in fire that deals damage over time.",

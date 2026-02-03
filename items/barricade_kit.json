@@ -1,6 +1,7 @@
 {
   "id": "barricade_kit",
   "name": {
+    "ar": "عدة المتراس",
     "da": "Barrikade-sæt",
     "de": "Barrikadenset",
     "en": "Barricade Kit",
@@ -23,6 +24,7 @@
     "zh-TW": "路障套組"
   },
   "description": {
+    "ar": "غطاء قابل للنشر يمكنه صد الضرر القادم حتى ينكسر.",
     "da": "En udplaceringsdækning, der kan blokere indgående skade, indtil den går i stykker.",
     "de": "Eine einsetzbare Deckung, die Schaden abfängt, bis sie zerstört wird.",
     "en": "A deployable cover that can block incoming damage until it breaks.",
@@ -52,6 +54,7 @@
   "effects": {
     "Duration": {
       "value": "500 Health",
+      "ar": "المدة",
       "da": "Varighed",
       "de": "Dauer",
       "en": "Duration",
@@ -75,6 +78,7 @@
     },
     "Health": {
       "value": 500,
+      "ar": "الصحة",
       "da": "Helbred",
       "de": "Gesundheit",
       "en": "Health",

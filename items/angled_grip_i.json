@@ -1,6 +1,7 @@
 {
   "id": "angled_grip_i",
   "name": {
+    "ar": "مقبض زاوي I",
     "da": "Vinklet greb I",
     "de": "Abgewinkelter Griff I",
     "en": "Angled Grip I",
@@ -23,6 +24,7 @@
     "zh-TW": "斜角握把 I"
   },
   "description": {
+    "ar": "يقلل قليلاً من الارتداد الأفقي.",
     "da": "Reducerer horisontal rekyl lidt. Kompatibel med: Tempest, Arpeggio, Kettle, Ferro, Hullcracker",
     "de": "Verringert den horizontalen Rückstoß geringfügig. Kompatibel mit: Tempest, Arpeggio, Kettle, Ferro, Hullcracker",
     "en": "Slightly reduces horizontal recoil. Compatible with: Tempest, Arpeggio, Kettle, Ferro, Hullcracker",
@@ -50,6 +52,7 @@
   "weightKg": 0.25,
   "effects": {
     "Reduced Horizontal Recoil": {
+      "ar": "ارتداد أفقي مخفض",
       "value": "20%",
       "da": "Reduceret horisontal rekyl",
       "de": "Verringerter horizontaler Rückstoß",

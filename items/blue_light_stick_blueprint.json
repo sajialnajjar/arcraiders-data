@@ -1,6 +1,7 @@
 {
   "id": "blue_light_stick_blueprint",
   "name": {
+    "ar": "مخطط عصا ضوء زرقاء",
     "da": "Blå lysstav-tegning",
     "de": "Bauplan: Blauer Leuchtstab",
     "en": "Blue Light Stick Blueprint",
@@ -23,6 +24,7 @@
     "zh-TW": "藍色螢光棒藍圖"
   },
   "description": {
+    "ar": "ضوء كيميائي يمكن رميه يضيء المنطقة المحيطة به.",
     "da": "Et kastbart kemisk lys, der oplyser området omkring det.",
     "de": "Ein werfbares chemisches Licht, das seine Umgebung erhellt.",
     "en": "A throwable chemical light that illuminates the area around it.",

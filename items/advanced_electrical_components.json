@@ -1,6 +1,7 @@
 {
   "id": "advanced_electrical_components",
   "name": {
+    "ar": "مكونات كهربائية متقدمة",
     "da": "Avancerede elektriske komponenter",
     "de": "Fortschrittliche elektrische Komponenten",
     "en": "Advanced Electrical Components",
@@ -23,6 +24,7 @@
     "zh-TW": "進階電子元件"
   },
   "description": {
+    "ar": "تُستخدم لصياغة مجموعة واسعة من العناصر. يمكن إعادة تدويرها إلى مواد صياغة. تُستخدم لصياغة: تكتيكي م. 3 (دفاعي)، قتالي م. 3 (جناحي)، قتالي م. 3 (هجومي)، نهب م. 3 (حذر)، تكتيكي م. 3 (شفاء)",
     "da": "Bruges til at lave en bred vifte af genstande. Kan genbruges til håndværksmaterialer. Bruges til at lave: Taktisk Mk. 3 (Defensiv), Kamp Mk. 3 (Flankering), Kamp Mk. 3 (Aggressiv), Plyndring Mk. 3 (Forsigtig), Taktisk Mk. 3 (Helbredelse)",
     "de": "Wird zur Herstellung verschiedenster Gegenstände verwendet. Kann zu Herstellungsmaterialien recycelt werden. Zur Herstellung von: Taktisch-Marke 3 (Defensiv), Kampf-Marke 3 (Flankierend), Kampf-Marke 3 (Aggressiv), Beute-Marke 3 (Vorsichtig), Taktisch-Marke 3 (Heilung)",
     "en": "Used to craft a wide range of items. Can be recycled into crafting materials. Used to craft: Tactical Mk. 3 (Defensive), Combat Mk. 3 (Flanking), Combat Mk. 3 (Aggressive), Looting Mk. 3 (Cautious), Tactical Mk. 3 (Healing)",

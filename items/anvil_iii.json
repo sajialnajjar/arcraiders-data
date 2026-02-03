@@ -1,6 +1,7 @@
 {
   "id": "anvil_iii",
   "name": {
+    "ar": "سندان III",
     "da": "Ambolt III",
     "de": "Amboss III",
     "en": "Anvil III",
@@ -23,6 +24,7 @@
     "zh-TW": "鐵砧 III"
   },
   "description": {
+    "ar": "مدفع يدوي أحادي الحركة ذو ضرر عالٍ وضرر رأس كبير، لكن تحكمه بطيء.",
     "da": "Enkeltvirkende håndkanon med høj skade og hovedskudsskade, men langsom håndtering.",
     "de": "Richtet bei Körpertreffern und insbesondere bei Kopfschüssen hohen Schaden an, ist aber in der Benutzung langsam.",
     "en": "Single-action hand cannon with high damage and headshot damage, but slow handling.",
@@ -51,6 +53,7 @@
   "isWeapon": true,
   "effects": {
     "Ammo Type": {
+      "ar": "نوع الذخيرة",
       "value": "Heavy Ammo",
       "da": "Ammunitionstype",
       "de": "Munitionstyp",
@@ -74,6 +77,7 @@
       "zh-TW": "彈藥類型"
     },
     "ARC Armor Penetration": {
+      "ar": "اختراق درع ARC",
       "value": "Strong",
       "da": "ARC rustningspenetrering",
       "de": "ARC-Panzerungsdurchdringung",
@@ -97,6 +101,7 @@
       "zh-TW": "ARC 裝甲穿透"
     },
     "Durability": {
+      "ar": "المتانة",
       "value": "120/120",
       "da": "Holdbarhed",
       "de": "Haltbarkeit",
@@ -120,6 +125,7 @@
       "zh-TW": "耐久度"
     },
     "Firing Mode": {
+      "ar": "وضع الإطلاق",
       "value": "Single-Action",
       "da": "Skydningstilstand",
       "de": "Feuermodus",
@@ -143,6 +149,7 @@
       "zh-TW": "射擊模式"
     },
     "Increased Fire Rate": {
+      "ar": "معدل إطلاق نار متزايد",
       "value": "50%",
       "da": "Øget skudhastighed",
       "de": "Erhöhte Feuerrate",
@@ -166,6 +173,7 @@
       "zh-TW": "提高射速"
     },
     "Magazine Size": {
+      "ar": "حجم المخزن",
       "value": 6,
       "da": "Magasinstørrelse",
       "de": "Magazingröße",
@@ -189,6 +197,7 @@
       "zh-TW": "彈匣容量"
     },
     "Reduced Dispersion Recovery Time": {
+      "ar": "وقت استعادة التشتت المخفض",
       "value": "12.5%",
       "da": "Reduceret genopretningstid for spredning",
       "de": "Verringerte Streuungs-Erholungszeit",

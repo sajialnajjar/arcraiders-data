@@ -1,6 +1,7 @@
 {
   "id": "bobcat_iv",
   "name": {
+    "ar": "بوبكات IV",
     "da": "Bobcat IV",
     "de": "Bobcat IV",
     "en": "Bobcat IV",
@@ -23,6 +24,7 @@
     "zh-TW": "山貓 IV"
   },
   "description": {
+    "ar": "SMG أوتوماتيكي بالكامل بمعدل إطلاق نار عالٍ ولكن دقة منخفضة.",
     "da": "Fuldautomatisk SMG med høj skudhastighed men lav præcision.",
     "de": "Hat eine hohe Feuerrate, aber eine niedrige Genauigkeit.",
     "en": "Fully automatic SMG with high fire rate but low accuracy.",
@@ -52,6 +54,7 @@
   "effects": {
     "Agility": {
       "value": 73.1,
+      "ar": "الخفة",
       "da": "Smidighed",
       "de": "Beweglichkeit",
       "en": "Agility",
@@ -75,6 +78,7 @@
     },
     "Ammo Type": {
       "value": "Light Ammo",
+      "ar": "نوع الذخيرة",
       "da": "Ammunitionstype",
       "de": "Munitionstyp",
       "en": "Ammo Type",
@@ -98,6 +102,7 @@
     },
     "ARC Armor Penetration": {
       "value": "Very Weak",
+      "ar": "اختراق دروع ARC",
       "da": "ARC-rustningspenetration",
       "de": "ARC-Panzerungsdurchdringung",
       "en": "ARC Armor Penetration",
@@ -121,6 +126,7 @@
     },
     "Damage": {
       "value": 6,
+      "ar": "الضرر",
       "da": "Skade",
       "de": "Schaden",
       "en": "Damage",
@@ -144,6 +150,7 @@
     },
     "Durability": {
       "value": "130/130",
+      "ar": "التحمل",
       "da": "Holdbarhed",
       "de": "Haltbarkeit",
       "en": "Durability",
@@ -167,6 +174,7 @@
     },
     "Fire Rate": {
       "value": 66.7,
+      "ar": "معدل الإطلاق",
       "da": "Skudhastighed",
       "de": "Feuerrate",
       "en": "Fire Rate",
@@ -190,6 +198,7 @@
     },
     "Firing Mode": {
       "value": "Fully-Automatic",
+      "ar": "وضع الإطلاق",
       "da": "Skydningstilstand",
       "de": "Feuermodus",
       "en": "Firing Mode",
@@ -213,6 +222,7 @@
     },
     "Magazine Size": {
       "value": 20,
+      "ar": "حجم المخزن",
       "da": "Magasinstørrelse",
       "de": "Magazingröße",
       "en": "Magazine Size",
@@ -236,6 +246,7 @@
     },
     "Range": {
       "value": 44,
+      "ar": "المدى",
       "da": "Rækkevidde",
       "de": "Reichweite",
       "en": "Range",
@@ -259,6 +270,7 @@
     },
     "Reduced Horizontal Recoil": {
       "value": "45%",
+      "ar": "تقليل الارتداد الأفقي",
       "da": "Reduceret horisontal rekyl",
       "de": "Reduzierter horizontaler Rückstoß",
       "en": "Reduced Horizontal Recoil",
@@ -282,6 +294,7 @@
     },
     "Reduced Max Shot Dispersion": {
       "value": "50%",
+      "ar": "تقليل تشتت الطلقات الأقصى",
       "da": "Reduceret maksimal skudspredning",
       "de": "Reduzierte maximale Streuung",
       "en": "Reduced Max Shot Dispersion",
@@ -305,6 +318,7 @@
     },
     "Reduced Reload Time": {
       "value": "40%",
+      "ar": "تقليل وقت إعادة التحميل",
       "da": "Reduceret genindlæsningstid",
       "de": "Verringerte Nachladezeit",
       "en": "Reduced Reload Time",
@@ -328,6 +342,7 @@
     },
     "Stability": {
       "value": 45.9,
+      "ar": "الثبات",
       "da": "Stabilitet",
       "de": "Stabilität",
       "en": "Stability",
@@ -351,6 +366,7 @@
     },
     "Stealth": {
       "value": 21,
+      "ar": "التخفي",
       "da": "Snigskytte",
       "de": "Heimlichkeit",
       "en": "Stealth",

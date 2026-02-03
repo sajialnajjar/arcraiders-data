@@ -1,6 +1,7 @@
 {
   "id": "angled_grip_iii",
   "name": {
+    "ar": "مقبض زاوي III",
     "da": "Vinklet greb III",
     "de": "Abgewinkelter Griff III",
     "en": "Angled Grip III",
@@ -23,6 +24,7 @@
     "zh-TW": "斜角握把 III"
   },
   "description": {
+    "ar": "يقلل بشكل كبير من الارتداد الأفقي.",
     "da": "Reducerer betydeligt horisontal rekyl. Kompatibel med: Arpeggio, Ferro, Venator, Il Toro, Stitcher",
     "de": "Verringert den horizontalen Rückstoß erheblich. Kompatibel mit: Arpeggio, Ferro, Venator, Il Toro, Stitcher",
     "en": "Significantly reduces horizontal recoil. Compatible with: Arpeggio, Ferro, Venator, Il Toro, Stitcher",
@@ -51,6 +53,7 @@
   "blueprintLocked": true,
   "effects": {
     "Reduced ADS Speed": {
+      "ar": "سرعة تصويب مخفضة",
       "value": "30%",
       "da": "Reduceret sigtehastighed",
       "de": "Reduzierte Zielgeschwindigkeit",
@@ -74,6 +77,7 @@
       "zh-TW": "瞄準速度降低"
     },
     "Reduced Horizontal Recoil": {
+      "ar": "ارتداد أفقي مخفض",
       "value": "40%",
       "da": "Reduceret horisontal rekyl",
       "de": "Reduzierter horizontaler Rückstoß",

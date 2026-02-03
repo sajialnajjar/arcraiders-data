@@ -1,6 +1,7 @@
 {
   "id": "combat_mk3_aggressive_blueprint",
   "name": {
+    "ar": "مخطط قتال Mk. 3 (هجومي)",
     "da": "Kamp Mk. 3 (Aggressiv) Tegning",
     "de": "Bauplan: Kampf-Marke 3 (Aggressiv)",
     "en": "Combat Mk. 3 (Aggressive) Blueprint",
@@ -23,6 +24,7 @@
     "zh-TW": "戰鬥 Mk. 3（進攻型）藍圖"
   },
   "description": {
+    "ar": "نسخة محسنة من تعزيز قتال II. يدعم أنواع دروع أكثر، ويأتي مع مساحة إضافية للقنابل.",
     "da": "En forbedret version af Kamp II-forstærkningen. Understøtter flere skjoldtyper og kommer med ekstra plads til granater.",
     "de": "Eine verbesserte Version des Kampf II-Augments. Unterstützt mehr Schildtypen und bietet zusätzlichen Platz für Granaten.",
     "en": "An improved version of the Combat II augment. Supports more shield types, and comes with extra space for grenades.",

@@ -1,6 +1,7 @@
 {
   "id": "buried_city_hospital_key",
   "name": {
+    "ar": "مفتاح مستشفى المدينة المدفونة",
     "da": "Begravet by hospital-nøgle",
     "de": "Krankenhausschlüssel (Begrabene Stadt)",
     "en": "Buried City Hospital Key",
@@ -23,6 +24,7 @@
     "zh-TW": "埋沒之城醫院鑰匙"
   },
   "description": {
+    "ar": "مفتاح للمناطق داخل مستشفى المدينة المدفونة.",
     "da": "En nøgle til områder i den begravede bys hospital.",
     "de": "Öffnet eine Tür im Krankenhaus in der Begrabenen Stadt.",
     "en": "A key to areas within the Buried City Hospital.",

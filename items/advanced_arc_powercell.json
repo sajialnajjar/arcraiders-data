@@ -1,6 +1,7 @@
 {
   "id": "advanced_arc_powercell",
   "name": {
+    "ar": "خلية طاقة ARC متقدمة",
     "da": "Avanceret ARC-kraftcelle",
     "de": "Fortschrittliche ARC-Energiezelle",
     "en": "Advanced ARC Powercell",
@@ -23,6 +24,7 @@
     "zh-TW": "高級ARC能量電池"
   },
   "description": {
+    "ar": "مورد قيم للغاية يسقط من بعض أعداء ARC.",
     "da": "Meget værdifuld ressource, som falder fra visse ARC-fjender.",
     "de": "Sehr wertvolle Ressource, die von bestimmten ARC-Gegnern fallen gelassen wird. Zur Herstellung von: Energieclip, Sturm-Schildauflader",
     "en": "Very valuable resource that drops from certain ARC enemies.",

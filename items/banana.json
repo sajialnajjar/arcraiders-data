@@ -1,6 +1,7 @@
 {
   "id": "banana",
   "name": {
+    "ar": "موزة",
     "da": "Banan",
     "de": "Banane",
     "en": "Banana",
@@ -23,6 +24,7 @@
     "zh-TW": "香蕉"
   },
   "description": {
+    "ar": "سيتم إضافة عنصر تجميلي جديد إلى مجموعتك.",
     "da": "En ny kosmetisk genstand vil blive tilføjet til din samling.",
     "de": "Ein neuer kosmetischer Gegenstand wird deiner Sammlung hinzugefügt.",
     "en": "A new cosmetic will be added to your collection.",

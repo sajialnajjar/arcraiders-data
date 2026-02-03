@@ -1,6 +1,7 @@
 {
   "id": "assorted_seeds",
   "name": {
+    "ar": "بذور متنوعة",
     "da": "Blandede frø",
     "de": "Verschiedenes Saatgut",
     "en": "Assorted Seeds",
@@ -23,6 +24,7 @@
     "zh-TW": "各式種子"
   },
   "description": {
+    "ar": "حفنة من البذور. قد تكون سيليست تبحث عنها.",
     "da": "En håndfuld frø. Celeste leder måske efter disse.",
     "de": "Eine Handvoll Saatgut. Celeste könnte Interesse daran haben.",
     "en": "A handful of seeds. Celeste might be looking for these.",

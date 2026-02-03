@@ -1,8 +1,9 @@
 {
   "id": "blue_gate_village_key",
   "name": {
+    "ar": "مفتاح قرية البوابة الزرقاء",
     "da": "Blå port landsby-nøgle",
-    "de": "Dorfschlüssel (Blaues Tor)",
+    "de": "Blauer Tor Dorfschlüssel",
     "en": "Blue Gate Village Key",
     "es": "Llave del pueblo de la puerta azul",
     "fr": "Clé du village de la porte bleue",
@@ -23,6 +24,7 @@
     "zh-TW": "藍門村落鑰匙"
   },
   "description": {
+    "ar": "مفتاح للمناطق داخل قرية البوابة الزرقاء.",
     "da": "En nøgle til områder i Blå port landsby.",
     "de": "Ein Schlüssel zu Bereichen innerhalb des Blauen Tor Dorfes.",
     "en": "A key to areas within Blue Gate Village.",

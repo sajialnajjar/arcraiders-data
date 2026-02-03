@@ -1,6 +1,7 @@
 {
   "id": "acoustic_guitar",
   "name": {
+    "ar": "جيتار صوتي",
     "da": "Akustisk guitar",
     "de": "Akustikgitarre",
     "en": "Acoustic Guitar",
@@ -23,6 +24,7 @@
     "zh-TW": "木吉他"
   },
   "description": {
+    "ar": "جيتار صوتي قابل للعزف يستخدم لجذب انتباه ARC وإبهار الغزاة الآخرين.",
     "da": "En spilbar akustisk guitar, der bruges til at tiltrække ARCs opmærksomhed og imponere andre raiders.",
     "de": "Eine spielbare Akustikgitarre, um ARCs Aufmerksamkeit zu erregen und andere Raider zu beeindrucken.",
     "en": "A playable acoustic guitar used to attract ARC's attention, and impress other Raiders.",

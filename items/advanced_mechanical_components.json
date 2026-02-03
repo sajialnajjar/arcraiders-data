@@ -1,6 +1,7 @@
 {
   "id": "advanced_mechanical_components",
   "name": {
+    "ar": "مكونات ميكانيكية متقدمة",
     "da": "Avancerede mekaniske komponenter",
     "de": "Fortschrittliche mechanische Komponenten",
     "en": "Advanced Mechanical Components",
@@ -23,6 +24,7 @@
     "zh-TW": "進階機械元件"
   },
   "description": {
+    "ar": "تُستخدم لصياغة أسلحة متقدمة. يمكن إعادة تدويرها إلى مواد صياغة. تُستخدم لصياغة: تورينتي، فيناتور، أوسبري، رينيجيد، بيتينا",
     "da": "Bruges til at fremstille avancerede våben. Kan genbruges til håndværksmaterialer. Bruges til at fremstille: Torrente, Venator, Osprey, Renegade, Bettina",
     "de": "Wird zur Herstellung fortschrittlicher Waffen verwendet. Kann zu Herstellungsmaterialien recycelt werden. Zur Herstellung von: Torrente, Venator, Osprey, Renegade, Bettina",
     "en": "Used to craft advanced weapons. Can be recycled into crafting materials. Used to craft: Torrente, Venator, Osprey, Renegade, Bettina",

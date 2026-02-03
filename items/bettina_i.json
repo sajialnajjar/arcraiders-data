@@ -1,6 +1,7 @@
 {
   "id": "bettina_i",
   "name": {
+    "ar": "بيتينا I",
     "da": "Bettina I",
     "de": "Bettina I",
     "en": "Bettina I",
@@ -23,6 +24,7 @@
     "zh-TW": "貝蒂娜 I"
   },
   "description": {
+    "ar": "لديه معدل إطلاق نار بطيء وإخراج ضرر عالي.",
     "da": "Har lav skudhastighed og høj skadeeffekt.",
     "de": "Hat eine langsame Feuerrate und hohen Schadensausstoß.",
     "en": "Has slow fire rate and high damage output.",
@@ -52,6 +54,7 @@
   "effects": {
     "Ammo Type": {
       "value": "Heavy Ammo",
+      "ar": "نوع الذخيرة",
       "da": "Ammunitionstype",
       "de": "Munitionstyp",
       "en": "Ammo Type",
@@ -75,6 +78,7 @@
     },
     "ARC Armor Penetration": {
       "value": "Strong",
+      "ar": "اختراق دروع ARC",
       "da": "ARC rustningspenetrering",
       "de": "ARC-Rüstungsdurchdringung",
       "en": "ARC Armor Penetration",
@@ -98,6 +102,7 @@
     },
     "Durability": {
       "value": "100/100",
+      "ar": "التحمل",
       "da": "Holdbarhed",
       "de": "Haltbarkeit",
       "en": "Durability",
@@ -121,6 +126,7 @@
     },
     "Firing Mode": {
       "value": "Fully-Automatic",
+      "ar": "وضع الإطلاق",
       "da": "Skydningstilstand",
       "de": "Feuermodus",
       "en": "Firing Mode",
@@ -144,6 +150,7 @@
     },
     "Magazine Size": {
       "value": 20,
+      "ar": "حجم المخزن",
       "da": "Magasinstørrelse",
       "de": "Magazingröße",
       "en": "Magazine Size",

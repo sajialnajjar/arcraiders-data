@@ -1,6 +1,7 @@
 {
   "id": "blue_gate_confiscation_room_key",
   "name": {
+    "ar": "مفتاح غرفة المصادرة للبوابة الزرقاء",
     "da": "Nøgle til konfiskeringsrummet ved Blue Gate",
     "de": "Schlüssel zum Beschlagnahmungsraum des Blauen Tors",
     "en": "Blue Gate Confiscation Room Key",
@@ -23,6 +24,7 @@
     "zh-TW": "藍門沒收室鑰匙"
   },
   "description": {
+    "ar": "يفتح بابًا لمنطقة البضائع المصادرة داخل أنفاق البوابة الزرقاء",
     "da": "Låser en dør op til området for konfiskerede varer i Blue Gate-tunnelerne",
     "de": "Öffnet eine Tür zum Bereich der beschlagnahmten Güter in den Tunneln des Blauen Tors",
     "en": "Unlocks a door to the confiscated goods area within the Blue Gate tunnels",

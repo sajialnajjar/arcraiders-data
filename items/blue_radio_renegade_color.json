@@ -1,6 +1,7 @@
 {
   "id": "blue_radio_renegade_color",
   "name": {
+    "ar": "أزرق (لون راديو المتمرد)",
     "da": "Blå (Radio Renegade-farve)",
     "de": "Blau (Radio Renegade-Farbe)",
     "en": "Blue (Radio Renegade Color)",
@@ -23,6 +24,7 @@
     "zh-TW": "藍色（Radio Renegade配色）"
   },
   "description": {
+    "ar": "سيتم إضافة متغير تجميلي جديد إلى مجموعتك.",
     "da": "En ny kosmetisk variant vil blive tilføjet til din samling.",
     "de": "Eine neue kosmetische Variante wird deiner Sammlung hinzugefügt.",
     "en": "A new cosmetic variant will be added to your collection.",

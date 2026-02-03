@@ -1,6 +1,7 @@
 {
   "id": "air_freshener",
   "name": {
+    "ar": "معطر جو",
     "da": "Luftfrisker",
     "de": "Lufterfrischer",
     "en": "Air Freshener",
@@ -23,6 +24,7 @@
     "zh-TW": "空氣清新劑"
   },
   "description": {
+    "ar": "قد يساوي بضع عملات معدنية.",
     "da": "Kan være et par mønter værd.",
     "de": "Vielleicht ein paar Münzen wert.",
     "en": "May be worth a few coins.",

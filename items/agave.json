@@ -1,6 +1,7 @@
 {
   "id": "agave",
   "name": {
+    "ar": "أغاف",
     "da": "Agave",
     "de": "Agave",
     "en": "Agave",
@@ -23,6 +24,7 @@
     "zh-TW": "龍舌蘭"
   },
   "description": {
+    "ar": "قطعة من ورقة الأغاف. يمكن استخدامها لاستعادة كمية صغيرة من الصحة.",
     "da": "Et stykke af et agaveblad. Kan bruges til at genvinde en lille mængde helbred.",
     "de": "Ein Stück von einem Agavenblatt. Kann zur Regeneration einer kleinen Menge Gesundheit benutzt werden.",
     "en": "A piece of an agave leaf. Can be used to regain a small amount of health.",
@@ -52,6 +54,7 @@
   "stackSize": 10,
   "effects": {
     "Duration": {
+      "ar": "المدة",
       "value": "10s",
       "da": "Varighed",
       "de": "Dauer",
@@ -75,6 +78,7 @@
       "zh-TW": "持續時間"
     },
     "Healing": {
+      "ar": "الشفاء",
       "value": "1/s",
       "da": "Helbredelse",
       "de": "Heilen",
@@ -98,6 +102,7 @@
       "zh-TW": "治療"
     },
     "Use Time": {
+      "ar": "وقت الاستخدام",
       "value": "1s",
       "da": "Brugstid",
       "de": "Verwendungszeit",

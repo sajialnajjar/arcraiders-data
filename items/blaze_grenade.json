@@ -1,6 +1,7 @@
 {
   "id": "blaze_grenade",
   "name": {
+    "ar": "قنبلة حارقة",
     "da": "Flammegranate",
     "de": "Flammengranate",
     "en": "Blaze Grenade",
@@ -23,6 +24,7 @@
     "zh-TW": "烈焰手榴彈"
   },
   "description": {
+    "ar": "قنبلة تنفجر عند الاصطدام، وتغطي منطقة بالنيران التي تلحق الضرر بمرور الوقت.",
     "da": "En granate, der detonerer ved sammenstød, dækker et område med ild, der forårsager skade over tid.",
     "de": "Eine Granate, die beim Aufprall explodiert und einen großen Bereich mit Feuer bedeckt, um Schaden über Zeit zu verursachen.",
     "en": "A grenade that detonates on impact, covering an area in fire that deals damage over time.",
@@ -52,6 +54,7 @@
   "effects": {
     "Damage": {
       "value": "5/s",
+      "ar": "الضرر",
       "da": "Skade",
       "de": "Schaden",
       "en": "Damage",
@@ -75,6 +78,7 @@
     },
     "Duration": {
       "value": "10s",
+      "ar": "المدة",
       "da": "Varighed",
       "de": "Dauer",
       "en": "Duration",
@@ -98,6 +102,7 @@
     },
     "Radius": {
       "value": "10m",
+      "ar": "نصف القطر",
       "da": "Radius",
       "de": "Radius",
       "en": "Radius",

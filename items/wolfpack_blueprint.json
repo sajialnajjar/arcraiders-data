@@ -1,6 +1,7 @@
 {
   "id": "wolfpack_blueprint",
   "name": {
+    "ar": "مخطط قطيع الذئاب",
     "da": "Wolfpack-tegning",
     "de": "Bauplan: Wolfpack",
     "en": "Wolfpack Blueprint",
@@ -23,6 +24,7 @@
     "zh-TW": "狼群藍圖"
   },
   "description": {
+    "ar": "قنبلة يتم تفجيرها عن بعد يمكن أن تلتصق بالأسطح و ARC، وتسبب ضرراً متفجراً عند تفعيلها.",
     "da": "En fjerndetoneret granat, der kan hæfte til overflader og ARC, og giver eksplosiv skade når den udløses.",
     "de": "Eine Granate, die sich in mehrere zielsuchende Raketen spaltet, welche auf ARC zufliegen und beim Aufprall Explosionsschaden verursachen.",
     "en": "A remote-detonated grenade that can stick to surfaces and ARC, dealing explosive damage when triggered.",

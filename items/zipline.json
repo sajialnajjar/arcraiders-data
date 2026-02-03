@@ -1,6 +1,7 @@
 {
   "id": "zipline",
   "name": {
+    "ar": "حبل انزلاق",
     "da": "Zipline",
     "de": "Seilrutsche",
     "en": "Zipline",
@@ -23,6 +24,7 @@
     "zh-TW": "滑索"
   },
   "description": {
+    "ar": "حبل انزلاق قابل للنشر يسمح لك بالتحرك بسرعة بين موقعين.",
     "da": "En udrulbar zipline, der giver dig mulighed for hurtigt at bevæge dig mellem to steder.",
     "de": "Eine einsetzbare Seilrutsche, mit der man sich schnell zwischen zwei Positionen bewegen kann.",
     "en": "A deployable zipline that allows you to quickly move between two locations.",

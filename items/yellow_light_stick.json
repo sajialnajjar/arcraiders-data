@@ -1,6 +1,7 @@
 {
   "id": "yellow_light_stick",
   "name": {
+    "ar": "عصا ضوئية صفراء",
     "da": "Gul lysstav",
     "de": "Gelber Leuchtstab",
     "en": "Yellow Light Stick",
@@ -23,6 +24,7 @@
     "zh-TW": "黃色螢光棒"
   },
   "description": {
+    "ar": "ضوء كيميائي يمكن رميه يضيء المنطقة المحيطة به.",
     "da": "Et kastbart kemisk lys, der oplyser området omkring det.",
     "de": "Ein werfbares chemisches Licht, das seine Umgebung erhellt.",
     "en": "A throwable chemical light that illuminates the area around it.",
@@ -52,6 +54,7 @@
   "effects": {
     "Duration": {
       "value": "40s",
+      "ar": "المدة",
       "da": "Varighed",
       "de": "Dauer",
       "en": "Duration",
@@ -75,6 +78,7 @@
     },
     "Illumination Radius": {
       "value": "7m",
+      "ar": "نصف قطر الإضاءة",
       "da": "Belysningsradius",
       "de": "Beleuchtungsradius",
       "en": "Illumination Radius",

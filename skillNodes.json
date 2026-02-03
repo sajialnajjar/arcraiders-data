@@ -2,6 +2,7 @@
   {
     "id": "cond_1",
     "name": {
+      "ar": "معتاد على الوزن",
       "da": "Vant til vægten",
       "de": "An das Gewicht gewöhnt",
       "en": "Used To The Weight",
@@ -26,6 +27,7 @@
     "category": "CONDITIONING",
     "isMajor": true,
     "description": {
+      "ar": "استخدام الدرع لا يبطئ حركتك بنفس القدر.",
       "da": "At bære et skjold gør dig ikke lige så langsom.",
       "de": "Das Tragen eines Schildes verlangsamt dich weniger.",
       "en": "Wearing a shield doesn't slow you down as much.",
@@ -49,6 +51,7 @@
     },
     "maxPoints": 5,
     "impactedSkill": {
+      "ar": "سرعة الحركة",
       "da": "Bevægelseshastighed",
       "de": "Bewegungsgeschwindigkeit",
       "en": "Movement Speed",
@@ -81,6 +84,7 @@
   {
     "id": "cond_2l",
     "name": {
+      "ar": "مولود الانفجار",
       "da": "Eksplosionsfødt",
       "de": "Schallgedämpft",
       "en": "Blast-Born",
@@ -105,6 +109,7 @@
     "category": "CONDITIONING",
     "isMajor": false,
     "description": {
+      "ar": "سمعك يتأثر بشكل أقل بالانفجارات القريبة.",
       "da": "Din hørelse påvirkes mindre af nærliggende eksplosioner.",
       "de": "Dein Gehör wird durch nahe Explosionen weniger stark beeinträchtigt.",
       "en": "Your hearing is less affected by nearby explosions.",
@@ -128,6 +133,7 @@
     },
     "maxPoints": 5,
     "impactedSkill": {
+      "ar": "تحسين السمع",
       "da": "Hørelseforbedring",
       "de": "Gehörverbesserung",
       "en": "Hearing Enhancement",
@@ -154,12 +160,15 @@
       "x": 20,
       "y": 65
     },
-    "prerequisiteNodeIds": ["cond_1"],
+    "prerequisiteNodeIds": [
+      "cond_1"
+    ],
     "iconName": "blast_born.png"
   },
   {
     "id": "cond_2r",
     "name": {
+      "ar": "ضغط لطيف",
       "da": "Blidt tryk",
       "de": "Mit sanftem Druck",
       "en": "Gentle Pressure",
@@ -184,6 +193,7 @@
     "category": "CONDITIONING",
     "isMajor": false,
     "description": {
+      "ar": "تصدر ضجيجًا أقل عند الاقتحام.",
       "da": "Du laver mindre støj når du bryder ind.",
       "de": "Du bist beim aufbrechen weniger laut.",
       "en": "You make less noise when breaching.",
@@ -207,6 +217,7 @@
     },
     "maxPoints": 5,
     "impactedSkill": {
+      "ar": "تقليل الضوضاء",
       "da": "Støjreduktion",
       "de": "Lärmreduzierung",
       "en": "Noise Reduction",
@@ -233,12 +244,15 @@
       "x": 30,
       "y": 65
     },
-    "prerequisiteNodeIds": ["cond_1"],
+    "prerequisiteNodeIds": [
+      "cond_1"
+    ],
     "iconName": "gentle_pressure.png"
   },
   {
     "id": "cond_3l",
     "name": {
+      "ar": "القتال أو الهروب",
       "da": "Kamp eller flugt",
       "de": "Kampf oder Flucht",
       "en": "Fight Or Flight",
@@ -263,6 +277,7 @@
     "category": "CONDITIONING",
     "isMajor": false,
     "description": {
+      "ar": "عندما تصاب في قتال، تستعيد كمية ثابتة من القدرة على التحمل. لديه فترة تهدئة بين الاستخدامات.",
       "da": "Når du bliver såret i kamp, genvinder du en fast mængde udholdenhed. Har en afkølingsperiode mellem brug.",
       "de": "Wenn du im Kampf verletzt wirst, erhältst du eine bestimmte Menge Ausdauer zurück. Hat eine bestimmte Abklingzeit bis zur nächsten Verwendung.",
       "en": "When you're hurt in combat, regain a fixed amount of stamina. Has a cooldown between uses.",
@@ -286,6 +301,7 @@
     },
     "maxPoints": 5,
     "impactedSkill": {
+      "ar": "تجديد القدرة على التحمل",
       "da": "Udholdenhedsregenerering",
       "de": "Ausdauerregeneration",
       "en": "Stamina Regeneration",
@@ -312,12 +328,15 @@
       "x": 20,
       "y": 55
     },
-    "prerequisiteNodeIds": ["cond_2l"],
+    "prerequisiteNodeIds": [
+      "cond_2l"
+    ],
     "iconName": "fight_or_flight.png"
   },
   {
     "id": "cond_3r",
     "name": {
+      "ar": "خبير الخلع",
       "da": "Dygtig bryder",
       "de": "Geübter Schnüffler",
       "en": "Proficient Pryer",
@@ -342,6 +361,7 @@
     "category": "CONDITIONING",
     "isMajor": false,
     "description": {
+      "ar": "اقتحام الأبواب والحاويات يستغرق وقتًا أقل.",
       "da": "At bryde døre og containere op tager mindre tid",
       "de": "Das Aufbrechen von Türen und Containern geht schneller.",
       "en": "Breaching doors and containers takes less time",
@@ -365,6 +385,7 @@
     },
     "maxPoints": 5,
     "impactedSkill": {
+      "ar": "تقليل وقت الاقتحام",
       "da": "Reduktion af opbrydningstid",
       "de": "Aufbruchzeitreduzierung",
       "en": "Breach Time Reduction",
@@ -391,12 +412,15 @@
       "x": 30,
       "y": 55
     },
-    "prerequisiteNodeIds": ["cond_2r"],
+    "prerequisiteNodeIds": [
+      "cond_2r"
+    ],
     "iconName": "proficient_pryer.png"
   },
   {
     "id": "cond_4l",
     "name": {
+      "ar": "قدرة تحمل الناجي",
       "da": "Overlevendes udholdenhed",
       "de": "Ausdauer des Überlebenden",
       "en": "Survivor's Stamina",
@@ -421,6 +445,7 @@
     "category": "CONDITIONING",
     "isMajor": true,
     "description": {
+      "ar": "عندما تكون مصابًا بجروح خطيرة، تتجدد قدرتك على التحمل بشكل أسرع.",
       "da": "Når du er kritisk såret, regenererer din udholdenhed hurtigere.",
       "de": "Wenn du lebensgefährlich verletzt bist, regeneriert sich deine Ausdauer schneller.",
       "en": "When you're critically hurt, your stamina regenerates faster.",
@@ -444,6 +469,7 @@
     },
     "maxPoints": 1,
     "impactedSkill": {
+      "ar": "تجديد القدرة على التحمل",
       "da": "Udholdenhedsregenerering",
       "de": "Ausdauerregeneration",
       "en": "Stamina Regeneration",
@@ -470,12 +496,15 @@
       "x": 20,
       "y": 45
     },
-    "prerequisiteNodeIds": ["cond_3l"],
+    "prerequisiteNodeIds": [
+      "cond_3l"
+    ],
     "iconName": "survivors_stamina.png"
   },
   {
     "id": "cond_4r",
     "name": {
+      "ar": "دحروجة خفيفة",
       "da": "Ubyrdet rulle",
       "de": "Rolle ohne Ballast",
       "en": "Unburdened Roll",
@@ -500,6 +529,7 @@
     "category": "CONDITIONING",
     "isMajor": true,
     "description": {
+      "ar": "إذا انكسر درعك، فإن دحروجة المراوغة الأولى خلال بضع ثوانٍ لا تكلف قدرة على التحمل.",
       "da": "Hvis dit skjold går i stykker, koster din første undvigerulle inden få sekunder ikke udholdenhed.",
       "de": "Wenn dein Schild bricht, kostet dich deine erste Ausweichrolle binnen weniger Sekunden keine Ausdauer.",
       "en": "If your shield breaks, your first Dodge Roll within a few seconds does not cost stamina.",
@@ -523,6 +553,7 @@
     },
     "maxPoints": 1,
     "impactedSkill": {
+      "ar": "تجديد القدرة على التحمل",
       "da": "Udholdenhedsregenerering",
       "de": "Ausdauerregeneration",
       "en": "Stamina Regeneration",
@@ -549,12 +580,15 @@
       "x": 30,
       "y": 45
     },
-    "prerequisiteNodeIds": ["cond_3r"],
+    "prerequisiteNodeIds": [
+      "cond_3r"
+    ],
     "iconName": "unburdened_roll.png"
   },
   {
     "id": "cond_5c",
     "name": {
+      "ar": "إضافة صغيرة",
       "da": "Lidt ekstra",
       "de": "Kleiner Bonus",
       "en": "A Little Extra",
@@ -579,6 +613,7 @@
     "category": "CONDITIONING",
     "isMajor": false,
     "description": {
+      "ar": "اقتحام كائن يولد موارد.",
       "da": "At bryde et objekt op genererer ressourcer.",
       "de": "Das Aufbrechen eines Objekts generiert Ressourcen.",
       "en": "Breaching an object generates resources.",
@@ -602,6 +637,7 @@
     },
     "maxPoints": 1,
     "impactedSkill": {
+      "ar": "توليد الموارد",
       "da": "Ressourcegenerering",
       "de": "Ressourcengenerierung",
       "en": "Resource Generation",
@@ -628,12 +664,16 @@
       "x": 25,
       "y": 35
     },
-    "prerequisiteNodeIds": ["cond_4l", "cond_4r"],
+    "prerequisiteNodeIds": [
+      "cond_4l",
+      "cond_4r"
+    ],
     "iconName": "a_little_extra.png"
   },
   {
     "id": "cond_5l",
     "name": {
+      "ar": "طريح الأرض لكن مصمم",
       "da": "Nede men fast besluttet",
       "de": "Entkräftet, aber entschlossen",
       "en": "Downed But Determined",
@@ -658,6 +698,7 @@
     "category": "CONDITIONING",
     "isMajor": false,
     "description": {
+      "ar": "عندما تسقط، يستغرق الأمر وقتاً أطول قبل أن تنهار.",
       "da": "Når du er nede, tager det længere tid, før du kollapser.",
       "de": "Wenn du entkräftet bist, dauert es länger, bis du zusammenbrichst.",
       "en": "When you're downed, it takes longer before you collapse.",
@@ -681,6 +722,7 @@
     },
     "maxPoints": 5,
     "impactedSkill": {
+      "ar": "مدة البقاء طريحاً",
       "da": "Nede-varighed",
       "de": "Niedergeschlagene Dauer",
       "en": "Downed Duration",
@@ -707,12 +749,15 @@
       "x": 20,
       "y": 35
     },
-    "prerequisiteNodeIds": ["cond_4l"],
+    "prerequisiteNodeIds": [
+      "cond_4l"
+    ],
     "iconName": "downed_but_determined.png"
   },
   {
     "id": "cond_5r",
     "name": {
+      "ar": "تلويحة سهلة",
       "da": "Ubesværet sving",
       "de": "Müheloser Schwinger",
       "en": "Effortless Swing",
@@ -737,6 +782,7 @@
     "category": "CONDITIONING",
     "isMajor": false,
     "description": {
+      "ar": "قدرات الاشتباك تكلف قدرة تحمل أقل.",
       "da": "Nærkampsevner koster mindre udholdenhed.",
       "de": "Nahkampffähigkeiten kosten weniger Ausdauer.",
       "en": "Melee abilities cost less stamina.",
@@ -760,6 +806,7 @@
     },
     "maxPoints": 5,
     "impactedSkill": {
+      "ar": "تقليل تكلفة القدرة على التحمل",
       "da": "Reduktion af udholdenhedsomkostning",
       "de": "Ausdauerkostenreduzierung",
       "en": "Stamina Cost Reduction",
@@ -786,12 +833,15 @@
       "x": 30,
       "y": 35
     },
-    "prerequisiteNodeIds": ["cond_4r"],
+    "prerequisiteNodeIds": [
+      "cond_4r"
+    ],
     "iconName": "effortless_swing.png"
   },
   {
     "id": "cond_6c",
     "name": {
+      "ar": "أذرع محملة",
       "da": "Lastede arme",
       "de": "Einsatzbereite Waffen",
       "en": "Loaded Arms",
@@ -816,6 +866,7 @@
     "category": "CONDITIONING",
     "isMajor": false,
     "description": {
+      "ar": "سلاحك المجهز له تأثير أقل على العبء الخاص بك.",
       "da": "Dit udstyrede våben har mindre indvirkning på din belastning.",
       "de": "Deine ausgerüstete Waffe hat weniger Einfluss auf deine Traglast.",
       "en": "Your equipped weapon has less impact on your encumbrance.",
@@ -839,6 +890,7 @@
     },
     "maxPoints": 1,
     "impactedSkill": {
+      "ar": "تقليل العبء",
       "da": "Reduktion af belastning",
       "de": "Belastungsreduzierung",
       "en": "Encumbrance Reduction",
@@ -865,12 +917,15 @@
       "x": 25,
       "y": 25
     },
-    "prerequisiteNodeIds": ["cond_5c"],
+    "prerequisiteNodeIds": [
+      "cond_5c"
+    ],
     "iconName": "loaded_arms.png"
   },
   {
     "id": "cond_6l",
     "name": {
+      "ar": "زحف السلحفاة",
       "da": "Skildpaddekravl",
       "de": "Wie eine Schildkröte",
       "en": "Turtle Crawl",
@@ -895,6 +950,7 @@
     "category": "CONDITIONING",
     "isMajor": false,
     "description": {
+      "ar": "عندما تكون طريحاً، تتلقى ضرراً أقل.",
       "da": "Mens du er nede, tager du mindre skade.",
       "de": "Du erleidest weniger Schaden, während du entkräftet bist.",
       "en": "While downed, you take less damage.",
@@ -918,6 +974,7 @@
     },
     "maxPoints": 5,
     "impactedSkill": {
+      "ar": "تقليل الضرر أثناء السقوط",
       "da": "Skadereduktion nede",
       "de": "Schadensreduzierung im entkräfteten Zustand",
       "en": "Downed Damage Reduction",
@@ -943,12 +1000,15 @@
       "x": 20,
       "y": 25
     },
-    "prerequisiteNodeIds": ["cond_5l"],
+    "prerequisiteNodeIds": [
+      "cond_5l"
+    ],
     "iconName": "turtle_crawl.png"
   },
   {
     "id": "cond_6r",
     "name": {
+      "ar": "ضربة منظفة للسماء",
       "da": "Himmelryddende sving",
       "de": "Befreiender Hieb",
       "en": "Sky-Clearing Swing",
@@ -973,6 +1033,7 @@
     "category": "CONDITIONING",
     "isMajor": false,
     "description": {
+      "ar": "تلحق مزيداً من ضرر الاشتباك ضد الطائرات بدون طيار.",
       "da": "Du gør mere nærkampsskade mod droner.",
       "de": "Du fügst Drohnen mehr Nahkampfschaden zu.",
       "en": "You deal more melee damage to drones.",
@@ -996,6 +1057,7 @@
     },
     "maxPoints": 5,
     "impactedSkill": {
+      "ar": "ضرر الاشتباك",
       "da": "Nærkampsskade",
       "de": "Nahkampfschaden",
       "en": "Melee Damage",
@@ -1022,12 +1084,15 @@
       "x": 30,
       "y": 25
     },
-    "prerequisiteNodeIds": ["cond_5r"],
+    "prerequisiteNodeIds": [
+      "cond_5r"
+    ],
     "iconName": "sky_clearing_swing.png"
   },
   {
     "id": "cond_7l",
     "name": {
+      "ar": "الوقوف مجدداً",
       "da": "Tilbage på benene",
       "de": "Wieder auf den Füßen",
       "en": "Back On Your Feet",
@@ -1052,6 +1117,7 @@
     "category": "CONDITIONING",
     "isMajor": true,
     "description": {
+      "ar": "عندما تكون مصاباً بجروح خطيرة، تتجدد صحتك إلى حد معين.",
       "da": "Når du er kritisk såret, regenererer dit helbred til en vis grænse.",
       "de": "Wenn du lebensgefährlich verletzt bist, regeneriert sich deine Gesundheit bis zu einem gewissen Wert.",
       "en": "When you're critically hurt, your health regenerates until a certain limit.",
@@ -1075,6 +1141,7 @@
     },
     "maxPoints": 1,
     "impactedSkill": {
+      "ar": "تجديد الصحة",
       "da": "Helbredsregenerering",
       "de": "Gesundheitsregeneration",
       "en": "Health Regeneration",
@@ -1101,12 +1168,16 @@
       "x": 20,
       "y": 15
     },
-    "prerequisiteNodeIds": ["cond_6l", "cond_6c"],
+    "prerequisiteNodeIds": [
+      "cond_6l",
+      "cond_6c"
+    ],
     "iconName": "back_on_your_feet.png"
   },
   {
     "id": "cond_7r",
     "name": {
+      "ar": "منشة الذباب",
       "da": "Fluesmækker",
       "de": "Fliegenklatsche",
       "en": "Flyswatter",
@@ -1131,6 +1202,7 @@
     "category": "CONDITIONING",
     "isMajor": true,
     "description": {
+      "ar": "هجمة اشتباك واحدة تدمر Tick و Pop و Wasp و Turret.",
       "da": "Et enkelt nærkampsangreb ødelægger en Flåt, Pop, Hveps og Tårn.",
       "de": "Wespen und Geschütztürme können nun mit einem Nahkampfangriff zerstört werden.",
       "en": "A single melee attack destroys a Tick, Pop, Wasp and Turret.",
@@ -1154,6 +1226,7 @@
     },
     "maxPoints": 1,
     "impactedSkill": {
+      "ar": "ضرر الاشتباك",
       "da": "Nærkampsskade",
       "de": "Nahkampfschaden",
       "en": "Melee Damage",
@@ -1180,12 +1253,16 @@
       "x": 30,
       "y": 15
     },
-    "prerequisiteNodeIds": ["cond_6r", "cond_6c"],
+    "prerequisiteNodeIds": [
+      "cond_6r",
+      "cond_6c"
+    ],
     "iconName": "flyswatter.png"
   },
   {
     "id": "mob_1",
     "name": {
+      "ar": "متسلق رشيق",
       "da": "Smidig klatrer",
       "de": "Flinker Kletterer",
       "en": "Nimble Climber",
@@ -1210,6 +1287,7 @@
     "category": "MOBILITY",
     "isMajor": true,
     "description": {
+      "ar": "يمكنك التسلق والقفز بسرعة أكبر.",
       "da": "Du kan klatre og springe over hurtigere.",
       "de": "Du kannst schneller klettern und hechten.",
       "en": "You can climb and vault more quickly.",
@@ -1233,6 +1311,7 @@
     },
     "maxPoints": 5,
     "impactedSkill": {
+      "ar": "سرعة التسلق والقفز",
       "da": "Klatre- og springhastighed",
       "de": "Kletter- und Sprunggeschwindigkeit",
       "en": "Climb and Vault Speed",
@@ -1265,6 +1344,7 @@
   {
     "id": "mob_2l",
     "name": {
+      "ar": "عداء ماراثون",
       "da": "Maratonløber",
       "de": "Marathonläufer",
       "en": "Marathon Runner",
@@ -1289,6 +1369,7 @@
     "category": "MOBILITY",
     "isMajor": false,
     "description": {
+      "ar": "الحركة تكلف قدرة تحمل أقل.",
       "da": "Bevægelse koster mindre udholdenhed.",
       "de": "Das Bewegen kostet weniger Ausdauer.",
       "en": "Moving around costs less stamina.",
@@ -1312,6 +1393,7 @@
     },
     "maxPoints": 5,
     "impactedSkill": {
+      "ar": "تقليل تكلفة القدرة على التحمل",
       "da": "Reduktion af udholdenhedsomkostning",
       "de": "Ausdauerkostenreduzierung",
       "en": "Stamina Cost Reduction",
@@ -1338,12 +1420,15 @@
       "x": 45,
       "y": 65
     },
-    "prerequisiteNodeIds": ["mob_1"],
+    "prerequisiteNodeIds": [
+      "mob_1"
+    ],
     "iconName": "marathon_runner.png"
   },
   {
     "id": "mob_2r",
     "name": {
+      "ar": "انزلاق وتزحلق",
       "da": "Glid og skrid",
       "de": "Rutschen und Flutschen",
       "en": "Slip and Slide",
@@ -1368,6 +1453,7 @@
     "category": "MOBILITY",
     "isMajor": false,
     "description": {
+      "ar": "يمكنك الانزلاق لمسافة أبعد وأسرع.",
       "da": "Du kan glide længere og hurtigere.",
       "de": "Du kannst schneller und weiter rutschen.",
       "en": "You can slide further and faster.",
@@ -1391,6 +1477,7 @@
     },
     "maxPoints": 5,
     "impactedSkill": {
+      "ar": "مسافة الانزلاق",
       "da": "Glideafstand",
       "de": "Rutschdistanz",
       "en": "Slide Distance",
@@ -1417,12 +1504,15 @@
       "x": 55,
       "y": 65
     },
-    "prerequisiteNodeIds": ["mob_1"],
+    "prerequisiteNodeIds": [
+      "mob_1"
+    ],
     "iconName": "slip_and_slide.png"
   },
   {
     "id": "mob_3l",
     "name": {
+      "ar": "رئتان شابتان",
       "da": "Ungdommelige lunger",
       "de": "Junge Lunge",
       "en": "Youthful Lungs",
@@ -1447,6 +1537,7 @@
     "category": "MOBILITY",
     "isMajor": false,
     "description": {
+      "ar": "زيادة القدرة على التحمل القصوى.",
       "da": "Øg din maksimale udholdenhed.",
       "de": "Erhöht deine max. Ausdauer.",
       "en": "Increase your max stamina.",
@@ -1470,6 +1561,7 @@
     },
     "maxPoints": 5,
     "impactedSkill": {
+      "ar": "القدرة على التحمل القصوى",
       "da": "Maks. udholdenhed",
       "de": "Max. Ausdauer",
       "en": "Max Stamina",
@@ -1496,12 +1588,15 @@
       "x": 45,
       "y": 55
     },
-    "prerequisiteNodeIds": ["mob_2l"],
+    "prerequisiteNodeIds": [
+      "mob_2l"
+    ],
     "iconName": "youthful_lungs.png"
   },
   {
     "id": "mob_3r",
     "name": {
+      "ar": "كواحل قوية",
       "da": "Stærke ankler",
       "de": "Robuste Fußgelenke",
       "en": "Sturdy Ankles",
@@ -1526,6 +1621,7 @@
     "category": "MOBILITY",
     "isMajor": false,
     "description": {
+      "ar": "تتلقى ضرر سقوط أقل عند السقوط من ارتفاع غير مميت.",
       "da": "Du tager mindre faldskade, når du falder fra en ikke-dødelig højde.",
       "de": "Wenn du aus einer nicht tödlichen Höhe fällst, erleidest du weniger Fallschaden.",
       "en": "You take less fall damage when falling from a non-lethal height.",
@@ -1549,6 +1645,7 @@
     },
     "maxPoints": 5,
     "impactedSkill": {
+      "ar": "تقليل ضرر السقوط",
       "da": "Reduktion af faldskade",
       "de": "Fallschadensreduzierung",
       "en": "Fall Damage Reduction",
@@ -1575,12 +1672,15 @@
       "x": 55,
       "y": 55
     },
-    "prerequisiteNodeIds": ["mob_2r"],
+    "prerequisiteNodeIds": [
+      "mob_2r"
+    ],
     "iconName": "sturdy_ankles.png"
   },
   {
     "id": "mob_4l",
     "name": {
+      "ar": "الحفاظ على الزخم",
       "da": "Bær momentet",
       "de": "Den Schwung mitnehmen",
       "en": "Carry The Momentum",
@@ -1605,6 +1705,7 @@
     "category": "MOBILITY",
     "isMajor": true,
     "description": {
+      "ar": "بعد دحروجة المراوغة بالركض، لا يستهلك الركض قدرة على التحمل لفترة قصيرة. لديه فترة تهدئة بين الاستخدامات.",
       "da": "Efter en sprint-undvigerulle, bruger sprint ikke udholdenhed i kort tid. Har en afkølingsperiode mellem brug.",
       "de": "Für kurze Zeit nach einer Ausweichrolle verbraucht das Sprinten keine Ausdauer. Nach dem Einsatz läuft eine Abklingzeit.",
       "en": "After a Sprint Dodge Roll, sprinting does not consume stamina for a short time. Has a cooldown between uses.",
@@ -1628,6 +1729,7 @@
     },
     "maxPoints": 1,
     "impactedSkill": {
+      "ar": "تقليل تكلفة القدرة على التحمل",
       "da": "Reduktion af udholdenhedsomkostning",
       "de": "Ausdauerkostenreduzierung",
       "en": "Stamina Cost Reduction",
@@ -1654,12 +1756,15 @@
       "x": 45,
       "y": 45
     },
-    "prerequisiteNodeIds": ["mob_3l"],
+    "prerequisiteNodeIds": [
+      "mob_3l"
+    ],
     "iconName": "carry_the_momentum.png"
   },
   {
     "id": "mob_4r",
     "name": {
+      "ar": "تمشية مهدئة",
       "da": "Beroligende gåtur",
       "de": "Kleiner Spaziergang",
       "en": "Calming Stroll",
@@ -1684,6 +1789,7 @@
     "category": "MOBILITY",
     "isMajor": true,
     "description": {
+      "ar": "أثناء المشي، تتجدد قدرتك على التحمل كما لو كنت واقفاً.",
       "da": "Mens du går, regenererer din udholdenhed, som om du stod stille.",
       "de": "Wenn du gehst, regeneriert sich deine Ausdauer genauso wie beim Stehen.",
       "en": "While walking, your stamina regenerates as if you were standing still.",
@@ -1707,6 +1813,7 @@
     },
     "maxPoints": 1,
     "impactedSkill": {
+      "ar": "تجديد القدرة على التحمل",
       "da": "Udholdenhedsregenerering",
       "de": "Ausdauerregeneration",
       "en": "Stamina Regeneration",
@@ -1733,12 +1840,15 @@
       "x": 55,
       "y": 45
     },
-    "prerequisiteNodeIds": ["mob_3r"],
+    "prerequisiteNodeIds": [
+      "mob_3r"
+    ],
     "iconName": "calming_stroll.png"
   },
   {
     "id": "mob_5c",
     "name": {
+      "ar": "ازحف قبل أن تمشي",
       "da": "Kravle før du går",
       "de": "Auf allen Vieren",
       "en": "Crawl Before You Walk",
@@ -1763,6 +1873,7 @@
     "category": "MOBILITY",
     "isMajor": false,
     "description": {
+      "ar": "عندما تكون طريحاً، تزحف بشكل أسرع.",
       "da": "Når du er nede, kravler du hurtigere.",
       "de": "Du kriechst schneller, wenn du entkräftet bist.",
       "en": "When you're downed, you crawl faster.",
@@ -1786,6 +1897,7 @@
     },
     "maxPoints": 5,
     "impactedSkill": {
+      "ar": "سرعة الحركة",
       "da": "Bevægelseshastighed",
       "de": "Bewegungsgeschwindigkeit",
       "en": "Movement Speed",
@@ -1812,12 +1924,16 @@
       "x": 50,
       "y": 35
     },
-    "prerequisiteNodeIds": ["mob_4l", "mob_4r"],
+    "prerequisiteNodeIds": [
+      "mob_4l",
+      "mob_4r"
+    ],
     "iconName": "crawl_before_you_walk.png"
   },
   {
     "id": "mob_5l",
     "name": {
+      "ar": "دحروجة سهلة",
       "da": "Ubesværet rulle",
       "de": "Mühelose Rolle",
       "en": "Effortless Roll",
@@ -1842,6 +1958,7 @@
     "category": "MOBILITY",
     "isMajor": false,
     "description": {
+      "ar": "دحروجات المراوغة تكلف قدرة تحمل أقل.",
       "da": "Undvigeruller koster mindre udholdenhed.",
       "de": "Ausweichrollen kosten weniger Ausdauer.",
       "en": "Dodge Rolls cost less stamina.",
@@ -1865,6 +1982,7 @@
     },
     "maxPoints": 5,
     "impactedSkill": {
+      "ar": "تقليل تكلفة القدرة على التحمل",
       "da": "Reduktion af udholdenhedsomkostning",
       "de": "Ausdauerkostenreduzierung",
       "en": "Stamina Cost Reduction",
@@ -1891,12 +2009,15 @@
       "x": 45,
       "y": 35
     },
-    "prerequisiteNodeIds": ["mob_4l"],
+    "prerequisiteNodeIds": [
+      "mob_4l"
+    ],
     "iconName": "effortless_roll.png"
   },
   {
     "id": "mob_5r",
     "name": {
+      "ar": "الانطلاق من الجدار",
       "da": "Af væggen",
       "de": "Weg von der Wand",
       "en": "Off The Wall",
@@ -1921,6 +2042,7 @@
     "category": "MOBILITY",
     "isMajor": false,
     "description": {
+      "ar": "يمكنك القفز من الجدار لمسافة أبعد.",
       "da": "Du kan springe længere fra væggen.",
       "de": "Dein Wandsprung reicht weiter.",
       "en": "You can Wall Leap further.",
@@ -1944,6 +2066,7 @@
     },
     "maxPoints": 5,
     "impactedSkill": {
+      "ar": "مسافة القفز من الجدار",
       "da": "Vægspringafstand",
       "de": "Wandsprungdistanz",
       "en": "Wall Leap Distance",
@@ -1970,12 +2093,15 @@
       "x": 55,
       "y": 35
     },
-    "prerequisiteNodeIds": ["mob_4r"],
+    "prerequisiteNodeIds": [
+      "mob_4r"
+    ],
     "iconName": "off_the_wall.png"
   },
   {
     "id": "mob_6c",
     "name": {
+      "ar": "واثب نشيط",
       "da": "Energisk springer",
       "de": "Heftiger Hechter",
       "en": "Vigorous Vaulter",
@@ -2000,6 +2126,7 @@
     "category": "MOBILITY",
     "isMajor": false,
     "description": {
+      "ar": "لم يعد القفز يتباطأ عند الإجهاد.",
       "da": "Spring bremses ikke længere, når du er udtømt.",
       "de": "Du hechtest nicht länger langsamer, wenn du erschöpft bist.",
       "en": "Vaulting is no longer slowed down while exhausted.",
@@ -2023,6 +2150,7 @@
     },
     "maxPoints": 1,
     "impactedSkill": {
+      "ar": "سرعة التسلق والقفز",
       "da": "Klatre- og springhastighed",
       "de": "Kletter- und Sprunggeschwindigkeit",
       "en": "Climb and Vault Speed",
@@ -2049,12 +2177,15 @@
       "x": 50,
       "y": 25
     },
-    "prerequisiteNodeIds": ["mob_5c"],
+    "prerequisiteNodeIds": [
+      "mob_5c"
+    ],
     "iconName": "vigorous_vaulter.png"
   },
   {
     "id": "mob_6l",
     "name": {
+      "ar": "قفزة بطولية",
       "da": "Heroisk spring",
       "de": "Heroischer Sprung",
       "en": "Heroic Leap",
@@ -2079,6 +2210,7 @@
     "category": "MOBILITY",
     "isMajor": false,
     "description": {
+      "ar": "يمكنك تنفيذ دحروجات المراوغة بالركض لمسافة أبعد.",
       "da": "Du kan udføre sprint-undvigeruller længere.",
       "de": "Du sprintest nach einer Ausweichrolle weiter.",
       "en": "You can Sprint Dodge Roll further.",
@@ -2102,6 +2234,7 @@
     },
     "maxPoints": 5,
     "impactedSkill": {
+      "ar": "مسافة الدحروجة",
       "da": "Rulleafstand",
       "de": "Rolldistanz",
       "en": "Roll Distance",
@@ -2128,12 +2261,15 @@
       "x": 45,
       "y": 25
     },
-    "prerequisiteNodeIds": ["mob_5l"],
+    "prerequisiteNodeIds": [
+      "mob_5l"
+    ],
     "iconName": "heroic_leap.png"
   },
   {
     "id": "mob_6r",
     "name": {
+      "ar": "جاهز للتدحرج",
       "da": "Klar til at rulle",
       "de": "Auf die Plätze, Fertig, Rollen",
       "en": "Ready To Roll",
@@ -2158,6 +2294,7 @@
     "category": "MOBILITY",
     "isMajor": false,
     "description": {
+      "ar": "عند السقوط، تزداد نافذة الوقت لتنفيذ دحروجة التعافي.",
       "da": "Når du falder, øges dit tidsvindue til at udføre en gendannelsesrulle.",
       "de": "Das Zeit, um im Fallen eine Abfangrolle auszuführen, ist größer.",
       "en": "When falling, your timing window to perform a Recovery Roll is increased.",
@@ -2181,6 +2318,7 @@
     },
     "maxPoints": 5,
     "impactedSkill": {
+      "ar": "نافذة دحروجة التعافي",
       "da": "Gendannelsesrullevindue",
       "de": "Erholungsrollen-Zeitfenster",
       "en": "Recover Roll Window",
@@ -2207,12 +2345,15 @@
       "x": 55,
       "y": 25
     },
-    "prerequisiteNodeIds": ["mob_5r"],
+    "prerequisiteNodeIds": [
+      "mob_5r"
+    ],
     "iconName": "ready_to_roll.png"
   },
   {
     "id": "mob_7l",
     "name": {
+      "ar": "وثبات تلو وثبات",
       "da": "Spring på spring på spring",
       "de": "Und Hopp und Hopp und Hopp",
       "en": "Vaults on Vaults on Vaults",
@@ -2237,6 +2378,7 @@
     "category": "MOBILITY",
     "isMajor": true,
     "description": {
+      "ar": "القفز لا يكلف قدرة تحمل بعد الآن.",
       "da": "Spring koster ikke længere udholdenhed.",
       "de": "Hechten kostet keine Ausdauer mehr.",
       "en": "Vaulting no longer costs stamina.",
@@ -2260,6 +2402,7 @@
     },
     "maxPoints": 1,
     "impactedSkill": {
+      "ar": "تقليل تكلفة القدرة على التحمل",
       "da": "Reduktion af udholdenhedsomkostning",
       "de": "Ausdauerkostenreduzierung",
       "en": "Stamina Cost Reduction",
@@ -2286,12 +2429,16 @@
       "x": 45,
       "y": 15
     },
-    "prerequisiteNodeIds": ["mob_6l", "mob_6c"],
+    "prerequisiteNodeIds": [
+      "mob_6l",
+      "mob_6c"
+    ],
     "iconName": "vaults_on_vaults_on_vaults.png"
   },
   {
     "id": "mob_7r",
     "name": {
+      "ar": "نابض الوثب",
       "da": "Springfjær",
       "de": "Hechtsprung",
       "en": "Vault Spring",
@@ -2316,6 +2463,7 @@
     "category": "MOBILITY",
     "isMajor": true,
     "description": {
+      "ar": "يسمح لك بالقفز في نهاية الوثبة.",
       "da": "Lader dig springe i slutningen af et spring.",
       "de": "Damit kannst du am Ende eines Hechtsprungs springen.",
       "en": "Lets you jump at the end of a vault.",
@@ -2339,6 +2487,7 @@
     },
     "maxPoints": 1,
     "impactedSkill": {
+      "ar": "قفزة الوثب",
       "da": "Springspring",
       "de": "Sprungsprung",
       "en": "Vault Jump",
@@ -2365,12 +2514,16 @@
       "x": 55,
       "y": 15
     },
-    "prerequisiteNodeIds": ["mob_6r", "mob_6c"],
+    "prerequisiteNodeIds": [
+      "mob_6r",
+      "mob_6c"
+    ],
     "iconName": "vault_spring.png"
   },
   {
     "id": "surv_1",
     "name": {
+      "ar": "جاثم رشيق",
       "da": "Smidig krybende",
       "de": "Gelenkiger Kriecher",
       "en": "Agile Croucher",
@@ -2395,6 +2548,7 @@
     "category": "SURVIVAL",
     "isMajor": true,
     "description": {
+      "ar": "سرعة حركتك أثناء الانحناء تزداد.",
       "da": "Din bevægelseshastighed, mens du kryber, er øget.",
       "de": "Du bewegst dich in geduckter Haltung schneller.",
       "en": "Your movement speed while crouching is increased.",
@@ -2418,6 +2572,7 @@
     },
     "maxPoints": 5,
     "impactedSkill": {
+      "ar": "سرعة الحركة",
       "da": "Bevægelseshastighed",
       "de": "Bewegungsgeschwindigkeit",
       "en": "Movement Speed",
@@ -2450,6 +2605,7 @@
   {
     "id": "surv_2l",
     "name": {
+      "ar": "غرائز الناهب",
       "da": "Plyndrers instinkter",
       "de": "Instinkte des Plünderers",
       "en": "Looter's Instincts",
@@ -2474,6 +2630,7 @@
     "category": "SURVIVAL",
     "isMajor": false,
     "description": {
+      "ar": "عند البحث في حاوية، يتم الكشف عن الغنائم بشكل أسرع.",
       "da": "Når du søger i en beholder, afsløres byttet hurtigere.",
       "de": "Wenn du einen Container durchsuchst, findest du Beute schneller.",
       "en": "When searching a container, loot is revealed faster.",
@@ -2497,6 +2654,7 @@
     },
     "maxPoints": 5,
     "impactedSkill": {
+      "ar": "سرعة النهب",
       "da": "Plyndringshastighed",
       "de": "Plünderungsgeschwindigkeit",
       "en": "Loot Speed",
@@ -2523,12 +2681,15 @@
       "x": 70,
       "y": 65
     },
-    "prerequisiteNodeIds": ["surv_1"],
+    "prerequisiteNodeIds": [
+      "surv_1"
+    ],
     "iconName": "looters_instincts.png"
   },
   {
     "id": "surv_2r",
     "name": {
+      "ar": "قرفصاء منشطة",
       "da": "Revitaliserende knebøjning",
       "de": "Erholsame Hocke",
       "en": "Revitalizing Squat",
@@ -2553,6 +2714,7 @@
     "category": "SURVIVAL",
     "isMajor": false,
     "description": {
+      "ar": "يزداد تجديد القدرة على التحمل أثناء الانحناء.",
       "da": "Udholdenhedsregenerering, mens du kryber, er øget.",
       "de": "Die Ausdauerregeneration während des Duckens wird erhöht.",
       "en": "Stamina regeneration while crouched is increased.",
@@ -2576,6 +2738,7 @@
     },
     "maxPoints": 5,
     "impactedSkill": {
+      "ar": "تجديد القدرة على التحمل",
       "da": "Udholdenhedsregenerering",
       "de": "Ausdauerregeneration",
       "en": "Stamina Regeneration",
@@ -2602,12 +2765,15 @@
       "x": 80,
       "y": 65
     },
-    "prerequisiteNodeIds": ["surv_1"],
+    "prerequisiteNodeIds": [
+      "surv_1"
+    ],
     "iconName": "revitalizing_squat.png"
   },
   {
     "id": "surv_3l",
     "name": {
+      "ar": "منقب صامت",
       "da": "Stille plyndrer",
       "de": "Leiser Beutemacher",
       "en": "Silent Scavenger",
@@ -2632,6 +2798,7 @@
     "category": "SURVIVAL",
     "isMajor": false,
     "description": {
+      "ar": "تصدر ضجيجًا أقل عند النهب",
       "da": "Du laver mindre støj, når du plyndrer",
       "de": "Du bist beim Plündern weniger laut.",
       "en": "You make less noise when looting",
@@ -2655,6 +2822,7 @@
     },
     "maxPoints": 5,
     "impactedSkill": {
+      "ar": "تقليل الضوضاء",
       "da": "Støjreduktion",
       "de": "Lärmreduzierung",
       "en": "Noise Reduction",
@@ -2681,12 +2849,15 @@
       "x": 70,
       "y": 55
     },
-    "prerequisiteNodeIds": ["surv_2l"],
+    "prerequisiteNodeIds": [
+      "surv_2l"
+    ],
     "iconName": "silent_scavenger.png"
   },
   {
     "id": "surv_3r",
     "name": {
+      "ar": "تصنيع أثناء الجولة",
       "da": "Felthåndværk",
       "de": "Herstellung in der Runde",
       "en": "In-Round Crafting",
@@ -2711,6 +2882,7 @@
     "category": "SURVIVAL",
     "isMajor": false,
     "description": {
+      "ar": "يفتح القدرة على تصنيع العناصر ميدانيًا أثناء التواجد في السطح.",
       "da": "Låser op for evnen til at lave genstande i felten.",
       "de": "Schaltet die Fähigkeit frei, an der Oberfläche Gegenstände herzustellen.",
       "en": "Unlocks the ability to field-craft items while topside.",
@@ -2734,6 +2906,7 @@
     },
     "maxPoints": 1,
     "impactedSkill": {
+      "ar": "التصنيع الميداني",
       "da": "Felthåndværk",
       "de": "Feldhandwerk",
       "en": "Field Crafting",
@@ -2760,12 +2933,15 @@
       "x": 80,
       "y": 55
     },
-    "prerequisiteNodeIds": ["surv_2r"],
+    "prerequisiteNodeIds": [
+      "surv_2r"
+    ],
     "iconName": "in_round_crafting.png"
   },
   {
     "id": "surv_4l",
     "name": {
+      "ar": "المعاناة بصمت",
       "da": "Lide i stilhed",
       "de": "Schweigend leidend",
       "en": "Suffer In Silence",
@@ -2790,6 +2966,7 @@
     "category": "SURVIVAL",
     "isMajor": true,
     "description": {
+      "ar": "عندما تكون مصابًا بجروح خطيرة، تصدر حركتك ضجيجًا أقل.",
       "da": "Mens du er kritisk såret, laver din bevægelse mindre støj.",
       "de": "Wenn du lebensgefährlich verletzt bist, bewegst du dich weniger laut.",
       "en": "While critically hurt, your movement makes less noise.",
@@ -2813,6 +2990,7 @@
     },
     "maxPoints": 1,
     "impactedSkill": {
+      "ar": "تقليل الضوضاء",
       "da": "Støjreduktion",
       "de": "Lärmreduzierung",
       "en": "Noise Reduction",
@@ -2839,12 +3017,15 @@
       "x": 70,
       "y": 45
     },
-    "prerequisiteNodeIds": ["surv_3l"],
+    "prerequisiteNodeIds": [
+      "surv_3l"
+    ],
     "iconName": "suffer_in_silence.png"
   },
   {
     "id": "surv_4r",
     "name": {
+      "ar": "كالجديد",
       "da": "Som ny",
       "de": "So gut wie neu",
       "en": "Good As New",
@@ -2869,6 +3050,7 @@
     "category": "SURVIVAL",
     "isMajor": true,
     "description": {
+      "ar": "أثناء وجودك تحت تأثير العلاج، يزداد تجديد القدرة على التحمل.",
       "da": "Mens du er under en helbredelseseffekt, øges udholdenhedsregenerering.",
       "de": "Deine Audauerregeneration ist erhöht, wenn du unter dem Effekt einer Heilung stehst.",
       "en": "While under a healing effect, stamina regeneration is increased.",
@@ -2892,6 +3074,7 @@
     },
     "maxPoints": 1,
     "impactedSkill": {
+      "ar": "تجديد القدرة على التحمل",
       "da": "Udholdenhedsregenerering",
       "de": "Ausdauerregeneration",
       "en": "Stamina Regeneration",
@@ -2918,12 +3101,15 @@
       "x": 80,
       "y": 45
     },
-    "prerequisiteNodeIds": ["surv_3r"],
+    "prerequisiteNodeIds": [
+      "surv_3r"
+    ],
     "iconName": "good_as_new.png"
   },
   {
     "id": "surv_5c",
     "name": {
+      "ar": "مصلح متجول",
       "da": "Rejsende piller",
       "de": "Fahrender Tüftler",
       "en": "Traveling Tinkerer",
@@ -2948,6 +3134,7 @@
     "category": "SURVIVAL",
     "isMajor": false,
     "description": {
+      "ar": "يفتح عناصر إضافية للتصنيع الميداني.",
       "da": "Låser op for yderligere genstande at lave i felten.",
       "de": "Schaltet zusätzliche Gegenstände zum Herstellen im Feld frei.",
       "en": "Unlocks additional items to field craft.",
@@ -2971,6 +3158,7 @@
     },
     "maxPoints": 1,
     "impactedSkill": {
+      "ar": "التصنيع الميداني",
       "da": "Felthåndværk",
       "de": "Feldhandwerk",
       "en": "Field Crafting",
@@ -2996,12 +3184,16 @@
       "x": 75,
       "y": 35
     },
-    "prerequisiteNodeIds": ["surv_4l", "surv_4r"],
+    "prerequisiteNodeIds": [
+      "surv_4l",
+      "surv_4r"
+    ],
     "iconName": "traveling_tinkerer.png"
   },
   {
     "id": "surv_5l",
     "name": {
+      "ar": "أكتاف عريضة",
       "da": "Brede skuldre",
       "de": "Breite Schultern",
       "en": "Broad Shoulders",
@@ -3026,6 +3218,7 @@
     "category": "SURVIVAL",
     "isMajor": false,
     "description": {
+      "ar": "يزيد من الحد الأقصى للعناصر التي يمكنك حملها.",
       "da": "Øger den maksimale mængde genstande, du kan bære.",
       "de": "Erhöht das Gewicht, das du maximal tragen kannst.",
       "en": "Increases the maximum amount of items you can carry.",
@@ -3049,6 +3242,7 @@
     },
     "maxPoints": 5,
     "impactedSkill": {
+      "ar": "الحد الأقصى للمخزون",
       "da": "Maks. inventar",
       "de": "Max. Inventar",
       "en": "Max Inventory",
@@ -3070,17 +3264,22 @@
       "zh-CN": "负重上限",
       "zh-TW": "最大背包容量"
     },
-    "knownValue": ["+2 kg per point"],
+    "knownValue": [
+      "+2 kg per point"
+    ],
     "position": {
       "x": 70,
       "y": 35
     },
-    "prerequisiteNodeIds": ["surv_4l"],
+    "prerequisiteNodeIds": [
+      "surv_4l"
+    ],
     "iconName": "broad_shoulders.png"
   },
   {
     "id": "surv_5r",
     "name": {
+      "ar": "بغل عنيد",
       "da": "Stædigt muldyr",
       "de": "Sturer Esel",
       "en": "Stubborn Mule",
@@ -3105,6 +3304,7 @@
     "category": "SURVIVAL",
     "isMajor": false,
     "description": {
+      "ar": "يتأثر تجديد القدرة على التحمل بشكل أقل بكونك مثقلًا جدًا.",
       "da": "Din udholdenhedsregenerering påvirkes mindre af at være overbelastet.",
       "de": "Deine Ausdauerregeneration wird durch Überlastung weniger stark beeinträchtigt.",
       "en": "Your stamina regeneration is less affected by being over-encumbered.",
@@ -3128,6 +3328,7 @@
     },
     "maxPoints": 5,
     "impactedSkill": {
+      "ar": "تجديد القدرة على التحمل",
       "da": "Udholdenhedsregenerering",
       "de": "Ausdauerregeneration",
       "en": "Stamina Regeneration",
@@ -3154,12 +3355,15 @@
       "x": 80,
       "y": 35
     },
-    "prerequisiteNodeIds": ["surv_4r"],
+    "prerequisiteNodeIds": [
+      "surv_4r"
+    ],
     "iconName": "stubborn_mule.png"
   },
   {
     "id": "surv_6c",
     "name": {
+      "ar": "بقايا المغير",
       "da": "En raiders rester",
       "de": "Des einen Leid",
       "en": "One Raider's Scraps",
@@ -3184,6 +3388,7 @@
     "category": "SURVIVAL",
     "isMajor": false,
     "description": {
+      "ar": "عند نهب حاويات المغيرين، لديك فرصة صغيرة للعثور على عناصر إضافية مصنوعة ميدانيًا.",
       "da": "Når du plyndrer raider-beholdere, har du en lille chance for at finde yderligere feltlavede genstande.",
       "de": "Beim Plündern von Raider-Containern besteht die kleine Chance, zusätzliche im Feld hergestellte Gegenstände zu finden.",
       "en": "When looting Raider containers, you have a small chance of finding additional field-crafted items.",
@@ -3207,6 +3412,7 @@
     },
     "maxPoints": 5,
     "impactedSkill": {
+      "ar": "فرصة العثور على الغنائم",
       "da": "Chance for at finde bytte",
       "de": "Beutefundchance",
       "en": "Loot Find Chance",
@@ -3233,12 +3439,15 @@
       "x": 75,
       "y": 25
     },
-    "prerequisiteNodeIds": ["surv_5c"],
+    "prerequisiteNodeIds": [
+      "surv_5c"
+    ],
     "iconName": "one_raiders_scraps.png"
   },
   {
     "id": "surv_6l",
     "name": {
+      "ar": "حظ الناهب",
       "da": "Plyndrers held",
       "de": "Plünderglück",
       "en": "Looter's Luck",
@@ -3263,6 +3472,7 @@
     "category": "SURVIVAL",
     "isMajor": false,
     "description": {
+      "ar": "أثناء النهب، هناك فرصة للكشف عن ضعف العناصر في وقت واحد.",
       "da": "Mens du plyndrer, er der en chance for at afsløre dobbelt så mange genstande på én gang.",
       "de": "Beim Plündern besteht die Chance, doppelt so viele Gegenstände gleichzeitig zu entdecken.",
       "en": "While looting, there's a chance to reveal twice as many items at once.",
@@ -3286,6 +3496,7 @@
     },
     "maxPoints": 5,
     "impactedSkill": {
+      "ar": "سرعة البحث عن الغنائم",
       "da": "Byttesøgningshastighed",
       "de": "Beutesuchgeschwindigkeit",
       "en": "Loot Search Speed",
@@ -3312,12 +3523,15 @@
       "x": 70,
       "y": 25
     },
-    "prerequisiteNodeIds": ["surv_5l"],
+    "prerequisiteNodeIds": [
+      "surv_5l"
+    ],
     "iconName": "looters_luck.png"
   },
   {
     "id": "surv_6r",
     "name": {
+      "ar": "ثلاث أنفاس عميقة",
       "da": "Tre dybe vejrtrækninger",
       "de": "Drei tiefe Atemzüge",
       "en": "Three Deep Breaths",
@@ -3342,6 +3556,7 @@
     "category": "SURVIVAL",
     "isMajor": false,
     "description": {
+      "ar": "بعد استنزاف القدرة على التحمل بسبب قدرة ما، تتعافى بشكل أسرع.",
       "da": "Efter en evne tømmer din udholdenhed, kommer du dig hurtigere.",
       "de": "Nachdem eine Fähigkeit dir Ausdauer geraubt hat, stellst du sie schneller wieder her.",
       "en": "After an ability drains your stamina, you recover more quickly.",
@@ -3365,6 +3580,7 @@
     },
     "maxPoints": 5,
     "impactedSkill": {
+      "ar": "تجديد القدرة على التحمل",
       "da": "Udholdenhedsregenerering",
       "de": "Ausdauerregeneration",
       "en": "Stamina Regeneration",
@@ -3391,12 +3607,15 @@
       "x": 80,
       "y": 25
     },
-    "prerequisiteNodeIds": ["surv_5r"],
+    "prerequisiteNodeIds": [
+      "surv_5r"
+    ],
     "iconName": "three_deep_breaths.png"
   },
   {
     "id": "surv_7l",
     "name": {
+      "ar": "اختراق أمني",
       "da": "Sikkerhedsbrud",
       "de": "Sicherheitslücke",
       "en": "Security Breach",
@@ -3421,6 +3640,7 @@
     "category": "SURVIVAL",
     "isMajor": true,
     "description": {
+      "ar": "يسمح لك باقتحام خزائن الأمن.",
       "da": "Lader dig bryde sikkerhedsskabe op.",
       "de": "Damit kannst du Sicherheitsschließfächer aufbrechen.",
       "en": "Lets you breach Security Lockers.",
@@ -3444,6 +3664,7 @@
     },
     "maxPoints": 1,
     "impactedSkill": {
+      "ar": "اختراق أمني",
       "da": "Sikkerhedsbrud",
       "de": "Sicherheitsverletzung",
       "en": "Security Breach",
@@ -3470,12 +3691,16 @@
       "x": 70,
       "y": 15
     },
-    "prerequisiteNodeIds": ["surv_6l", "surv_6c"],
+    "prerequisiteNodeIds": [
+      "surv_6l",
+      "surv_6c"
+    ],
     "iconName": "security_breach.png"
   },
   {
     "id": "surv_7r",
     "name": {
+      "ar": "كاسحة ألغام",
       "da": "Minerydder",
       "de": "Minenräumer",
       "en": "Minesweeper",
@@ -3500,6 +3725,7 @@
     "category": "SURVIVAL",
     "isMajor": true,
     "description": {
+      "ar": "يمكن إبطال مفعول الألغام والمتفجرات القابلة للنشر عند الاقتراب منها.",
       "da": "Miner og eksplosive udplaceringer kan desarmeres, når du er tæt på.",
       "de": "Minen und explosive Gegenstände können aus unmittelbarer Nähe entschärft werden.",
       "en": "Mines and explosive deployables can be defused when in close proximity.",
@@ -3523,6 +3749,7 @@
     },
     "maxPoints": 1,
     "impactedSkill": {
+      "ar": "إبطال المتفجرات",
       "da": "Desarmering af eksplosiver",
       "de": "Sprengstoff entschärfen",
       "en": "Explosive Defuse",
@@ -3549,7 +3776,10 @@
       "x": 80,
       "y": 15
     },
-    "prerequisiteNodeIds": ["surv_6r", "surv_6c"],
+    "prerequisiteNodeIds": [
+      "surv_6r",
+      "surv_6c"
+    ],
     "iconName": "minesweeper.png"
   }
 ]

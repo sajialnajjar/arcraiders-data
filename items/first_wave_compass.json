@@ -1,6 +1,7 @@
 {
   "id": "first_wave_compass",
   "name": {
+    "ar": "بوصلة الموجة الأولى",
     "da": "Første Bølge-kompas",
     "de": "Erste-Welle-Kompass",
     "en": "First Wave Compass",
@@ -23,6 +24,7 @@
     "zh-TW": "第一波羅盤"
   },
   "description": {
+    "ar": "مغبرة ولكنها فعالة، ساعدت هذه في رسم المسار عندما بدا أن كل شيء قد ضاع.",
     "da": "Støvede men funktionelle, disse hjalp med at kortlægge en kurs, da alt syntes tabt.",
     "de": "Staubig, aber funktionsfähig, halfen diese dabei, einen Kurs zu bestimmen, als alles verloren schien.",
     "en": "Dusty but functional, these helped chart a course when all seemed lost.",

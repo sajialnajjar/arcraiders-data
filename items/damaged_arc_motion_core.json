@@ -1,6 +1,7 @@
 {
   "id": "damaged_arc_motion_core",
   "name": {
+    "ar": "نواة حركة ARC تالفة",
     "da": "Beskadiget ARC-bevægelseskerne",
     "de": "Beschädigter ARC-Bewegungskern",
     "en": "Damaged ARC Motion Core",
@@ -23,6 +24,7 @@
     "zh-TW": "損壞的ARC動力核心"
   },
   "description": {
+    "ar": "يمكن إعادة تدويرها إلى مواد حرفية.",
     "da": "Kan genbruges til håndværksmaterialer.",
     "de": "Kann zu Herstellungsmaterialien recycelt werden.",
     "en": "Can be recycled into crafting materials.",

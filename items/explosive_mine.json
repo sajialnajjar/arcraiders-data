@@ -1,6 +1,7 @@
 {
   "id": "explosive_mine",
   "name": {
+    "ar": "لغم متفجر",
     "da": "Sprengmine",
     "de": "Sprengmine",
     "en": "Explosive Mine",
@@ -23,6 +24,7 @@
     "zh-TW": "爆炸地雷"
   },
   "description": {
+    "ar": "جهاز متفجر يعمل بالاقتراب ينفجر عند اقتراب الأعداء.",
     "da": "En naerhedsudlost sprengstofenhed, der detonerer, nar fjender naermer sig.",
     "de": "Eine Mine, die bei Annäherung explodiert und dabei alles beschädigt, was sich in ihrem Radius befindet.",
     "en": "A proximity-triggered explosive device that detonates when enemies approach.",
@@ -53,6 +55,7 @@
   "effects": {
     "Damage": {
       "value": 100,
+      "ar": "الضرر",
       "da": "Skade",
       "de": "Schaden",
       "en": "Damage",
@@ -76,6 +79,7 @@
     },
     "Radius": {
       "value": "5m",
+      "ar": "نصف القطر",
       "da": "Radius",
       "de": "Radius",
       "en": "Radius",

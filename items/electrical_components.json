@@ -1,6 +1,7 @@
 {
   "id": "electrical_components",
   "name": {
+    "ar": "مكونات كهربائية",
     "da": "Elektriske komponenter",
     "de": "Elektrische Komponenten",
     "en": "Electrical Components",
@@ -23,6 +24,7 @@
     "zh-TW": "電子元件"
   },
   "description": {
+    "ar": "تستخدم لصناعة مجموعة واسعة من العناصر. يمكن إعادة تدويرها إلى مواد حرفية. تستخدم لصناعة: تكتيكي Mk. 2, قتالي Mk. 2, نهب Mk. 2, شاحن درع التيار, قنبلة استدراج",
     "da": "Bruges til at fremstille en bred vifte af genstande. Kan genbruges til håndværksmaterialer. Bruges til at fremstille: Tactical Mk. 2, Combat Mk. 2, Looting Mk. 2, Surge skjoldoplader, Lokkegranate",
     "de": "Wird zur Herstellung verschiedenster Gegenstände verwendet. Kann zu Herstellungsmaterialien recycelt werden. Zur Herstellung von: Taktisch-Marke 2, Kampf-Marke 2, Beute-Marke 2, Schockmine, Ködergranate",
     "en": "Used to craft a wide range of items. Can be recycled into crafting materials. Used to craft: Tactical Mk. 2, Combat Mk. 2, Looting Mk. 2, Surge Shield Recharger, Lure Grenade",

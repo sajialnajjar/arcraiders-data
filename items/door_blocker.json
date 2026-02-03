@@ -1,6 +1,7 @@
 {
   "id": "door_blocker",
   "name": {
+    "ar": "مانع فتح الباب",
     "da": "Dørblokering",
     "de": "Türblocker",
     "en": "Door Blocker",
@@ -23,6 +24,7 @@
     "zh-TW": "門鎖"
   },
   "description": {
+    "ar": "آلية قفل يمكن وضعها على الأبواب المعدنية الكبيرة لتقييد الدخول.",
     "da": "En låsemekanisme, der kan placeres på store metaldøre for at begrænse adgang.",
     "de": "Ein Sperrmechanismus, der an großen Metalltüren platziert werden kann, um den Zugang einzuschränken.",
     "en": "A locking mechanism that can be placed on large metal doors to limit access.",

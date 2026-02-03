@@ -1,6 +1,7 @@
 {
   "id": "defibrillator",
   "name": {
+    "ar": "مزيل الرجفان",
     "da": "Hjertestarter",
     "de": "Defibrillator",
     "en": "Defibrillator",
@@ -23,6 +24,7 @@
     "zh-TW": "除顫器"
   },
   "description": {
+    "ar": "حقنة تنعش المغيرين الساقطين بسرعة وتستعيد بعض الصحة.",
     "da": "En indsprøjtning, der hurtigt genopliver faldne raidere og gendanner noget helbred.",
     "de": "Eine Injektion, die entkräftete Raider schnell wiederbelebt und etwas Gesundheit wiederherstellt.",
     "en": "An injection that quickly revives downed raiders and restores some health.",
@@ -52,6 +54,7 @@
   "effects": {
     "Healing": {
       "value": 50,
+      "ar": "الشفاء",
       "da": "Helbredelse",
       "de": "Heilen",
       "en": "Healing",
@@ -75,6 +78,7 @@
     },
     "Use Time": {
       "value": "1.5s",
+      "ar": "وقت الاستخدام",
       "da": "Brugstid",
       "de": "Verwendungszeit",
       "en": "Use Time",

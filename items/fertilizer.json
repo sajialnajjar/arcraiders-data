@@ -1,6 +1,7 @@
 {
   "id": "fertilizer",
   "name": {
+    "ar": "سماد",
     "da": "Gødning",
     "de": "Dünger",
     "en": "Fertilizer",
@@ -23,6 +24,7 @@
     "zh-TW": "肥料"
   },
   "description": {
+    "ar": "قد تساوي بضعة عملات.",
     "da": "Kan være nogle mønter værd.",
     "de": "Vielleicht ein paar Münzen wert.",
     "en": "May be worth a few coins.",

@@ -1,6 +1,7 @@
 {
   "id": "cracked_bioscanner",
   "name": {
+    "ar": "ماسح حيوي متصدع",
     "da": "Revnet bioskanner",
     "de": "Angeschlagener Bioscanner",
     "en": "Cracked Bioscanner",
@@ -23,6 +24,7 @@
     "zh-TW": "破裂的生物掃描儀"
   },
   "description": {
+    "ar": "يمكن إعادة تدويره إلى مواد حرفية.",
     "da": "Kan genbruges til håndværksmaterialer.",
     "de": "Kann zu Herstellungsmaterialien recycelt werden.",
     "en": "Can be recycled into crafting materials.",

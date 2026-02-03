@@ -1,6 +1,7 @@
 {
   "id": "dam_testing_annex_key",
   "name": {
+    "ar": "مفتاح ملحق الاختبار في السد",
     "da": "Dæmnings-testanneks-nøgle",
     "de": "Testanbauschlüssel (Damm)",
     "en": "Dam Testing Annex Key",
@@ -23,6 +24,7 @@
     "zh-TW": "水壩測試附屬建築鑰匙"
   },
   "description": {
+    "ar": "يفتح بابًا في ملحق الاختبار في ساحات معركة السد.",
     "da": "Låser en dør op i testannekset på Dam Battlegrounds.",
     "de": "Öffnet eine Tür im Testanbau an den Damm-Schlachtfeldern.",
     "en": "Unlocks a door in the Testing Annex on Dam Battlegrounds.",

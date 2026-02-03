@@ -1,6 +1,7 @@
 {
   "id": "fireworks_box",
   "name": {
+    "ar": "صندوق ألعاب نارية",
     "da": "Fyrværkerikasse",
     "de": "Feuerwerkskiste",
     "en": "Fireworks Box",
@@ -23,6 +24,7 @@
     "zh-TW": "煙火箱"
   },
   "description": {
+    "ar": "ترتيب من الألعاب النارية المبهرة يتم تفعيله عن بعد، من المؤكد أنه سيقدم عرضاً.",
     "da": "Et fjernudløst arrangement af blændende fyrværkeri – helt sikkert et show.",
     "de": "Eine ferngesteuerte Anordnung funkelnder Feuerwerkskörper – garantiert ein Spektakel.",
     "en": "A remotely triggered arrangement of dazzling fireworks, sure to put on a show.",

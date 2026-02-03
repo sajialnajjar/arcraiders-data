@@ -1,6 +1,7 @@
 {
   "id": "explosive_compound",
   "name": {
+    "ar": "مركب متفجر",
     "da": "Eksplosiv blanding",
     "de": "Explosive Substanz",
     "en": "Explosive Compound",
@@ -23,6 +24,7 @@
     "zh-TW": "爆炸化合物"
   },
   "description": {
+    "ar": "يستخدم لصناعة المتفجرات. يستخدم لصناعة: Wolfpack, Explosive Mine, Blaze Grenade, Heavy Fuze Grenade",
     "da": "Bruges til at lave sprængstoffer. Bruges til at lave: Wolfpack, eksplosiv mine, flammegranат, tung lunтеgranat",
     "de": "Wird zur Herstellung von Sprengstoffen verwendet. Zur Herstellung von: Trailblazer, Wolfpack, Sprengmine, Flammengranate, Deadline",
     "en": "Used to craft explosives. Used to craft: Wolfpack, Explosive Mine, Blaze Grenade, Heavy Fuze Grenade",

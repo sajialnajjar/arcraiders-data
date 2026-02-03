@@ -1,6 +1,7 @@
 {
   "id": "crude_explosives",
   "name": {
+    "ar": "متفجرات بدائية",
     "da": "Groft sprængstof",
     "de": "Rohe Sprengstoffe",
     "en": "Crude Explosives",
@@ -23,6 +24,7 @@
     "zh-TW": "簡易炸藥"
   },
   "description": {
+    "ar": "تُستخدم لصناعة المتفجرات. يمكن إعادة تدويرها إلى مواد حرفية. تُستخدم لصناعة: Launcher Ammo, Explosive Compound, Snap Blast Grenade, Shrapnel Grenade, Trigger 'Nade",
     "da": "Bruges til at lave sprængstoffer. Kan genbruges til håndværksmaterialer. Bruges til at lave: Affyringsmunition, Eksplosiv blanding, Lyneksplosionsgranat, Splintgranat, Udløsergranat",
     "de": "Wird zur Herstellung von Sprengstoffen verwendet. Kann zu Herstellungsmaterialien recycelt werden. Zur Herstellung von: Werfermunition, Suchgranate, Sprungmine: Impuls, Snapshot-Granate, Schrapnellgranate. Kann geworfen werden, um ein lautes Geräusch zu erzeugen.",
     "en": "Used to craft explosives. Can be recycled into crafting materials. Used to craft: Launcher Ammo, Explosive Compound, Snap Blast Grenade, Shrapnel Grenade, Trigger 'Nade",
@@ -53,6 +55,7 @@
   "effects": {
     "Damage": {
       "value": 15,
+      "ar": "الضرر",
       "da": "Skade",
       "de": "Schaden",
       "en": "Damage",
@@ -76,6 +79,7 @@
     },
     "Radius": {
       "value": "1.5m",
+      "ar": "نصف القطر",
       "da": "Radius",
       "de": "Radius",
       "en": "Radius",

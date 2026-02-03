@@ -1,6 +1,7 @@
 {
   "id": "firecracker",
   "name": {
+    "ar": "مفرقعة",
     "da": "Kinaput",
     "de": "Böller",
     "en": "Firecracker",
@@ -23,6 +24,7 @@
     "zh-TW": "爆竹"
   },
   "description": {
+    "ar": "جهاز يطلق شراراً ويفرقع بطريقة ممتعة.",
     "da": "En enhed, der gnistrer og knalder på en behagelig måde.",
     "de": "Ein Gerät, das angenehm funkelt und knallt.",
     "en": "A device that sparks and pops in a pleasant manner.",
@@ -52,6 +54,7 @@
   "effects": {
     "Duration": {
       "value": "7.5s",
+      "ar": "المدة",
       "da": "Varighed",
       "de": "Dauer",
       "en": "Duration",

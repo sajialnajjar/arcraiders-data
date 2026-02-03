@@ -1,6 +1,7 @@
 {
   "id": "fruit_mix",
   "name": {
+    "ar": "خليط فواكه",
     "da": "Frugtblanding",
     "de": "Obstmischung",
     "en": "Fruit Mix",
@@ -23,6 +24,7 @@
     "zh-TW": "水果拼盤"
   },
   "description": {
+    "ar": "عنصر غذائي يزيد باعتدال من الصحة والقدرة على التحمل.",
     "da": "En madvare, der moderat øger både helbred og udholdenhed.",
     "de": "Ein Lebensmittel, das Gesundheit und Ausdauer moderat erhöht.",
     "en": "A food item that moderately increases both health and stamina.",
@@ -53,6 +55,7 @@
   "effects": {
     "Healing": {
       "value": 25,
+      "ar": "شفاء",
       "da": "Helbredelse",
       "de": "Heilen",
       "en": "Healing",
@@ -76,6 +79,7 @@
     },
     "Stamina": {
       "value": 50,
+      "ar": "قدرة تحمل",
       "da": "Udholdenhed",
       "de": "Ausdauer",
       "en": "Stamina",
@@ -99,6 +103,7 @@
     },
     "Use Time": {
       "value": "2s",
+      "ar": "وقت الاستخدام",
       "da": "Brugstid",
       "de": "Verwendungszeit",
       "en": "Use Time",

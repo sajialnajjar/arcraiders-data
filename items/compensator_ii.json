@@ -1,6 +1,7 @@
 {
   "id": "compensator_ii",
   "name": {
+    "ar": "معادل II",
     "da": "Kompensator II",
     "de": "Kompensator II",
     "en": "Compensator II",
@@ -23,6 +24,7 @@
     "zh-TW": "補償器 II"
   },
   "description": {
+    "ar": "يقلل بشكل متوسط من تشتت الطلقات لكل طلقة. متوافق مع: Arpeggio, Ferro, Renegade, Anvil, Stitcher",
     "da": "Reducerer moderat spredning per skud. Kompatibel med: Arpeggio, Ferro, Renegade, Anvil, Stitcher",
     "de": "Verringert die Streuung pro Schuss moderat. Kompatibel mit: Arpeggio, Ferro, Renegade, Anvil, Stitcher",
     "en": "Moderately reduces per-shot dispersion. Compatible with: Arpeggio, Ferro, Renegade, Anvil, Stitcher",
@@ -48,10 +50,17 @@
   "rarity": "Uncommon",
   "value": 2000,
   "weightKg": 0.5,
-  "compatibleWith": ["Arpeggio", "Rattler", "Kettle", "Burletta", "Stitcher"],
+  "compatibleWith": [
+    "Arpeggio",
+    "Rattler",
+    "Kettle",
+    "Burletta",
+    "Stitcher"
+  ],
   "effects": {
     "Reduced Max Shot Dispersion": {
       "value": "20%",
+      "ar": "تقليل تشتت الطلقات الأقصى",
       "da": "Reduceret maksimal skudspredning",
       "de": "Verrinterte max. Streuung pro Schuss",
       "en": "Reduced Max Shot Dispersion",
@@ -75,6 +84,7 @@
     },
     "Reduced Per-Shot Dispersion": {
       "value": "40%",
+      "ar": "تقليل تشتت الطلقة الواحدة",
       "da": "Reduceret spredning per skud",
       "de": "Verringerte Streuung pro Schuss",
       "en": "Reduced Per-Shot Dispersion",

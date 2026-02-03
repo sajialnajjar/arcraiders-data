@@ -1,6 +1,7 @@
 {
   "id": "equalizer",
   "name": {
+    "ar": "إيكوالايزر",
     "da": "Equalizer",
     "de": "Equalizer",
     "en": "Equalizer",
@@ -23,6 +24,7 @@
     "zh-TW": "平衡者"
   },
   "description": {
+    "ar": "بندقية شعاع تجريبية عالية السعة.",
     "da": "En eksperimentel stråleriffel med høj kapacitet.",
     "de": "Ein experimentelles Strahlengewehr mit hoher Kapazität.",
     "en": "A high capacity experimental beam rifle.",
@@ -53,6 +55,7 @@
   "effects": {
     "Ammo Type": {
       "value": "Energy Clip",
+      "ar": "نوع الذخيرة",
       "da": "Ammunitionstype",
       "de": "Munitionstyp",
       "en": "Ammo Type",
@@ -76,6 +79,7 @@
     },
     "ARC Armor Penetration": {
       "value": "Very Strong",
+      "ar": "اختراق دروع ARC",
       "da": "ARC rustningspenetrering",
       "de": "ARC-Rüstungsdurchdringung",
       "en": "ARC Armor Penetration",
@@ -99,6 +103,7 @@
     },
     "Firing Mode": {
       "value": "Fully-Automatic",
+      "ar": "وضع الإطلاق",
       "da": "Skydemetode",
       "de": "Feuermodus",
       "en": "Firing Mode",
@@ -122,6 +127,7 @@
     },
     "Magazine Size": {
       "value": 50,
+      "ar": "حجم المخزن",
       "da": "Magasinstørrelse",
       "de": "Magazingröße",
       "en": "Magazine Size",

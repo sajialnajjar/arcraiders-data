@@ -1,6 +1,7 @@
 {
   "id": "durable_cloth",
   "name": {
+    "ar": "قماش متين",
     "da": "Holdbart stof",
     "de": "Strapazierfähiges Stoffstück",
     "en": "Durable Cloth",
@@ -23,6 +24,7 @@
     "zh-TW": "耐用布料"
   },
   "description": {
+    "ar": "يستخدم لصناعة الإمدادات الطبية. يستخدم لصناعة: ضمادة عشبية, ضمادة معقمة",
     "da": "Bruges til at lave medicinske forsyninger. Bruges til at lave: Urtebandage, Steriliseret bandage",
     "de": "Wird zur Herstellung von medizinischen Objekte verwendet. Zur Herstellung von: Kräuterverband, Steriler Verband",
     "en": "Used to craft medical supplies. Used to craft: Herbal Bandage, Sterilized Bandage",

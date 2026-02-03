@@ -1,6 +1,7 @@
 {
   "id": "exodus_modules",
   "name": {
+    "ar": "وحدات إكسودوس",
     "da": "Exodus-moduler",
     "de": "Exodus-Module",
     "en": "Exodus Modules",
@@ -23,6 +24,7 @@
     "zh-TW": "出埃及模組"
   },
   "description": {
+    "ar": "تستخدم لصناعة مجموعة واسعة من العناصر. تستخدم لصناعة: Tempest, Vulcano, Hullcracker, Bobcat, Snap Hook",
     "da": "Bruges til at lave en bred vifte af genstande. Bruges til at lave: Tempest, Vulcano, Hullcracker, Bobcat, Snap Hook",
     "de": "Wird zur Herstellung verschiedenster Gegenstände verwendet. Zur Herstellung von: Tempest, Vulcano, Hüllenbrecher, Bobcat, Karabinerhaken",
     "en": "Used to craft a wide range of items. Used to craft: Tempest, Vulcano, Hullcracker, Bobcat, Snap Hook",

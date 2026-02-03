@@ -1,6 +1,7 @@
 {
   "id": "expired_pasta",
   "name": {
+    "ar": "معكرونة منتهية الصلاحية",
     "da": "Udløbet pasta",
     "de": "Abgelaufene Nudeln",
     "en": "Expired Pasta",
@@ -23,6 +24,7 @@
     "zh-TW": "過期義大利麵"
   },
   "description": {
+    "ar": "تجاوزت صلاحيتها بكثير. يمكن (على مضض) استهلاكها لاستعادة كميات صغيرة من الصحة.",
     "da": "Langt over udløbsdatoen. Kan (modvilligt) indtages for at gendanne små mængder helbred.",
     "de": "Völlig abgelaufene Nudeln. Kann (widerstrebend) zur Regeneration einer kleinen Menge Gesundheit verzehrt werden.",
     "en": "Way pasta its prime. Can (reluctantly) be consumed to restore small amounts of health.",
@@ -53,6 +55,7 @@
   "effects": {
     "Healing": {
       "value": 15,
+      "ar": "الشفاء",
       "da": "Helbredelse",
       "de": "Heilen",
       "en": "Healing",
@@ -76,6 +79,7 @@
     },
     "Use Time": {
       "value": "1s",
+      "ar": "وقت الاستخدام",
       "da": "Brugstid",
       "de": "Verwendungszeit",
       "en": "Use Time",

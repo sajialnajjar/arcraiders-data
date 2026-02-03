@@ -1,6 +1,7 @@
 {
   "id": "damaged_hornet_driver",
   "name": {
+    "ar": "محرك دبور تالف",
     "da": "Beskadiget Hornet-driver",
     "de": "Beschädigter Hornissenantrieb",
     "en": "Damaged Hornet Driver",
@@ -23,6 +24,7 @@
     "zh-TW": "損壞的黃蜂驅動器"
   },
   "description": {
+    "ar": "يمكن إعادة تدويره إلى مواد حرفية.",
     "da": "Kan genbruges til håndværksmaterialer.",
     "de": "Kann zu Herstellungsmaterialien recycelt werden.",
     "en": "Can be recycled into crafting materials.",

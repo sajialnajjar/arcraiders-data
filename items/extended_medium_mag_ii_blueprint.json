@@ -1,6 +1,7 @@
 {
   "id": "extended_medium_mag_ii_blueprint",
   "name": {
+    "ar": "مخطط مخزن متوسط مطول II",
     "da": "Udvidet medium magasin II-tegning",
     "de": "Bauplan: Erweitertes mittelschweres Magazin II",
     "en": "Extended Medium Mag II Blueprint",
@@ -23,6 +24,7 @@
     "zh-TW": "延長中型彈匣II藍圖"
   },
   "description": {
+    "ar": "يوسع سعة الذخيرة بشكل معتدل للأسلحة المتوافقة التي تستخدم ذخيرة متوسطة.",
     "da": "Udvider ammunitionskapaciteten af kompatible våben, der bruger medium ammunition, moderat.",
     "de": "Erhöht die Munitionskapazität kompatibler Waffen mit mittlerer Munition erheblich. Kompatibel mit: Arpeggio, Renegade, Venator, Tempest, Renegade, Torrente",
     "en": "Moderately extends the ammo capacity of compatible weapons that use medium ammo.",

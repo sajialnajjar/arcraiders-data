@@ -1,6 +1,7 @@
 {
   "id": "extended_medium_mag_iii",
   "name": {
+    "ar": "مخزن متوسط مطول III",
     "da": "Udvidet medium magasin III",
     "de": "Erweitertes mittelschweres Magazin III",
     "en": "Extended Medium Mag III",
@@ -23,6 +24,7 @@
     "zh-TW": "延長中型彈匣 III"
   },
   "description": {
+    "ar": "يوسع سعة الذخيرة بشكل كبير للأسلحة المتوافقة التي تستخدم ذخيرة متوسطة. متوافق مع: Arpeggio, Renegade, Venator, Tempest, Torrente",
     "da": "Udvider betydeligt ammunitionskapaciteten for kompatible våben, der bruger medium ammunition. Kompatibel med: Arpeggio, Renegade, Venator, Tempest, Torrente",
     "de": "Erhöht die Munitionskapazität kompatibler Waffen mit mittlerer Munition erheblich. Kompatibel mit: Arpeggio, Renegade, Venator, Tempest, Torrente",
     "en": "Significantly extends the ammo capacity of compatible weapons that use medium ammo. Compatible with: Arpeggio, Renegade, Venator, Tempest, Torrente",
@@ -51,6 +53,7 @@
   "effects": {
     "Magazine Size": {
       "value": "+12",
+      "ar": "حجم المخزن",
       "da": "Magasinstørrelse",
       "de": "Magazingröße",
       "en": "Magazine Size",

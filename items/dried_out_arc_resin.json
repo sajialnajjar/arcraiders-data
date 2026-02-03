@@ -1,6 +1,7 @@
 {
   "id": "dried_out_arc_resin",
   "name": {
+    "ar": "راتنج ARC جاف",
     "da": "Udtørret ARC-harpiks",
     "de": "Ausgetrocknetes ARC-Harz",
     "en": "Dried-Out ARC Resin",
@@ -23,6 +24,7 @@
     "zh-TW": "乾涸的ARC樹脂"
   },
   "description": {
+    "ar": "تم الحصول عليه من أعداء ARC أو الأنشطة. يمكن إعادة تدويره إلى بلاستيك.",
     "da": "Opnået fra ARC-fjender eller aktiviteter. Kan genbruges til plastik.",
     "de": "Von ARC-Gegnern oder -Aktivitäten erhalten. Kann zu Plastik recycelt werden.",
     "en": "Obtained from ARC enemies or activities. Can be recycled into plastic.",

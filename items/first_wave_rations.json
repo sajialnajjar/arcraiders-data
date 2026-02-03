@@ -1,6 +1,7 @@
 {
   "id": "first_wave_rations",
   "name": {
+    "ar": "مؤن الموجة الأولى",
     "da": "Første Bølge Rationer",
     "de": "Erste-Welle-Rationen",
     "en": "First Wave Rations",
@@ -23,6 +24,7 @@
     "zh-TW": "第一波配給"
   },
   "description": {
+    "ar": "غالباً ما يتم تسخينها فوق نيران خفية، ويقال إن هذه المؤن الضئيلة قد دعمت المقاومة.",
     "da": "Ofte opvarmet over diskrete bål, siges disse knappe forsyninger at have drevet en modstand.",
     "de": "Oft über versteckten Feuern erhitzt, sollen diese kargen Vorräte einen Widerstand angetrieben haben.",
     "en": "Often heated above discreet fires, these meager provisions are said to have fueled a resistance.",

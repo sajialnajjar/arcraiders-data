@@ -1,6 +1,7 @@
 {
   "id": "gas_grenade",
   "name": {
+    "ar": "قنبلة غاز",
     "da": "Gasgranat",
     "de": "Gasgranate",
     "en": "Gas Grenade",
@@ -23,6 +24,7 @@
     "zh-TW": "毒氣手榴彈"
   },
   "description": {
+    "ar": "قنبلة تصدر سحابة سامة عالقة عند الارتطام، تستنزف قدرة التحمل لأي مغيرين داخل نطاق تأثيرها.",
     "da": "En granat, der udsender en vedvarende giftig sky ved nedslag, som dræner udholdenheden hos alle raidere inden for dens virkningsområde.",
     "de": "Eine Granate, die beim Aufprall eine Giftwolke ausstößt, die Raidern in ihrem Wirkungsbereich Ausdauer raubt.",
     "en": "A grenade that emits a lingering toxic cloud on impact, draining the stamina of any Raiders within its area of effect.",
@@ -52,6 +54,7 @@
   "effects": {
     "Duration": {
       "value": "20s",
+      "ar": "المدة",
       "da": "Varighed",
       "de": "Dauer",
       "en": "Duration",
@@ -75,6 +78,7 @@
     },
     "Radius": {
       "value": "7.5m",
+      "ar": "نصف القطر",
       "da": "Radius",
       "de": "Radius",
       "en": "Radius",
@@ -98,6 +102,7 @@
     },
     "Stamina Drain": {
       "value": "25/s",
+      "ar": "استنزاف القدرة على التحمل",
       "da": "Udholdenhedsdræn",
       "de": "Ausdauerverbrauch",
       "en": "Stamina Drain",

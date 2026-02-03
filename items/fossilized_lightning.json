@@ -1,6 +1,7 @@
 {
   "id": "fossilized_lightning",
   "name": {
+    "ar": "برق متحجر",
     "da": "Fossiliseret lyn",
     "de": "Versteinerter Blitz",
     "en": "Fossilized Lightning",
@@ -23,6 +24,7 @@
     "zh-TW": "化石閃電"
   },
   "description": {
+    "ar": "عنصر لديه فرصة للظهور بعد ضربات البرق.",
     "da": "En genstand, der har en chance for at dukke op efter lynnedslag.",
     "de": "Ein Gegenstand, der nach Blitzeinschlägen mit einer gewissen Chance erscheinen kann.",
     "en": "An item that has a chance to spawn after lightning strikes.",

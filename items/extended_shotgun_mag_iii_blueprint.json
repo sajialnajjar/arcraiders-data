@@ -1,6 +1,7 @@
 {
   "id": "extended_shotgun_mag_iii_blueprint",
   "name": {
+    "ar": "مخطط مخزن بندقية رش مطول III",
     "da": "Udvidet haglgevær-magasin III Tegning",
     "de": "Bauplan: Erweitertes Schrotflintenmagazin III",
     "en": "Extended Shotgun Mag III Blueprint",
@@ -23,6 +24,7 @@
     "zh-TW": "擴展霰彈槍彈匣 III 藍圖"
   },
   "description": {
+    "ar": "يوسع سعة الذخيرة لبنادق الرش بشكل كبير.",
     "da": "Udvider haglgeværers ammunitionskapacitet betydeligt.",
     "de": "Erhöht die Munitionskapazität von Schrotflinten erheblich.",
     "en": "Significantly extends the ammo capacity of shotguns.",

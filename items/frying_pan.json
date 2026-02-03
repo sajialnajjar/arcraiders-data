@@ -1,6 +1,7 @@
 {
   "id": "frying_pan",
   "name": {
+    "ar": "مقلاة",
     "da": "Stegepande",
     "de": "Bratpfanne",
     "en": "Frying Pan",
@@ -23,6 +24,7 @@
     "zh-TW": "平底鍋"
   },
   "description": {
+    "ar": "يمكن إعادة تدويره إلى مواد تصنيع.",
     "da": "Kan genbruges til håndværksmaterialer.",
     "de": "Kann zu Herstellungsmaterialien recycelt werden.",
     "en": "Can be recycled into crafting materials.",

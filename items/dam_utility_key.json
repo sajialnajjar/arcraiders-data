@@ -1,6 +1,7 @@
 {
   "id": "dam_utility_key",
   "name": {
+    "ar": "مفتاح المرافق في السد",
     "da": "Dæmningens forsyningsnøgle",
     "de": "Damm-Versorgungsschlüssel",
     "en": "Dam Utility Key",
@@ -23,6 +24,7 @@
     "zh-TW": "水壩設施鑰匙"
   },
   "description": {
+    "ar": "مفتاح للوصول إلى المرافق في السد.",
     "da": "En nøgle til forsyningsadgang i dæmningen.",
     "de": "Ein Schlüssel für den Versorgungszugang im Damm.",
     "en": "A key for utility access in The Dam.",

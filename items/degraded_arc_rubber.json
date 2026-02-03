@@ -1,6 +1,7 @@
 {
   "id": "degraded_arc_rubber",
   "name": {
+    "ar": "مطاط ARC متدهور",
     "da": "Nedbrudt ARC-gummi",
     "de": "Zersetztes ARC-Gummi",
     "en": "Degraded ARC Rubber",
@@ -23,6 +24,7 @@
     "zh-TW": "劣化的ARC橡膠"
   },
   "description": {
+    "ar": "تم الحصول عليه من أعداء ARC أو الأنشطة. يمكن إعادة تدويره إلى مطاط.",
     "da": "Opnået fra ARC-fjender eller aktiviteter. Kan genbruges til gummi.",
     "de": "Von ARC-Gegnern oder -Aktivitäten erhalten. Kann zu Gummi recycelt werden.",
     "en": "Obtained from ARC enemies or activities. Can be recycled into rubber.",

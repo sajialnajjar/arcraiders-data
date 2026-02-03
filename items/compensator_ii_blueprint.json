@@ -1,6 +1,7 @@
 {
   "id": "compensator_ii_blueprint",
   "name": {
+    "ar": "مخطط معادل II",
     "da": "Kompensator II-tegning",
     "de": "Bauplan: Kompensator II",
     "en": "Compensator II Blueprint",
@@ -23,6 +24,7 @@
     "zh-TW": "補償器II藍圖"
   },
   "description": {
+    "ar": "يقلل بشكل متوسط من تشتت الطلقات لكل طلقة.",
     "da": "Reducerer spredning per skud moderat.",
     "de": "Verringert die Streuung pro Schuss moderat.",
     "en": "Moderately reduces per-shot dispersion.",

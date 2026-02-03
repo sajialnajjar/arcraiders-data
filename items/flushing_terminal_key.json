@@ -1,6 +1,7 @@
 {
   "id": "flushing_terminal_key",
   "name": {
+    "ar": "مفتاح محطة فلاشينغ",
     "da": "Nøgle til Flushing-terminalen",
     "de": "Schlüssel für das Flushing-Terminal",
     "en": "Flushing Terminal Key",
@@ -23,6 +24,7 @@
     "zh-TW": "沖洗終端機鑰匙"
   },
   "description": {
+    "ar": "يستخدم هذا المفتاح لمهمة 'The Stench of Corruption' لتفعيل محطة فلاشينغ",
     "da": "Denne nøgle bruges til opgaven \"The Stench of Corruption\" for at aktivere Flushing-terminalen",
     "de": "Dieser Schlüssel wird für die Quest \"The Stench of Corruption\" verwendet, um das Flushing Terminal zu aktivieren",
     "en": "This key is used for the quest The Stench of Corruption to activate the Flushing Terminal",

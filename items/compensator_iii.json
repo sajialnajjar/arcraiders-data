@@ -1,6 +1,7 @@
 {
   "id": "compensator_iii",
   "name": {
+    "ar": "معادل III",
     "da": "Kompensator III",
     "de": "Kompensator III",
     "en": "Compensator III",
@@ -23,6 +24,7 @@
     "zh-TW": "補償器 III"
   },
   "description": {
+    "ar": "يقلل بشكل متوسط من تشتت الطلقات لكل طلقة. متوافق مع: Arpeggio, Ferro, Renegade, Anvil, Stitcher",
     "da": "Reducerer moderat spredning per skud. Kompatibel med: Arpeggio, Ferro, Renegade, Anvil, Stitcher",
     "de": "Verringert die Streuung pro Schuss moderat. Kompatibel mit: Arpeggio, Ferro, Renegade, Anvil, Stitcher",
     "en": "Moderately reduces per-shot dispersion. Compatible with: Arpeggio, Ferro, Renegade, Anvil, Stitcher",
@@ -68,6 +70,7 @@
   "effects": {
     "Increased Durability Burn Rate": {
       "value": "20%",
+      "ar": "زيادة معدل استهلاك التحمل",
       "da": "Øget holdbarhedsforbrændingshastighed",
       "de": "Erhöhte Haltbarkeits-Verbrauchsrate",
       "en": "Increased Durability Burn Rate",
@@ -91,6 +94,7 @@
     },
     "Reduced Max Shot Dispersion": {
       "value": "30%",
+      "ar": "تقليل تشتت الطلقات الأقصى",
       "da": "Reduceret maksimal skudspredning",
       "de": "Verringerte max. Streuung pro Schuss",
       "en": "Reduced Max Shot Dispersion",
@@ -114,6 +118,7 @@
     },
     "Reduced Per-Shot Dispersion": {
       "value": "60%",
+      "ar": "تقليل تشتت الطلقة الواحدة",
       "da": "Reduceret spredning per skud",
       "de": "Verringerte Streuung pro Schuss",
       "en": "Reduced Per-Shot Dispersion",

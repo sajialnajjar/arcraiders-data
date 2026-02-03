@@ -1,6 +1,7 @@
 {
   "id": "combat_mk3_flanking_blueprint",
   "name": {
+    "ar": "مخطط قتال Mk. 3 (التفاف)",
     "da": "Kamp Mk. 3 (Flankerende) Tegning",
     "de": "Bauplan: Kampf-Marke 3 (Flankierend)",
     "en": "Combat Mk. 3 (Flanking) Blueprint",
@@ -23,6 +24,7 @@
     "zh-TW": "戰鬥 Mk. 3（側翼型）藍圖"
   },
   "description": {
+    "ar": "نسخة محسنة من تعزيز قتال II. مصممة لمناورات الالتفاف مع تحسين الحركة.",
     "da": "En forbedret version af Kamp II-forstaerkningen. Designet til flankerende manovrer med forbedret mobilitet.",
     "de": "Eine verbesserte Version des Kampf II-Augments. Fur Flankierungsmanover mit verbesserter Mobilitat entwickelt.",
     "en": "An improved version of the Combat II augment. Designed for flanking maneuvers with enhanced mobility.",

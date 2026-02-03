@@ -1,6 +1,7 @@
 {
   "id": "dam_staff_room_key",
   "name": {
+    "ar": "مفتاح غرفة الموظفين في السد",
     "da": "Dæmningens personalerumsnøgle",
     "de": "Damm-Personalraum-Schlüssel",
     "en": "Dam Staff Room Key",
@@ -23,6 +24,7 @@
     "zh-TW": "水壩員工室鑰匙"
   },
   "description": {
+    "ar": "مفتاح لغرفة الموظفين في السد.",
     "da": "En nøgle til personalerummet i dæmningen.",
     "de": "Ein Schlüssel zum Personalraum im Damm.",
     "en": "A key to the staff room in The Dam.",

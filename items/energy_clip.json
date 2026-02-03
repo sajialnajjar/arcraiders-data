@@ -1,6 +1,7 @@
 {
   "id": "energy_clip",
   "name": {
+    "ar": "مشط طاقة",
     "da": "Energiklips",
     "de": "Energieclip",
     "en": "Energy Clip",
@@ -23,6 +24,7 @@
     "zh-TW": "能量夾"
   },
   "description": {
+    "ar": "מתوافق مع: Equalizer, Jupiter",
     "da": "Kompatibel med: Equalizer, Jupiter",
     "de": "Munition, die für Energiewaffen genutzt wird. Mit einem Clip wird eine einzelne Waffe vollständig geladen. Kompatibel mit: Equalizer, Jupiter",
     "en": "Compatible with: Equalizer, Jupiter",
@@ -50,7 +52,10 @@
   "weightKg": 0.3,
   "stackSize": 5,
   "craftQuantity": 5,
-  "compatibleWith": ["Equalizer", "Jupiter"],
+  "compatibleWith": [
+    "Equalizer",
+    "Jupiter"
+  ],
   "craftBench": "workbench",
   "recipe": {
     "advanced_arc_powercell": 1,

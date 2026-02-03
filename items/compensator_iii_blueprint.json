@@ -1,6 +1,7 @@
 {
   "id": "compensator_iii_blueprint",
   "name": {
+    "ar": "مخطط معادل III",
     "da": "Kompensator III-tegning",
     "de": "Bauplan: Kompensator III",
     "en": "Compensator III Blueprint",
@@ -23,6 +24,7 @@
     "zh-TW": "補償器 III 藍圖"
   },
   "description": {
+    "ar": "يقلل بشكل متوسط من تشتت الطلقات لكل طلقة. متوافق مع: Arpeggio, Ferro, Renegade, Anvil, Stitcher",
     "da": "Reducerer moderat spredning per skud. Kompatibel med: Arpeggio, Ferro, Renegade, Anvil, Stitcher",
     "de": "Verringert die Streuung pro Schuss moderat. Kompatibel mit: Arpeggio, Ferro, Renegade, Anvil, Stitcher",
     "en": "Moderately reduces per-shot dispersion. Compatible with: Arpeggio, Ferro, Renegade, Anvil, Stitcher",

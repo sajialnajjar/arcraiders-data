@@ -1,6 +1,7 @@
 {
   "id": "fabric",
   "name": {
+    "ar": "قماش",
     "da": "Stof",
     "de": "Stoff",
     "en": "Fabric",
@@ -23,6 +24,7 @@
     "zh-TW": "布料"
   },
   "description": {
+    "ar": "يستخدم لصناعة الإمدادات الطبية والدروع. يمكن استخدامه لاستعادة كميات صغيرة من الصحة ببطء.",
     "da": "Bruges til at lave medicinske forsyninger og skjolde. Kan bruges til langsomt at gendanne små mængder helbred.",
     "de": "Wird zur Herstellung von medizinischen Objekten und Schilden verwendet. Zur Herstellung von: Verband, Strapazierfähiges Stoffstück. Kann zur allmählichen Regeneration einer kleinen Menge Gesundheit benutzt werden.",
     "en": "Used to craft medical supplies and shields. Can be used to slowly restore small amounts of health.",
@@ -53,6 +55,7 @@
   "effects": {
     "Duration": {
       "value": "25s",
+      "ar": "المدة",
       "da": "Varighed",
       "de": "Dauer",
       "en": "Duration",
@@ -76,6 +79,7 @@
     },
     "Healing": {
       "value": "0.4/s",
+      "ar": "الشفاء",
       "da": "Helbredelse",
       "de": "Heilen",
       "en": "Healing",
@@ -99,6 +103,7 @@
     },
     "Use Time": {
       "value": "1s",
+      "ar": "وقت الاستخدام",
       "da": "Brugstid",
       "de": "Verwendungszeit",
       "en": "Use Time",

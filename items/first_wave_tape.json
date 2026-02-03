@@ -1,6 +1,7 @@
 {
   "id": "first_wave_tape",
   "name": {
+    "ar": "شريط الموجة الأولى",
     "da": "Første Bølge Bånd",
     "de": "Erste-Welle-Band",
     "en": "First Wave Tape",
@@ -23,6 +24,7 @@
     "zh-TW": "第一波錄影帶"
   },
   "description": {
+    "ar": "شريط قديم عثر عليه داخل كاميرا فيديو قديمة ومتهالكة.",
     "da": "Et gammelt bånd fundet inde i et medtaget gammelt videokamera.",
     "de": "Ein altes Band, das in einem abgenutzten alten Camcorder gefunden wurde.",
     "en": "An old tape found inside a battered old camcorder.",

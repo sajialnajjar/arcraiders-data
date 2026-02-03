@@ -1,6 +1,7 @@
 {
   "id": "extended_light_mag_iii_blueprint",
   "name": {
+    "ar": "مخطط مخزن خفيف مطول III",
     "da": "Udvidet let magasin III-tegning",
     "de": "Bauplan: Erweitertes leichtes Magazin III",
     "en": "Extended Light Mag III Blueprint",
@@ -23,6 +24,7 @@
     "zh-TW": "延長輕型彈匣 III 藍圖"
   },
   "description": {
+    "ar": "يوسع سعة الذخيرة بشكل كبير للأسلحة المتوافقة التي تستخدم ذخيرة خفيفة.",
     "da": "Udvider ammunitionskapaciteten betydeligt for kompatible vaben der bruger let ammunition.",
     "de": "Erhoht die Munitionskapatitat kompatibler Waffen mit leichter Munition erheblich.",
     "en": "Significantly extends the ammo capacity of compatible weapons that use light ammo.",

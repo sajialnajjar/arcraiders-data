@@ -1,6 +1,7 @@
 {
   "id": "deflated_football",
   "name": {
+    "ar": "كرة قدم مفرغة من الهواء",
     "da": "Punkteret fodbold",
     "de": "Schlapper Fußball",
     "en": "Deflated Football",
@@ -23,6 +24,7 @@
     "zh-TW": "洩氣的足球"
   },
   "description": {
+    "ar": "بمجرد النظر إليها، تبدأ أنت أيضاً بالشعور بالفراغ قليلاً.",
     "da": "Bare ved at se på dette, begynder du også at føle dig lidt punkteret.",
     "de": "Beim Anblick dessen fühlst auch du dich etwas schlapp.",
     "en": "Just by looking at this, you too start to feel slightly deflated.",

@@ -1,6 +1,7 @@
 {
   "id": "complex_gun_parts_blueprint",
   "name": {
+    "ar": "مخطط أجزاء سلاح معقدة",
     "da": "Komplekse våbendele-tegning",
     "de": "Bauplan: Komplexe Waffenteile",
     "en": "Complex Gun Parts Blueprint",
@@ -23,6 +24,7 @@
     "zh-TW": "複雜槍械零件藍圖"
   },
   "description": {
+    "ar": "تُستخدم لصناعة أسلحة متقدمة.",
     "da": "Bruges til at lave avancerede våben.",
     "de": "Wird zur Herstellung von fortschrittlichen Waffen verwendet. Zur Herstellung von: Equalizer, Aphelion, Jupiter",
     "en": "Used to craft advanced weapons.",

@@ -1,6 +1,7 @@
 {
   "id": "fine_wristwatch",
   "name": {
+    "ar": "ساعة يد فاخرة",
     "da": "Fint armbåndsur",
     "de": "Edle Armbanduhr",
     "en": "Fine Wristwatch",
@@ -23,6 +24,7 @@
     "zh-TW": "精緻腕錶"
   },
   "description": {
+    "ar": "مثالية لمعرفة الوقت، وإظهار أنك شخص وقور للغاية.",
     "da": "Perfekt til at fortælle tiden og vise, at du er en yderst værdig person.",
     "de": "Perfekt, um zu sehen, wie spät es ist - und um zu zeigen, wie vornehm du bist.",
     "en": "Perfect for telling the time, and showcasing that you're an exceedingly dignified person.",

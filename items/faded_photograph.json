@@ -1,6 +1,7 @@
 {
   "id": "faded_photograph",
   "name": {
+    "ar": "صورة باهتة",
     "da": "Falmet fotografi",
     "de": "Verblichenes Foto",
     "en": "Faded Photograph",
@@ -23,6 +24,7 @@
     "zh-TW": "褪色的照片"
   },
   "description": {
+    "ar": "لقطة من العالم السابق، باهتة بفعل ضوء الشمس والزمن.",
     "da": "Et øjebliksbillede af verden før, falmet af sollys og tid.",
     "de": "Ein Foto von der alten Welt, durch Sonnenlicht und Alter längst verblichen.",
     "en": "A snapshot of the world before, faded by sunlight and time.",

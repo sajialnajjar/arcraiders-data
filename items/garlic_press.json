@@ -1,6 +1,7 @@
 {
   "id": "garlic_press",
   "name": {
+    "ar": "مكبس ثوم",
     "da": "Hvidløgspresser",
     "de": "Knoblauchpresse",
     "en": "Garlic Press",
@@ -23,6 +24,7 @@
     "zh-TW": "大蒜壓榨器"
   },
   "description": {
+    "ar": "يقوم بكبس الثوم والزيتون وربما أشياء أخرى كثيرة.",
     "da": "Den presser hvidløg, oliven og sandsynligvis mange andre ting.",
     "de": "Hiermit kann man Knoblauch, Oliven und wahrscheinlich noch andere Dinge pressen.",
     "en": "It'll press garlic, olives, and probably many other things.",

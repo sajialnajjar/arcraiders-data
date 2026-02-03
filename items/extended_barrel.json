@@ -1,6 +1,7 @@
 {
   "id": "extended_barrel",
   "name": {
+    "ar": "سبطانة مطولة",
     "da": "Forlænget løb",
     "de": "Verlängerter Lauf",
     "en": "Extended Barrel",
@@ -23,6 +24,7 @@
     "zh-TW": "加長槍管"
   },
   "description": {
+    "ar": "تزيد سرعة الرصاصة بشكل معتدل. متوافق مع: Tempest, Arpeggio, Ferro, Renegade, Anvil",
     "da": "Øger kuglehastigheden moderat. Kompatibel med: Tempest, Arpeggio, Ferro, Renegade, Anvil",
     "de": "Erhöht die Geschossgeschwindigkeit moderat. Kompatibel mit: Arpeggio, Rattler, Kettle, Ferro, Anvil",
     "en": "Moderately increases bullet velocity. Compatible with: Tempest, Arpeggio, Ferro, Renegade, Anvil",
@@ -52,6 +54,7 @@
   "effects": {
     "Increased Bullet Velocity": {
       "value": "25%",
+      "ar": "سرعة رصاصة متزايدة",
       "da": "Øget kuglehastighed",
       "de": "Erhöhte Geschossgeschwindigkeit",
       "en": "Increased Bullet Velocity",
@@ -75,6 +78,7 @@
     },
     "Increased Vertical Recoil": {
       "value": "15%",
+      "ar": "ارتداد عمودي متزايد",
       "da": "Øget lodret rekyl",
       "de": "Erhöhter vertikaler Rückstoß",
       "en": "Increased Vertical Recoil",

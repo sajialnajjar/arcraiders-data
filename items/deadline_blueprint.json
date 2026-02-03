@@ -1,6 +1,7 @@
 {
   "id": "deadline_blueprint",
   "name": {
+    "ar": "مخطط الموعد النهائي",
     "da": "Deadline-blåtryk",
     "de": "Bauplan: Deadline",
     "en": "Deadline Blueprint",
@@ -23,6 +24,7 @@
     "zh-TW": "最後期限藍圖"
   },
   "description": {
+    "ar": "يفتح القدرة على صناعة ألغام الموعد النهائي في طاولة المتفجرات.",
     "da": "Låser op for muligheden for at fremstille Deadline-miner ved sprængstofsbænken.",
     "de": "Schaltet die Möglichkeit frei, Deadline-Minen an der Sprengstoffwerkbank herzustellen.",
     "en": "Unlocks the ability to craft Deadline mines at the explosives bench.",

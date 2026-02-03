@@ -1,6 +1,7 @@
 {
   "id": "frequency_modulation_box",
   "name": {
+    "ar": "صندوق تعديل التردد",
     "da": "Frekvensmodulationsboks",
     "de": "Frequenzmodulationsbox",
     "en": "Frequency Modulation Box",
@@ -23,6 +24,7 @@
     "zh-TW": "頻率調變盒"
   },
   "description": {
+    "ar": "يمكن إعادة تدويره إلى مواد تصنيع.",
     "da": "Kan genbruges til håndværksmaterialer.",
     "de": "Kann zu Herstellungsmaterialien recycelt werden.",
     "en": "Can be recycled into crafting materials.",

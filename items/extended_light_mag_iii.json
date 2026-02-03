@@ -1,6 +1,7 @@
 {
   "id": "extended_light_mag_iii",
   "name": {
+    "ar": "مخزن خفيف مطول III",
     "da": "Udvidet let magasin III",
     "de": "Erweitertes leichtes Magazin III",
     "en": "Extended Light Mag III",
@@ -23,6 +24,7 @@
     "zh-TW": "延長輕型彈匣 III"
   },
   "description": {
+    "ar": "يوسع سعة الذخيرة بشكل كبير للأسلحة المتوافقة التي تستخدم ذخيرة خفيفة.",
     "da": "Udvider ammunitionskapaciteten betydeligt for kompatible våben der bruger let ammunition.",
     "de": "Erhöht die Munitionskapatität kompatibler Waffen mit leichter Munition erheblich.",
     "en": "Significantly extends the ammo capacity of compatible weapons that use light ammo.",
@@ -52,6 +54,7 @@
   "effects": {
     "Magazine Size": {
       "value": "+15",
+      "ar": "حجم المخزن",
       "da": "Magasinstørrelse",
       "de": "Magazingröße",
       "en": "Magazine Size",

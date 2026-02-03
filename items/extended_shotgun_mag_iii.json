@@ -1,6 +1,7 @@
 {
   "id": "extended_shotgun_mag_iii",
   "name": {
+    "ar": "مخزن بندقية رش مطول III",
     "da": "Udvidet haglgevær-magasin III",
     "de": "Erweitertes Schrotflintenmagazin III",
     "en": "Extended Shotgun Mag III",
@@ -23,6 +24,7 @@
     "zh-TW": "擴展霰彈槍彈匣 III"
   },
   "description": {
+    "ar": "يوسع سعة الذخيرة لبنادق الرش بشكل كبير. متوافق مع: Il Toro, Vulcano",
     "da": "Udvider haglgeværers ammunitionskapacitet betydeligt. Kompatibel med: Il Toro, Vulcano",
     "de": "Erhöht die Munitionskapazität von Schrotflinten erheblich. Kompatibel mit: Il Toro, Vulcano",
     "en": "Significantly extends the ammo capacity of shotguns. Compatible with: Il Toro, Vulcano",
@@ -51,6 +53,7 @@
   "effects": {
     "Magazine Size": {
       "value": "+6",
+      "ar": "حجم المخزن",
       "da": "Magasinstørrelse",
       "de": "Magazingröße",
       "en": "Magazine Size",

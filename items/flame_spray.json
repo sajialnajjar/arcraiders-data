@@ -1,6 +1,7 @@
 {
   "id": "flame_spray",
   "name": {
+    "ar": "رذاذ اللهب",
     "da": "Flammekaster",
     "de": "Flammen-Spray",
     "en": "Flame Spray",
@@ -23,6 +24,7 @@
     "zh-TW": "火焰噴射器"
   },
   "description": {
+    "ar": "سلاح ارتجالي كلاسيكي، من المؤكد أنه سيترك علامات حروق.",
     "da": "Et klassisk improviseret våben, der garanteret efterlader svidmærker.",
     "de": "Eine klassische Behelfswaffe. Hinterlässt garantiert Brandflecken.",
     "en": "A classic makeshift weapon, sure to leave scorch marks.",
@@ -51,6 +53,7 @@
   "effects": {
     "Damage": {
       "value": "10/s",
+      "ar": "الضرر",
       "da": "Skade",
       "de": "Schaden",
       "en": "Damage",
@@ -74,6 +77,7 @@
     },
     "Durability": {
       "value": "100/100",
+      "ar": "المتانة",
       "da": "Holdbarhed",
       "de": "Haltbarkeit",
       "en": "Durability",

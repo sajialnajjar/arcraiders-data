@@ -1,6 +1,7 @@
 {
   "id": "film_reel",
   "name": {
+    "ar": "بكرة فيلم",
     "da": "Filmrulle",
     "de": "Filmrolle",
     "en": "Film Reel",
@@ -23,6 +24,7 @@
     "zh-TW": "膠片捲軸"
   },
   "description": {
+    "ar": "قد تساوي بضعة عملات.",
     "da": "Kan være nogle mønter værd.",
     "de": "Vielleicht ein paar Münzen wert",
     "en": "May be worth a few coins.",

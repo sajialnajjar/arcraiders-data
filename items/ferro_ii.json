@@ -1,6 +1,7 @@
 {
   "id": "ferro_ii",
   "name": {
+    "ar": "فيرو II",
     "da": "Ferro II",
     "de": "Ferro II",
     "en": "Ferro II",
@@ -23,6 +24,7 @@
     "zh-TW": "Ferro II"
   },
   "description": {
+    "ar": "تسدد لكمة قوية، لكن يجب إعادة تعبئتها بين كل طلقة.",
     "da": "Slår hårdt, men skal genoplades mellem hvert skud.",
     "de": "Gute Durchschlagskraft, muss aber nach jedem Schuss nachgeladen werden.",
     "en": "Packs a punch, but must be reloaded between every shot.",
@@ -52,6 +54,7 @@
   "effects": {
     "Ammo Type": {
       "value": "Heavy Ammo",
+      "ar": "نوع الذخيرة",
       "da": "Ammunitionstype",
       "de": "Munitionstyp",
       "en": "Ammo Type",
@@ -75,6 +78,7 @@
     },
     "ARC Armor Penetration": {
       "value": "Strong",
+      "ar": "اختراق دروع ARC",
       "da": "ARC-rustningspenetrering",
       "de": "ARC-Panzerungsdurchdringung",
       "en": "ARC Armor Penetration",
@@ -98,6 +102,7 @@
     },
     "Durability": {
       "value": "110/110",
+      "ar": "المتانة",
       "da": "Holdbarhed",
       "de": "Haltbarkeit",
       "en": "Durability",
@@ -121,6 +126,7 @@
     },
     "Firing Mode": {
       "value": "Break-Action",
+      "ar": "تلقيم بالكسر",
       "da": "Skydningstilstand",
       "de": "Feuermodus",
       "en": "Firing Mode",
@@ -144,6 +150,7 @@
     },
     "Magazine Size": {
       "value": 1,
+      "ar": "حجم المخزن",
       "da": "Magasinstørrelse",
       "de": "Magazingröße",
       "en": "Magazine Size",

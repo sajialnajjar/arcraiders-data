@@ -1,6 +1,7 @@
 {
   "id": "empty_wine_bottle",
   "name": {
+    "ar": "زجاجة نبيذ فارغة",
     "da": "Tom vinflaske",
     "de": "Leere Weinflasche",
     "en": "Empty Wine Bottle",
@@ -23,6 +24,7 @@
     "zh-TW": "空酒瓶"
   },
   "description": {
+    "ar": "نعم، إنها فارغة حقًا.",
     "da": "Ja, den er virkelig tom.",
     "de": "Ja, sie ist wirklich leer.",
     "en": "Yes, it really is empty.",

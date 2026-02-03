@@ -1,6 +1,7 @@
 {
   "id": "extended_barrel_blueprint",
   "name": {
+    "ar": "مخطط سبطانة مطولة",
     "da": "Forlaenget lob-tegning",
     "de": "Bauplan: Verlangerter Lauf",
     "en": "Extended Barrel Blueprint",
@@ -23,6 +24,7 @@
     "zh-TW": "加長槍管 藍圖"
   },
   "description": {
+    "ar": "تزيد سرعة الرصاصة بشكل معتدل. متوافق مع: Tempest, Arpeggio, Ferro, Renegade, Anvil",
     "da": "Oger kuglehastigheden moderat. Kompatibel med: Tempest, Arpeggio, Ferro, Renegade, Anvil",
     "de": "Erhoht die Geschossgeschwindigkeit moderat. Kompatibel mit: Arpeggio, Rattler, Kettle, Ferro, Anvil",
     "en": "Moderately increases bullet velocity. Compatible with: Tempest, Arpeggio, Ferro, Renegade, Anvil",

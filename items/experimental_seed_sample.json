@@ -1,6 +1,7 @@
 {
   "id": "experimental_seed_sample",
   "name": {
+    "ar": "عينة بذور تجريبية",
     "da": "Eksperimentel frøprøve",
     "de": "Experimentelle Samenprobe",
     "en": "Experimental Seed Sample",
@@ -23,6 +24,7 @@
     "zh-TW": "實驗種子樣本"
   },
   "description": {
+    "ar": "عينة بحثية مجمدة تبريدياً لمحصول تجريبي.",
     "da": "En kryogenisk frosset forskningsprøve af en eksperimentel afgrøde.",
     "de": "Eine kryogen eingefrorene Forschungsprobe einer experimentellen Nutzpflanze.",
     "en": "A cryogenically frozen research sample of an experimental crop.",

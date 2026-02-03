@@ -1,6 +1,7 @@
 {
   "id": "extended_shotgun_mag_ii_blueprint",
   "name": {
+    "ar": "مخطط مخزن بندقية رش مطول II",
     "da": "Udvidet haglmagasin II-tegning",
     "de": "Bauplan: Erweitertes Schrotflintenmagazin II",
     "en": "Extended Shotgun Mag II Blueprint",
@@ -23,6 +24,7 @@
     "zh-TW": "延長霰彈槍彈匣 II 藍圖"
   },
   "description": {
+    "ar": "يوسع سعة الذخيرة لبنادق الرش بشكل معتدل.",
     "da": "Udvider haglgeværets ammunitionskapacitet moderat.",
     "de": "Erhöht die Munitionskapazität von Schrotflinten moderat.",
     "en": "Moderately extends the ammo capacity of shotguns.",

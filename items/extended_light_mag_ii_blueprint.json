@@ -1,6 +1,7 @@
 {
   "id": "extended_light_mag_ii_blueprint",
   "name": {
+    "ar": "مخطط مخزن خفيف مطول II",
     "da": "Udvidet let magasin II-tegning",
     "de": "Bauplan: Erweitertes leichtes Magazin II",
     "en": "Extended Light Mag II Blueprint",
@@ -23,6 +24,7 @@
     "zh-TW": "延長輕型彈匣 II 藍圖"
   },
   "description": {
+    "ar": "يوسع سعة الذخيرة بشكل معتدل للأسلحة المتوافقة التي تستخدم ذخيرة خفيفة.",
     "da": "Udvider moderat ammunitionskapaciteten for kompatible vaben, der bruger let ammunition.",
     "de": "Erhoht die Munitionskapatitat kompatibler Waffen mit leichter Munition moderat.",
     "en": "Moderately extends the ammo capacity of compatible weapons that use light ammo.",

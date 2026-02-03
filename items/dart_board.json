@@ -1,6 +1,7 @@
 {
   "id": "dart_board",
   "name": {
+    "ar": "لوحة سهام",
     "da": "Dartskive",
     "de": "Dartscheibe",
     "en": "Dart Board",
@@ -23,6 +24,7 @@
     "zh-TW": "飛鏢靶"
   },
   "description": {
+    "ar": "يستخدمها بعض المغيرين لممارسة الخفة. آخرون يحبون فقط رمي الأشياء على أشياء أخرى.",
     "da": "Nogle Raiders bruger den til at øve fingerfærdighed. Andre kan bare lide at kaste ting efter andre ting.",
     "de": "Einige Räuber nutzen es, um Geschicklichkeit zu üben. Andere werfen einfach gerne Dinge auf andere Dinge.",
     "en": "Some Raiders use it to practice dexterity. Others just like throwing things at other things.",

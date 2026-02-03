@@ -1,6 +1,7 @@
 {
   "id": "extended_light_mag_ii",
   "name": {
+    "ar": "مخزن خفيف مطول II",
     "da": "Udvidet let magasin II",
     "de": "Erweitertes leichtes Magazin II",
     "en": "Extended Light Mag II",
@@ -23,6 +24,7 @@
     "zh-TW": "延長輕型彈匣 II"
   },
   "description": {
+    "ar": "يوسع سعة الذخيرة بشكل معتدل للأسلحة المتوافقة التي تستخدم ذخيرة خفيفة. متوافق مع: Stitcher, Kettle, Burletta, Hairpin, Bobcat",
     "da": "Udvider moderat ammunitionskapaciteten for kompatible våben, der bruger let ammunition. Kompatibel med: Stitcher, Kettle, Burletta, Hairpin, Bobcat",
     "de": "Erhöht die Munitionskapatität kompatibler Waffen mit leichter Munition moderat. Kompatibel mit: Kettle, Burletta, Stitcher, Hairpin, Bobcat",
     "en": "Moderately extends the ammo capacity of compatible weapons that use light ammo. Compatible with: Stitcher, Kettle, Burletta, Hairpin, Bobcat",
@@ -52,6 +54,7 @@
   "effects": {
     "Magazine Size": {
       "value": "+10",
+      "ar": "حجم المخزن",
       "da": "Magasinstørrelse",
       "de": "Magazingröße",
       "en": "Magazine Size",

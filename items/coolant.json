@@ -1,6 +1,7 @@
 {
   "id": "coolant",
   "name": {
+    "ar": "سائل تبريد",
     "da": "Kølevæske",
     "de": "Kühlmittel",
     "en": "Coolant",
@@ -23,6 +24,7 @@
     "zh-TW": "冷卻劑"
   },
   "description": {
+    "ar": "يمكن إعادة تدويره إلى مواد حرفية.",
     "da": "Kan genbruges til fremstillingsmaterialer.",
     "de": "Kann zu Herstellungsmaterialien recycelt werden.",
     "en": "Can be recycled into crafting materials.",

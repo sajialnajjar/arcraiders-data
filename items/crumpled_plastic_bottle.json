@@ -1,6 +1,7 @@
 {
   "id": "crumpled_plastic_bottle",
   "name": {
+    "ar": "زجاجة بلاستيكية مجعدة",
     "da": "Krøllet plastflaske",
     "de": "Zerknitterte Plastikflasche",
     "en": "Crumpled Plastic Bottle",
@@ -23,6 +24,7 @@
     "zh-TW": "壓扁的塑膠瓶"
   },
   "description": {
+    "ar": "يمكن إعادة تدويرها إلى مواد حرفية.",
     "da": "Kan genbruges til håndværksmaterialer.",
     "de": "Kann zu Herstellungsmaterialien recycelt werden.",
     "en": "Can be recycled into crafting materials.",

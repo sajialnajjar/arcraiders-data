@@ -1,6 +1,7 @@
 {
   "id": "damaged_snitch_scanner",
   "name": {
+    "ar": "ماسح سنيتش تالف",
     "da": "Beskadiget Snitch-scanner",
     "de": "Beschädigter Snitch-Scanner",
     "en": "Damaged Snitch Scanner",
@@ -23,6 +24,7 @@
     "zh-TW": "損壞的告密者掃描儀"
   },
   "description": {
+    "ar": "يمكن إعادة تدويره إلى مواد حرفية.",
     "da": "Kan genbruges til håndværksmaterialer.",
     "de": "Kann zu Herstellungsmaterialien recycelt werden.",
     "en": "Can be recycled into crafting materials.",

@@ -1,6 +1,7 @@
 {
   "id": "esr_analyzer",
   "name": {
+    "ar": "محلل ESR",
     "da": "ESR-analysator",
     "de": "ESR-Analysegerät",
     "en": "ESR Analyzer",
@@ -23,6 +24,7 @@
     "zh-TW": "ESR分析儀"
   },
   "description": {
+    "ar": "محلل محمول من العالم السابق، مكتمل بعدة أنابيب احتياطية.",
     "da": "En specialiseret medicinsk enhed til analyse af erytrocytsedimenteringshastighed.",
     "de": "Ein spezialisiertes medizinisches Gerät zur Analyse der Erythrozytensedimentationsrate.",
     "en": "A portable analyzer from the world before, complete with several spare tubes.",

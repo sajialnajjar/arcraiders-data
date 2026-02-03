@@ -1,9 +1,10 @@
 {
   "id": "extended_shotgun_mag_i",
   "name": {
+    "ar": "مخزن بندقية رش مطول I",
     "da": "Udvidet haglmagasin I",
     "de": "Erweitertes Schrotflintenmagazin I",
-    "en": "Extended Shotgun Mag I",
+    "en": " Extended Shotgun Mag I",
     "es": "Cargador de escopeta extendido I",
     "fr": "Chargeur de Fusil à Pompe Étendu I",
     "he": "מחסנית רובה ציד מוגדלת I",
@@ -23,6 +24,7 @@
     "zh-TW": "延長霰彈槍彈匣 I"
   },
   "description": {
+    "ar": "يوسع سعة الذخيرة لبنادق الرش قليلاً. متوافق مع: Il Toro, Vulcano",
     "da": "Udvider haglgeværets ammunitionskapacitet lidt. Kompatibel med: Il Toro, Vulcano",
     "de": "Erhöht die Munitionskapazität von Schrotflinten geringfügig. Kompatibel mit: Il Toro, Vulcano",
     "en": "Slightly extends the ammo capacity of shotguns. Compatible with: Il Toro, Vulcano",
@@ -51,6 +53,7 @@
   "effects": {
     "Magazine Size": {
       "value": "+2",
+      "ar": "حجم المخزن",
       "da": "Magasinstørrelse",
       "de": "Magazingröße",
       "en": "Magazine Size",

@@ -1,6 +1,7 @@
 {
   "id": "dog_collar",
   "name": {
+    "ar": "طوق كلב",
     "da": "Hundehalsbånd",
     "de": "Hundehalsband",
     "en": "Dog Collar",
@@ -23,6 +24,7 @@
     "zh-TW": "狗項圈"
   },
   "description": {
+    "ar": "بعد كل هذا الوقت، לא יزال بإمكانך شم الرائحة הטيبة.",
     "da": "Efter al denne tid kan du stadig lugte godheden.",
     "de": "Selbst nach all dieser Zeit kann man noch die Qualität riechen.",
     "en": "After all this time, you can still smell the goodness.",

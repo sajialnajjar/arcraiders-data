@@ -1,6 +1,7 @@
 {
   "id": "deadline",
   "name": {
+    "ar": "الموعد النهائي",
     "da": "Deadline",
     "de": "Deadline",
     "en": "Deadline",
@@ -23,6 +24,7 @@
     "zh-TW": "最後期限"
   },
   "description": {
+    "ar": "لغم يلحق الضرر بأي شيء داخل نصف قطره عندما ينتهي المؤقت.",
     "da": "En mine der giver skade til alt inden for dens radius når timeren udløber.",
     "de": "Eine Mine, die allem in ihrem Radius Schaden zufügt, sobald der Timer abläuft.",
     "en": "A mine that deals damage to anything within its radius once the timer runs out.",
@@ -52,6 +54,7 @@
   "effects": {
     "Damage": {
       "value": 1000,
+      "ar": "الضرر",
       "da": "Skade",
       "de": "Schaden",
       "en": "Damage",
@@ -75,6 +78,7 @@
     },
     "Radius": {
       "value": "10m",
+      "ar": "نصف القطر",
       "da": "Radius",
       "de": "Radius",
       "en": "Radius",
@@ -98,6 +102,7 @@
     },
     "Timer Duration": {
       "value": "6s",
+      "ar": "مدة المؤقت",
       "da": "Timervarighed",
       "de": "Timer-Dauer",
       "en": "Timer Duration",

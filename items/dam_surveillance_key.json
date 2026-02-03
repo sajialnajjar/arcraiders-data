@@ -1,6 +1,7 @@
 {
   "id": "dam_surveillance_key",
   "name": {
+    "ar": "مفتاح المراقبة في السد",
     "da": "Nøgle til dæmningens overvågning",
     "de": "Überwachungsschlüssel (Damm)",
     "en": "Dam Surveillance Key",
@@ -23,6 +24,7 @@
     "zh-TW": "水壩監控鑰匙"
   },
   "description": {
+    "ar": "يفتح بابًا في مبنى التحكم بمعالجة المياه في ساحات معركة السد.",
     "da": "Låser en dør op i vandbehandlingskontrolbygningen på Dam Battlegrounds.",
     "de": "Öffnet eine Tür im Kontrollgebäude der Wasseraufbereitung an den Damm-Schlachtfeldern.",
     "en": "Unlocks a door in the Water Treatment Control building on Dam Battlegrounds.",

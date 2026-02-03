@@ -1,6 +1,7 @@
 {
   "id": "explosive_mine_blueprint",
   "name": {
+    "ar": "مخطط لغم متفجر",
     "da": "Sprengmine-tegning",
     "de": "Bauplan: Sprengmine",
     "en": "Explosive Mine Blueprint",
@@ -23,6 +24,7 @@
     "zh-TW": "爆炸地雷 藍圖"
   },
   "description": {
+    "ar": "جهاز متفجر يعمل بالاقتراب ينفجر عند اقتراب الأعداء.",
     "da": "En naerhedsudlost sprengstofenhed, der detonerer, nar fjender naermer sig.",
     "de": "Eine Mine, die bei Annäherung explodiert und dabei alles beschädigt, was sich in ihrem Radius befindet.",
     "en": "A proximity-triggered explosive device that detonates when enemies approach.",

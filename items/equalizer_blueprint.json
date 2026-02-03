@@ -1,6 +1,7 @@
 {
   "id": "equalizer_blueprint",
   "name": {
+    "ar": "مخطط إيكوالايزر",
     "da": "Equalizer-tegning",
     "de": "Bauplan: Equalizer",
     "en": "Equalizer Blueprint",
@@ -23,6 +24,7 @@
     "zh-TW": "均衡者藍圖"
   },
   "description": {
+    "ar": "بندقية شعاع تجريبية عالية السعة.",
     "da": "En eksperimentel stråleriffel med høj kapacitet.",
     "de": "Ein experimentelles Strahlengewehr mit hoher Kapazität.",
     "en": "A high capacity experimental beam rifle.",

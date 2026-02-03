@@ -1,6 +1,7 @@
 {
   "id": "free_loadout_augment",
   "name": {
+    "ar": "تعزيز التجهيزات المجاني",
     "da": "Gratis udstyrsforbedring",
     "de": "Augment mit Gratis-Loadout",
     "en": "Free Loadout Augment",
@@ -23,6 +24,7 @@
     "zh-TW": "免費裝備增強"
   },
   "description": {
+    "ar": "تعزيز أساسي للمغيرين المبتدئين، يوفر مساحة أكبر قليلاً في حقيبة الظهر وسعة حمل.",
     "da": "Grundlæggende forbedring til nybegynder Raiders, tilbyder lidt mere rygsækplads og bærekapacitet.",
     "de": "Basis-Augment für Raider-Neulinge, mit etwas mehr Platz im Rucksack und Tragekapazität.",
     "en": "Basic augment for rookie Raiders, offering slightly more backpack space and carry capacity.",
@@ -51,6 +53,7 @@
   "effects": {
     "Durability": {
       "value": 100,
+      "ar": "المتانة",
       "da": "Holdbarhed",
       "de": "Haltbarkeit",
       "en": "Durability",

@@ -1,6 +1,7 @@
 {
   "id": "defibrillator_blueprint",
   "name": {
+    "ar": "مخطط مزيل الرجفان",
     "da": "Hjertestarter-tegning",
     "de": "Bauplan: Defibrillator",
     "en": "Defibrillator Blueprint",
@@ -23,6 +24,7 @@
     "zh-TW": "除顫器藍圖"
   },
   "description": {
+    "ar": "حقنة تنعش المغيرين الساقطين بسرعة وتستعيد بعض الصحة.",
     "da": "En indsprøjtning, der hurtigt genopliver faldne raidere og gendanner noget helbred.",
     "de": "Eine Injektion, die entkräftete Raider schnell wiederbelebt und etwas Gesundheit wiederherstellt.",
     "en": "An injection that quickly revives downed raiders and restores some health.",

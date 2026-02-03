@@ -1,6 +1,7 @@
 {
   "id": "fireball_burner",
   "name": {
+    "ar": "حارق كرة النار",
     "da": "Ildkuglebrænder",
     "de": "Feuerballbrenner",
     "en": "Fireball Burner",
@@ -23,6 +24,7 @@
     "zh-TW": "火球燃燒器"
   },
   "description": {
+    "ar": "يمكن إعادة تدويره إلى سبيكة ARC. يمكن رميه لإشعال حرائق صغيرة.",
     "da": "Kan genbruges til ARC-legering. Kan kastes for at skabe små brande.",
     "de": "Kann zu ARC-Legierung recycelt werden. Kann geworfen werden, um kleine Feuer zu erzeugen.",
     "en": "Can be recycled into ARC Alloy. Can be thrown to create small fires.",
@@ -53,6 +55,7 @@
   "effects": {
     "Damage": {
       "value": "5/s",
+      "ar": "الضرر",
       "da": "Skade",
       "de": "Schaden",
       "en": "Damage",
@@ -76,6 +79,7 @@
     },
     "Duration": {
       "value": "10s",
+      "ar": "المدة",
       "da": "Varighed",
       "de": "Dauer",
       "en": "Duration",
@@ -99,6 +103,7 @@
     },
     "Radius": {
       "value": "2m",
+      "ar": "نصف القطر",
       "da": "Radius",
       "de": "Radius",
       "en": "Radius",

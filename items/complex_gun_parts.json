@@ -1,6 +1,7 @@
 {
   "id": "complex_gun_parts",
   "name": {
+    "ar": "أجزاء سلاح معقدة",
     "da": "Komplekse våbendele",
     "de": "Komplexe Waffenteile",
     "en": "Complex Gun Parts",
@@ -23,6 +24,7 @@
     "zh-TW": "複雜槍械零件"
   },
   "description": {
+    "ar": "تُستخدم لصناعة أسلحة متقدمة. تُستخدم لصناعة: Equalizer, Jupiter",
     "da": "Bruges til at lave avancerede våben. Bruges til at lave: Equalizer, Jupiter",
     "de": "Wird zur Herstellung von fortschrittlichen Waffen verwendet. Zur Herstellung von: Equalizer, Aphelion, Jupiter",
     "en": "Used to craft advanced weapons. Used to craft: Equalizer, Jupiter",

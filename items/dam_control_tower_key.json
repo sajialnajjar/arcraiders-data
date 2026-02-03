@@ -1,6 +1,7 @@
 {
   "id": "dam_control_tower_key",
   "name": {
+    "ar": "مفتاح برج التحكم في السد",
     "da": "Nøgle til dæmningens kontroltårn",
     "de": "Schlüssel zum Damm-Kontrollturm",
     "en": "Dam Control Tower Key",
@@ -23,6 +24,7 @@
     "zh-TW": "水壩控制塔鑰匙"
   },
   "description": {
+    "ar": "يفتح بابًا لبرج التحكم في ساحات معركة السد.",
     "da": "Låser en dør op til kontroltårnet på Dam Battlegrounds.",
     "de": "Öffnet eine Tür zum Kontrollturm an den Damm-Schlachtfeldern.",
     "en": "Unlocks a door to the Control Tower on Dam Battlegrounds.",

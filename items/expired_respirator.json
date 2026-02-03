@@ -1,6 +1,7 @@
 {
   "id": "expired_respirator",
   "name": {
+    "ar": "جهاز تنفس منتهي الصلاحية",
     "da": "Udløbet åndedrætsværn",
     "de": "Abgelaufenes Atemgerät",
     "en": "Expired Respirator",
@@ -23,6 +24,7 @@
     "zh-TW": "過期呼吸器"
   },
   "description": {
+    "ar": "المرشحات مسدودة بالرمل والأبخرة الضارة. تجاوز عمره الافتراضي بكثير.",
     "da": "Filtrene er tilstoppede med sand og giftige dampe. Langt forbi sin levetid.",
     "de": "Die Filter sind mit Sand und giftigen Dämpfen verschmutzt. Hat seine Mindesthaltbarkeit längst überschritten.",
     "en": "The filters are clogged with sand and noxious fumes. Long past its lifespan.",

@@ -1,6 +1,7 @@
 {
   "id": "extended_medium_mag_iii_blueprint",
   "name": {
+    "ar": "مخطط مخزن متوسط مطول III",
     "da": "Udvidet medium magasin III-tegning",
     "de": "Bauplan: Erweitertes mittelschweres Magazin III",
     "en": "Extended Medium Mag III Blueprint",
@@ -23,6 +24,7 @@
     "zh-TW": "延長中型彈匣III藍圖"
   },
   "description": {
+    "ar": "يوسع سعة الذخيرة بشكل كبير للأسلحة المتوافقة التي تستخدم ذخيرة متوسطة.",
     "da": "Udvider ammunitionskapaciteten af kompatible våben, der bruger medium ammunition, betydeligt.",
     "de": "Erhöht die Munitionskapazität kompatibler Waffen mit mittlerer Munition erheblich.",
     "en": "Significantly extends the ammo capacity of compataible weapons that use medium ammo.",

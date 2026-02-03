@@ -1,6 +1,7 @@
 {
   "id": "lil_smoke_grenade",
   "name": {
+    "ar": "قنبلة دخان صغيرة",
     "da": "Lille røggranat",
     "de": "Mini-Rauchgranate",
     "en": "Li'l Smoke Grenade",
@@ -23,6 +24,7 @@
     "zh-TW": "小型煙霧彈"
   },
   "description": {
+    "ar": "قنبلة تطلق سحابة دخان كثيفة ولكن صغيرة عند الارتطام، مما يحجب الرؤية عن ARC والمغيرين الآخرين.",
     "da": "En granat, der skaber en tyk, men lille røgsky ved træf, som blokerer sigt fra ARC og andre Raiders.",
     "de": "Eine Granate, die beim Aufprall eine dichte, aber kleine Rauchwolke entstehen lässt, die die Sicht von ARC und anderen Raidern einschränkt.",
     "en": "A grenade that pops a thick but small smoke cloud on impact, blocking visibility from ARC and other Raiders.",
@@ -52,6 +54,7 @@
   "effects": {
     "Duration": {
       "value": "6s",
+      "ar": "المدة",
       "da": "Varighed",
       "de": "Dauer",
       "en": "Duration",
@@ -75,6 +78,7 @@
     },
     "Radius": {
       "value": "2.5m",
+      "ar": "نصف القطر",
       "da": "Radius",
       "de": "Radius",
       "en": "Radius",

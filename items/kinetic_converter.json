@@ -23,6 +23,7 @@
     "zh-TW": "動能轉換器"
   },
   "description": {
+    "ar": "يزيد من معدل إطلاق النار بشكل معتدل. متوافق مع: Arpeggio، Rattler، Kettle، Ferro، Renegade",
     "da": "Øger skudhastigheden moderat. Kompatibel med: Arpeggio, Rattler, Kettle, Ferro, Renegade",
     "de": "Erhöht die Feuerrate moderat. Kompatibel mit: Arpeggio, Rattler, Kettle, Ferro, Il Toro",
     "en": "Moderately increases fire rate. Compatible with: Arpeggio, Rattler, Kettle, Ferro, Renegade",
@@ -51,6 +52,7 @@
   "effects": {
     "Increased Fire Rate": {
       "value": "15%",
+      "ar": "زيادة معدل إطلاق النار",
       "da": "Øget skudhastighed",
       "de": "Erhöhte Feuerrate",
       "en": "Increased Fire Rate",
@@ -74,6 +76,7 @@
     },
     "Increased Horizontal Recoil": {
       "value": "20%",
+      "ar": "زيادة الارتداد الأفقي",
       "da": "Øget vandret rekyl",
       "de": "Erhöhter horizontaler Rückstoß",
       "en": "Increased Horizontal Recoil",
@@ -97,6 +100,7 @@
     },
     "Increased Vertical Recoil": {
       "value": "20%",
+      "ar": "زيادة الارتداد الرأسي",
       "da": "Øget lodret rekyl",
       "de": "Erhöhter vertikaler Rückstoß",
       "en": "Increased Vertical Recoil",

@@ -1,6 +1,7 @@
 {
   "id": "light_shield",
   "name": {
+    "ar": "درع خفيف",
     "da": "Let skjold",
     "de": "Leichter Schild",
     "en": "Light Shield",
@@ -23,6 +24,7 @@
     "zh-TW": "輕型護盾"
   },
   "description": {
+    "ar": "درع خفيف الوزن يصد جزءاً صغيراً من الضرر الوارد دون التأثير على الحركة.",
     "da": "Et letvægtsskjold, der blokerer en lille del af indgående skade uden at påvirke mobiliteten.",
     "de": "Ein leichter Schild, der einen kleinen Teil des eingehenden Schadens abwehrt, ohne dass die Mobilität beeinträchtigt wird.",
     "en": "A lightweight shield that blocks a small portion of incoming damage without impacting mobility.",
@@ -51,6 +53,7 @@
   "effects": {
     "Charge": {
       "value": 40,
+      "ar": "الشحنة",
       "da": "Ladning",
       "de": "Aufladen",
       "en": "Charge",
@@ -74,6 +77,7 @@
     },
     "Damage Reduction": {
       "value": "40%",
+      "ar": "تقليل الضرر",
       "da": "Skadereduktion",
       "de": "Schadensreduktion",
       "en": "Damage Reduction",
@@ -97,6 +101,7 @@
     },
     "Durability": {
       "value": "100/100",
+      "ar": "المتانة",
       "da": "Holdbarhed",
       "de": "Haltbarkeit",
       "en": "Durability",
@@ -119,7 +124,10 @@
       "zh-TW": "耐久度"
     }
   },
-  "craftBench": ["workbench", "equipment_bench"],
+  "craftBench": [
+    "workbench",
+    "equipment_bench"
+  ],
   "recipe": {
     "arc_alloy": 2,
     "plastic_parts": 4

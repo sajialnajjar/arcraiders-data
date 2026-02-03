@@ -1,6 +1,7 @@
 {
   "id": "industrial_battery",
   "name": {
+    "ar": "بطارية صناعية",
     "da": "Industribatteri",
     "de": "Industrie-Akku",
     "en": "Industrial Battery",
@@ -23,6 +24,7 @@
     "zh-TW": "工業電池"
   },
   "description": {
+    "ar": "بطارية كبيرة ذات سعة عالية للمعدات الصناعية.",
     "da": "Et stort højkapacitetsbatteri til industrielt udstyr.",
     "de": "Kann zu Herstellungsmaterialien recycelt werden.",
     "en": "A large, high-capacity battery for industrial equipment.",

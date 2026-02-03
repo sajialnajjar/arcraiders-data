@@ -1,6 +1,7 @@
 {
   "id": "lure_grenade_trap",
   "name": {
+    "ar": "فخ قنبلة استدراج",
     "da": "Lokkegranатfælde",
     "de": "Köder-Granatenfalle",
     "en": "Lure Grenade Trap",
@@ -23,6 +24,7 @@
     "zh-TW": "誘餌手榴彈陷阱"
   },
   "description": {
+    "ar": "سلك ليزر يفجر قنبلة استدراج.",
     "da": "En lasersnubletråd, der detonerer en lokkegranат.",
     "de": "Ein Laser-Stolperdraht, der eine Ködergranate zur Detonation bringt.",
     "en": "A laser trip wire that detonates a Lure Grenade.",
@@ -52,6 +54,7 @@
   "effects": {
     "Duration": {
       "value": "15s",
+      "ar": "المدة",
       "da": "Varighed",
       "de": "Dauer",
       "en": "Duration",
@@ -75,6 +78,7 @@
     },
     "Radius": {
       "value": "50m",
+      "ar": "نصف القطر",
       "da": "Radius",
       "de": "Radius",
       "en": "Radius",

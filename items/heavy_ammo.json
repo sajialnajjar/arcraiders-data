@@ -1,6 +1,7 @@
 {
   "id": "heavy_ammo",
   "name": {
+    "ar": "ذخيرة ثقيلة",
     "da": "Tung ammunition",
     "de": "Schwere Munition",
     "en": "Heavy Ammo",
@@ -23,6 +24,7 @@
     "zh-TW": "重型彈藥"
   },
   "description": {
+    "ar": "متوافق مع: Ferro، Anvil، Bettina",
     "da": "Kompatibel med: Ferro, Anvil, Bettina",
     "de": "Kompatibel mit: Ferro, Anvil, Bettina",
     "en": "Compatible with: Ferro, Anvil, Bettina",
@@ -50,7 +52,11 @@
   "weightKg": 0.05,
   "stackSize": 40,
   "craftQuantity": 10,
-  "compatibleWith": ["Anvil", "Ferro", "Bettina"],
+  "compatibleWith": [
+    "Anvil",
+    "Ferro",
+    "Bettina"
+  ],
   "craftBench": "workbench",
   "recipe": {
     "chemicals": 2,

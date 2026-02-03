@@ -1,6 +1,7 @@
 {
   "id": "magnet",
   "name": {
+    "ar": "مغناطيس",
     "da": "Magnet",
     "de": "Magnet",
     "en": "Magnet",
@@ -23,6 +24,7 @@
     "zh-TW": "磁鐵"
   },
   "description": {
+    "ar": "يستخدم لصنع مجموعة واسعة من العناصر. يمكن إعادة تدويره إلى مواد تصنيع.",
     "da": "Bruges til at lave en bred vifte af genstande. Kan genbruges til håndværksmaterialer.",
     "de": "Wird zur Herstellung verschiedenster Gegenstände verwendet. Kann zu Herstellungsmaterialien recycelt werden.",
     "en": "Used to craft a wide range of items. Can be recycled into crafting materials.",

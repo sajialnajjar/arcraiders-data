@@ -1,6 +1,7 @@
 {
   "id": "household_cleaner",
   "name": {
+    "ar": "منظَف منزلي",
     "da": "Husholdningsrengøringsmiddel",
     "de": "Haushaltsreiniger",
     "en": "Household Cleaner",
@@ -23,6 +24,7 @@
     "zh-TW": "家用清潔劑"
   },
   "description": {
+    "ar": "يمكن إعادة تدويره إلى مواد كيميائية.",
     "da": "Kan genbruges til kemikalier.",
     "de": "Kann zu Chemikalien recycelt werden.",
     "en": "Can be recycled into chemicals.",

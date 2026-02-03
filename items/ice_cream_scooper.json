@@ -1,6 +1,7 @@
 {
   "id": "ice_cream_scooper",
   "name": {
+    "ar": "ملعقة آيس كريم",
     "da": "Isske",
     "de": "Eisportionierer",
     "en": "Ice Cream Scooper",
@@ -23,6 +24,7 @@
     "zh-TW": "冰淇淋勺"
   },
   "description": {
+    "ar": "يوجد نظرية تفيد بأن غرف الأشياء كان تسلية مفضلة في العالم من قبل.",
     "da": "Det teoretiseres, at at øse ting var en yndlingstidsfordriv i verden før.",
     "de": "Es wird vermutet, dass das Schöpfen von Dingen ein beliebter Zeitvertreib in der Welt davor war.",
     "en": "It is theorized that scooping things was a favorite pastime in the world before.",

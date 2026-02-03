@@ -1,6 +1,7 @@
 {
   "id": "launcher_ammo",
   "name": {
+    "ar": "ذخيرة القاذفة",
     "da": "Affyringsammunition",
     "de": "Werfermunition",
     "en": "Launcher Ammo",
@@ -23,6 +24,7 @@
     "zh-TW": "發射器彈藥"
   },
   "description": {
+    "ar": "حمولة مضادة لـ ARC تُستخدم بشكل رئيسي بواسطة Hullcracker. متوافق مع: Hullcracker",
     "da": "Anti-ARC-ladninger brugt hovedsageligt af Hullcracker. Kompatibel med: Hullcracker",
     "de": "Anti-ARC-Munition, wird hauptsächlich für den Hüllenbrecher verwendet. Kompatibel mit: Hüllenbrecher",
     "en": "Anti-ARC payloads used mainly by the Hullcracker. Compatible with: Hullcracker",
@@ -50,7 +52,9 @@
   "weightKg": 0.1,
   "stackSize": 24,
   "craftQuantity": 6,
-  "compatibleWith": ["Hullcracker"],
+  "compatibleWith": [
+    "Hullcracker"
+  ],
   "craftBench": "workbench",
   "recipe": {
     "arc_motion_core": 1,

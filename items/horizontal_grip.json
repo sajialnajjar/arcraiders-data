@@ -1,6 +1,7 @@
 {
   "id": "horizontal_grip",
   "name": {
+    "ar": "مقبض أفقي",
     "da": "Horisontal Greb",
     "de": "Horizontaler Griff",
     "en": "Horizontal Grip",
@@ -23,6 +24,7 @@
     "zh-TW": "水平握把"
   },
   "description": {
+    "ar": "يقلل بشكل معتدل من الارتداد الرأسي والأفقي.",
     "da": "Reducerer moderat både lodret og vandret rekyl.",
     "de": "Verringert sowohl den vertikalen als auch den horizontalen Rückstoß moderat.",
     "en": "Moderately reduces both vertical recoil and horizontal recoil.",
@@ -65,6 +67,7 @@
   "effects": {
     "Reduced ADS Speed": {
       "value": "30%",
+      "ar": "سرعة التصويب مخفضة",
       "da": "Reduceret ADS-Hastighed",
       "de": "Reduzierte Zielgeschwindigkeit",
       "en": "Reduced ADS Speed",
@@ -88,6 +91,7 @@
     },
     "Reduced Horizontal Recoil": {
       "value": "30%",
+      "ar": "ارتداد أفقي مخفض",
       "da": "Reduceret Vandret Rekyl",
       "de": "Verringerter horizontaler Rückstoß",
       "en": "Reduced Horizontal Recoil",
@@ -111,6 +115,7 @@
     },
     "Reduced Vertical Recoil": {
       "value": "30%",
+      "ar": "ارتداد عمودي مخفض",
       "da": "Reduceret Lodret Rekyl",
       "de": "Verringerter vertikaler Rückstoß",
       "en": "Reduced Vertical Recoil",

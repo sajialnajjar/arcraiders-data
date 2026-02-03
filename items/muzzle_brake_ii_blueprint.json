@@ -1,6 +1,7 @@
 {
   "id": "muzzle_brake_ii_blueprint",
   "name": {
+    "ar": "مخطط كابح فوهة 2",
     "da": "Mundingsbremse II-tegning",
     "de": "Bauplan: Mündungsbremse II",
     "en": "Muzzle Brake II Blueprint",
@@ -23,6 +24,7 @@
     "zh-TW": "槍口制退器 II 藍圖"
   },
   "description": {
+    "ar": "يقلل باعتدال من الارتداد العمودي والأفقي.",
     "da": "Reducerer både vertikal og horisontal rekyl moderat.",
     "de": "Verringert den vertikalen und horizontalen Rückstoß moderat.",
     "en": "Moderately reduces both vertical recoil & horizontal recoil.",
@@ -52,6 +54,7 @@
   "effects": {
     "Reduced Horizontal Recoil": {
       "value": "20%",
+      "ar": "تقليل الارتداد الأفقي",
       "da": "Reduceret horisontal rekyl",
       "de": "Reduzierter horizontaler Rückstoß",
       "en": "Reduced Horizontal Recoil",
@@ -75,6 +78,7 @@
     },
     "Reduced Vertical Recoil": {
       "value": "20%",
+      "ar": "تقليل الارتداد العمودي",
       "da": "Reduceret vertikal rekyl",
       "de": "Reduzierter vertikaler Rückstoß",
       "en": "Reduced Vertical Recoil",

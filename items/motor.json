@@ -1,6 +1,7 @@
 {
   "id": "motor",
   "name": {
+    "ar": "محرك",
     "da": "Motor",
     "de": "Motor",
     "en": "Motor",
@@ -23,6 +24,7 @@
     "zh-TW": "馬達"
   },
   "description": {
+    "ar": "محرك كهربائي صغير، مفيد للعديد من الأجهزة.",
     "da": "En lille elektrisk motor, nyttig til forskellige enheder.",
     "de": "Ein kleiner Elektromotor, nützlich für verschiedene Geräte.",
     "en": "A small electric motor, useful for various devices.",

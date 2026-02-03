@@ -1,6 +1,7 @@
 {
   "id": "heavy_gun_parts_blueprint",
   "name": {
+    "ar": "مخطط أجزاء سلاح ثقيل",
     "da": "Tegning til tunge våbendele",
     "de": "Bauplan: Teile für Waffe mit schwerer Munition",
     "en": "Heavy Gun Parts Blueprint",
@@ -23,6 +24,7 @@
     "zh-TW": "重型槍械零件藍圖"
   },
   "description": {
+    "ar": "تستخدم لصناعة الأسلحة.",
     "da": "Bruges til at fremstille våben.",
     "de": "Wird zur Herstellung von Waffen verwendet. Zur Herstellung von: Vulcano, Hüllenbrecher, Bettina, Komplexe Waffenteile",
     "en": "Used to craft weapons.",

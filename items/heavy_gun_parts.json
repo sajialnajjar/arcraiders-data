@@ -1,6 +1,7 @@
 {
   "id": "heavy_gun_parts",
   "name": {
+    "ar": "أجزاء سلاح ثقيل",
     "da": "Tunge våbendele",
     "de": "Teile für Waffe mit schwerer Munition",
     "en": "Heavy Gun Parts",
@@ -23,6 +24,7 @@
     "zh-TW": "重型槍械零件"
   },
   "description": {
+    "ar": "تستخدم لصناعة الأسلحة. تستخدم لصناعة: Vulcano، Hullcracker، Bettina، أجزاء سلاح معقدة",
     "da": "Bruges til at lave våben. Bruges til at lave: Vulcano, Hullcracker, Bettina, Komplekse våbendele",
     "de": "Wird zur Herstellung von Waffen verwendet. Zur Herstellung von: Vulcano, Hüllenbrecher, Bettina, Komplexe Waffenteile",
     "en": "Used to craft weapons. Used to craft: Vulcano, Hullcracker, Bettina, Complex Gun Parts",

@@ -1,6 +1,7 @@
 {
   "id": "medium_gun_parts_blueprint",
   "name": {
+    "ar": "مخطط أجزاء سلاح متوسط",
     "da": "Mellemstore våbendele tegning",
     "de": "Bauplan: Teile für Waffe mit mittlerer Munition",
     "en": "Medium Gun Parts Blueprint",
@@ -23,6 +24,7 @@
     "zh-TW": "中型槍械零件藍圖"
   },
   "description": {
+    "ar": "قطع غيار متنوعة تستخدم للبنادق.",
     "da": "Assorterede reservedele brugt til rifler.",
     "de": "Verschiedenste Ersatzteile, die in Gewehren zum Einsatz kommen. Zur Herstellung von: Torrente, Venator, Osprey, Renegade, Tempest",
     "en": "Assorted spare parts used for rifles.",

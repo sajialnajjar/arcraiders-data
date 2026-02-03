@@ -1,6 +1,7 @@
 {
   "id": "ion_sputter",
   "name": {
+    "ar": "مرش أيوني",
     "da": "Ionesputter",
     "de": "Ionenzerstäuber",
     "en": "Ion Sputter",
@@ -23,6 +24,7 @@
     "zh-TW": "離子濺射器"
   },
   "description": {
+    "ar": "يمكن إعادة تدويره إلى مواد تصنيع.",
     "da": "Kan genbruges til håndværksmaterialer.",
     "de": "Kann zu Herstellungsmaterialien recycelt werden.",
     "en": "Can be recycled into crafting materials.",

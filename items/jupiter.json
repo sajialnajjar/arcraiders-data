@@ -1,6 +1,7 @@
 {
   "id": "jupiter",
   "name": {
+    "ar": "جوبيتر",
     "da": "Jupiter",
     "de": "Jupiter",
     "en": "Jupiter",
@@ -23,6 +24,7 @@
     "zh-TW": "木星"
   },
   "description": {
+    "ar": "بندقية قنص تعمل بالمزلاق ذات إنتاج ضرر ودقة استثنائيين، ولكن تعامل بطيء.",
     "da": "En bolt-action sniperriffel med exceptionel skadeeffekt og præcision, men langsom håndtering.",
     "de": "Ein Repetier-Scharfschützengewehr mit außergewöhnlicher Schadensleistung und Genauigkeit, aber langsamer Handhabung.",
     "en": "A bolt-action sniper rifle with exceptional damage output and accuracy, but slow handling.",
@@ -53,6 +55,7 @@
   "effects": {
     "Ammo Type": {
       "value": "Energy Clip",
+      "ar": "نوع الذخيرة",
       "da": "Ammunitionstype",
       "de": "Munitionstyp",
       "en": "Ammo Type",
@@ -76,6 +79,7 @@
     },
     "ARC Armor Penetration": {
       "value": "Very Strong",
+      "ar": "اختراق درع ARC",
       "da": "ARC rustningspenetrering",
       "de": "ARC-Rüstungsdurchdringung",
       "en": "ARC Armor Penetration",
@@ -99,6 +103,7 @@
     },
     "Firing Mode": {
       "value": "Bolt-Action",
+      "ar": "تلقيم ترباس",
       "da": "Skydemetode",
       "de": "Feuermodus",
       "en": "Firing Mode",
@@ -122,6 +127,7 @@
     },
     "Magazine Size": {
       "value": 5,
+      "ar": "حجم المخزن",
       "da": "Magasinstørrelse",
       "de": "Magazingröße",
       "en": "Magazine Size",
@@ -145,6 +151,7 @@
     },
     "Special Trait": {
       "value": "Experimental",
+      "ar": "سمة خاصة",
       "da": "Særlig egenskab",
       "de": "Besondere Eigenschaft",
       "en": "Special Trait",

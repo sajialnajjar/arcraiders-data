@@ -1,6 +1,7 @@
 {
   "id": "muzzle_brake_ii",
   "name": {
+    "ar": "كابح فوهة 2",
     "da": "Mundingsbremse II",
     "de": "Mündungsbremse II",
     "en": "Muzzle Brake II",
@@ -23,6 +24,7 @@
     "zh-TW": "槍口制退器II"
   },
   "description": {
+    "ar": "يقلل باعتدال من الارتداد العمودي والأفقي. متوافق مع: Tempest, Arpeggio, Kettle, Ferro, Renegade",
     "da": "Reducerer moderat både vertikal og horisontal rekyl. Kompatibel med: Tempest, Arpeggio, Kettle, Ferro, Renegade",
     "de": "Verringert den vertikalen und horizontalen Rückstoß moderat. Kompatibel mit: Tempest, Arpeggio, Kettle, Ferro, Renegade",
     "en": "Moderately reduces both vertical recoil & horizontal recoil. Compatible with: Tempest, Arpeggio, Kettle, Ferro, Renegade",
@@ -48,10 +50,17 @@
   "rarity": "Uncommon",
   "value": 2000,
   "weightKg": 0.5,
-  "compatibleWith": ["Arpeggio", "Rattler", "Kettle", "Burletta", "Stitcher"],
+  "compatibleWith": [
+    "Arpeggio",
+    "Rattler",
+    "Kettle",
+    "Burletta",
+    "Stitcher"
+  ],
   "effects": {
     "Reduced Horizontal Recoil": {
       "value": "20%",
+      "ar": "تقليل الارتداد الأفقي",
       "da": "Reduceret horisontal rekyl",
       "de": "Reduzierter horizontaler Rückstoß",
       "en": "Reduced Horizontal Recoil",
@@ -75,6 +84,7 @@
     },
     "Reduced Vertical Recoil": {
       "value": "20%",
+      "ar": "تقليل الارتداد العمودي",
       "da": "Reduceret vertikal rekyl",
       "de": "Reduzierter vertikaler Rückstoß",
       "en": "Reduced Vertical Recoil",

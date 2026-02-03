@@ -1,6 +1,7 @@
 {
   "id": "metal_parts",
   "name": {
+    "ar": "أجزاء معدنية",
     "da": "Metaldele",
     "de": "Metallteile",
     "en": "Metal Parts",
@@ -23,6 +24,7 @@
     "zh-TW": "金屬零件"
   },
   "description": {
+    "ar": "تستخدم لصنع مجموعة واسعة من العناصر. تستخدم لصنع: Launcher Ammo, Hairpin, Heavy Ammo, Ferro, Kettle",
     "da": "Bruges til at lave en bred vifte af genstande. Bruges til at lave: Kastervåbenammunition, Hårnål, Tung ammunition, Ferro, Kedel",
     "de": "Wird zur Herstellung verschiedenster Gegenstände verwendet. Zur Herstellung von: Werfermunition, Hairpin, Schwere Munition, Ferro, Kettle",
     "en": "Used to craft a wide range of items.",

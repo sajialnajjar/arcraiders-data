@@ -1,6 +1,7 @@
 {
   "id": "lidar_scanner",
   "name": {
+    "ar": "ماسح ليدار",
     "da": "Lidar-scanner",
     "de": "Lidar-Scanner",
     "en": "Lidar Scanner",
@@ -23,6 +24,7 @@
     "zh-TW": "光達掃描儀"
   },
   "description": {
+    "ar": "ماسح ضوئي يعتمد على الليزر يستخدم للكشف عن أدق التغييرات على سطح الأرض.",
     "da": "En laserbaseret scanner, der bruges til at opdage de mindste ændringer på jordens overflade",
     "de": "Ein laserbasierter Scanner zur Erkennung feinster Veränderungen der Erdoberfläche",
     "en": "A laser-based scanner used to detect the subtlest changes to the Earth's surface",

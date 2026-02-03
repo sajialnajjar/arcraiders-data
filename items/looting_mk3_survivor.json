@@ -1,6 +1,7 @@
 {
   "id": "looting_mk3_survivor",
   "name": {
+    "ar": "نهب Mk. 3 (ناجي)",
     "da": "Plyndring Mk. 3 (Survivor)",
     "de": "Beute-Marke 3 (Überleben)",
     "en": "Looting Mk. 3 (Survivor)",
@@ -23,6 +24,7 @@
     "zh-TW": "掠奪 Mk. 3（倖存者）"
   },
   "description": {
+    "ar": "تعزيز بغل حمل شديد التحمل. سعة وزن كبيرة ومساحة حقيبة ظهر كبيرة. بينما تكون منبطحاً وثابتاً، تتجدد الصحة حتى 75% من الحد الأقصى لصحة الانبطاح.",
     "da": "En robust pakæsel-forstærkning. Stor vægtkapacitet og stort rygsækrum. Mens du er nede og stationær, regenererer helbred op til 75% af maks helbred når du er nede.",
     "de": "Ein robustes Packesel-Augment. Große Tragekapazität und viel Platz im Rucksack. Im entkräfteten und bewegungslosen Zustand erholt sich die Gesundheit auf bis zu 75% der max. Gesundheit im entkräfteten Zustand.",
     "en": "A heavy-duty pack mule augment. Large weight capacity and large backpack space. While downed and stationary, health regenerates up to 75% of max downed health.",
@@ -53,6 +55,7 @@
   "effects": {
     "Durability": {
       "value": "100/100",
+      "ar": "المتانة",
       "da": "Holdbarhed",
       "de": "Haltbarkeit",
       "en": "Durability",
@@ -76,6 +79,7 @@
     },
     "Max Loadout Weight": {
       "value": 80,
+      "ar": "أقصى وزن للعتاد",
       "da": "Maks udstyrsvægt",
       "de": "Max. Loadout-Gewicht",
       "en": "Max Loadout Weight",
@@ -99,6 +103,7 @@
     },
     "Shield Compatibility": {
       "value": "Light, Medium",
+      "ar": "توافق الدرع",
       "da": "Skjoldkompatibilitet",
       "de": "Schildkompatibilität",
       "en": "Shield Compatibility",

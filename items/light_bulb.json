@@ -1,6 +1,7 @@
 {
   "id": "light_bulb",
   "name": {
+    "ar": "مصباح",
     "da": "Lyspære",
     "de": "Glühbirne",
     "en": "Light Bulb",
@@ -23,6 +24,7 @@
     "zh-TW": "燈泡"
   },
   "description": {
+    "ar": "بدون ضوء، ستكون الحياة تحت الأرض مستحيلة.",
     "da": "Uden lys ville livet under jorden være umuligt.",
     "de": "Ohne Licht wäre das Leben unter der Erde nicht möglich.",
     "en": "Without light, life underground would be impossible.",

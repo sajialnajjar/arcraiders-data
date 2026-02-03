@@ -1,6 +1,7 @@
 {
   "id": "great_mullein",
   "name": {
+    "ar": "بوصير",
     "da": "Kongelys",
     "de": "Kleinblütige Königskerze",
     "en": "Great Mullein",
@@ -23,6 +24,7 @@
     "zh-TW": "毛蕊花"
   },
   "description": {
+    "ar": "يستخدم لصناعة الإمدادات الطبية. يستخدم لصناعة: ضمادة عشبية، مطهر",
     "da": "Bruges til at lave medicinske forsyninger. Bruges til at lave: Urtebandage, Antiseptisk middel",
     "de": "Wird zur Herstellung medizinischer Objekte verwendet. Zur Herstellung von: Kräuterverband, Desinfektionsmittel",
     "en": "Used to craft medical supplies. Used to craft: Herbal Bandage, Antiseptic",

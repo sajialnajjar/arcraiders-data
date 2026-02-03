@@ -1,6 +1,7 @@
 {
   "id": "music_album",
   "name": {
+    "ar": "ألبوم موسيقي",
     "da": "Musikalbum",
     "de": "Musikalbum",
     "en": "Music Album",
@@ -23,6 +24,7 @@
     "zh-TW": "音樂專輯"
   },
   "description": {
+    "ar": "مثالي لأمسيات الاسترخاء في المنزل، والتجمعات غير الرسمية، وحفلات الغيتار الهوائي الخاصة.",
     "da": "Perfekt til afslappende aftener hjemme, uformelle sammenkomster og private luftguitarkoncerter.",
     "de": "Perfekt für entspannte Abende zu Hause, lockere Treffen und private Luftgitarren-Konzerte.",
     "en": "Perfect for relaxing nights at home, casual get-togethers, and private air guitar concerts.",

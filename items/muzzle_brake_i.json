@@ -1,6 +1,7 @@
 {
   "id": "muzzle_brake_i",
   "name": {
+    "ar": "كابح فوهة 1",
     "da": "Mundingsbremse I",
     "de": "Mündungsbremse I",
     "en": "Muzzle Brake I",
@@ -23,6 +24,7 @@
     "zh-TW": "槍口制退器 I"
   },
   "description": {
+    "ar": "يقلل قليلاً من الارتداد العمودي والأفقي. متوافق مع: Rattler, Ferro, Burletta, Stitcher, Tempest",
     "da": "Reducerer både lodret og vandret rekyl lidt. Kompatibel med: Rattler, Ferro, Burletta, Stitcher, Tempest",
     "de": "Verringert den vertikalen und horizontalen Rückstoß geringfügig. Kompatibel mit: Rattler, Ferro, Burletta, Stitcher, Tempest",
     "en": "Slightly reduces both vertical recoil & horizontal recoil. Compatible with: Rattler, Ferro, Burletta, Stitcher, Tempest",
@@ -51,6 +53,7 @@
   "effects": {
     "Reduced Horizontal Recoil": {
       "value": "15%",
+      "ar": "تقليل الارتداد الأفقي",
       "da": "Reduceret vandret rekyl",
       "de": "Verringerter horizontaler Rückstoß",
       "en": "Reduced Horizontal Recoil",
@@ -74,6 +77,7 @@
     },
     "Reduced Vertical Recoil": {
       "value": "15%",
+      "ar": "تقليل الارتداد العمودي",
       "da": "Reduceret lodret rekyl",
       "de": "Verringerter vertikaler Rückstoß",
       "en": "Reduced Vertical Recoil",

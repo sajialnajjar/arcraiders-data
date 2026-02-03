@@ -1,6 +1,7 @@
 {
   "id": "moss",
   "name": {
+    "ar": "طحلب",
     "da": "Mos",
     "de": "Moos",
     "en": "Moss",
@@ -23,6 +24,7 @@
     "zh-TW": "苔蘚"
   },
   "description": {
+    "ar": "يمكن استخدامه لاستعادة كمية صغيرة من الصحة.",
     "da": "Kan bruges til at genvinde en lille mængde helbred.",
     "de": "Kann zur Regeneration einer kleinen Menge Gesundheit benutzt werden. Zur Herstellung von: Defibrillator",
     "en": "Can be used to regain a small amount of health.",
@@ -53,6 +55,7 @@
   "effects": {
     "Duration": {
       "value": "10s",
+      "ar": "المدة",
       "da": "Varighed",
       "de": "Dauer",
       "en": "Duration",
@@ -76,6 +79,7 @@
     },
     "Healing": {
       "value": "1/s",
+      "ar": "الشفاء",
       "da": "Helbredelse",
       "de": "Heilen",
       "en": "Healing",
@@ -99,6 +103,7 @@
     },
     "Use Time": {
       "value": "1s",
+      "ar": "وقت الاستخدام",
       "da": "Brugstid",
       "de": "Verwendungszeit",
       "en": "Use Time",

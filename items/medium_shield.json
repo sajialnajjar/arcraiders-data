@@ -1,6 +1,7 @@
 {
   "id": "medium_shield",
   "name": {
+    "ar": "درع متوسط",
     "da": "Mellemstort skjold",
     "de": "Mittlerer Schild",
     "en": "Medium Shield",
@@ -23,6 +24,7 @@
     "zh-TW": "中型護盾"
   },
   "description": {
+    "ar": "درع قياسي يصد جزءاً متوسطاً من الضرر الوارد بتكلفة معتدلة للحركة.",
     "da": "Et standard skjold, der blokerer en middel del af indgående skade til en moderat pris for mobilitet.",
     "de": "Ein Standardschild, der einen mittleren Teil des eingehenden Schadens abwehrt, worunter allerdings auch die Mobilität moderat leidet.",
     "en": "A standard shield that blocks a medium portion of incoming damage at a moderate cost to mobility.",
@@ -51,6 +53,7 @@
   "effects": {
     "Charge": {
       "value": 70,
+      "ar": "الشحنة",
       "da": "Ladning",
       "de": "Ladung",
       "en": "Charge",
@@ -74,6 +77,7 @@
     },
     "Damage Reduction": {
       "value": "42.5%",
+      "ar": "تقليل الضرر",
       "da": "Skadereduktion",
       "de": "Schadensreduktion",
       "en": "Damage Reduction",
@@ -97,6 +101,7 @@
     },
     "Durability": {
       "value": "100/100",
+      "ar": "المتانة",
       "da": "Holdbarhed",
       "de": "Haltbarkeit",
       "en": "Durability",
@@ -120,6 +125,7 @@
     },
     "Reduced Movement Speed": {
       "value": "5%",
+      "ar": "تقليل سرعة الحركة",
       "da": "Reduceret bevægelseshastighed",
       "de": "Verringerte Bewegungsgeschwindigkeit",
       "en": "Reduced Movement Speed",

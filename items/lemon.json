@@ -1,6 +1,7 @@
 {
   "id": "lemon",
   "name": {
+    "ar": "ليمون",
     "da": "Citron",
     "de": "Zitrone",
     "en": "Lemon",
@@ -23,6 +24,7 @@
     "zh-TW": "檸檬"
   },
   "description": {
+    "ar": "يمكن استهلاكه للحصول على كمية صغيرة من القدرة على التحمل.",
     "da": "Kan indtages for en lille mængde udholdenhed.",
     "de": "Kann zum Gewinn einer kleinen Menge Ausdauer verzehrt werden.",
     "en": "Can be consumed for a small amount of stamina.",
@@ -53,6 +55,7 @@
   "effects": {
     "Stamina": {
       "value": 20,
+      "ar": "القدرة على التحمل",
       "da": "Udholdenhed",
       "de": "Ausdauer",
       "en": "Stamina",
@@ -76,6 +79,7 @@
     },
     "Use Time": {
       "value": "1s",
+      "ar": "وقت الاستخدام",
       "da": "Brugstid",
       "de": "Verwendungszeit",
       "en": "Use Time",

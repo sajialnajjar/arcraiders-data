@@ -1,6 +1,7 @@
 {
   "id": "light_gun_parts",
   "name": {
+    "ar": "أجزاء سلاح خفيف",
     "da": "Lette Våbendele",
     "de": "Teile für Waffe mit leichter Munition",
     "en": "Light Gun Parts",
@@ -23,6 +24,7 @@
     "zh-TW": "輕型槍械零件"
   },
   "description": {
+    "ar": "قطع غيار متنوعة تستخدم للمسدسات والرشاشات. تستخدم لصنع: Bobcat، أجزاء سلاح معقدة",
     "da": "Assorterede reservedele brugt til pistoler og maskinpistoler. Bruges til at lave: Bobcat, Komplekse Våbendele",
     "de": "Verschiedenste Ersatzteile, die in Pistolen und MPs zum Einsatz kommen. Zur Herstellung von: Bobcat, Komplexe Waffenteile",
     "en": "Assorted spare parts used for pistols and SMGs. Used to craft: Bobcat, Complex Gun Parts",

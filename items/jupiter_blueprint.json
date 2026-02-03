@@ -1,6 +1,7 @@
 {
   "id": "jupiter_blueprint",
   "name": {
+    "ar": "مخطط جوبيتر",
     "da": "Jupiter-tegning",
     "de": "Bauplan: Jupiter",
     "en": "Jupiter Blueprint",
@@ -23,6 +24,7 @@
     "zh-TW": "木星藍圖"
   },
   "description": {
+    "ar": "بندقية قنص تعمل بالمزلاق ذات إنتاج ضرر ودقة استثنائيين، ولكن تعامل بطيء.",
     "da": "En bolt-action sniperriffel med exceptionel skadeeffekt og præcision, men langsom håndtering.",
     "de": "Ein Repetier-Scharfschützengewehr mit außergewöhnlicher Schadensleistung und Genauigkeit, aber langsamer Handhabung.",
     "en": "A bolt-action sniper rifle with exceptional damage output and accuracy, but slow handling.",

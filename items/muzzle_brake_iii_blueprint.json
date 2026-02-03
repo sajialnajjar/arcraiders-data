@@ -1,6 +1,7 @@
 {
   "id": "muzzle_brake_iii_blueprint",
   "name": {
+    "ar": "مخطط كابح فوهة 3",
     "da": "Mundingsbremse III-tegning",
     "de": "Bauplan: Mundungsbremse III",
     "en": "Muzzle Brake III Blueprint",
@@ -23,6 +24,7 @@
     "zh-TW": "槍口制退器 III 藍圖"
   },
   "description": {
+    "ar": "يقلل بشكل كبير من الارتداد العمودي والأفقي. متوافق مع: Arpeggio, Ferro, Renegade, Anvil, Stitcher",
     "da": "Reducerer betydeligt bade vertikal og horisontal rekyl. Kompatibel med: Arpeggio, Ferro, Renegade, Anvil, Stitcher",
     "de": "Verringert den vertikalen und horizontalen Ruckstoß erheblich. Kompatibel mit: Arpeggio, Ferro, Renegade, Anvil, Stitcher",
     "en": "Significantly reduces both vertical recoil & horizontal recoil. Compatible with: Arpeggio, Ferro, Renegade, Anvil, Stitcher",

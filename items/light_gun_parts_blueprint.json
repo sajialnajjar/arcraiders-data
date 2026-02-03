@@ -1,6 +1,7 @@
 {
   "id": "light_gun_parts_blueprint",
   "name": {
+    "ar": "مخطط أجزاء سلاح خفيف",
     "da": "Lette våbendele-tegning",
     "de": "Bauplan: Leichte Waffenteile",
     "en": "Light Gun Parts Blueprint",
@@ -23,6 +24,7 @@
     "zh-TW": "輕型槍械零件藍圖"
   },
   "description": {
+    "ar": "قطع غيار متنوعة تستخدم للمسدسات والرشاشات.",
     "da": "Assorterede reservedele brugt til pistoler og maskinpistoler.",
     "de": "Verschiedenste Ersatzteile, die in Pistolen und MPs zum Einsatz kommen.",
     "en": "Assorted spare parts used for pistols and SMGs.",

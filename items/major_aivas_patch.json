@@ -1,6 +1,7 @@
 {
   "id": "major_aivas_patch",
   "name": {
+    "ar": "رقعة الرائد آيفا",
     "da": "Major Aivas emblem",
     "de": "Major Aivas Abzeichen",
     "en": "Major Aiva's Patch",
@@ -23,6 +24,7 @@
     "zh-TW": "艾娃少校的臂章"
   },
   "description": {
+    "ar": "رقعة ممزقة، وجدت وسط الأنقاض والدمار.",
     "da": "Et flænget emblem, fundet midt i ruiner og grus.",
     "de": "Ein zerrissenes Abzeichen, gefunden inmitten von Schutt und Ruinen.",
     "en": "A torn patch, found amidst rubble and ruin.",
@@ -50,6 +52,7 @@
   "effects": {
     "Tracked for quest": {
       "value": "",
+      "ar": "تتبع للمهمة",
       "da": "Sporet til opgave",
       "de": "Für Quest verfolgt",
       "en": "Tracked for quest",

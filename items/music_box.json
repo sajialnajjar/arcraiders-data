@@ -1,6 +1,7 @@
 {
   "id": "music_box",
   "name": {
+    "ar": "صندوق موسيقى",
     "da": "Spilledåse",
     "de": "Spieluhr",
     "en": "Music Box",
@@ -23,6 +24,7 @@
     "zh-TW": "音樂盒"
   },
   "description": {
+    "ar": "يستحق ثروة صغيرة.",
     "da": "Værd en lille formue.",
     "de": "Ein kleines Vermögen wert.",
     "en": "Worth a small fortune.",

@@ -1,6 +1,7 @@
 {
   "id": "lure_grenade_blueprint",
   "name": {
+    "ar": "مخطط قنبلة استدراج",
     "da": "Lokkegranattegning",
     "de": "Bauplan: Ködergranate",
     "en": "Lure Grenade Blueprint",
@@ -23,6 +24,7 @@
     "zh-TW": "誘餌手榴彈藍圖"
   },
   "description": {
+    "ar": "جهاز صاخب يلتصق بالأسطح، ويشتت انتباه آلات ARC القريبة ويجذب نيرانها.",
     "da": "En støjende enhed, der hæfter til overflader, distraherer nærliggende ARC-maskiner og tiltrækker deres ild.",
     "de": "Ein lautes Gerät, das an Oberflächen haften bleibt, ARC-Maschinen in der Nähe ablenkt und ihre Schüsse auf sich zieht.",
     "en": "A noisy device that sticks to surfaces, distracting nearby ARC machines and drawing their fire.",

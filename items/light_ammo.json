@@ -1,6 +1,7 @@
 {
   "id": "light_ammo",
   "name": {
+    "ar": "ذخيرة خفيفة",
     "da": "Let ammunition",
     "de": "Leichte Munition",
     "en": "Light Ammo",
@@ -23,6 +24,7 @@
     "zh-TW": "輕型彈藥"
   },
   "description": {
+    "ar": "رصاص خفيف يستخدم بشكل رئيسي مع الرشاشات والمسدسات الخفيفة. متوافق مع: Burletta, Stitcher, Kettle, Hairpin, Bobcat",
     "da": "Lette kugler brugt hovedsageligt med maskinpistoler og lette håndvåben. Kompatibel med: Burletta, Stitcher, Kettle, Hairpin, Bobcat",
     "de": "Kompatibel mit: Kettle, Burletta, Stitcher, Hairpin, Bobcat",
     "en": "Light bullets used mainly with SMGs and light handguns. Compatible with: Burletta, Stitcher, Kettle, Hairpin, Bobcat",
@@ -50,7 +52,13 @@
   "weightKg": 0.017,
   "stackSize": 100,
   "craftQuantity": 25,
-  "compatibleWith": ["Kettle", "Burletta", "Hairpin", "Bobcat", "Stitcher"],
+  "compatibleWith": [
+    "Kettle",
+    "Burletta",
+    "Hairpin",
+    "Bobcat",
+    "Stitcher"
+  ],
   "craftBench": "workbench",
   "recipe": {
     "chemicals": 2,

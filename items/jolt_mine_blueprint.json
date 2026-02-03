@@ -1,6 +1,7 @@
 {
   "id": "jolt_mine_blueprint",
   "name": {
+    "ar": "مخطط لغم صعق",
     "da": "Chok-mine tegning",
     "de": "Bauplan: Schockmine",
     "en": "Jolt Mine Blueprint",
@@ -23,6 +24,7 @@
     "zh-TW": "震盪地雷藍圖"
   },
   "description": {
+    "ar": "لغم يعمل بالاقتراب وينبثق ليصعق أي شيء داخل نصف قطره.",
     "da": "En nærhedsudløst mine der springer op og bedøver alt inden for sin radius.",
     "de": "Eine Mine, die bei Annäherung explodiert und dabei alle in ihrem Radius betäubt.",
     "en": "A proximity-triggered mine that pops up and stuns anything within its radius.",

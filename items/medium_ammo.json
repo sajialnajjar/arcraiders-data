@@ -1,6 +1,7 @@
 {
   "id": "medium_ammo",
   "name": {
+    "ar": "ذخيرة متوسطة",
     "da": "Mellem ammunition",
     "de": "Mittlere Munition",
     "en": "Medium Ammo",
@@ -23,6 +24,7 @@
     "zh-TW": "中型彈藥"
   },
   "description": {
+    "ar": "متوافق مع: Rattler, Tempest, Arpeggio, Renegade, Torrente",
     "da": "Kompatibel med: Rattler, Tempest, Arpeggio, Renegade, Torrente",
     "de": "Kompatibel mit: Arpeggio, Rattler, Venator, Tempest, Renegade",
     "en": "Compatible with: Rattler, Tempest, Arpeggio, Renegade, Torrente",
@@ -50,7 +52,13 @@
   "weightKg": 0.025,
   "stackSize": 80,
   "craftQuantity": 20,
-  "compatibleWith": ["Arpeggio", "Rattler", "Tempest", "Renegade", "Torrente"],
+  "compatibleWith": [
+    "Arpeggio",
+    "Rattler",
+    "Tempest",
+    "Renegade",
+    "Torrente"
+  ],
   "craftBench": "workbench",
   "recipe": {
     "chemicals": 2,

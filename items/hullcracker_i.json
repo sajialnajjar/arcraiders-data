@@ -1,6 +1,7 @@
 {
   "id": "hullcracker_i",
   "name": {
+    "ar": "كسارة الهيكل I",
     "da": "Hullcracker I",
     "de": "Hüllenbrecher I",
     "en": "Hullcracker I",
@@ -23,6 +24,7 @@
     "zh-TW": "Hullcracker I"
   },
   "description": {
+    "ar": "يطلق مقذوفات متفجرة تنفجر فقط عند إصابة ARC.",
     "da": "Affyrer eksplosive projektiler, der kun detonerer ved træf på ARC.",
     "de": "Schießt explosive Geschosse ab, die erst explodieren, wenn sie ARC treffen.",
     "en": "Fires explosive projectiles that only detonate when hitting ARC.",
@@ -53,6 +55,7 @@
   "effects": {
     "Ammo Type": {
       "value": "Launcher Ammo",
+      "ar": "نوع الذخيرة",
       "da": "Ammunitionstype",
       "de": "Munitionstyp",
       "en": "Ammo Type",
@@ -76,6 +79,7 @@
     },
     "ARC Armor Penetration": {
       "value": "Very Strong",
+      "ar": "اختراق درع ARC",
       "da": "ARC-rustningspenetrering",
       "de": "ARC-Panzerungsdurchdringung",
       "en": "ARC Armor Penetration",
@@ -99,6 +103,7 @@
     },
     "Durability": {
       "value": "100/100",
+      "ar": "المتانة",
       "da": "Holdbarhed",
       "de": "Haltbarkeit",
       "en": "Durability",
@@ -122,6 +127,7 @@
     },
     "Firing Mode": {
       "value": "Pump-Action",
+      "ar": "تلقيم مضخي",
       "da": "Skydningstilstand",
       "de": "Feuermodus",
       "en": "Firing Mode",
@@ -145,6 +151,7 @@
     },
     "Magazine Size": {
       "value": 5,
+      "ar": "حجم المخزن",
       "da": "Magasinstørrelse",
       "de": "Magazingröße",
       "en": "Magazine Size",

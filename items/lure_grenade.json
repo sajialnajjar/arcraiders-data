@@ -1,6 +1,7 @@
 {
   "id": "lure_grenade",
   "name": {
+    "ar": "قنبلة استدراج",
     "da": "Lokkegranate",
     "de": "Ködergranate",
     "en": "Lure Grenade",
@@ -23,6 +24,7 @@
     "zh-TW": "誘餌手榴彈"
   },
   "description": {
+    "ar": "جهاز ضوضاء يلتصق بالأسطح، ويشتت انتباه آلات ARC القريبة ويجذب نيرانها.",
     "da": "En støjenhed, der hæfter til overflader, distrahere nærliggende ARC-maskiner og tiltrække deres ild.",
     "de": "Ein lautes Gerät, das an Oberflächen haften bleibt, ARC-Maschinen in der Nähe ablenkt und ihre Schüsse auf sich zieht.",
     "en": "A noise device that sticks to surfaces, distracting nearby ARC machines and drawing their fire.",

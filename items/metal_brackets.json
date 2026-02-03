@@ -1,6 +1,7 @@
 {
   "id": "metal_brackets",
   "name": {
+    "ar": "أقواس معدنية",
     "da": "Metalbeslag",
     "de": "Metallhalterungen",
     "en": "Metal Brackets",
@@ -23,6 +24,7 @@
     "zh-TW": "金屬支架"
   },
   "description": {
+    "ar": "يمكن إعادة تدويرها إلى أجزاء معدنية.",
     "da": "Kan genbruges til metaldele.",
     "de": "Kann zu Metallteilen recycelt werden.",
     "en": "Can be recycled into metal parts.",

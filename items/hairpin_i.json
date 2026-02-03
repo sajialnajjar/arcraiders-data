@@ -1,6 +1,7 @@
 {
   "id": "hairpin_i",
   "name": {
+    "ar": "مشبك شعر I",
     "da": "Hårnål I",
     "de": "Hairpin I",
     "en": "Hairpin I",
@@ -23,6 +24,7 @@
     "zh-TW": "髮夾 I"
   },
   "description": {
+    "ar": "يحتوي على كاتم صوت مدمج. ممتاز للتسلל, אבל صعب في القتال.",
     "da": "Har en indbygget lyddæmper. Fantastisk til snigen, men vanskelig i kamp.",
     "de": "Hat einen eingebauten Schalldämpfer. Herausragend, um unentdeckt zu bleiben, im Feuergefecht aber eher unpraktisch.",
     "en": "Has a built-in silencer. Great for stealth, but tricky in combat.",
@@ -52,6 +54,7 @@
   "effects": {
     "Ammo Type": {
       "value": "Light Ammo",
+      "ar": "نوع الذخيرة",
       "da": "Ammunitionstype",
       "de": "Munitionstyp",
       "en": "Ammo Type",
@@ -75,6 +78,7 @@
     },
     "ARC Armor Penetration": {
       "value": "Very Weak",
+      "ar": "اختراق درع ARC",
       "da": "ARC-rustningspenetrering",
       "de": "ARC-Panzerungsdurchdringung",
       "en": "ARC Armor Penetration",
@@ -98,6 +102,7 @@
     },
     "Durability": {
       "value": "100/100",
+      "ar": "المتانة",
       "da": "Holdbarhed",
       "de": "Haltbarkeit",
       "en": "Durability",
@@ -121,6 +126,7 @@
     },
     "Firing Mode": {
       "value": "Slide-Action",
+      "ar": "حركة انزلاقية",
       "da": "Skydetilstand",
       "de": "Feuermodus",
       "en": "Firing Mode",
@@ -144,6 +150,7 @@
     },
     "Magazine Size": {
       "value": 8,
+      "ar": "حجم المخزن",
       "da": "Magasinstørrelse",
       "de": "Magazingröße",
       "en": "Magazine Size",
@@ -167,6 +174,7 @@
     },
     "Special Trait": {
       "value": "Integrated Silencer",
+      "ar": "سمة خاصة",
       "da": "Særlig egenskab",
       "de": "Besondere Eigenschaft",
       "en": "Special Trait",
@@ -189,7 +197,10 @@
       "zh-TW": "特殊特性"
     }
   },
-  "craftBench": ["workbench", "weapon_bench"],
+  "craftBench": [
+    "workbench",
+    "weapon_bench"
+  ],
   "recipe": {
     "metal_parts": 2,
     "plastic_parts": 5

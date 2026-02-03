@@ -1,6 +1,7 @@
 {
   "id": "hornet_driver",
   "name": {
+    "ar": "مشغل الدبور",
     "da": "Hvepsedriver",
     "de": "Hornissentreiber",
     "en": "Hornet Driver",
@@ -23,6 +24,7 @@
     "zh-TW": "黃蜂驅動器"
   },
   "description": {
+    "ar": "يمكن رميه وسيصعق الأهداف القريبة لفترة وجيزة.",
     "da": "Kan kastes og vil kortvarigt bedøve nærliggende mål",
     "de": "Kann zu ARC-Legierung recycelt werden. Kann geworfen werden, um nahe Ziele kurzfristig zu betäuben.",
     "en": "Can be thrown and will briefly stun nearby targets",
@@ -53,6 +55,7 @@
   "effects": {
     "ARC Stun Duration": {
       "value": "10s",
+      "ar": "مدة صعق ARC",
       "da": "ARC-bedøvelsesvarighed",
       "de": "ARC-Betäubungsdauer",
       "en": "ARC Stun Duration",
@@ -76,6 +79,7 @@
     },
     "Radius": {
       "value": "6m",
+      "ar": "نصف القطر",
       "da": "Radius",
       "de": "Radius",
       "en": "Radius",
@@ -99,6 +103,7 @@
     },
     "Raider Stun Duration": {
       "value": "0.5s",
+      "ar": "مدة صعق المغيرين",
       "da": "Raider-bedøvelsesvarighed",
       "de": "Raider-Betäubungsdauer",
       "en": "Raider Stun Duration",

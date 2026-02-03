@@ -1,6 +1,7 @@
 {
   "id": "matriarch_reactor",
   "name": {
+    "ar": "مفاعل الأم",
     "da": "Matriarkreactor",
     "de": "Matriarchenreaktor",
     "en": "Matriarch Reactor",
@@ -23,6 +24,7 @@
     "zh-TW": "母巢反應爐"
   },
   "description": {
+    "ar": "يمكن إعادة تدويره إلى مواد تصنيع.",
     "da": "Kan genbruges til håndværksmaterialer.",
     "de": "Kann zu Herstellungsmaterialien recycelt werden.",
     "en": "Can be recycled into crafting materials.",

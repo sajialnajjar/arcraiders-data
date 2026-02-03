@@ -1,6 +1,7 @@
 {
   "id": "gas_grenade_trap",
   "name": {
+    "ar": "فخ قنبلة الغاز",
     "da": "Gasgranatefælde",
     "de": "Laserfalle: Gas",
     "en": "Gas Grenade Trap",
@@ -23,6 +24,7 @@
     "zh-TW": "毒氣手榴彈陷阱"
   },
   "description": {
+    "ar": "سلك ليزر يفجر قنبلة غاز.",
     "da": "En lasertråd der detonerer en gasgranat.",
     "de": "Ein Laser-Stolperdraht, der eine Gasgranate detonieren lässt.",
     "en": "A laser trip wire that detonates a Gas Grenade.",
@@ -52,6 +54,7 @@
   "effects": {
     "Duration": {
       "value": "20s",
+      "ar": "المدة",
       "da": "Varighed",
       "de": "Dauer",
       "en": "Duration",
@@ -75,6 +78,7 @@
     },
     "Radius": {
       "value": "7.5m",
+      "ar": "نصف القطر",
       "da": "Radius",
       "de": "Radius",
       "en": "Radius",
@@ -98,6 +102,7 @@
     },
     "Stamina Drain": {
       "value": "25/s",
+      "ar": "استنزاف القدرة على التحمل",
       "da": "Udholdenhedstab",
       "de": "Ausdauerabzug",
       "en": "Stamina Drain",

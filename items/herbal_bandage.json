@@ -1,6 +1,7 @@
 {
   "id": "herbal_bandage",
   "name": {
+    "ar": "ضمادة عشبية",
     "da": "Urtebandage",
     "de": "Kräuterverband",
     "en": "Herbal Bandage",
@@ -23,6 +24,7 @@
     "zh-TW": "草藥繃帶"
   },
   "description": {
+    "ar": "عنصر طبي مرتجل يعيد الصحة تدريجياً مع مرور الوقت.",
     "da": "En improviseret medicinsk genstand, der gradvist genopretter helbred over tid.",
     "de": "Ein improvisierter medizinischer Gegenstand, der allmählich Gesundheit wiederherstellt.",
     "en": "An improvised medical item that gradually restores health over time.",
@@ -52,6 +54,7 @@
   "effects": {
     "Duration": {
       "value": "10s",
+      "ar": "المدة",
       "da": "Varighed",
       "de": "Dauer",
       "en": "Duration",
@@ -75,6 +78,7 @@
     },
     "Healing": {
       "value": "3.5/s",
+      "ar": "الشفاء",
       "da": "Helbredelse",
       "de": "Heilen",
       "en": "Healing",
@@ -98,6 +102,7 @@
     },
     "Use Time": {
       "value": "1.5s",
+      "ar": "وقت الاستخدام",
       "da": "Brugstid",
       "de": "Verwendungszeit",
       "en": "Use Time",

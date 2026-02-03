@@ -1,6 +1,7 @@
 {
   "id": "laboratory_reagents",
   "name": {
+    "ar": "كواشف مخبرية",
     "da": "Laboratoriereagenser",
     "de": "Laboringredienzien",
     "en": "Laboratory Reagents",
@@ -23,6 +24,7 @@
     "zh-TW": "實驗室試劑"
   },
   "description": {
+    "ar": "مجموعة من الكواشف الكيميائية المستخدمة في التجارب المخبرية.",
     "da": "Et sæt kemiske reagenser brugt i laboratorieforsøg.",
     "de": "Kann zu Herstellungsmaterialien recycelt werden.",
     "en": "A set of chemical reagents used in laboratory experiments.",

@@ -1,6 +1,7 @@
 {
   "id": "junior_outfit",
   "name": {
+    "ar": "زي ناشئ",
     "da": "Junior-outfit",
     "de": "Junior-Outfit",
     "en": "Junior Outfit",
@@ -23,6 +24,7 @@
     "zh-TW": "少年服裝"
   },
   "description": {
+    "ar": "زي تجميلي.",
     "da": "Kosmetisk outfit",
     "de": "Kosmetisches Outfit",
     "en": "Cosmetic Outfit",

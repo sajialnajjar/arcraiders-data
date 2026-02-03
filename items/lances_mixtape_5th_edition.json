@@ -1,6 +1,7 @@
 {
   "id": "lances_mixtape_5th_edition",
   "name": {
+    "ar": "شريط ميكس لانس (الإصدار الخامس)",
     "da": "Lances Mixtape (5. udgave)",
     "de": "Lances Mixtape (5. Auflage)",
     "en": "Lance's Mixtape (5th Edition)",
@@ -23,6 +24,7 @@
     "zh-TW": "蘭斯的混音帶（第5版）"
   },
   "description": {
+    "ar": "قام لانس شخصياً بزراعة عدد من هذه الأشرطة حول حزام الصدأ، لسبب ما.",
     "da": "Lance har personligt plantet en række af disse rundt om i Rust Belt, af en eller anden grund.",
     "de": "Aus irgendeinem Grund hat Lance persönlich ein paar davon im Rostgürtel gepflanzt.",
     "en": "Lance has personally planted a number of these around the Rust Belt, for some reason.",

@@ -1,6 +1,7 @@
 {
   "id": "heavy_fuze_grenade",
   "name": {
+    "ar": "قنبلة بفتيل ثقيل",
     "da": "Tung luntetgranat",
     "de": "Schwere Zündgranate",
     "en": "Heavy Fuze Grenade",
@@ -23,6 +24,7 @@
     "zh-TW": "重型定時手榴彈"
   },
   "description": {
+    "ar": "قنبلة تنفجر بعد فترة تأخير، مسببة أضرارًا انفجارية في نطاقها.",
     "da": "En granat, der detonerer efter en forsinkelse, og giver eksplosiv skade i sin radius.",
     "de": "Eine Granate, die nach einer Verzögerung explodiert und in ihrem Radius Explosionsschaden verursacht.",
     "en": "A grenade that detonates after a delay, dealing explosive damage in its radius.",
@@ -52,6 +54,7 @@
   "effects": {
     "Damage": {
       "value": 80,
+      "ar": "الضرر",
       "da": "Skade",
       "de": "Schaden",
       "en": "Damage",
@@ -75,6 +78,7 @@
     },
     "Radius": {
       "value": "7.5m",
+      "ar": "نصف القطر",
       "da": "Radius",
       "de": "Radius",
       "en": "Radius",

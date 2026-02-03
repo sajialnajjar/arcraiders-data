@@ -1,6 +1,7 @@
 {
   "id": "light_impact_grenade",
   "name": {
+    "ar": "قنبلة تصادم خفيفة",
     "da": "Let slagggranat",
     "de": "Leichte Aufschlaggranate",
     "en": "Light Impact Grenade",
@@ -23,6 +24,7 @@
     "zh-TW": "輕型衝擊手榴彈"
   },
   "description": {
+    "ar": "قنبلة تنفجر عند الارتطام وتسبب ضرراً انفجارياً في نطاق صغير.",
     "da": "En granat der detonerer ved sammenstød og giver eksplosiv skade i en lille radius.",
     "de": "Eine Granate, die beim Aufprall explodiert und in einem kleinen Radius Explosionsschaden verursacht.",
     "en": "A grenade that detonates on impact, dealing explosive damage in a small radius.",
@@ -52,6 +54,7 @@
   "effects": {
     "Damage": {
       "value": 30,
+      "ar": "الضرر",
       "da": "Skade",
       "de": "Schaden",
       "en": "Damage",
@@ -75,6 +78,7 @@
     },
     "Radius": {
       "value": "2.5m",
+      "ar": "نصف القطر",
       "da": "Radius",
       "de": "Radius",
       "en": "Radius",
@@ -97,7 +101,10 @@
       "zh-TW": "半徑"
     }
   },
-  "craftBench": ["workbench", "explosives_bench"],
+  "craftBench": [
+    "workbench",
+    "explosives_bench"
+  ],
   "recipe": {
     "chemicals": 3,
     "plastic_parts": 2

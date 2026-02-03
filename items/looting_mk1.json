@@ -1,6 +1,7 @@
 {
   "id": "looting_mk1",
   "name": {
+    "ar": "نهب Mk. 1",
     "da": "Plyndring Mk. 1",
     "de": "Beute-Marke 1",
     "en": "Looting Mk. 1",
@@ -23,6 +24,7 @@
     "zh-TW": "掠奪 Mk. 1"
   },
   "description": {
+    "ar": "تعزيز نهب أساسي. المزيد من فتحات حقيبة الظهر وسعة الوزن، ولكن قدرة دفاعية وتكتيكية منخفضة.",
     "da": "Grundlæggende plyndringsforøgelse. Flere rygsækpladser og vægtkapacitet, men lav defensiv og taktisk kapacitet.",
     "de": "Basis-Plünder-Augment. Mehr Rucksackplätze und Gewichtskapazität, aber nur geringste Verteidigungs- und taktische Kapazität.",
     "en": "Basic looting augment. More backpack slots and weight capacity, but low defensive and tactical capability.",
@@ -52,6 +54,7 @@
   "effects": {
     "Durability": {
       "value": "100/100",
+      "ar": "المتانة",
       "da": "Holdbarhed",
       "de": "Haltbarkeit",
       "en": "Durability",
@@ -75,6 +78,7 @@
     },
     "Max Loadout Weight": {
       "value": 50,
+      "ar": "أقصى وزن للعتاد",
       "da": "Maks. udstyrsvægt",
       "de": "Max. Loadout-Gewicht",
       "en": "Max Loadout Weight",
@@ -98,6 +102,7 @@
     },
     "Shield Compatibility": {
       "value": "Light",
+      "ar": "توافق الدرع",
       "da": "Skjoldkompatibilitet",
       "de": "Schildkompatibilität",
       "en": "Shield Compatibility",
@@ -120,7 +125,10 @@
       "zh-TW": "護盾相容性"
     }
   },
-  "craftBench": ["equipment_bench", "workbench"],
+  "craftBench": [
+    "equipment_bench",
+    "workbench"
+  ],
   "recipe": {
     "plastic_parts": 6,
     "rubber_parts": 6

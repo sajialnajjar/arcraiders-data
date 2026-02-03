@@ -1,6 +1,7 @@
 {
   "id": "looting_mk2",
   "name": {
+    "ar": "نهب Mk. 2",
     "da": "Plyndring Mk. 2",
     "de": "Beute-Marke 2",
     "en": "Looting Mk. 2",
@@ -23,6 +24,7 @@
     "zh-TW": "掠奪 Mk. 2"
   },
   "description": {
+    "ar": "يزيد بشكل كبير من إمكانات النهب؛ يضيف فتحات للحلي. يسقط القراد الملتصق تلقائياً بعد 0.5 ثانية.",
     "da": "Øger plyndringspotensialet betydeligt; tilføjer pladser til smykker. Kaster automatisk vedhæftede flåter af efter 0.5s.",
     "de": "Erhöht das Plünderungspotenzial erheblich; fügt Plätze für Zierden hinzu. Wirft befestigte Zecken nach 1 Sek. ab.",
     "en": "Significantly increases looting potential; adds slots for trinkets. Automatically throws off attached Ticks after 0.5s.",
@@ -52,6 +54,7 @@
   "effects": {
     "Durability": {
       "value": "100/100",
+      "ar": "المتانة",
       "da": "Holdbarhed",
       "de": "Haltbarkeit",
       "en": "Durability",
@@ -75,6 +78,7 @@
     },
     "Max Loadout Weight": {
       "value": 60,
+      "ar": "أقصى وزن للعتاد",
       "da": "Maks. udstyrsvægt",
       "de": "Max. Loadout-Gewicht",
       "en": "Max Loadout Weight",
@@ -98,6 +102,7 @@
     },
     "Shield Compatibility": {
       "value": "Light",
+      "ar": "توافق الدرع",
       "da": "Skjoldkompatibilitet",
       "de": "Schildkompatibilität",
       "en": "Shield Compatibility",

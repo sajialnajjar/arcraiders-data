@@ -1,6 +1,7 @@
 {
   "id": "headphones",
   "name": {
+    "ar": "سماعات رأس",
     "da": "Hovedtelefoner",
     "de": "Kopfhörer",
     "en": "Headphones",
@@ -23,6 +24,7 @@
     "zh-TW": "耳機"
   },
   "description": {
+    "ar": "يمكن إعادة تدويره إلى مواد تصنيع.",
     "da": "Kan genbruges til håndværksmaterialer.",
     "de": "Kann zu Herstellungsmaterialien recycelt werden.",
     "en": "Can be recycled into crafting materials.",

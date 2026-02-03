@@ -1,6 +1,7 @@
 {
   "id": "jolt_mine",
   "name": {
+    "ar": "لغم صعق",
     "da": "Jolt-mine",
     "de": "Schockmine",
     "en": "Jolt Mine",
@@ -23,6 +24,7 @@
     "zh-TW": "電擊地雷"
   },
   "description": {
+    "ar": "لغم يعمل بالاقتراب وينبثق ليصعق أي شيء داخل نصف قطره.",
     "da": "En nærhedsudløst mine, der springer op og bedøver alt inden for dens radius.",
     "de": "Eine Mine, die bei Annäherung explodiert und dabei alle in ihrem Radius betäubt.",
     "en": "A proximity-triggered mine that pops up and stuns anything within its radius.",
@@ -52,6 +54,7 @@
   "effects": {
     "ARC Stun Duration": {
       "value": "10s",
+      "ar": "مدة صعق ARC",
       "da": "ARC-bedøvelsesvarighed",
       "de": "ARC-Betäubungsdauer",
       "en": "ARC Stun Duration",
@@ -75,6 +78,7 @@
     },
     "Radius": {
       "value": "5m",
+      "ar": "نصف القطر",
       "da": "Radius",
       "de": "Radius",
       "en": "Radius",
@@ -98,6 +102,7 @@
     },
     "Raider Stun Duration": {
       "value": "4s",
+      "ar": "مدة صعق المغيرين",
       "da": "Raider-bedøvelsesvarighed",
       "de": "Raider-Betäubungsdauer",
       "en": "Raider Stun Duration",

@@ -1,6 +1,7 @@
 {
   "id": "medium_gun_parts",
   "name": {
+    "ar": "أجزاء سلاح متوسط",
     "da": "Medium våbendele",
     "de": "Teile für Waffe mit mittlerer Munition",
     "en": "Medium Gun Parts",
@@ -23,6 +24,7 @@
     "zh-TW": "中型槍械零件"
   },
   "description": {
+    "ar": "قطع غيار متنوعة تستخدم للبنادق. تستخدم لصنع: Torrente, Venator, Osprey, Renegade, Tempest",
     "da": "Assorterede reservedele brugt til rifler. Bruges til at fremstille: Torrente, Venator, Osprey, Renegade, Tempest",
     "de": "Verschiedenste Ersatzteile, die in Gewehren zum Einsatz kommen. Zur Herstellung von: Torrente, Venator, Osprey, Renegade, Tempest",
     "en": "Assorted spare parts used for rifles. Used to craft: Torrente, Venator, Osprey, Renegade, Tempest",

@@ -1,6 +1,7 @@
 {
   "id": "lightweight_stock_blueprint",
   "name": {
+    "ar": "مخطط أخمص خفيف الوزن",
     "da": "Letvægtskolbe-tegning",
     "de": "Bauplan: Leichtgewicht-Schaft",
     "en": "Lightweight Stock Blueprint",
@@ -23,6 +24,7 @@
     "zh-TW": "輕量槍托藍圖"
   },
   "description": {
+    "ar": "يحسن بشكل معتدل سرعة التصويب وسرعة السحب.",
     "da": "Forbedrer ADS- og trækningshastighed moderat.",
     "de": "Verbessert ADS- und Ziehgeschwindigkeit mäßig.",
     "en": "Moderately improves ADS & draw speed.",

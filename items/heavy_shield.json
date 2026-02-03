@@ -1,6 +1,7 @@
 {
   "id": "heavy_shield",
   "name": {
+    "ar": "درع ثقيل",
     "da": "Tungt skjold",
     "de": "Schwerer Schild",
     "en": "Heavy Shield",
@@ -23,6 +24,7 @@
     "zh-TW": "重型護盾"
   },
   "description": {
+    "ar": "درع ثقيل يصد جزءًا كبيرًا من الضرر القادم، لكنه يأتي بتكلفة كبيرة على القدرة على الحركة.",
     "da": "Et tungt skjold, der blokerer en stor del af indgående skade, men medfører en betydelig pris for mobilitet.",
     "de": "Ein schwerer Schild, der einen Großteil des eingehenden Schadens abwehrt, worunter allerdings die Mobilität deutlich leidet.",
     "en": "A heavy shield that blocks a large portion of incoming damage, but carries a significant cost to mobility.",
@@ -51,6 +53,7 @@
   "effects": {
     "15% Reduced Movement Speed": {
       "value": "",
+      "ar": "سرعة حركة مخفضة بنسبة 15%",
       "da": "15% reduceret bevægelseshastighed",
       "de": "15% verringerte Bewegungsgeschwindigkeit",
       "en": "15% Reduced Movement Speed",
@@ -74,6 +77,7 @@
     },
     "Charge": {
       "value": 80,
+      "ar": "الشحنة",
       "da": "Ladning",
       "de": "Ladung",
       "en": "Charge",
@@ -97,6 +101,7 @@
     },
     "Damage Reduction": {
       "value": "52.5%",
+      "ar": "تقليل الضرر",
       "da": "Skadereduktion",
       "de": "Schadensreduktion",
       "en": "Damage Reduction",
@@ -120,6 +125,7 @@
     },
     "Durability": {
       "value": "100/100",
+      "ar": "المتانة",
       "da": "Holdbarhed",
       "de": "Haltbarkeit",
       "en": "Durability",

@@ -1,6 +1,7 @@
 {
   "id": "gas_mine_blueprint",
   "name": {
+    "ar": "مخطط لغم غاز",
     "da": "Gasmine-tegning",
     "de": "Bauplan: Sprungmine: Ausdauerverlust über Zeit",
     "en": "Gas Mine Blueprint",
@@ -23,6 +24,7 @@
     "zh-TW": "毒氣地雷 藍圖"
   },
   "description": {
+    "ar": "لغم يعمل بالاقتراب وينبثق لينشر سحابة غاز تستنزف القدرة على التحمل بسرعة.",
     "da": "En nærhedsudløst mine der popper op og frigiver en gassky der hurtigt dræner udholdenhed.",
     "de": "Eine Mine, die bei Annäherung explodiert und dabei eine Gaswolke erzeugt, welche schnell Ausdauer absaugt.",
     "en": "A proximity-triggered mine that pops up and deploys a gas cloud that rapidly drains stamina.",

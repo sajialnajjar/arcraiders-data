@@ -1,6 +1,7 @@
 {
   "id": "horizontal_grip_blueprint",
   "name": {
+    "ar": "مخطط مقبض أفقي",
     "da": "Horisontal Greb Tegning",
     "de": "Bauplan: Horizontaler Griff",
     "en": "Horizontal Grip Blueprint",
@@ -23,6 +24,7 @@
     "zh-TW": "水平握把藍圖"
   },
   "description": {
+    "ar": "يقلل بشكل معتدل من الارتداد الرأسي والأفقي.",
     "da": "Reducerer moderat både lodret og vandret rekyl.",
     "de": "Verringert sowohl den vertikalen als auch den horizontalen Rückstoß moderat.",
     "en": "Moderately reduces both vertical recoil and horizontal recoil.",

@@ -1,6 +1,7 @@
 {
   "id": "looting_mk3_cautious",
   "name": {
+    "ar": "نهب Mk. 3 (حذر)",
     "da": "Plyndring Mk. 3 (Forsigtig)",
     "de": "Beute-Marke 3 (Vorsichtig)",
     "en": "Looting Mk. 3 (Cautious)",
@@ -23,6 +24,7 @@
     "zh-TW": "掠奪 Mk. 3 (謹慎)"
   },
   "description": {
+    "ar": "تعزيز نهب يستبدل بعض سعة الحمل لزيادة البقاء على قيد الحياة. عند كسر الدرع، يعطي تلقائياً حقنة أدرينالين ضعيفة. له وقت تهدئة ثابت.",
     "da": "En plyndringsforstærkning der bytter noget bærekapacitet for øget overlevelsesevne. Ved skjoldsbrud administreres automatisk en svag adrenalinindsprøjtning. Har en fast nedkølingstid.",
     "de": "Eine Plünderungsverbesserung, die etwas Tragekapazität gegen erhöhte Überlebensfähigkeit tauscht. Bei Schildbruch wird automatisch eine schwache Adrenalinspritze verabreicht. Hat eine feste Abklingzeit.",
     "en": "A looting augment that swaps some carry capacity to increase survivability. Upon Shield break, automatically administers a weak Adrenaline Shot. Has a fixed cooldown.",
@@ -52,6 +54,7 @@
   "effects": {
     "Durability": {
       "value": "100/100",
+      "ar": "المتانة",
       "da": "Holdbarhed",
       "de": "Haltbarkeit",
       "en": "Durability",
@@ -75,6 +78,7 @@
     },
     "Max Loadout Weight": {
       "value": 70,
+      "ar": "أقصى وزن للعتاد",
       "da": "Maks udstyrsvægt",
       "de": "Max. Ausrüstungsgewicht",
       "en": "Max Loadout Weight",
@@ -98,6 +102,7 @@
     },
     "Shield Compatibility": {
       "value": "Light",
+      "ar": "توافق الدرع",
       "da": "Skjoldskompatibilitet",
       "de": "Schildkompatibilität",
       "en": "Shield Compatibility",

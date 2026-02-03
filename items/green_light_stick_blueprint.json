@@ -1,6 +1,7 @@
 {
   "id": "green_light_stick_blueprint",
   "name": {
+    "ar": "مخطط عصا ضوئية خضراء",
     "da": "Grøn lysstav-tegning",
     "de": "Bauplan: Grüner Leuchtstab",
     "en": "Green Light Stick Blueprint",
@@ -23,6 +24,7 @@
     "zh-TW": "綠色螢光棒藍圖"
   },
   "description": {
+    "ar": "ضوء كيميائي يمكن قذفه يضيء المنطقة المحيطة به.",
     "da": "Et kastbart kemisk lys der oplyser området omkring det.",
     "de": "Ein werfbares chemisches Licht, das die Umgebung erhellt.",
     "en": "A throwable chemical light that illuminates the area around it.",

@@ -1,6 +1,7 @@
 {
   "id": "lightweight_stock",
   "name": {
+    "ar": "أخمص خفيف الوزن",
     "da": "Letvægtskolbe",
     "de": "Leichtgewicht-Schaft",
     "en": "Lightweight Stock",
@@ -23,6 +24,7 @@
     "zh-TW": "輕量槍托"
   },
   "description": {
+    "ar": "يحسن بشكل معتدل سرعة التصويب وسرعة السحب. متوافق مع: Arpeggio, Kettle, Ferro, Renegade, Hullcracker",
     "da": "Forbedrer ADS- og trækningshastighed moderat. Kompatibel med: Arpeggio, Kettle, Ferro, Renegade, Hullcracker",
     "de": "Verbessert ADS- und Ziehgeschwindigkeit mäßig. Kompatibel mit: Arpeggio, Kettle, Ferro, Renegade, Hullcracker",
     "en": "Moderately improves ADS & draw speed. Compatible with: Arpeggio, Kettle, Ferro, Renegade, Hullcracker",
@@ -51,6 +53,7 @@
   "effects": {
     "Increased ADS Speed": {
       "value": "200%",
+      "ar": "زيادة سرعة التصويب",
       "da": "Øget ADS-hastighed",
       "de": "Erhöhte ADS-Geschwindigkeit",
       "en": "Increased ADS Speed",
@@ -74,6 +77,7 @@
     },
     "Increased Recoil Recovery Time": {
       "value": "50%",
+      "ar": "زيادة وقت تعافي الارتداد",
       "da": "Øget rekylgendannelsestid",
       "de": "Erhöhte Rückstoß-Erholungszeit",
       "en": "Increased Recoil Recovery Time",
@@ -97,6 +101,7 @@
     },
     "Increased Vertical Recoil": {
       "value": "50%",
+      "ar": "زيادة الارتداد العمودي",
       "da": "Øget vertikal rekyl",
       "de": "Erhöhter vertikaler Rückstoß",
       "en": "Increased Vertical Recoil",
@@ -120,6 +125,7 @@
     },
     "Reduced Equip Time": {
       "value": "30%",
+      "ar": "تقليل وقت التجهيز",
       "da": "Reduceret udstyrstid",
       "de": "Reduzierte Ausrüstungszeit",
       "en": "Reduced Equip Time",
@@ -143,6 +149,7 @@
     },
     "Reduced Unequip Time": {
       "value": "30%",
+      "ar": "تقليل وقت إلغاء التجهيز",
       "da": "Reduceret afudstyrstid",
       "de": "Reduzierte Ablege-Zeit",
       "en": "Reduced Unequip Time",

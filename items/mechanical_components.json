@@ -1,6 +1,7 @@
 {
   "id": "mechanical_components",
   "name": {
+    "ar": "مكونات ميكانيكية",
     "da": "Mekaniske komponenter",
     "de": "Mechanische Komponenten",
     "en": "Mechanical Components",
@@ -23,6 +24,7 @@
     "zh-TW": "機械零件"
   },
   "description": {
+    "ar": "تستخدم لصنع مجموعة واسعة من العناصر. يمكن إعادة تدويرها إلى مواد تصنيع. تستخدم لصنع: Il Toro, Burletta, Anvil, Muzzle Brake II, Extended Medium Mag II",
     "da": "Bruges til at fremstille en bred vifte af genstande. Kan genbruges til håndværksmaterialer. Bruges til at fremstille: Il Toro, Burletta, Anvil, Mundingsbremse II, Udvidet medium magasin II",
     "de": "Wird zur Herstellung verschiedenster Gegenstände verwendet. Kann zu Herstellungsmaterialien recycelt werden. Zur Herstellung von: Il Toro, Burletta, Anvil, Mündungsbremse II, Erweitertes mittelschweres Magazin II",
     "en": "Used to craft a wide range of items. Can be recycled into crafting materials. Used to craft: Il Toro, Burletta, Anvil, Muzzle Brake II, Extended Medium Mag II",

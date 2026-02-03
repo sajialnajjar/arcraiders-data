@@ -1,6 +1,7 @@
 {
   "id": "il_toro_blueprint",
   "name": {
+    "ar": "مخطط إل تورو",
     "da": "Il Toro-tegning",
     "de": "Bauplan: Il Toro",
     "en": "Il Toro Blueprint",
@@ -23,6 +24,7 @@
     "zh-TW": "Il Toro藍圖"
   },
   "description": {
+    "ar": "لديه انتشار كبير للرصاص، وانخفاض حاد، وإنتاج ضرر عالٍ.",
     "da": "Har stor kuglespredning, kraftigt fald og høj skadeeffekt.",
     "de": "Hat eine hohe Streuung und geringe Reichweite, verursacht aber hohen Schaden.",
     "en": "Has a large bullet spread, sharp falloff, and high damage output.",

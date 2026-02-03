@@ -1,6 +1,7 @@
 {
   "id": "muzzle_brake_iii",
   "name": {
+    "ar": "كابح فوهة 3",
     "da": "Mundingsbremse III",
     "de": "Mündungsbremse III",
     "en": "Muzzle Brake III",
@@ -23,6 +24,7 @@
     "zh-TW": "槍口制退器 III"
   },
   "description": {
+    "ar": "يقلل بشكل كبير من الارتداد العمودي والأفقي. متوافق مع: Arpeggio, Ferro, Renegade, Anvil, Stitcher",
     "da": "Reducerer betydeligt både vertikal og horisontal rekyl. Kompatibel med: Arpeggio, Ferro, Renegade, Anvil, Stitcher",
     "de": "Verringert den vertikalen und horizontalen Rückstoß erheblich. Kompatibel mit: Arpeggio, Ferro, Renegade, Anvil, Stitcher",
     "en": "Significantly reduces both vertical recoil & horizontal recoil. Compatible with: Arpeggio, Ferro, Renegade, Anvil, Stitcher",
@@ -52,6 +54,7 @@
   "effects": {
     "Increased Durability Burn Rate": {
       "value": "20%",
+      "ar": "زيادة معدل استهلاك المتانة",
       "da": "Øget holdbarhedsforbrændingshastighed",
       "de": "Erhöhte Haltbarkeitsverbrauchsrate",
       "en": "Increased Durability Burn Rate",
@@ -75,6 +78,7 @@
     },
     "Reduced Horizontal Recoil": {
       "value": "25%",
+      "ar": "تقليل الارتداد الأفقي",
       "da": "Reduceret horisontal rekyl",
       "de": "Reduzierter horizontaler Rückstoß",
       "en": "Reduced Horizontal Recoil",
@@ -98,6 +102,7 @@
     },
     "Reduced Vertical Recoil": {
       "value": "25%",
+      "ar": "تقليل الارتداد العمودي",
       "da": "Reduceret vertikal rekyl",
       "de": "Reduzierter vertikaler Rückstoß",
       "en": "Reduced Vertical Recoil",

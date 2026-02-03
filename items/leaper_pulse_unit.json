@@ -1,6 +1,7 @@
 {
   "id": "leaper_pulse_unit",
   "name": {
+    "ar": "وحدة نبض القفاز",
     "da": "Springer-pulsenhed",
     "de": "Springer-Impulseinheit",
     "en": "Leaper Pulse Unit",
@@ -23,6 +24,7 @@
     "zh-TW": "跳躍者脈衝裝置"
   },
   "description": {
+    "ar": "يمكن إعادة تدويره إلى مواد تصنيع. يمكن رميه لإحداث تفرد عنيف.",
     "da": "Kan genbruges til håndværksmaterialer. Kan kastes for at skabe en voldsom singularitet.",
     "de": "Kann zu Herstellungsmaterialien recycelt werden. Kann geworfen werden, um eine brutale Singularität zu erzeugen.",
     "en": "Can be recycled into crafting materials. Can be thrown to create a violent singularity.",
@@ -53,6 +55,7 @@
   "effects": {
     "Damage": {
       "value": 100,
+      "ar": "الضرر",
       "da": "Skade",
       "de": "Schaden",
       "en": "Damage",
@@ -76,6 +79,7 @@
     },
     "Radius": {
       "value": "10m",
+      "ar": "نصف القطر",
       "da": "Radius",
       "de": "Radius",
       "en": "Radius",

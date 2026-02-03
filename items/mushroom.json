@@ -1,6 +1,7 @@
 {
   "id": "mushroom",
   "name": {
+    "ar": "فطر",
     "da": "Svamp",
     "de": "Pilz",
     "en": "Mushroom",
@@ -23,6 +24,7 @@
     "zh-TW": "蘑菇"
   },
   "description": {
+    "ar": "يمكن استهلاكه لاستعادة كمية صغيرة من الصحة.",
     "da": "Kan indtages for at genvinde en lille mængde helbred.",
     "de": "Kann zur Regeneration einer kleinen Menge Gesundheit verzehrt werden.",
     "en": "Can be consumed to regain a small amount of health.",
@@ -52,6 +54,7 @@
   "effects": {
     "Healing": {
       "value": 15,
+      "ar": "الشفاء",
       "da": "Helbredelse",
       "de": "Heilen",
       "en": "Healing",
@@ -75,6 +78,7 @@
     },
     "Use Time": {
       "value": "1s",
+      "ar": "وقت الاستخدام",
       "da": "Brugstid",
       "de": "Verwendungszeit",
       "en": "Use Time",

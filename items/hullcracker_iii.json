@@ -1,6 +1,7 @@
 {
   "id": "hullcracker_iii",
   "name": {
+    "ar": "كسارة الهيكل III",
     "da": "Skrogknuser III",
     "de": "Hüllenbrecher III",
     "en": "Hullcracker III",
@@ -23,6 +24,7 @@
     "zh-TW": "破殼者 III"
   },
   "description": {
+    "ar": "يطلق مقذوفات متفجرة تنفجر فقط عند إصابة ARC.",
     "da": "Affyrer eksplosive projektiler, der kun detonerer ved træf på ARC.",
     "de": "Schießt explosive Geschosse ab, die erst explodieren, wenn sie ARC treffen.",
     "en": "Fires explosive projectiles that only detonate when hitting ARC.",
@@ -52,6 +54,7 @@
   "effects": {
     "Ammo Type": {
       "value": "Launcher Ammo",
+      "ar": "نوع الذخيرة",
       "da": "Ammunitionstype",
       "de": "Munitionstyp",
       "en": "Ammo Type",
@@ -75,6 +78,7 @@
     },
     "ARC Armor Penetration": {
       "value": "Very Strong",
+      "ar": "اختراق درع ARC",
       "da": "ARC Rustningspenetrering",
       "de": "ARC-Panzerungsdurchdringung",
       "en": "ARC Armor Penetration",
@@ -98,6 +102,7 @@
     },
     "Durability": {
       "value": "120/120",
+      "ar": "المتانة",
       "da": "Holdbarhed",
       "de": "Haltbarkeit",
       "en": "Durability",
@@ -121,6 +126,7 @@
     },
     "Firing Mode": {
       "value": "Pump-Action",
+      "ar": "تلقيم مضخي",
       "da": "Skydningstilstand",
       "de": "Feuermodus",
       "en": "Firing Mode",
@@ -144,6 +150,7 @@
     },
     "Increased Fire Rate": {
       "value": "35%",
+      "ar": "زيادة معدل إطلاق النار",
       "da": "Øget Skudhastighed",
       "de": "Erhöhte Feuerrate",
       "en": "Increased Fire Rate",
@@ -167,6 +174,7 @@
     },
     "Magazine Size": {
       "value": 5,
+      "ar": "حجم المخزن",
       "da": "Magasinstørrelse",
       "de": "Magazingröße",
       "en": "Magazine Size",

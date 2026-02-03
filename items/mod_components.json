@@ -1,6 +1,7 @@
 {
   "id": "mod_components",
   "name": {
+    "ar": "مكونات تعديل",
     "da": "Mod-komponenter",
     "de": "Mod-Komponenten",
     "en": "Mod Components",
@@ -23,6 +24,7 @@
     "zh-TW": "改裝組件"
   },
   "description": {
+    "ar": "تستخدم لصنع تعديلات الأسلحة. يمكن إعادة تدويرها إلى مواد تصنيع. تستخدم لصنع: Lightweight Stock, Shotgun Choke III, Extended Shotgun Mag III, Padded Stock, Compensator III",
     "da": "Bruges til at fremstille våbenmodifikationer. Kan genbruges til håndværksmaterialer. Bruges til at fremstille: Letvægtskolbe, Haglgevær Choke III, Udvidet haglgevær-magasin III, Polstret kolbe, Kompensator III",
     "de": "Wird zur Herstellung von Waffen-Mods verwendet. Kann zu Herstellungsmaterialien recycelt werden. Zur Herstellung von: Leichtgewichtkolben, Schrotflintenchoke III, Erweitertes Schrotflintenmagazin III, Gepolsterter Kolben, Kompensator III",
     "en": "Used to craft weapon mods. Can be recycled into crafting materials. Used to craft: Lightweight Stock, Shotgun Choke III, Extended Shotgun Mag III, Padded Stock, Compensator III",

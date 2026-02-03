@@ -1,6 +1,7 @@
 {
   "id": "hullcracker_blueprint",
   "name": {
+    "ar": "مخطط كسارة الهيكل",
     "da": "Hullcracker Blåtryk",
     "de": "Bauplan: Hüllenbrecher",
     "en": "Hullcracker Blueprint",
@@ -23,6 +24,7 @@
     "zh-TW": "碎艦者藍圖"
   },
   "description": {
+    "ar": "حمولات مضادة لـ ARC تستخدم بشكل أساسي من قبل كسارة الهيكل.",
     "da": "Anti-ARC ladninger brugt primært af Hullcracker.",
     "de": "Schießt explosive Geschosse ab, die erst explodieren, wenn sie ARC treffen.",
     "en": "Anti-ARC payloads used mainly by the Hullcracker.",

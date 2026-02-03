@@ -1,6 +1,7 @@
 {
   "id": "magnetic_accelerator",
   "name": {
+    "ar": "مسرع مغناطيسي",
     "da": "Magnetisk Accelerator",
     "de": "Magnetischer Beschleuniger",
     "en": "Magnetic Accelerator",
@@ -23,6 +24,7 @@
     "zh-TW": "磁力加速器"
   },
   "description": {
+    "ar": "يستخدم لصنع أسلحة متقدمة. يستخدم لصنع: Tempest, Equalizer, Vulcano, Jupiter, Hullcracker",
     "da": "Bruges til at lave avancerede våben. Bruges til at lave: Tempest, Equalizer, Vulcano, Jupiter, Hullcracker",
     "de": "Wird zur Herstellung von fortschrittlichen Waffen verwendet. Zur Herstellung von: Tempest, Equalizer, Vulcano, Aphelion, Jupiter",
     "en": "Used to craft advanced weapons. Used to craft: Tempest, Equalizer, Vulcano, Jupiter, Hullcracker",

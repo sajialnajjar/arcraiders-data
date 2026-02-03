@@ -3,6 +3,7 @@
     "id": "expedition_project",
     "disabled": false,
     "name": {
+      "ar": "مشروع البعثة (الموسم 2)",
       "da": "Ekspeditionsprojekt (Sæson 2)",
       "de": "Expeditionsprojekt (Saison 2)",
       "en": "Expedition Project (Season 2)",
@@ -25,6 +26,7 @@
       "zh-TW": "遠征專案 (第2賽季)"
     },
     "description": {
+      "ar": "انطلق في رحلة استكشافية خطيرة خارج حزام الصدأ. الرحلات الاستكشافية محفوفة بالمخاطر. سيحمل الـ Raider الخاص بك جميع ممتلكاته إلى المجهول خارج حزام الصدأ. في المقابل، يكتسب الـ Raider التالي ميزة فريدة تستمر حتى انطلاق الرحلة القادمة.",
       "da": "Begiv dig ud på en farlig ekspedition ud over Rustbæltet. Ekspeditioner er farlige. Din Raider vil bære alle sine ejendele ind i det ukendte ud over Rustbæltet. Til gengæld får din næste Raider en unik fordel, der varer indtil næste ekspedition afrejser.",
       "de": "Begib dich auf eine gefährliche Expedition jenseits des Rostgürtels. Expeditionen sind gefährlich. Dein Raider wird all seinen Besitz ins Unbekannte jenseits des Rostgürtels tragen. Im Gegenzug erhält dein nächster Raider einen einzigartigen Vorteil, der bis zur Abreise der nächsten Expedition anhält.",
       "en": "Embark on a dangerous expedition beyond the Rust Belt. Expeditions are perilous. Your Raider will carry all their possessions into the unknown beyond the Rust Belt. In return, your next Raider gains a unique edge that lasts until the next Expedition departs.",
@@ -49,6 +51,7 @@
     "phases": [
       {
         "name": {
+          "ar": "الأساس",
           "da": "Fundament",
           "de": "Fundament",
           "en": "Foundation",
@@ -92,6 +95,7 @@
       },
       {
         "name": {
+          "ar": "الأنظمة الأساسية",
           "da": "Kernesystemer",
           "de": "Kernsysteme",
           "en": "Core Systems",
@@ -114,6 +118,7 @@
           "zh-TW": "核心系統"
         },
         "description": {
+          "ar": "توصيل الأسلاك والتهوية وأنظمة الطاقة الأساسية",
           "da": "Tilslutning af ledninger, ventilation og essentielle strømsystemer",
           "de": "Verkabelung, Belüftung und wesentliche Stromversorgungssysteme verbinden",
           "en": "Connecting wiring, ventilation, and essential power systems",
@@ -157,6 +162,7 @@
       },
       {
         "name": {
+          "ar": "الإطار",
           "da": "Ramme",
           "de": "Rahmen",
           "en": "Framework",
@@ -179,6 +185,7 @@
           "zh-TW": "框架"
         },
         "description": {
+          "ar": "بناء الجدران والأسقف، وتركيب الأنظمة الأساسية وتحديد التصميم الداخلي",
           "da": "Bygning af vægge og tag, installation af kernesystemer og definition af det indvendige layout",
           "de": "Wände und Dach bauen, Kernsysteme installieren und Inneneinrichtung definieren",
           "en": "Building the walls and roof, installing core systems and defining the interior layout",
@@ -222,6 +229,7 @@
       },
       {
         "name": {
+          "ar": "التجهيزات",
           "da": "Udstyr",
           "de": "Ausrüstung",
           "en": "Outfitting",
@@ -244,6 +252,7 @@
           "zh-TW": "裝備"
         },
         "description": {
+          "ar": "إضافة التخزين وطاولات العمل والمرافق واللمسات الشخصية",
           "da": "Tilføjelse af opbevaring, arbejdsbænke, værktøj og personlige berøringer",
           "de": "Lagerung, Werkbänke, Versorgungseinrichtungen und persönliche Akzente hinzufügen",
           "en": "Adding storage, workbenches, utilities, and personal touches",
@@ -287,6 +296,7 @@
       },
       {
         "name": {
+          "ar": "مرحلة التحميل",
           "da": "Lastefase",
           "de": "Ladephase",
           "en": "Load Stage",
@@ -309,6 +319,7 @@
           "zh-TW": "裝載階段"
         },
         "description": {
+          "ar": "تحميل القافلة بالإمدادات الحيوية. هناك حاجة إلى معدات قتالية ومعدات نجاة ومؤن ومواد إصلاح للاستعداد الكامل للبعثة. تحتاج إلى تقديم قيمة العملة للعناصر لكل فئة.",
           "da": "Lastning af karavanen med vitale forsyninger. Kampudstyr, overlevelsesudstyr, proviant og reparationsmaterialer er nødvendige for fuldt ud at forberede sig på ekspeditionen. Du skal indsende møntværdien af ​​genstande til hver kategori.",
           "de": "Beladen der Karawane mit lebenswichtigen Vorräten. Kampfausrüstung, Überlebensausrüstung, Proviant und Reparaturmaterialien werden benötigt, um sich vollständig auf die Expedition vorzubereiten. Sie müssen den Münzwert der Gegenstände für jede Kategorie einreichen.",
           "en": "Loading the caravan with vital supplies. Combat gear, survival equipment, provisions, and repair materials are needed to fully prepare for the Expedition. You need to submit the coin value of items to each category.",
@@ -353,6 +364,7 @@
       },
       {
         "name": {
+          "ar": "التحضيرات النهائية",
           "da": "Sidste forberedelser",
           "de": "Letzte Vorbereitungen",
           "en": "Final Preparations",
@@ -375,6 +387,7 @@
           "zh-TW": "最終準備"
         },
         "description": {
+          "ar": "التزم بالبعثة لإعادة ضبط تقدمك. كل مليون رصيد يمنحك نقطة مهارة إضافية بعد إعادة الضبط.",
           "da": "Forpligt dig til ekspeditionen for at nulstille din fremgang. For hver 1 million credits får du 1 ekstra færdighedspoint efter nulstillingen.",
           "de": "Lege dich auf die Expedition fest, um deinen Fortschritt zurückzusetzen. Je 1 Million Credits erhältst du nach dem Zurücksetzen 1 zusätzlichen Fertigkeitspunkt.",
           "en": "Commit to the Expedition to reset your progress. Each 1 million credits earns you 1 extra skill point after the reset.",
@@ -411,6 +424,7 @@
     "id": "expedition_project_s1",
     "disabled": false,
     "name": {
+      "ar": "مشروع البعثة (الموسم 1)",
       "da": "Ekspeditionsprojekt (Sæson 1)",
       "de": "Expeditionsprojekt (Saison 1)",
       "en": "Expedition Project (Season 1)",
@@ -433,6 +447,7 @@
       "zh-TW": "遠征專案 (第1賽季)"
     },
     "description": {
+      "ar": "انطلق في رحلة استكشافية خطيرة خارج حزام الصدأ. الرحلات الاستكشافية محفوفة بالمخاطر. سيحمل الـ Raider الخاص بك جميع ممتلكاته إلى المجهول خارج حزام الصدأ. في المقابل، يكتسب الـ Raider التالي ميزة فريدة تستمر حتى انطلاق الرحلة القادمة.",
       "da": "Begiv dig ud på en farlig ekspedition ud over Rustbæltet. Ekspeditioner er farlige. Din Raider vil bære alle sine ejendele ind i det ukendte ud over Rustbæltet. Til gengæld får din næste Raider en unik fordel, der varer indtil næste ekspedition afrejser.",
       "de": "Begib dich auf eine gefährliche Expedition jenseits des Rostgürtels. Expeditionen sind gefährlich. Dein Raider wird all seinen Besitz ins Unbekannte jenseits des Rostgürtels tragen. Im Gegenzug erhält dein nächster Raider einen einzigartigen Vorteil, der bis zur Abreise der nächsten Expedition anhält.",
       "en": "Embark on a dangerous expedition beyond the Rust Belt. Expeditions are perilous. Your Raider will carry all their possessions into the unknown beyond the Rust Belt. In return, your next Raider gains a unique edge that lasts until the next Expedition departs.",
@@ -457,6 +472,7 @@
     "phases": [
       {
         "name": {
+          "ar": "الأساس",
           "da": "Fundament",
           "de": "Fundament",
           "en": "Foundation",
@@ -500,6 +516,7 @@
       },
       {
         "name": {
+          "ar": "الأنظمة الأساسية",
           "da": "Kernesystemer",
           "de": "Kernsysteme",
           "en": "Core Systems",
@@ -522,6 +539,7 @@
           "zh-TW": "核心系統"
         },
         "description": {
+          "ar": "توصيل الأسلاك والتهوية وأنظمة الطاقة الأساسية",
           "da": "Tilslutning af ledninger, ventilation og essentielle strømsystemer",
           "de": "Verkabelung, Belüftung und wesentliche Stromversorgungssysteme verbinden",
           "en": "Connecting wiring, ventilation, and essential power systems",
@@ -565,6 +583,7 @@
       },
       {
         "name": {
+          "ar": "الإطار",
           "da": "Ramme",
           "de": "Rahmen",
           "en": "Framework",
@@ -587,6 +606,7 @@
           "zh-TW": "框架"
         },
         "description": {
+          "ar": "بناء الجدران والأسقف، وتركيب الأنظمة الأساسية وتحديد التصميم الداخلي",
           "da": "Bygning af vægge og tag, installation af kernesystemer og definition af det indvendige layout",
           "de": "Wände und Dach bauen, Kernsysteme installieren und Inneneinrichtung definieren",
           "en": "Building the walls and roof, installing core systems and defining the interior layout",
@@ -630,6 +650,7 @@
       },
       {
         "name": {
+          "ar": "التجهيزات",
           "da": "Udstyr",
           "de": "Ausrüstung",
           "en": "Outfitting",
@@ -652,6 +673,7 @@
           "zh-TW": "裝備"
         },
         "description": {
+          "ar": "إضافة التخزين وطاولات العمل والمرافق واللمسات الشخصية",
           "da": "Tilføjelse af opbevaring, arbejdsbænke, værktøj og personlige berøringer",
           "de": "Lagerung, Werkbänke, Versorgungseinrichtungen und persönliche Akzente hinzufügen",
           "en": "Adding storage, workbenches, utilities, and personal touches",
@@ -695,6 +717,7 @@
       },
       {
         "name": {
+          "ar": "مرحلة التحميل",
           "da": "Lastefase",
           "de": "Ladephase",
           "en": "Load Stage",
@@ -717,6 +740,7 @@
           "zh-TW": "裝載階段"
         },
         "description": {
+          "ar": "تحميل القافلة بالإمدادات الحيوية. هناك حاجة إلى معدات قتالية ومعدات نجاة ومؤن ومواد إصلاح للاستعداد الكامل للبعثة. تحتاج إلى تقديم قيمة العملة للعناصر لكل فئة.",
           "da": "Lastning af karavanen med vitale forsyninger. Kampudstyr, overlevelsesudstyr, proviant og reparationsmaterialer er nødvendige for fuldt ud at forberede sig på ekspeditionen. Du skal indsende møntværdien af ​​genstande til hver kategori.",
           "de": "Beladen der Karawane mit lebenswichtigen Vorräten. Kampfausrüstung, Überlebensausrüstung, Proviant und Reparaturmaterialien werden benötigt, um sich vollständig auf die Expedition vorzubereiten. Sie müssen den Münzwert der Gegenstände für jede Kategorie einreichen.",
           "en": "Loading the caravan with vital supplies. Combat gear, survival equipment, provisions, and repair materials are needed to fully prepare for the Expedition. You need to submit the coin value of items to each category.",
@@ -761,6 +785,7 @@
       },
       {
         "name": {
+          "ar": "التحضيرات النهائية",
           "da": "Sidste forberedelser",
           "de": "Letzte Vorbereitungen",
           "en": "Final Preparations",
@@ -783,6 +808,7 @@
           "zh-TW": "最終準備"
         },
         "description": {
+          "ar": "التزم بالبعثة لإعادة ضبط تقدمك. كل مليون رصيد يمنحك نقطة مهارة إضافية بعد إعادة الضبط.",
           "da": "Forpligt dig til ekspeditionen for at nulstille din fremgang. For hver 1 million credits får du 1 ekstra færdighedspoint efter nulstillingen.",
           "de": "Lege dich auf die Expedition fest, um deinen Fortschritt zurückzusetzen. Je 1 Million Credits erhältst du nach dem Zurücksetzen 1 zusätzlichen Fertigkeitspunkt.",
           "en": "Commit to the Expedition to reset your progress. Each 1 million credits earns you 1 extra skill point after the reset.",
@@ -819,6 +845,7 @@
     "id": "flickering_flames_project",
     "disabled": true,
     "name": {
+      "ar": "شعلات متراقصة",
       "da": "Flakkende flammer",
       "de": "Flackernde Flammen",
       "en": "Flickering Flames",
@@ -841,6 +868,7 @@
       "zh-TW": "閃爍的火焰"
     },
     "description": {
+      "ar": "مهرجان من الدفء المرن، يتمحور حول شجيرة التوت الشمعي القوية. من المعروف أن سكان سبيرانزا يستضيفون احتفالات محلية، ونظراً لطبيعتهم التنافسية، فإنهم يسعون للتفوق على بعضهم البعض في كل منعطف. تمكن البعض من تحويل شجيرة التوت الشمعي المتواضعة إلى وليمة تليق حتى بأكثر الذواقة تطلباً.",
       "da": "En festival med modstandsdygtig varme, centreret omkring den hårdføre lysbærbusk. Speranzanere er kendt for at afholde lokale fejringer, og da de er konkurrencemindede, søger de at overgå hinanden ved enhver lejlighed. Nogle har formået at forvandle den beskedne lysbærbusk til et festmåltid værdigt selv de mest kræsne gourmands.",
       "de": "Ein Fest der widerstandsfähigen Wärme, das sich um den robusten Kerzenbeeren-Busch dreht. Die Speranzaner sind dafür bekannt, lokale Feste zu veranstalten, und da sie wettbewerbsorientiert sind, versuchen sie sich bei jeder Gelegenheit zu übertreffen. Einige haben es geschafft, den schlichten Kerzenbeeren-Busch in ein Bankett zu verwandeln, das selbst der anspruchsvollsten Feinschmecker würdig ist.",
       "en": "A festival of resilient warmth, centered around the hardy candleberry bush. Speranzans have been known to host local celebrations, and being competitive, they seek to outdo each other at every turn. Some have managed to turn the homely candleberry bush into a banquet worthy of even the most discerning gourmands.",
@@ -865,6 +893,7 @@
     "phases": [
       {
         "name": {
+          "ar": "ضوء الشموع",
           "da": "Stearinlys",
           "de": "Kerzenlicht",
           "en": "Candlelight",
@@ -887,6 +916,7 @@
           "zh-TW": "燭光"
         },
         "description": {
+          "ar": "الاستخدام الذي سمي باسمه التوت الشمعي: يقوم سكان سبيرانزا بغلي الفاكهة وتحويلها إلى شمع سميك يحترق بنظافة ورائحة عطرة.",
           "da": "Den navngivende brug af lysbær: Speranzanere koger frugten til en tyk voks, der brænder rent og velduftende.",
           "de": "Die namensgebende Verwendung der Kerzenbeere: Speranzaner kochen die Frucht zu einem dicken Wachs, das sauber und duftend brennt.",
           "en": "The namesake use for the candleberry, Speranzans boil the fruit into a thick wax that burns cleanly and fragrantly.",
@@ -930,6 +960,7 @@
       },
       {
         "name": {
+          "ar": "الزينة",
           "da": "Dekorationer",
           "de": "Dekorationen",
           "en": "Decorations",
@@ -952,6 +983,7 @@
           "zh-TW": "裝飾"
         },
         "description": {
+          "ar": "أصبح العديد من سكان سبيرانزا ماهرين بشكل مدهش في فن إدخال الجمال والخضرة إلى المنزل.",
           "da": "Mange speranzanere er blevet overraskende dygtige til kunsten at bringe skønhed og grønt ind i hjemmet.",
           "de": "Viele Speranzaner sind überraschend geschickt darin geworden, Schönheit und Grün ins Zuhause zu bringen.",
           "en": "Many Speranzans have become surprisingly adept at the art of bringing beauty and greenery into the home.",
@@ -995,6 +1027,7 @@
       },
       {
         "name": {
+          "ar": "الهدايا",
           "da": "Gaver",
           "de": "Geschenke",
           "en": "Presents",
@@ -1017,6 +1050,7 @@
           "zh-TW": "禮物"
         },
         "description": {
+          "ar": "حول سكان سبيرانزا الماكرون التوت الشمعي إلى ثروة من الهدايا. وتشمل العطور والصابون، بالإضافة إلى هدايا لا علاقة لها برائحة المتلقي.",
           "da": "Snedige speranzanere har forvandlet lysbær til et væld af gaver. Det omfatter parfumer og sæber samt gaver, der ikke har noget med modtagerens lugt at gøre.",
           "de": "Einfallsreiche Speranzaner haben die Kerzenbeeren in eine Fülle von Geschenken verwandelt. Dazu gehören Parfüms und Seifen, aber auch Geschenke, die nichts mit dem Geruch des Empfängers zu tun haben.",
           "en": "Crafty Speranzans have turned the candleberries into a wealth of gifts. These include perfumes and soaps, as well as gifts unrelated to the recipient's odors.",
@@ -1060,6 +1094,7 @@
       },
       {
         "name": {
+          "ar": "المشروبات",
           "da": "Drikkevarer",
           "de": "Getränke",
           "en": "Beverages",
@@ -1082,6 +1117,7 @@
           "zh-TW": "飲品"
         },
         "description": {
+          "ar": "يمكن سحق التوت الشمعي وتحويله إلى عصائر منعشة، بينما تصنع الأوراق والجذور شاياً يمكنه طرد أصعب نزلات البرد.",
           "da": "Lysbær kan knuses til forfriskende juice, mens blade og rødder kan brygges til en te, der kan jage selv de sejeste forkølelser væk.",
           "de": "Kerzenbeeren lassen sich zu erfrischenden Säften zerdrücken, während Blätter und Wurzeln einen Tee ergeben, der selbst die hartnäckigsten Erkältungen vertreibt.",
           "en": "Candleberries can be crushed into refreshing juices, while the leaves and roots make for a tea that can drive out the toughest of colds.",
@@ -1125,6 +1161,7 @@
       },
       {
         "name": {
+          "ar": "الواجبات",
           "da": "Måltider",
           "de": "Mahlzeiten",
           "en": "Meals",
@@ -1147,6 +1184,7 @@
           "zh-TW": "餐食"
         },
         "description": {
+          "ar": "على الرغم من أن أوراق التوت الشمعي مرة، إلا أن طهيها على نار هادئة في اليخنات والشوربات يضيف لمسة من النكهة الترابية التي أحبها سكان سبيرانزا الذين يشعرون بالحنين إلى الماضي.",
           "da": "Selvom lysbær-blade er bitre, giver de en jordagtig smag, når de simrer i gryderetter og supper – noget nostalgiske speranzanere er kommet til at elske.",
           "de": "Obwohl Kerzenbeerenblätter bitter sind, verleiht ihr Köcheln in Eintöpfen und Suppen eine erdige Note, die nostalgische Speranzaner lieben gelernt haben.",
           "en": "Though candleberry leaves are bitter, simmering them in stew and soups adds a touch of earthiness that nostalgic Speranzans have grown to love.",
@@ -1185,381 +1223,6 @@
           {
             "itemId": "candleberries",
             "quantity": 70
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "trophy_display_project",
-    "disabled": false,
-    "name": {
-      "da": "Troféudstilling",
-      "de": "Trophäenanzeige",
-      "en": "Trophy Display",
-      "es": "Exhibición de Trofeos",
-      "fr": "Vitrine de Trophées",
-      "he": "תצוגת גביעים",
-      "hr": "Prikaz Trofeja",
-      "it": "Esposizione Trofei",
-      "ja": "トロフィー展示",
-      "kr": "트로피 디스플레이",
-      "no": "Trofeutstilling",
-      "pl": "Wystawa Trofeów",
-      "pt": "Exibição de Troféus",
-      "pt-BR": "Exibição de Troféus",
-      "ru": "Витрина трофеев",
-      "sr": "Prikaz Trofeja",
-      "tr": "Kupa Sergisi",
-      "uk": "Вітрина трофеїв",
-      "zh-CN": "战利品展示",
-      "zh-TW": "戰利品展示"
-    },
-    "description": {
-      "da": "Skab din egen Troféudstilling for at høste belønningerne. Saml trofæer fra besejrede ARC-enheder og vis din dygtighed.",
-      "de": "Erstelle deine eigene Trophäenanzeige, um die Belohnungen zu ernten. Sammle Trophäen von besiegten ARC-Einheiten und zeige deine Fähigkeiten.",
-      "en": "Create your own Trophy Display to reap the rewards. Collect trophies from defeated ARC units and showcase your prowess.",
-      "es": "Crea tu propia Exhibición de Trofeos para cosechar las recompensas. Recolecta trofeos de unidades ARC derrotadas y muestra tu destreza.",
-      "fr": "Créez votre propre Vitrine de Trophées pour récolter les récompenses. Collectez des trophées des unités ARC vaincues et montrez votre prouesse.",
-      "he": "צרו את תצוגת הגביעים שלכם כדי לקצור את התגמולים. אספו גביעים מיחידות ARC מובסות והציגו את כישוריכם.",
-      "hr": "Stvorite vlastiti Prikaz Trofeja kako biste ubrale nagrade. Sakupite trofeje od poraženih ARC jedinica i pokažite svoju vještinu.",
-      "it": "Crea la tua Esposizione Trofei per raccogliere le ricompense. Raccogli trofei dalle unità ARC sconfitte e mostra la tua abilità.",
-      "ja": "自分のトロフィー展示を作成して報酬を獲得しましょう。倒したARCユニットからトロフィーを集め、あなたの腕前を披露しましょう。",
-      "kr": "보상을 얻기 위해 나만의 트로피 디스플레이를 만드세요. 물리친 ARC 유닛에서 트로피를 수집하고 실력을 과시하세요.",
-      "no": "Lag din egen Trofeutstilling for å høste belønningene. Samle troféer fra beseirede ARC-enheter og vis dine ferdigheter.",
-      "pl": "Stwórz własną Wystawę Trofeów, aby zebrać nagrody. Zbieraj trofea z pokonanych jednostek ARC i pokaż swoje umiejętności.",
-      "pt": "Crie sua própria Exibição de Troféus para colher as recompensas. Colete troféus de unidades ARC derrotadas e mostre sua perícia.",
-      "pt-BR": "Crie sua própria Exibição de Troféus para colher as recompensas. Colete troféus de unidades ARC derrotadas e mostre sua perícia.",
-      "ru": "Создайте свою Витрину трофеев, чтобы получить награды. Собирайте трофеи с побежденных юнитов ARC и демонстрируйте свое мастерство.",
-      "sr": "Napravite vlastiti Prikaz Trofeja kako biste ubrali nagrade. Sakupite trofeje od pobeđenih ARC jedinica i pokažite svoju veštinu.",
-      "tr": "Ödülleri toplamak için kendi Kupa Serginizi oluşturun. Yenilmiş ARC birimlerinden kupa toplayın ve becerinizi sergileyin.",
-      "uk": "Створіть свою Вітрину трофеїв, щоб отримати нагороди. Збирайте трофеї з переможених юнітів ARC та демонструйте свою майстерність.",
-      "zh-CN": "创建自己的战利品展示以获取奖励。从被击败的ARC单位收集战利品并展示您的实力。",
-      "zh-TW": "創建自己的戰利品展示以獲取獎勵。從被擊敗的ARC單位收集戰利品並展示您的實力。"
-    },
-    "phases": [
-      {
-        "name": {
-          "da": "Vandrende Trusler",
-          "de": "Umherstreifende Bedrohungen",
-          "en": "Roaming Threats",
-          "es": "Amenazas Errantes",
-          "fr": "Menaces Errantes",
-          "he": "איומים נודדים",
-          "hr": "Lutajuće Prijetnje",
-          "it": "Minacce Vaganti",
-          "ja": "徘徊する脅威",
-          "kr": "배회하는 위협",
-          "no": "Vandrende Trusler",
-          "pl": "Wędrowne Zagrożenia",
-          "pt": "Ameaças Errantes",
-          "pt-BR": "Ameaças Errantes",
-          "ru": "Бродячие угрозы",
-          "sr": "Lutajuće Pretnje",
-          "tr": "Dolaşan Tehditler",
-          "uk": "Блукаючі загрози",
-          "zh-CN": "游荡威胁",
-          "zh-TW": "遊蕩威脅"
-        },
-        "description": {
-          "da": "Besejr landbaserede ARC-enheder og saml trofæer fra deres rester.",
-          "de": "Besiege bodengebundene ARC-Einheiten und sammle Trophäen aus ihren Überresten.",
-          "en": "Defeat ground-based ARC units and collect trophies from their remains.",
-          "es": "Derrota unidades ARC terrestres y recolecta trofeos de sus restos.",
-          "fr": "Vaincre les unités ARC terrestres et collecter des trophées de leurs restes.",
-          "he": "הביסו יחידות ARC קרקעיות ואספו גביעים משרידיהן.",
-          "hr": "Pobijedite prizemne ARC jedinice i sakupite trofeje iz njihovih ostataka.",
-          "it": "Sconfiggi unità ARC terrestri e raccogli trofei dai loro resti.",
-          "ja": "地上のARCユニットを倒し、その残骸からトロフィーを集めます。",
-          "kr": "지상 ARC 유닛을 물리치고 잔해에서 트로피를 수집하세요.",
-          "no": "Beseir bakkebaserte ARC-enheter og samle troféer fra deres rester.",
-          "pl": "Pokonaj naziemne jednostki ARC i zbierz trofea z ich szczątków.",
-          "pt": "Derrote unidades ARC terrestres e colete troféus de seus restos.",
-          "pt-BR": "Derrote unidades ARC terrestres e colete troféus de seus restos.",
-          "ru": "Победите наземные юниты ARC и соберите трофеи с их останков.",
-          "sr": "Pobedite prizemne ARC jedinice i sakupite trofeje iz njihovih ostataka.",
-          "tr": "Yer tabanlı ARC birimlerini yenin ve kalıntılarından kupa toplayın.",
-          "uk": "Переможіть наземні юніти ARC та зберіть трофеї з їхніх залишків.",
-          "zh-CN": "击败地面ARC单位并从其残骸中收集战利品。",
-          "zh-TW": "擊敗地面ARC單位並從其殘骸中收集戰利品。"
-        },
-        "phase": 1,
-        "requirementItemIds": [
-          {
-            "itemId": "rusted_bolts",
-            "quantity": 3
-          },
-          {
-            "itemId": "pop_trigger",
-            "quantity": 15
-          },
-          {
-            "itemId": "tick_pod",
-            "quantity": 15
-          },
-          {
-            "itemId": "surveyor_vault",
-            "quantity": 5
-          }
-        ]
-      },
-      {
-        "name": {
-          "da": "Svævende Trusler",
-          "de": "Schwebende Gefahren",
-          "en": "Soaring Menaces",
-          "es": "Amenazas Voladoras",
-          "fr": "Menaces Aériennes",
-          "he": "איומים מרחפים",
-          "hr": "Lebdeće Opasnosti",
-          "it": "Minacce Volanti",
-          "ja": "空中の脅威",
-          "kr": "날아오르는 위협",
-          "no": "Svevende Trusler",
-          "pl": "Szybujące Zagrożenia",
-          "pt": "Ameaças Voadoras",
-          "pt-BR": "Ameaças Voadoras",
-          "ru": "Парящие угрозы",
-          "sr": "Lebdeće Opasnosti",
-          "tr": "Uçan Tehditler",
-          "uk": "Летючі загрози",
-          "zh-CN": "飞行威胁",
-          "zh-TW": "飛行威脅"
-        },
-        "description": {
-          "da": "Nedskyd luftbårne ARC-enheder og saml deres unikke komponenter.",
-          "de": "Schieße luftgestützte ARC-Einheiten ab und sammle ihre einzigartigen Komponenten.",
-          "en": "Shoot down airborne ARC units and collect their unique components.",
-          "es": "Derriba unidades ARC aéreas y recolecta sus componentes únicos.",
-          "fr": "Abattez les unités ARC aériennes et collectez leurs composants uniques.",
-          "he": "הפילו יחידות ARC מוטסות ואספו את הרכיבים הייחודיים שלהן.",
-          "hr": "Oborite zračne ARC jedinice i sakupite njihove jedinstvene komponente.",
-          "it": "Abbatti unità ARC aeree e raccogli i loro componenti unici.",
-          "ja": "空中のARCユニットを撃墜し、そのユニークなコンポーネントを集めます。",
-          "kr": "공중 ARC 유닛을 격추하고 고유한 구성 요소를 수집하세요.",
-          "no": "Skyt ned luftbårne ARC-enheter og samle deres unike komponenter.",
-          "pl": "Zestrzel powietrzne jednostki ARC i zbierz ich unikalne komponenty.",
-          "pt": "Derrube unidades ARC aéreas e colete seus componentes únicos.",
-          "pt-BR": "Derrube unidades ARC aéreas e colete seus componentes únicos.",
-          "ru": "Сбивайте воздушные юниты ARC и собирайте их уникальные компоненты.",
-          "sr": "Oborite vazdušne ARC jedinice i sakupite njihove jedinstvene komponente.",
-          "tr": "Havadaki ARC birimlerini düşürün ve benzersiz bileşenlerini toplayın.",
-          "uk": "Збивайте повітряні юніти ARC та збирайте їхні унікальні компоненти.",
-          "zh-CN": "击落空中ARC单位并收集其独特组件。",
-          "zh-TW": "擊落空中ARC單位並收集其獨特組件。"
-        },
-        "phase": 2,
-        "requirementItemIds": [
-          {
-            "itemId": "spotter_relay",
-            "quantity": 10
-          },
-          {
-            "itemId": "expired_respirator",
-            "quantity": 3
-          },
-          {
-            "itemId": "wasp_driver",
-            "quantity": 20
-          },
-          {
-            "itemId": "hornet_driver",
-            "quantity": 15
-          }
-        ]
-      },
-      {
-        "name": {
-          "da": "Frygtelige Fjender",
-          "de": "Wilde Gegner",
-          "en": "Ferocious Foes",
-          "es": "Enemigos Feroces",
-          "fr": "Ennemis Féroces",
-          "he": "אויבים עזים",
-          "hr": "Žestoki Neprijatelji",
-          "it": "Nemici Feroci",
-          "ja": "獰猛な敵",
-          "kr": "사나운 적",
-          "no": "Ville Fiender",
-          "pl": "Dzicy Wrogowie",
-          "pt": "Inimigos Ferozes",
-          "pt-BR": "Inimigos Ferozes",
-          "ru": "Свирепые враги",
-          "sr": "Žestoki Neprijatelji",
-          "tr": "Vahşi Düşmanlar",
-          "uk": "Лютi вороги",
-          "zh-CN": "凶猛敌人",
-          "zh-TW": "兇猛敵人"
-        },
-        "description": {
-          "da": "Overvind kraftfulde ARC-enheder og udtræk deres avancerede teknologi.",
-          "de": "Überwinde mächtige ARC-Einheiten und extrahiere ihre fortschrittliche Technologie.",
-          "en": "Overcome powerful ARC units and extract their advanced technology.",
-          "es": "Supera unidades ARC poderosas y extrae su tecnología avanzada.",
-          "fr": "Surmontez les puissantes unités ARC et extrayez leur technologie avancée.",
-          "he": "התגברו על יחידות ARC חזקות וחלצו את הטכנולוגיה המתקדמת שלהן.",
-          "hr": "Savladajte moćne ARC jedinice i izvucite njihovu naprednu tehnologiju.",
-          "it": "Supera potenti unità ARC ed estrai la loro tecnologia avanzata.",
-          "ja": "強力なARCユニットを打ち破り、高度な技術を抽出します。",
-          "kr": "강력한 ARC 유닛을 극복하고 고급 기술을 추출하세요.",
-          "no": "Overvinne kraftige ARC-enheter og trekke ut deres avanserte teknologi.",
-          "pl": "Pokonaj potężne jednostki ARC i wydobądź ich zaawansowaną technologię.",
-          "pt": "Supere unidades ARC poderosas e extraia sua tecnologia avançada.",
-          "pt-BR": "Supere unidades ARC poderosas e extraia sua tecnologia avançada.",
-          "ru": "Преодолейте мощные юниты ARC и извлеките их передовую технологию.",
-          "sr": "Savladajte moćne ARC jedinice i izvucite njihovu naprednu tehnologiju.",
-          "tr": "Güçlü ARC birimlerini yenin ve gelişmiş teknolojilerini çıkarın.",
-          "uk": "Подолайте потужні юніти ARC та витягніть їхню передову технологію.",
-          "zh-CN": "克服强大的ARC单位并提取其先进技术。",
-          "zh-TW": "克服強大的ARC單位並提取其先進技術。"
-        },
-        "phase": 3,
-        "requirementItemIds": [
-          {
-            "itemId": "arc_performance_steel",
-            "quantity": 10
-          },
-          {
-            "itemId": "shredder_gyro",
-            "quantity": 5
-          },
-          {
-            "itemId": "leaper_pulse_unit",
-            "quantity": 10
-          },
-          {
-            "itemId": "bastion_cell",
-            "quantity": 5
-          }
-        ]
-      },
-      {
-        "name": {
-          "da": "Dominerende Farer",
-          "de": "Dominierende Gefahren",
-          "en": "Dominant Dangers",
-          "es": "Peligros Dominantes",
-          "fr": "Dangers Dominants",
-          "he": "סכנות דומיננטיות",
-          "hr": "Dominantne Opasnosti",
-          "it": "Pericoli Dominanti",
-          "ja": "支配的な危険",
-          "kr": "지배적인 위험",
-          "no": "Dominerende Farer",
-          "pl": "Dominujące Zagrożenia",
-          "pt": "Perigos Dominantes",
-          "pt-BR": "Perigos Dominantes",
-          "ru": "Доминирующие опасности",
-          "sr": "Dominantne Opasnosti",
-          "tr": "Baskın Tehlikeler",
-          "uk": "Домінуючі небезпеки",
-          "zh-CN": "主导危险",
-          "zh-TW": "主導危險"
-        },
-        "description": {
-          "da": "Konfronter elite ARC-enheder og indsaml deres sjældne trofæer.",
-          "de": "Konfrontiere Elite-ARC-Einheiten und sammle ihre seltenen Trophäen.",
-          "en": "Confront elite ARC units and collect their rare trophies.",
-          "es": "Confronta unidades ARC de élite y recolecta sus trofeos raros.",
-          "fr": "Affrontez les unités ARC d'élite et collectez leurs trophées rares.",
-          "he": "התעמתו עם יחידות ARC עילית ואספו את הגביעים הנדירים שלהן.",
-          "hr": "Suočite se s elitnim ARC jedinicama i sakupite njihove rijetke trofeje.",
-          "it": "Affronta unità ARC d'élite e raccogli i loro trofei rari.",
-          "ja": "エリートARCユニットと対峙し、そのレアなトロフィーを集めます。",
-          "kr": "엘리트 ARC 유닛과 맞서고 희귀 트로피를 수집하세요.",
-          "no": "Konfronter elite ARC-enheter og samle deres sjeldne troféer.",
-          "pl": "Skonfrontuj się z elitarnymi jednostkami ARC i zbierz ich rzadkie trofea.",
-          "pt": "Confronte unidades ARC de elite e colete seus troféus raros.",
-          "pt-BR": "Confronte unidades ARC de elite e colete seus troféus raros.",
-          "ru": "Противостойте элитным юнитам ARC и соберите их редкие трофеи.",
-          "sr": "Suočite se sa elitnim ARC jedinicama i sakupite njihove retke trofeje.",
-          "tr": "Elit ARC birimleriyle yüzleşin ve nadir kupalarını toplayın.",
-          "uk": "Протистояйте елітним юнітам ARC та зберіть їхні рідкісні трофеї.",
-          "zh-CN": "对抗精英ARC单位并收集其稀有战利品。",
-          "zh-TW": "對抗精英ARC單位並收集其稀有戰利品。"
-        },
-        "phase": 4,
-        "requirementItemIds": [
-          {
-            "itemId": "arc_synthetic_resin",
-            "quantity": 10
-          },
-          {
-            "itemId": "magnetic_accelerator",
-            "quantity": 10
-          },
-          {
-            "itemId": "rocketeer_driver",
-            "quantity": 8
-          },
-          {
-            "itemId": "queen_reactor",
-            "quantity": 3
-          }
-        ]
-      },
-      {
-        "name": {
-          "da": "Imponerende Behemoths",
-          "de": "Imposante Kolosse",
-          "en": "Imposing Behemoths",
-          "es": "Behemots Imponentes",
-          "fr": "Béhémoths Imposants",
-          "he": "בהמות מרשימות",
-          "hr": "Impozantni Divovi",
-          "it": "Behemoth Imponenti",
-          "ja": "堂々たる巨獣",
-          "kr": "위압적인 거수",
-          "no": "Imponerende Behemoths",
-          "pl": "Imponujące Behemoty",
-          "pt": "Behemoths Imponentes",
-          "pt-BR": "Behemoths Imponentes",
-          "ru": "Внушительные бегемоты",
-          "sr": "Impozantni Divovi",
-          "tr": "Heybetli Dev Yaratıklar",
-          "uk": "Вражаючі бегемоти",
-          "zh-CN": "令人生畏的巨兽",
-          "zh-TW": "令人生畏的巨獸"
-        },
-        "description": {
-          "da": "Besejr de mest frygtindgydende ARC-enheder og secure deres ultimative trofæer.",
-          "de": "Besiege die furchterregendsten ARC-Einheiten und sichere ihre ultimativen Trophäen.",
-          "en": "Defeat the most formidable ARC units and secure their ultimate trophies.",
-          "es": "Derrota las unidades ARC más formidables y asegura sus trofeos definitivos.",
-          "fr": "Vaincre les unités ARC les plus redoutables et sécuriser leurs trophées ultimes.",
-          "he": "הביסו את יחידות ה-ARC האימתניות ביותר והבטיחו את הגביעים האולטימטיביים שלהן.",
-          "hr": "Pobijedite najstrašnije ARC jedinice i osigurajte njihove ultimativne trofeje.",
-          "it": "Sconfiggi le unità ARC più formidabili e assicurati i loro trofei definitivi.",
-          "ja": "最も手強いARCユニットを倒し、究極のトロフィーを確保します。",
-          "kr": "가장 강력한 ARC 유닛을 물리치고 궁극의 트로피를 확보하세요.",
-          "no": "Beseir de mest formidable ARC-enhetene og sikre deres ultimate troféer.",
-          "pl": "Pokonaj najbardziej groźne jednostki ARC i zdobądź ich ostateczne trofea.",
-          "pt": "Derrote as unidades ARC mais formidáveis e garanta seus troféus definitivos.",
-          "pt-BR": "Derrote as unidades ARC mais formidáveis e garanta seus troféus definitivos.",
-          "ru": "Победите самые грозные юниты ARC и заполучите их окончательные трофеи.",
-          "sr": "Pobedite najstrašnije ARC jedinice i osigurajte njihove ultimativne trofeje.",
-          "tr": "En zorlu ARC birimlerini yenin ve nihai kupalarını güvenceye alın.",
-          "uk": "Переможіть найгрізніші юніти ARC та заволодійте їхніми остаточними трофеями.",
-          "zh-CN": "击败最强大的ARC单位并获取其终极战利品。",
-          "zh-TW": "擊敗最強大的ARC單位並獲取其終極戰利品。"
-        },
-        "phase": 5,
-        "requirementItemIds": [
-          {
-            "itemId": "exodus_modules",
-            "quantity": 5
-          },
-          {
-            "itemId": "geiger_counter",
-            "quantity": 3
-          },
-          {
-            "itemId": "bombardier_cell",
-            "quantity": 8
-          },
-          {
-            "itemId": "matriarch_reactor",
-            "quantity": 3
           }
         ]
       }

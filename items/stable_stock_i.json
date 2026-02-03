@@ -1,6 +1,7 @@
 {
   "id": "stable_stock_i",
   "name": {
+    "ar": "أخمص ثابت 1",
     "da": "Stabil kolbe I",
     "de": "Stabiler Kolben I",
     "en": "Stable Stock I",
@@ -23,6 +24,7 @@
     "zh-TW": "穩定槍托 I"
   },
   "description": {
+    "ar": "يحسن قليلاً من التشتت ووقت التعافي من الارتداد.",
     "da": "Forbedrer lidt spredning og rekylgendannelsestid.",
     "de": "Verringert die Zeit, in der du dich von Streuung und Rückstoß erholst, geringfügig.",
     "en": "Slightly improves dispersion & recoil recovery time.",
@@ -48,10 +50,17 @@
   "rarity": "Common",
   "value": 640,
   "weightKg": 0.25,
-  "compatibleWith": ["Rattler", "Ferro", "Stitcher", "Arpeggio", "Bettina"],
+  "compatibleWith": [
+    "Rattler",
+    "Ferro",
+    "Stitcher",
+    "Arpeggio",
+    "Bettina"
+  ],
   "effects": {
     "Reduced Dispersion Recovery Time": {
       "value": "20%",
+      "ar": "وقت تعافي التشتت المخفض",
       "da": "Reduceret spredningsgendannelsestid",
       "de": "Verringerte Streuungserholungszeit",
       "en": "Reduced Dispersion Recovery Time",
@@ -75,6 +84,7 @@
     },
     "Reduced Recoil Recovery Time": {
       "value": "20%",
+      "ar": "وقت تعافي الارتداد المخفض",
       "da": "Reduceret rekylgendannelsestid",
       "de": "Verringerte Rückstoßerholungszeit",
       "en": "Reduced Recoil Recovery Time",

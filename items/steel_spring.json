@@ -1,6 +1,7 @@
 {
   "id": "steel_spring",
   "name": {
+    "ar": "زنبرك فولاذي",
     "da": "Stålfjeder",
     "de": "Stahlfeder",
     "en": "Steel Spring",
@@ -23,6 +24,7 @@
     "zh-TW": "鋼製彈簧"
   },
   "description": {
+    "ar": "تستخدم في صناعة مجموعة واسعة من العناصر. يمكن إعادة تدويرها إلى مواد تصنيع. تستخدم لصنع: مخزن بندقية رش موسع 1، مخزن متوسط موسع 1، مخزن خفيف موسع 1، Torrente، مخزن متوسط موسع 2",
     "da": "Bruges til at lave en bred vifte af genstande. Kan genbruges til håndværksmaterialer. Bruges til at lave: Udvidet haglmagasin I, Udvidet mellemstort magasin I, Udvidet let magasin I, Torrente, Udvidet mellemstort magasin II",
     "de": "Wird zur Herstellung verschiedenster Gegenstände verwendet. Kann zu Herstellungsmaterialien recycelt werden. Zur Herstellung von: Erweitertes Schrotflintenmagazin I, Erweitertes mittelschweres Magazin I, Erweitertes leichtes Magazin I, Torrente, Erweitertes mittelschweres Magazin II",
     "en": "Used to craft a wide range of items. Can be recycled into crafting materials. Used to craft: Extended Shotgun Mag I, Extended Medium Mag I, Extended Light Mag I, Torrente, Extended Medium Mag II",

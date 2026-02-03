@@ -1,6 +1,7 @@
 {
   "id": "vulcano_iv",
   "name": {
+    "ar": "فولكانو 4",
     "da": "Vulcano IV",
     "de": "Vulcano IV",
     "en": "Vulcano IV",
@@ -23,6 +24,7 @@
     "zh-TW": "火山 IV"
   },
   "description": {
+    "ar": "بندقية صيد نصف أوتوماتيكية بانتشار جيد للرصاص ولكن مع انخفاض حاد في الفعالية.",
     "da": "Halvautomatisk haglgevær med god spredning men kraftigt skadefald",
     "de": "Hat eine gute Streuung, aber eine geringe Reichweite.",
     "en": "Semi-automatic shotgun with good bullet spread but sharp falloff",
@@ -52,6 +54,7 @@
   "effects": {
     "Ammo Type": {
       "value": "Shotgun Ammo",
+      "ar": "نوع الذخيرة",
       "da": "Ammunitionstype",
       "de": "Munitionstyp",
       "en": "Ammo Type",
@@ -75,6 +78,7 @@
     },
     "ARC Armor Penetration": {
       "value": "Weak",
+      "ar": "اختراق درع ARC",
       "da": "ARC rustningsgennemtrængning",
       "de": "ARC-Rüstungsdurchdringung",
       "en": "ARC Armor Penetration",
@@ -98,6 +102,7 @@
     },
     "Durability": {
       "value": "130/130",
+      "ar": "المتانة",
       "da": "Holdbarhed",
       "de": "Haltbarkeit",
       "en": "Durability",
@@ -121,6 +126,7 @@
     },
     "Firing Mode": {
       "value": "Semi-Automatic",
+      "ar": "وضع الإطلاق",
       "da": "Skydemetode",
       "de": "Feuermodus",
       "en": "Firing Mode",
@@ -144,6 +150,7 @@
     },
     "Increased Fire Rate": {
       "value": "30%",
+      "ar": "معدل إطلاق متزايد",
       "da": "Øget skudhastighed",
       "de": "Erhöhte Feuerrate",
       "en": "Increased Fire Rate",
@@ -167,6 +174,7 @@
     },
     "Magazine Size": {
       "value": 6,
+      "ar": "حجم المخزن",
       "da": "Magasinstørrelse",
       "de": "Magazingröße",
       "en": "Magazine Size",
@@ -190,6 +198,7 @@
     },
     "Reduced Reload Time": {
       "value": "40%",
+      "ar": "وقت إعادة تلقيم مخفض",
       "da": "Reduceret genladningstid",
       "de": "Reduzierte Nachladezeit",
       "en": "Reduced Reload Time",

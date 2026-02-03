@@ -1,6 +1,7 @@
 {
   "id": "vulcano_blueprint",
   "name": {
+    "ar": "مخطط فولكانو",
     "da": "Vulcano-tegning",
     "de": "Bauplan: Vulcano",
     "en": "Vulcano Blueprint",
@@ -23,6 +24,7 @@
     "zh-TW": "火山 藍圖"
   },
   "description": {
+    "ar": "بندقية صيد نصف أوتوماتيكية بانتشار جيد للرصاص ولكن مع انخفاض حاد في الفعالية.",
     "da": "Halvautomatisk haglgevaer med god spredning men skarpt fald.",
     "de": "Halbautomatische Schrotflinte mit guter Streuung, aber starkem Abfall.",
     "en": "Semi-automatic shotgun with good bullet spread but sharp falloff",

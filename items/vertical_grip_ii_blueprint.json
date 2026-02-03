@@ -1,6 +1,7 @@
 {
   "id": "vertical_grip_ii_blueprint",
   "name": {
+    "ar": "مخطط مقبض عمودي 2",
     "da": "Vertikalt greb II-tegning",
     "de": "Bauplan: Vertikaler Griff II",
     "en": "Vertical Grip II Blueprint",
@@ -23,6 +24,7 @@
     "zh-TW": "垂直握把 II 藍圖"
   },
   "description": {
+    "ar": "يقلل بشكل معتدل من الارتداد العمودي. متوافق مع: Arpeggio, Ferro, Venator, Il Toro, Stitcher",
     "da": "Reducerer vertikalt rekyl moderat. Kompatibel med: Arpeggio, Ferro, Venator, Il Toro, Stitcher",
     "de": "Verringert den vertikalen Ruckstoß moderat.",
     "en": "Moderately reduces vertical recoil. Compatible with: Arpeggio, Ferro, Venator, Il Toro, Stitcher",

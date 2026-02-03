@@ -1,6 +1,7 @@
 {
   "id": "vertical_grip_iii",
   "name": {
+    "ar": "مقبض عمودي 3",
     "da": "Lodret Greb III",
     "de": "Vertikaler Griff III",
     "en": "Vertical Grip III",
@@ -23,6 +24,7 @@
     "zh-TW": "垂直握把III"
   },
   "description": {
+    "ar": "يقلل بشكل كبير من الارتداد العمودي. متوافق مع: Tempest, Kettle, Hullcracker, Venator, Il Toro",
     "da": "Reducerer lodret rekyl betydeligt. Kompatibel med: Tempest, Kettle, Hullcracker, Venator, Il Toro",
     "de": "Verringert den vertikalen Rückstoß erheblich. Kompatibel mit: Tempest, Kettle, Hullcracker, Venator, Il Toro",
     "en": "Significantly reduces vertical recoil. Compatible with: Tempest, Kettle, Hullcracker, Venator, Il Toro",
@@ -51,6 +53,7 @@
   "effects": {
     "Reduced ADS Speed": {
       "value": "30%",
+      "ar": "سرعة تصويب مخفضة",
       "da": "Reduceret sigtehastighed",
       "de": "Verringerte Geschwindigkeit zum Zielen mit Visier",
       "en": "Reduced ADS Speed",
@@ -74,6 +77,7 @@
     },
     "Reduced Vertical Recoil": {
       "value": "40%",
+      "ar": "ارتداد أفقي مخفض",
       "da": "Reduceret lodret rekyl",
       "de": "Verringerter vertikaler Rückstoß",
       "en": "Reduced Vertical Recoil",

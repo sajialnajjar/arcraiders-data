@@ -1,6 +1,7 @@
 {
   "id": "tempest_ii",
   "name": {
+    "ar": "العاصفة 2",
     "da": "Storm II",
     "de": "Tempest II",
     "en": "Tempest II",
@@ -23,6 +24,7 @@
     "zh-TW": "風暴 II"
   },
   "description": {
+    "ar": "بندقية هجومية أوتوماتيكية بالكامل ذات معدل إطلاق ودقة متوسطة.",
     "da": "Fuldt automatisk angrebsriffel med moderat skudhastighed og præcision.",
     "de": "Vollautomatisches Sturmgewehr mit mittlerer Feuerrate und Genauigkeit.",
     "en": "Fully automatic assault rifle with moderate fire rate and accuracy.",
@@ -52,6 +54,7 @@
   "effects": {
     "Ammo Type": {
       "value": "Medium Ammo",
+      "ar": "نوع الذخيرة",
       "da": "Ammunitionstype",
       "de": "Munitionstyp",
       "en": "Ammo Type",
@@ -75,6 +78,7 @@
     },
     "ARC Armor Penetration": {
       "value": "Moderate",
+      "ar": "اختراق درع ARC",
       "da": "ARC-rustningspenetrering",
       "de": "ARC-Rüstungsdurchdringung",
       "en": "ARC Armor Penetration",
@@ -98,6 +102,7 @@
     },
     "Durability": {
       "value": "110/110",
+      "ar": "المتانة",
       "da": "Holdbarhed",
       "de": "Haltbarkeit",
       "en": "Durability",
@@ -121,6 +126,7 @@
     },
     "Firing Mode": {
       "value": "Fully-Automatic",
+      "ar": "وضع الإطلاق",
       "da": "Skydetilstand",
       "de": "Feuermodus",
       "en": "Firing Mode",
@@ -144,6 +150,7 @@
     },
     "Magazine Size": {
       "value": 25,
+      "ar": "حجم المخزن",
       "da": "Magasinstørrelse",
       "de": "Magazingröße",
       "en": "Magazine Size",
@@ -167,6 +174,7 @@
     },
     "Reduced Horizontal Recoil": {
       "value": "16.6%",
+      "ar": "ارتداد أفقي مخفض",
       "da": "Reduceret horisontal rekyl",
       "de": "Reduzierter horizontaler Rückstoß",
       "en": "Reduced Horizontal Recoil",
@@ -190,6 +198,7 @@
     },
     "Reduced Reload Time": {
       "value": "13%",
+      "ar": "وقت إعادة تلقيم مخفض",
       "da": "Reduceret genindlæsningstid",
       "de": "Verringerte Nachladezeit",
       "en": "Reduced Reload Time",

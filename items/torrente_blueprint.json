@@ -1,6 +1,7 @@
 {
   "id": "torrente_blueprint",
   "name": {
+    "ar": "مخطط تورينتي",
     "da": "Torrente-tegning",
     "de": "Bauplan: Torrente",
     "en": "Torrente Blueprint",
@@ -23,6 +24,7 @@
     "zh-TW": "奔流藍圖"
   },
   "description": {
+    "ar": "يمتلك سعة ذخيرة كبيرة، ولكنه دقيق فقط أثناء الانحناء.",
     "da": "Har stor ammunitionskapacitet, men er kun præcis når man sidder på hug.",
     "de": "Hat eine große Munitionskapazität, ist aber nur in der Hocke präzise.",
     "en": "Has a large ammo capacity, but is only accurate while crouched.",

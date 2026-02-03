@@ -1,6 +1,7 @@
 {
   "id": "smoke_grenade_blueprint",
   "name": {
+    "ar": "مخطط قنبلة دخان",
     "da": "Roggranat-tegning",
     "de": "Bauplan: Rauchgranate",
     "en": "Smoke Grenade Blueprint",
@@ -23,6 +24,7 @@
     "zh-TW": "煙霧彈 藍圖"
   },
   "description": {
+    "ar": "قنبلة تخلق سحابة دخان مستمرة عند الارتطام، وتحجب رؤية ARC والمغيرين الآخرين.",
     "da": "En granat, der skaber en vedvarende rogsky ved nedslag og blokerer sigt fra ARC og andre Raiders.",
     "de": "Eine Granate, die beim Aufprall eine Rauchwolke zurucklasst, die die Sicht von ARC und anderen Raidern einschrankt.",
     "en": "A grenade that creates a lingering smoke cloud on impact, blocking visibility from ARC and other Raiders.",

@@ -1,6 +1,7 @@
 {
   "id": "snowball",
   "name": {
+    "ar": "كرة ثلج",
     "da": "Snebold",
     "de": "Schneeball",
     "en": "Snowball",
@@ -23,6 +24,7 @@
     "zh-TW": "雪球"
   },
   "description": {
+    "ar": "كرة ثלג compact.",
     "da": "En kompakt snebold.",
     "de": "Ein kompakter Schneeball.",
     "en": "A compact snowball.",

@@ -1,6 +1,7 @@
 {
   "id": "voltage_converter",
   "name": {
+    "ar": "محول جهد",
     "da": "Spændingsomformer",
     "de": "Spannungswandler",
     "en": "Voltage Converter",
@@ -23,6 +24,7 @@
     "zh-TW": "變壓器"
   },
   "description": {
+    "ar": "يستخدم في التصنيع. يستخدم لصنع: درع ثقيل، قاطع الطريق.",
     "da": "Bruges i håndværk. Bruges til at lave: Tungt skjold, Showstopper",
     "de": "Wird bei der Herstellung verwendet. Zur Herstellung von: Schwerer Schild, Showstopper",
     "en": "Used in crafting. Used to craft: Heavy Shield, Showstopper",

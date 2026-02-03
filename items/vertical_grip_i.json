@@ -1,6 +1,7 @@
 {
   "id": "vertical_grip_i",
   "name": {
+    "ar": "مقبض عمودي 1",
     "da": "Vertikalt greb I",
     "de": "Vertikaler Griff I",
     "en": "Vertical Grip I",
@@ -23,6 +24,7 @@
     "zh-TW": "垂直握把 I"
   },
   "description": {
+    "ar": "يقلل قليلاً من الارتداد العمودي. متوافق مع: Tempest, Arpeggio, Kettle, Ferro, Hullcracker",
     "da": "Reducerer vertikal rekyl lidt. Kompatibel med: Tempest, Arpeggio, Kettle, Ferro, Hullcracker",
     "de": "Verringert den vertikalen Rückstoß geringfügig. Kompatibel mit: Tempest, Arpeggio, Kettle, Ferro, Hullcracker",
     "en": "Slightly reduces vertical recoil. Compatible with: Tempest, Arpeggio, Kettle, Ferro, Hullcracker",
@@ -51,6 +53,7 @@
   "effects": {
     "Reduced Vertical Recoil": {
       "value": "20%",
+      "ar": "ارتداد أفقي مخفض",
       "da": "Reduceret vertikal rekyl",
       "de": "Verringerter vertikaler Rückstoß",
       "en": "Reduced Vertical Recoil",

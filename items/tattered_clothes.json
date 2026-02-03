@@ -1,6 +1,7 @@
 {
   "id": "tattered_clothes",
   "name": {
+    "ar": "ملابس ممزقة",
     "da": "Pjaltede Tøj",
     "de": "Zerfetzte Kleidung",
     "en": "Tattered Clothes",
@@ -23,6 +24,7 @@
     "zh-TW": "破爛衣物"
   },
   "description": {
+    "ar": "يمكن إعادة تدويرها إلى قماش.",
     "da": "Kan genbruges til stof.",
     "de": "Kann zu Stoff recycelt werden.",
     "en": "Can be recycled into fabric.",

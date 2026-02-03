@@ -1,6 +1,7 @@
 {
   "id": "smoke_grenade_trap",
   "name": {
+    "ar": "فخ قنبلة دخانية",
     "da": "Røggranатfælde",
     "de": "Laserfalle: Rauch",
     "en": "Smoke Grenade Trap",
@@ -23,6 +24,7 @@
     "zh-TW": "煙霧手榴彈陷阱"
   },
   "description": {
+    "ar": "سلك ليزر يفجر قنبلة دخانية.",
     "da": "En lasertråd der detonerer en røggranат.",
     "de": "Ein Laser-Stolperdraht, der eine Rauchgranate zündet.",
     "en": "A laser trip wire that detonates a Smoke Grenade.",
@@ -52,6 +54,7 @@
   "effects": {
     "Duration": {
       "value": "20s",
+      "ar": "المدة",
       "da": "Varighed",
       "de": "Dauer",
       "en": "Duration",
@@ -75,6 +78,7 @@
     },
     "Radius": {
       "value": "7.5m",
+      "ar": "نطاق",
       "da": "Radius",
       "de": "Radius",
       "en": "Radius",

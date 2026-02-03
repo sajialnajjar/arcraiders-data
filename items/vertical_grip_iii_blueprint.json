@@ -1,6 +1,7 @@
 {
   "id": "vertical_grip_iii_blueprint",
   "name": {
+    "ar": "مخطط مقبض عمودي 3",
     "da": "Lodret Greb III Tegning",
     "de": "Bauplan: Vertikaler Griff III",
     "en": "Vertical Grip III Blueprint",
@@ -23,6 +24,7 @@
     "zh-TW": "垂直握把III 藍圖"
   },
   "description": {
+    "ar": "يقلل بشكل كبير من الارتداد العمودي.",
     "da": "Reducerer lodret rekyl betydeligt.",
     "de": "Verringert den vertikalen Rückstoß erheblich.",
     "en": "Significantly reduces vertical recoil.",

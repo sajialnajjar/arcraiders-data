@@ -1,6 +1,7 @@
 {
   "id": "statuette",
   "name": {
+    "ar": "تمثال صغير",
     "da": "Statuette",
     "de": "Statuette",
     "en": "Statuette",
@@ -23,6 +24,7 @@
     "zh-TW": "小雕像"
   },
   "description": {
+    "ar": "يستحق ثروة صغيرة.",
     "da": "Værd en lille formue.",
     "de": "Wert ein kleines Vermögen.",
     "en": "Worth a small fortune.",

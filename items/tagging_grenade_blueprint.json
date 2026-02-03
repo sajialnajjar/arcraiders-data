@@ -1,6 +1,7 @@
 {
   "id": "tagging_grenade_blueprint",
   "name": {
+    "ar": "مخطط قنبلة التحديد",
     "da": "Markeringsgranат-tegning",
     "de": "Bauplan: Markierungsgranate",
     "en": "Tagging Grenade Blueprint",
@@ -23,6 +24,7 @@
     "zh-TW": "標記手榴彈 藍圖"
   },
   "description": {
+    "ar": "قنبلة تنفجر بعد تأخير، وتحدد المغيرين وأعداء ARC في منطقة ما، مما يسمح لك بتتبع موقعهم لفترة وجيزة.",
     "da": "En granат der detonerer efter en forsinkelse, markerer Raiders og ARC-fjender i et omrade.",
     "de": "Eine Granate, die nach einer Verzogerung explodiert und Raider sowie ARC-Gegner in ihrem Bereich markiert.",
     "en": "A grenade that detonates after a delay, tagging Raiders and ARC enemies in an area, allowing you to briefly track their location.",

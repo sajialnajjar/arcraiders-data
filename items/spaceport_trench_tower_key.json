@@ -1,6 +1,7 @@
 {
   "id": "spaceport_trench_tower_key",
   "name": {
+    "ar": "مفتاح برج الخندق في الميناء الفضائي",
     "da": "Rumhavn skyttegravstårn nøgle",
     "de": "Grabenturmschlüssel (Raumhafen)",
     "en": "Spaceport Trench Tower Key",
@@ -23,6 +24,7 @@
     "zh-TW": "太空港戰壕塔鑰匙"
   },
   "description": {
+    "ar": "يفتح باباً لأبراج الخندق في الميناء الفضائي",
     "da": "Låser en dør op til skyttegravstårnene i rumhavnen",
     "de": "Öffnet eine Tür zu den Grabentürmen im Raumhafen",
     "en": "Unlocks a door to the Trench Towers in Spaceport",

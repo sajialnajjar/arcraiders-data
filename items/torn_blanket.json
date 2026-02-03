@@ -1,6 +1,7 @@
 {
   "id": "torn_blanket",
   "name": {
+    "ar": "بطانية ممزقة",
     "da": "Revet tæppe",
     "de": "Zerrissene Decke",
     "en": "Torn Blanket",
@@ -23,6 +24,7 @@
     "zh-TW": "破損的毯子"
   },
   "description": {
+    "ar": "يمكن إعادة تدويرها إلى قماش.",
     "da": "Kan genbruges til stof.",
     "de": "Kann zu Stoff recycelt werden.",
     "en": "Can be recycled into fabric.",

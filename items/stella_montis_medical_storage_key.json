@@ -1,6 +1,7 @@
 {
   "id": "stella_montis_medical_storage_key",
   "name": {
+    "ar": "مفتاح المخزن الطبي في ستيلا مونتيس",
     "da": "Stella Montis Medicinsk Lagernøgle",
     "de": "Schlüssel zum medizinischen Lagerraum in Stella Montis",
     "en": "Stella Montis Medical Storage Key",
@@ -23,6 +24,7 @@
     "zh-TW": "星山醫療儲藏室鑰匙"
   },
   "description": {
+    "ar": "يفتح باباً في الأرشيف في ستيلا مونتيس",
     "da": "Låser en dør op i Arkivet i Stella Montis",
     "de": "Öffnet eine Tür in der medizinischen Forschungseinrichtung in Stella Montis",
     "en": "Unlocks a door in the Archives in Stella Montis",
@@ -52,6 +54,7 @@
   "effects": {
     "Opens a door somewhere on": {
       "value": "Stella Montis",
+      "ar": "يفتح باباً في مكان ما في",
       "da": "Åbner en dør et sted på",
       "de": "Öffnet eine Tür irgendwo auf",
       "en": "Opens a door somewhere on",

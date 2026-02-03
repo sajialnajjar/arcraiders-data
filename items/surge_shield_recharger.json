@@ -1,8 +1,9 @@
 {
   "id": "surge_shield_recharger",
   "name": {
+    "ar": "شاحن درع الاندفاع",
     "da": "Surge-skjoldoplader",
-    "de": "Sofort-Schildauflader",
+    "de": "Sturm-Schildauflader",
     "en": "Surge Shield Recharger",
     "es": "Cargador de escudos de sobrecarga",
     "fr": "Chargeur de Bouclier d'Impulsion",
@@ -23,6 +24,7 @@
     "zh-TW": "激能護盾充能器"
   },
   "description": {
+    "ar": "مجموعة محمولة تشحن الدرع عند الاستخدام.",
     "da": "Et håndholdt sæt, der oplader et skjold ved brug.",
     "de": "Ein tragbares Set, das bei Gebrauch einen Schild wieder auflädt.",
     "en": "A handheld kit that recharges a shield on use.",
@@ -52,6 +54,7 @@
   "effects": {
     "Recharge": {
       "value": 50,
+      "ar": "إعادة شحن",
       "da": "Opladning",
       "de": "Aufladung",
       "en": "Recharge",
@@ -75,6 +78,7 @@
     },
     "Use Time": {
       "value": "5s",
+      "ar": "وقت الاستخدام",
       "da": "Brugstid",
       "de": "Verwendungszeit",
       "en": "Use Time",

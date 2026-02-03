@@ -1,6 +1,7 @@
 {
   "id": "torn_book",
   "name": {
+    "ar": "كتاب ممزق",
     "da": "Revet bog",
     "de": "Zerrissenes Buch",
     "en": "Torn Book",
@@ -23,6 +24,7 @@
     "zh-TW": "破損的書"
   },
   "description": {
+    "ar": "الصفحات المتبقية تتحدث عن الأبطال، ومصاصي الدماء، والكثير من النظرات.",
     "da": "De resterende sider taler om helte, vampyrer og mange blikke.",
     "de": "Die verbliebenen Seiten erzählen von Helden, Vampiren und vielen Blicken.",
     "en": "What pages remain speak of heroes, vampires, and lots of glances.",

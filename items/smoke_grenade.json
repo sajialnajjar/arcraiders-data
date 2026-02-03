@@ -1,6 +1,7 @@
 {
   "id": "smoke_grenade",
   "name": {
+    "ar": "قنبلة دخان",
     "da": "Røggranat",
     "de": "Rauchgranate",
     "en": "Smoke Grenade",
@@ -23,6 +24,7 @@
     "zh-TW": "煙霧彈"
   },
   "description": {
+    "ar": "قنبلة تخلق سحابة دخان مستمرة عند الارتطام، وتحجب رؤية ARC والمغيرين الآخرين.",
     "da": "En granat, der skaber en vedvarende røgsky ved nedslag og blokerer sigt fra ARC og andre Raiders.",
     "de": "Eine Granate, die beim Aufprall eine Rauchwolke zurücklässt, die die Sicht von ARC und anderen Raidern einschränkt.",
     "en": "A grenade that creates a lingering smoke cloud on impact, blocking visibility from ARC and other Raiders.",
@@ -53,6 +55,7 @@
   "effects": {
     "Duration": {
       "value": "20s",
+      "ar": "المدة",
       "da": "Varighed",
       "de": "Dauer",
       "en": "Duration",
@@ -76,6 +79,7 @@
     },
     "Radius": {
       "value": "7.5m",
+      "ar": "نطاق",
       "da": "Radius",
       "de": "Radius",
       "en": "Radius",

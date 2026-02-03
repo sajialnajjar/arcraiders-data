@@ -1,6 +1,7 @@
 {
   "id": "trigger_nade",
   "name": {
+    "ar": "قنبلة الزناد",
     "da": "Udløser-granat",
     "de": "Abzuggranate",
     "en": "Trigger 'Nade",
@@ -23,6 +24,7 @@
     "zh-TW": "遙控手榴彈"
   },
   "description": {
+    "ar": "قنبلة يتم تفجيرها عن بُعد يمكن أن تلتصق بالأسطح و ARC، وتسبب ضرراً متفجراً عند تفعيلها.",
     "da": "En fjerndetoneret granat, der kan hæfte til overflader og ARC og forårsager eksplosiv skade, når den udløses.",
     "de": "Eine ferngezündete Granate, die an Oberflächen und ARC haften bleibt und bei Zündung Explosionsschaden verursacht.",
     "en": "A remote-detonated grenade that can stick to surfaces and ARC, dealing explosive damage when triggered.",
@@ -52,6 +54,7 @@
   "effects": {
     "Damage": {
       "value": 90,
+      "ar": "الضرر",
       "da": "Skade",
       "de": "Schaden",
       "en": "Damage",
@@ -75,6 +78,7 @@
     },
     "Radius": {
       "value": "7.5m",
+      "ar": "نصف القطر",
       "da": "Radius",
       "de": "Radius",
       "en": "Radius",

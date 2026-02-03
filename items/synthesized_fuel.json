@@ -1,6 +1,7 @@
 {
   "id": "synthesized_fuel",
   "name": {
+    "ar": "وقود مركب",
     "da": "Syntetiseret brændstof",
     "de": "Synthetischer Treibstoff",
     "en": "Synthesized Fuel",
@@ -23,6 +24,7 @@
     "zh-TW": "合成燃料"
   },
   "description": {
+    "ar": "علبة من مزيج الوقود الاصطناعي.",
     "da": "En beholder med syntetisk brændstofblanding.",
     "de": "Wird zur Herstellung von Gebrauchsgegenständen und Sprengstoffen verwendet. Kann zu Chemikalien recycelt werden. Zur Herstellung von: Trailblazer. Kann geworfen werden; explodiert, wenn abgeschossen.",
     "en": "A canister of synthetic fuel blend.",

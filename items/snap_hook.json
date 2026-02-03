@@ -1,6 +1,7 @@
 {
   "id": "snap_hook",
   "name": {
+    "ar": "خطاف سريع",
     "da": "Karabinkrog",
     "de": "Karabinerhaken",
     "en": "Snap Hook",
@@ -23,6 +24,7 @@
     "zh-TW": "扣鉤藍圖"
   },
   "description": {
+    "ar": "أداة تسمح للمستخدم بتسلق الهياكل وتغطية مسافات كبيرة.",
     "da": "En genstand der gør det muligt for brugeren at klatre på strukturer og dække store afstande.",
     "de": "Ein Gadget, mit dem der Benutzer Gebäude erklimmen und große Entfernungen zurücklegen kann.",
     "en": "A gadget that allows the user to scale structures and cover large distances.",
@@ -51,6 +53,7 @@
   "effects": {
     "Durability": {
       "value": "100/100",
+      "ar": "المتانة",
       "da": "Holdbarhed",
       "de": "Haltbarkeit",
       "en": "Durability",
@@ -74,6 +77,7 @@
     },
     "Range": {
       "value": "20m",
+      "ar": "المدى",
       "da": "Rækkevidde",
       "de": "Reichweite",
       "en": "Range",

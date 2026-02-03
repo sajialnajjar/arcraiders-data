@@ -1,6 +1,7 @@
 {
   "id": "tactical_mk3_healing",
   "name": {
+    "ar": "تكتيكي Mk. 3 (علاجي)",
     "da": "Taktisk Mk. 3 (Helbredelse)",
     "de": "Taktisch-Marke 3 (Heilung)",
     "en": "Tactical Mk. 3 (Healing)",
@@ -23,6 +24,7 @@
     "zh-TW": "戰術型 Mk. 3 (治療)"
   },
   "description": {
+    "ar": "تحسين يركز على العلاج ويضيف فتحات إضافية لعناصر العلاج. عند الإحياء بعد السقوط، يطلق سحابة علاجية تعيد 20 صحة على مدار 10 ثوانٍ. لديه فترة تهدئة تبلغ 30 ثانية.",
     "da": "En helbredelsesrettet forstærkning som tilføjer ekstra pladser til helbredelsesitems. Når genoplivet fra at være nede, frigiver en helbredende sky der gendanner 20 helbred over 10 sekunder. Har en 30-sekunders afkølingstid.",
     "de": "Ein heilungsorientiertes Aufment, das zusätzliche Plätze für heilende Gegenstände hinzufügt. Wenn du entkräftet bist und wiederbelebt wirst, wird eine Heilungswolke ausgelöst, die über 10 Sekunden 20 Gesundheit wiederherstellt. Hat eine Abklingzeit von 30 Sekunden.",
     "en": "A healing-focused augment which adds extra slots for healing items. When revived from being downed, releases a healing cloud that restores 20 health over 10 seconds. Has a 30-second cooldown.",
@@ -53,6 +55,7 @@
   "effects": {
     "Durability": {
       "value": "100/100",
+      "ar": "المتانة",
       "da": "Holdbarhed",
       "de": "Haltbarkeit",
       "en": "Durability",
@@ -76,6 +79,7 @@
     },
     "Max Loadout Weight": {
       "value": 55,
+      "ar": "الوزن الأقصى للعتاد",
       "da": "Maks. udstyrsvægt",
       "de": "Max. Loadout-Gewicht",
       "en": "Max Loadout Weight",
@@ -99,6 +103,7 @@
     },
     "Shield Compatibility": {
       "value": "Light, Medium",
+      "ar": "توافق الدرع",
       "da": "Skjoldkompatibilitet",
       "de": "Schildkompatibilität",
       "en": "Shield Compatibility",

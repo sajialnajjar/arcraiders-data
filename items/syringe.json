@@ -1,6 +1,7 @@
 {
   "id": "syringe",
   "name": {
+    "ar": "حقنة",
     "da": "Sprøjte",
     "de": "Spritze",
     "en": "Syringe",
@@ -23,6 +24,7 @@
     "zh-TW": "注射器"
   },
   "description": {
+    "ar": "تستخدم لصناعة المستلزمات الطبية. يمكن إعادة تدويرها إلى بلاستيك. تستخدم لصنع: جرعة فيتا",
     "da": "Bruges til at lave medicinske forsyninger. Kan genbruges til plastik. Bruges til at lave: Vita-indsprøjtning",
     "de": "Wird zur Herstellung medizinischer Objekte verwendet. Kann zu Plastik recycelt werden. Zur Herstellung von: Vita-Spritze",
     "en": "Used to craft medical supplies. Can be recycled into plastic. Used to craft: Vita Shot",

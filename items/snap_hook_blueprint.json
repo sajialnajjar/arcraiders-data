@@ -1,6 +1,7 @@
 {
   "id": "snap_hook_blueprint",
   "name": {
+    "ar": "مخطط خطاف سريع",
     "da": "Snap Hook-tegning",
     "de": "Bauplan: Karabinerhaken",
     "en": "Snap Hook Blueprint",
@@ -23,6 +24,7 @@
     "zh-TW": "Snap Hook 藍圖"
   },
   "description": {
+    "ar": "أداة تسمح للمستخدم بتسلق الهياكل وتغطية مسافات كبيرة.",
     "da": "En genstand der gør det muligt for brugeren at klatre på strukturer og dække store afstande.",
     "de": "Ein Gadget, mit dem der Benutzer Gebäude erklimmen und große Entfernungen zurücklegen kann.",
     "en": "A gadget that allows the user to scale structures and cover large distances.",

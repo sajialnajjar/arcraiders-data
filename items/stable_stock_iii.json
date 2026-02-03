@@ -1,6 +1,7 @@
 {
   "id": "stable_stock_iii",
   "name": {
+    "ar": "أخمص ثابت 3",
     "da": "Stabil kolbe III",
     "de": "Stabiler Kolben III",
     "en": "Stable Stock III",
@@ -23,6 +24,7 @@
     "zh-TW": "穩定槍托 III"
   },
   "description": {
+    "ar": "يحسن بشكل كبير من التشتت ووقت التعافي من الارتداد.",
     "da": "Forbedrer markant spredning og rekylgendannelsestid.",
     "de": "Verbessert deutlich die Streuung und Rückstoßerholungszeit.",
     "en": "Significantly improves dispersion & recoil recovery time.",
@@ -52,6 +54,7 @@
   "effects": {
     "20% Increased Equip Time": {
       "value": "",
+      "ar": "زيادة وقت التجهيز بنسبة 20%",
       "da": "20% øget udstyrstid",
       "de": "20% erhöhte Ausrüstungszeit",
       "en": "20% Increased Equip Time",
@@ -75,6 +78,7 @@
     },
     "20% Increased Unequip Time": {
       "value": "",
+      "ar": "زيادة وقت إلغاء التجهيز بنسبة 20%",
       "da": "20% øget afmonteringstid",
       "de": "20% erhöhte Ablegungszeit",
       "en": "20% Increased Unequip Time",
@@ -98,6 +102,7 @@
     },
     "50% Reduced Dispersion Recovery Time": {
       "value": "",
+      "ar": "تقليل وقت تعافي التشتت بنسبة 50%",
       "da": "50% reduceret spredningsgendannelsestid",
       "de": "50% verringerte Streuungserholungszeit",
       "en": "50% Reduced Dispersion Recovery Time",
@@ -121,6 +126,7 @@
     },
     "50% Reduced Recoil Recovery Time": {
       "value": "",
+      "ar": "تقليل وقت تعافي الارتداد بنسبة 50%",
       "da": "50% reduceret rekylgendannelsestid",
       "de": "50% verringerte Rückstoßerholungszeit",
       "en": "50% Reduced Recoil Recovery Time",

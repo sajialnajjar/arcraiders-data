@@ -1,6 +1,7 @@
 {
   "id": "torrente_ii",
   "name": {
+    "ar": "تورينتي 2",
     "da": "Torrente II",
     "de": "Torrente II",
     "en": "Torrente II",
@@ -23,6 +24,7 @@
     "zh-TW": "奔流 II"
   },
   "description": {
+    "ar": "يمتلك سعة ذخيرة كبيرة، ولكنه دقيق فقط أثناء الانحناء.",
     "da": "Har en stor ammunitionskapacitet, men er kun præcis i hugsiddende stilling.",
     "de": "Hat eine große Munitionskapazität, ist aber nur in der Hocke präzise.",
     "en": "Has a large ammo capacity, but is only accurate while crouched.",
@@ -52,6 +54,7 @@
   "effects": {
     "Ammo Type": {
       "value": "Medium Ammo",
+      "ar": "نوع الذخيرة",
       "da": "Ammunitionstype",
       "de": "Munitionstyp",
       "en": "Ammo Type",
@@ -75,6 +78,7 @@
     },
     "ARC Armor Penetration": {
       "value": "Moderate",
+      "ar": "اختراق درع ARC",
       "da": "ARC rustningspenetrering",
       "de": "ARC-Rüstungsdurchdringung",
       "en": "ARC Armor Penetration",
@@ -98,6 +102,7 @@
     },
     "Durability": {
       "value": "110/110",
+      "ar": "المتانة",
       "da": "Holdbarhed",
       "de": "Haltbarkeit",
       "en": "Durability",
@@ -121,6 +126,7 @@
     },
     "Firing Mode": {
       "value": "Fully-Automatic",
+      "ar": "وضع الإطلاق",
       "da": "Skydningstilstand",
       "de": "Feuermodus",
       "en": "Firing Mode",
@@ -144,6 +150,7 @@
     },
     "Magazine Size": {
       "value": 70,
+      "ar": "حجم المخزن",
       "da": "Magasinstørrelse",
       "de": "Magazingröße",
       "en": "Magazine Size",
@@ -167,6 +174,7 @@
     },
     "Reduced Reload Time": {
       "value": "15%",
+      "ar": "وقت إعادة تلقيم مخفض",
       "da": "Reduceret genindlæsningstid",
       "de": "Verringerte Nachladezeit",
       "en": "Reduced Reload Time",

@@ -1,6 +1,7 @@
 {
   "id": "stable_stock_iii_blueprint",
   "name": {
+    "ar": "مخطط أخمص ثابت 3",
     "da": "Stabil kolbe III-tegning",
     "de": "Bauplan: Stabiler Kolben III",
     "en": "Stable Stock III Blueprint",
@@ -23,6 +24,7 @@
     "zh-TW": "穩定槍托 III 藍圖"
   },
   "description": {
+    "ar": "يحسن بشكل كبير من التشتت ووقت التعافي من الارتداد.",
     "da": "Forbedrer markant spredning og rekylgendannelsestid.",
     "de": "Verbessert deutlich die Streuung und Ruckstosserholungszeit.",
     "en": "Significantly improves dispersion & recoil recovery time.",

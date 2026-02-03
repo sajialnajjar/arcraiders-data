@@ -1,6 +1,7 @@
 {
   "id": "stable_stock_ii_blueprint",
   "name": {
+    "ar": "مخطط أخمص ثابت 2",
     "da": "Stabil kolbe II-tegning",
     "de": "Bauplan: Stabiler Kolben II",
     "en": "Stable Stock II Blueprint",
@@ -23,6 +24,7 @@
     "zh-TW": "穩定槍托 II 藍圖"
   },
   "description": {
+    "ar": "يحسن بشكل معتدل من التشتت ووقت التعافي من الارتداد.",
     "da": "Forbedrer moderat spredning og rekylophelsningstid.",
     "de": "Verringert die Zeit, in der du dich von Streuung und Ruckstoss erholst, moderat.",
     "en": "Moderately improves dispersion & recoil recovery time.",

@@ -1,6 +1,7 @@
 {
   "id": "stella_montis_assembly_admin_key",
   "name": {
+    "ar": "مفتاح إدارة التجميع في ستيلا مونتيس",
     "da": "Stella Montis Samlings-Administratornøgle",
     "de": "Schlüssel zur Montageverwaltung in Stella Montis",
     "en": "Stella Montis Assembly Admin Key",
@@ -23,6 +24,7 @@
     "zh-TW": "星山組裝區管理員鑰匙"
   },
   "description": {
+    "ar": "يفتح باباً في التجميع في ستيلا مونتيس",
     "da": "Låser en dør op i Samlingen i Stella Montis",
     "de": "Öffnet eine Tür in der Montagestätte in Stella Montis",
     "en": "Unlocks a door in Assembly in Stella Montis",

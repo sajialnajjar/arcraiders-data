@@ -1,6 +1,7 @@
 {
   "id": "water_filter",
   "name": {
+    "ar": "فلتر مياه",
     "da": "Vandfilter",
     "de": "Wasserfilter",
     "en": "Water Filter",
@@ -23,6 +24,7 @@
     "zh-TW": "濾水器"
   },
   "description": {
+    "ar": "جهاز ترشيح محمول لتنقية المياه.",
     "da": "En bærbar filtreringsenhed til rensning af vand.",
     "de": "Ein tragbares Filtrationsgerät zur Wasserreinigung.",
     "en": "A portable filtration device for purifying water.",

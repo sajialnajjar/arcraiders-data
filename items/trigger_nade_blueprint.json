@@ -1,6 +1,7 @@
 {
   "id": "trigger_nade_blueprint",
   "name": {
+    "ar": "مخطط قنبلة الزناد",
     "da": "Udløsergranattegning",
     "de": "Bauplan: Abzuggranate",
     "en": "Trigger Nade Blueprint",
@@ -23,6 +24,7 @@
     "zh-TW": "觸發手榴彈藍圖"
   },
   "description": {
+    "ar": "قنبلة يتم تفجيرها عن بُعد يمكن أن تلتصق بالأسطح و ARC، وتسبب ضرراً متفجراً عند تفعيلها.",
     "da": "En fjerndetoneret granat, der kan hæfte til overflader og ARC, og giver eksplosiv skade når den udløses.",
     "de": "Eine ferngezündete Granate, die an Oberflächen und ARC haften bleibt und bei Zündung Explosionsschaden verursacht.",
     "en": "A remote-detonated grenade that can stick to surfaces and ARC, dealing explosive damage when triggered.",

@@ -1,6 +1,7 @@
 {
   "id": "wires",
   "name": {
+    "ar": "أسلاك",
     "da": "Ledninger",
     "de": "Kabel",
     "en": "Wires",
@@ -23,6 +24,7 @@
     "zh-TW": "電線"
   },
   "description": {
+    "ar": "تستخدم لصناعة مجموعة واسعة من العناصر. يمكن إعادة تدويرها إلى مواد تصنيع. تستخدم لصناعة: فخ قنبلة حارقة، فخ قنبلة دخانية، فخ قنبلة طعم، فخ قنبلة غاز، كابح فوهة 1",
     "da": "Bruges til at lave en bred vifte af genstande. Kan genbruges til håndværksmaterialer. Bruges til at lave: Brandgranatfælde, Røggranatfælde, Lokkemadgranatfælde, Gasgranatfælde, Mundingsbremse I",
     "de": "Wird zur Herstellung verschiedenster Gegenstände verwendet. Kann zu Herstellungsmaterialien recycelt werden. Zur Herstellung von: Laserfalle: Feuer, Laserfalle: Rauch, Laserfalle: Köder, Laserfalle: Gas, Mündungsbremse I",
     "en": "Used to craft a wide range of items. Can be recycled into crafting materials. Used to craft: Blaze Grenade Trap, Smoke Grenade Trap, Lure Grenade Trap, Gas Grenade Trap, Muzzle Brake I",

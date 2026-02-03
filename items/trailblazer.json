@@ -1,6 +1,7 @@
 {
   "id": "trailblazer",
   "name": {
+    "ar": "الرائد",
     "da": "Banebryder",
     "de": "Trailblazer",
     "en": "Trailblazer",
@@ -23,6 +24,7 @@
     "zh-TW": "開拓者"
   },
   "description": {
+    "ar": "قنبلة تطلق مساراً من الغاز القابل للاشتعال على طول مسارها، مما يسبب تفاعلاً متسلسلاً متفجراً عند اشتعاله.",
     "da": "En granat der udsender et spor af brændbar gas langs sin bane, hvilket forårsager en eksplosiv kædereaktion når den antændes.",
     "de": "Eine Granate, die eine Spur aus brennbarem Gas hinterlässt und bei der Zündung eine explosive Kettenreaktion auslöst.",
     "en": "A grenade that emits a trail of flammable gas along its path, causing an explosive chain reaction when it ignites.",
@@ -52,6 +54,7 @@
   "effects": {
     "Damage": {
       "value": 20,
+      "ar": "الضرر",
       "da": "Skade",
       "de": "Schaden",
       "en": "Damage",
@@ -75,6 +78,7 @@
     },
     "Radius": {
       "value": "2m",
+      "ar": "نصف القطر",
       "da": "Radius",
       "de": "Radius",
       "en": "Radius",

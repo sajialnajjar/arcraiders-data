@@ -1,6 +1,7 @@
 {
   "id": "surveyor_vault",
   "name": {
+    "ar": "خزنة المساح",
     "da": "Landmåler-hvælv",
     "de": "Beobachtertresor",
     "en": "Surveyor Vault",
@@ -23,6 +24,7 @@
     "zh-TW": "勘測者保險庫"
   },
   "description": {
+    "ar": "يمكن إعادة تدويره إلى مواد تصنيع.",
     "da": "Kan genbruges til håndværksmaterialer.",
     "de": "Kann zu Herstellungsmaterialien recycelt werden.",
     "en": "Can be recycled into crafting materials.",

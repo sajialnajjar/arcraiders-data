@@ -1,6 +1,7 @@
 {
   "id": "spaceport_container_storage_key",
   "name": {
+    "ar": "مفتاح مخزن حاويات الميناء الفضائي",
     "da": "Rumhavnens containeropbevarings-nøgle",
     "de": "Containerlagerschlüssel (Raumhafen)",
     "en": "Spaceport Container Storage Key",
@@ -23,6 +24,7 @@
     "zh-TW": "太空港貨櫃倉庫鑰匙"
   },
   "description": {
+    "ar": "مفتاح لتخزين الحاويات في الميناء الفضائي.",
     "da": "En nøgle til containeropbevaringen ved rumhavnen.",
     "de": "Ein Schlüssel für das Containerlager am Raumhafen.",
     "en": "A key for container storage at the Spaceport.",

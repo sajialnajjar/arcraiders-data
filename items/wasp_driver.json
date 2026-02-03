@@ -1,6 +1,7 @@
 {
   "id": "wasp_driver",
   "name": {
+    "ar": "محرك الدبور",
     "da": "Hvepsedriver",
     "de": "Wespentreiber",
     "en": "Wasp Driver",
@@ -23,6 +24,7 @@
     "zh-TW": "黃蜂驅動器"
   },
   "description": {
+    "ar": "يمكن إعادة تدويره إلى سبيكة ARC. يمكن رميه، وسينفجر إذا تم إطلاق النار عليه.",
     "da": "Kan genbruges til ARC-legering. Kan kastes og vil eksplodere hvis skudt.",
     "de": "Kann zu ARC-Legierung recycelt werden. Kann geworfen werden; explodiert, wenn abgeschossen.",
     "en": "Can be recycled into ARC Alloy. Can be thrown, and will explode if shot.",
@@ -53,6 +55,7 @@
   "effects": {
     "Damage": {
       "value": 80,
+      "ar": "الضرر",
       "da": "Skade",
       "de": "Schaden",
       "en": "Damage",
@@ -76,6 +79,7 @@
     },
     "Radius": {
       "value": "5m",
+      "ar": "نصف القطر",
       "da": "Radius",
       "de": "Radius",
       "en": "Radius",

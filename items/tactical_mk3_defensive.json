@@ -1,8 +1,9 @@
 {
   "id": "tactical_mk3_defensive",
   "name": {
+    "ar": "تكتيكي Mk. 3 (دفاعي)",
     "da": "Taktisk Mk. 3 (Defensiv)",
-    "de": "Taktisch-Marke 3 (Defensiv)",
+    "de": "Taktisch-Marke 3 (Verteidigung)",
     "en": "Tactical Mk. 3 (Defensive)",
     "es": "Táctico Ver. 3 (Defensivo)",
     "fr": "Tactique 3 (défense)",
@@ -23,6 +24,7 @@
     "zh-TW": "戰術型 Mk. 3（防禦）"
   },
   "description": {
+    "ar": "تحسين يركز على الدفاع للمساعدة في إبقاء الدروع مشحونة.",
     "da": "En defensivt fokuseret forstærkning, der hjælper med at holde skjoldene fyldte.",
     "de": "Ein auf Verteidigung fokussiertes Augment, das hilft, Schilde aufrechtzuerhalten.",
     "en": "A defensive-focused augment for keeping Shields topped up.",
@@ -53,6 +55,7 @@
   "effects": {
     "Durability": {
       "value": "100/100",
+      "ar": "المتانة",
       "da": "Holdbarhed",
       "de": "Haltbarkeit",
       "en": "Durability",
@@ -76,6 +79,7 @@
     },
     "Max Loadout Weight": {
       "value": 60,
+      "ar": "الوزن الأقصى للعتاد",
       "da": "Maks. udstyrsvægt",
       "de": "Max. Ausrüstungsgewicht",
       "en": "Max Loadout Weight",
@@ -99,6 +103,7 @@
     },
     "Shield Compatibility": {
       "value": "Light, Medium, Heavy",
+      "ar": "توافق الدرع",
       "da": "Skjoldkompatibilitet",
       "de": "Schildkompatibilität",
       "en": "Shield Compatibility",

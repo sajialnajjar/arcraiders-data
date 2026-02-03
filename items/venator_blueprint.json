@@ -1,6 +1,7 @@
 {
   "id": "venator_blueprint",
   "name": {
+    "ar": "مخطط فيناتور",
     "da": "Venator-tegning",
     "de": "Bauplan: Venator",
     "en": "Venator Blueprint",
@@ -23,6 +24,7 @@
     "zh-TW": "复仇者藍圖"
   },
   "description": {
+    "ar": "تطلق طلقتين في وقت واحد.",
     "da": "Affyrer to skud ad gangen.",
     "de": "Feuert zwei Schüsse gleichzeitig ab.",
     "en": "Fires two shots at a time.",

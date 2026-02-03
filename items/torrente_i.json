@@ -1,6 +1,7 @@
 {
   "id": "torrente_i",
   "name": {
+    "ar": "تورينتي 1",
     "da": "Torrente I",
     "de": "Torrente I",
     "en": "Torrente I",
@@ -23,6 +24,7 @@
     "zh-TW": "奔流 I"
   },
   "description": {
+    "ar": "يمتلك سعة ذخيرة كبيرة، ولكنه دقيق فقط أثناء الانحناء.",
     "da": "Har stor ammunitionskapacitet, men er kun præcis, når du sidder på hug.",
     "de": "Hat eine große Munitionskapazität, ist aber nur im Hocken präzise.",
     "en": "Has a large ammo capacity, but is only accurate while crouched",
@@ -52,6 +54,7 @@
   "effects": {
     "Ammo Type": {
       "value": "Medium Ammo",
+      "ar": "نوع الذخيرة",
       "da": "Ammunitionstype",
       "de": "Munitionstyp",
       "en": "Ammo Type",
@@ -75,6 +78,7 @@
     },
     "ARC Armor Penetration": {
       "value": "Moderate",
+      "ar": "اختراق درع ARC",
       "da": "ARC rustningspenetrering",
       "de": "ARC-Rüstungsdurchdringung",
       "en": "ARC Armor Penetration",
@@ -98,6 +102,7 @@
     },
     "Durability": {
       "value": "100/100",
+      "ar": "المتانة",
       "da": "Holdbarhed",
       "de": "Haltbarkeit",
       "en": "Durability",
@@ -121,6 +126,7 @@
     },
     "Firing Mode": {
       "value": "Fully-Automatic",
+      "ar": "وضع الإطلاق",
       "da": "Skydningstilstand",
       "de": "Feuermodus",
       "en": "Firing Mode",
@@ -144,6 +150,7 @@
     },
     "Magazine Size": {
       "value": 60,
+      "ar": "حجم المخزن",
       "da": "Magasinstørrelse",
       "de": "Magazingröße",
       "en": "Magazine Size",

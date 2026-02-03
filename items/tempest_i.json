@@ -1,6 +1,7 @@
 {
   "id": "tempest_i",
   "name": {
+    "ar": "العاصفة 1",
     "da": "Storm I",
     "de": "Tempest I",
     "en": "Tempest I",
@@ -23,6 +24,7 @@
     "zh-TW": "風暴 I"
   },
   "description": {
+    "ar": "بندقية هجومية أوتوماتيكية بالكامل ذات معدل إطلاق ودقة متوسطة.",
     "da": "Fuldt automatisk angrebsriffel med moderat skudhastighed og præcision.",
     "de": "Vollautomatisches Sturmgewehr mit mittlerer Feuerrate und Genauigkeit.",
     "en": "Fully automatic assault rifle with moderate fire rate and accuracy.",
@@ -53,6 +55,7 @@
   "effects": {
     "Ammo Type": {
       "value": "Medium Ammo",
+      "ar": "نوع الذخيرة",
       "da": "Ammunitionstype",
       "de": "Munitionstyp",
       "en": "Ammo Type",
@@ -76,6 +79,7 @@
     },
     "ARC Armor Penetration": {
       "value": "Moderate",
+      "ar": "اختراق درع ARC",
       "da": "ARC-rustningspenetrering",
       "de": "ARC-Rüstungsdurchdringung",
       "en": "ARC Armor Penetration",
@@ -99,6 +103,7 @@
     },
     "Durability": {
       "value": "100/100",
+      "ar": "المتانة",
       "da": "Holdbarhed",
       "de": "Haltbarkeit",
       "en": "Durability",
@@ -122,6 +127,7 @@
     },
     "Firing Mode": {
       "value": "Fully-Automatic",
+      "ar": "وضع الإطلاق",
       "da": "Skydetilstand",
       "de": "Feuermodus",
       "en": "Firing Mode",
@@ -145,6 +151,7 @@
     },
     "Magazine Size": {
       "value": 25,
+      "ar": "حجم المخزن",
       "da": "Magasinstørrelse",
       "de": "Magazingröße",
       "en": "Magazine Size",

@@ -1,6 +1,7 @@
 {
   "id": "spaceport_warehouse_key",
   "name": {
+    "ar": "مفتاح مستودع الميناء الفضائي",
     "da": "Rumhavnens lager-nøgle",
     "de": "Lagerhausschlüssel (Raumhafen)",
     "en": "Spaceport Warehouse Key",
@@ -23,6 +24,7 @@
     "zh-TW": "太空港倉庫鑰匙"
   },
   "description": {
+    "ar": "مفتاح لمستودع في الميناء الفضائي.",
     "da": "En nøgle til et lager i rumhavnen.",
     "de": "Öffnet eine Tür im Versandlager im Raumhafen.",
     "en": "A key to a warehouse in the Spaceport.",

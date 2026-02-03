@@ -1,6 +1,7 @@
 {
   "id": "vase",
   "name": {
+    "ar": "مزهرية",
     "da": "Vase",
     "de": "Vase",
     "en": "Vase",
@@ -23,6 +24,7 @@
     "zh-TW": "花瓶"
   },
   "description": {
+    "ar": "تساوي ثروة صغيرة.",
     "da": "Værd en lille formue.",
     "de": "Wert ein kleines Vermögen.",
     "en": "Worth a small fortune.",

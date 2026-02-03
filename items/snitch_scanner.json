@@ -1,6 +1,7 @@
 {
   "id": "snitch_scanner",
   "name": {
+    "ar": "ماسح الواشي",
     "da": "Snitch-scanner",
     "de": "Spitzel-Scanner",
     "en": "Snitch Scanner",
@@ -23,6 +24,7 @@
     "zh-TW": "告密掃描器"
   },
   "description": {
+    "ar": "يمكن إعادة تدويره إلى سبيكة ARC. يمكن رميه لاستدعاء ARC.",
     "da": "Kan genbruges til ARC-legering. Kan kastes for at tilkalde ARC.",
     "de": "Kann zu ARC-Legierung recycelt werden. Kann geworfen werden, um ARC zu rufen.",
     "en": "Can be recycled into ARC Alloy. Can be thrown to call in ARC.",

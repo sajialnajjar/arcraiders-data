@@ -1,6 +1,7 @@
 {
   "id": "sterilized_bandage",
   "name": {
+    "ar": "ضمادة معقمة",
     "da": "Steriliseret bandage",
     "de": "Steriler Verband",
     "en": "Sterilized Bandage",
@@ -23,6 +24,7 @@
     "zh-TW": "消毒繃帶"
   },
   "description": {
+    "ar": "عنصر طبي يعيد كمية كبيرة من الصحة تدريجياً مع مرور الوقت.",
     "da": "En medicinsk genstand, der gradvist genopretter en stor mængde helbred over tid.",
     "de": "Ein medizinischer Gegenstand, der allmählich viel Gesundheit wiederherstellt.",
     "en": "A medical item that gradually restores a large amount of health over time.",
@@ -52,6 +54,7 @@
   "effects": {
     "Duration": {
       "value": "10s",
+      "ar": "المدة",
       "da": "Varighed",
       "de": "Dauer",
       "en": "Duration",
@@ -75,6 +78,7 @@
     },
     "Healing": {
       "value": "5/s",
+      "ar": "شفاء",
       "da": "Helbredelse",
       "de": "Heilen",
       "en": "Healing",
@@ -98,6 +102,7 @@
     },
     "Use Time": {
       "value": "1.5s",
+      "ar": "وقت الاستخدام",
       "da": "Brugstid",
       "de": "Verwendungszeit",
       "en": "Use Time",

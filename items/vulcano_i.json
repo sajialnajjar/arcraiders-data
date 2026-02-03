@@ -1,6 +1,7 @@
 {
   "id": "vulcano_i",
   "name": {
+    "ar": "فولكانو 1",
     "da": "Vulcano I",
     "de": "Vulcano I",
     "en": "Vulcano I",
@@ -23,6 +24,7 @@
     "zh-TW": "火山 I"
   },
   "description": {
+    "ar": "بندقية صيد نصف أوتوماتيكية بانتشار جيد للرصاص ولكن مع انخفاض حاد في الفعالية.",
     "da": "Halvautomatisk haglgevær med god spredning men skarpt fald.",
     "de": "Hat eine gute Streuung, aber eine geringe Reichweite.",
     "en": "Semi-automatic shotgun with good bullet spread but sharp falloff",
@@ -53,6 +55,7 @@
   "effects": {
     "Ammo Type": {
       "value": "Shotgun Ammo",
+      "ar": "نوع الذخيرة",
       "da": "Ammunitionstype",
       "de": "Munitionstyp",
       "en": "Ammo Type",
@@ -76,6 +79,7 @@
     },
     "ARC Armor Penetration": {
       "value": "Weak",
+      "ar": "اختراق درع ARC",
       "da": "ARC rustningspenetration",
       "de": "ARC-Rüstungsdurchdringung",
       "en": "ARC Armor Penetration",
@@ -99,6 +103,7 @@
     },
     "Durability": {
       "value": "100/100",
+      "ar": "المتانة",
       "da": "Holdbarhed",
       "de": "Haltbarkeit",
       "en": "Durability",
@@ -122,6 +127,7 @@
     },
     "Firing Mode": {
       "value": "Semi-Automatic",
+      "ar": "وضع الإطلاق",
       "da": "Skydemetode",
       "de": "Feuermodus",
       "en": "Firing Mode",
@@ -145,6 +151,7 @@
     },
     "Magazine Size": {
       "value": 6,
+      "ar": "حجم المخزن",
       "da": "Magasinstørrelse",
       "de": "Magazingröße",
       "en": "Magazine Size",

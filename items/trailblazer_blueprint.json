@@ -1,6 +1,7 @@
 {
   "id": "trailblazer_blueprint",
   "name": {
+    "ar": "مخطط الرائد",
     "da": "Trailblazer-tegning",
     "de": "Bauplan: Trailblazer",
     "en": "Trailblazer Blueprint",
@@ -23,6 +24,7 @@
     "zh-TW": "開拓者藍圖"
   },
   "description": {
+    "ar": "يفتح مخطط التصنيع للرائد.",
     "da": "Låser opskriften til Trailblazer op.",
     "de": "Schaltet den Herstellungsbauplan für den Trailblazer frei.",
     "en": "Unlocks the crafting blueprint for the Trailblazer.",

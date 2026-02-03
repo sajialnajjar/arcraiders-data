@@ -1,6 +1,7 @@
 {
   "id": "telemetry_transceiver",
   "name": {
+    "ar": "جهاز إرسال واستقبال القياس عن بعد",
     "da": "Telemetri-transceiver",
     "de": "Telemetrie-Empfänger",
     "en": "Telemetry Transceiver",
@@ -23,6 +24,7 @@
     "zh-TW": "遙測收發器"
   },
   "description": {
+    "ar": "يمكن إعادة تدويره إلى مواد تصنيع.",
     "da": "Kan genbruges til håndværksmaterialer.",
     "de": "Kann zu Herstellungsmaterialien recycelt werden.",
     "en": "Can be recycled into crafting materials.",

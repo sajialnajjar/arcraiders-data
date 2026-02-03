@@ -1,6 +1,7 @@
 {
   "id": "venator_ii",
   "name": {
+    "ar": "فيناتور 2",
     "da": "Venator II",
     "de": "Venator II",
     "en": "Venator II",
@@ -23,6 +24,7 @@
     "zh-TW": "复仇者 II"
   },
   "description": {
+    "ar": "مسدس نصف أوتوماتيكي. يطلق طلقتين في وقت واحد.",
     "da": "Halvautomatisk pistol. Affyrer to skud ad gangen.",
     "de": "Feuert zwei Schüsse gleichzeitig.",
     "en": "Semi-automatic pistol. Fires two shots at a time.",
@@ -52,6 +54,7 @@
   "effects": {
     "Ammo Type": {
       "value": "Medium Ammo",
+      "ar": "نوع الذخيرة",
       "da": "Ammunitionstype",
       "de": "Munitionstyp",
       "en": "Ammo Type",
@@ -75,6 +78,7 @@
     },
     "ARC Armor Penetration": {
       "value": "Moderate",
+      "ar": "اختراق درع ARC",
       "da": "ARC-rustningspenetrering",
       "de": "ARC-Rüstungsdurchdringung",
       "en": "ARC Armor Penetration",
@@ -98,6 +102,7 @@
     },
     "Durability": {
       "value": "110/110",
+      "ar": "المتانة",
       "da": "Holdbarhed",
       "de": "Haltbarkeit",
       "en": "Durability",
@@ -121,6 +126,7 @@
     },
     "Firing Mode": {
       "value": "Semi-Automatic",
+      "ar": "وضع الإطلاق",
       "da": "Skydetilstand",
       "de": "Feuermodus",
       "en": "Firing Mode",
@@ -144,6 +150,7 @@
     },
     "Increased Fire Rate": {
       "value": "13%",
+      "ar": "معدل إطلاق متزايد",
       "da": "Øget skudhastighed",
       "de": "Erhöhte Feuerrate",
       "en": "Increased Fire Rate",
@@ -167,6 +174,7 @@
     },
     "Magazine Size": {
       "value": 10,
+      "ar": "حجم المخزن",
       "da": "Magasinstørrelse",
       "de": "Magazingröße",
       "en": "Magazine Size",
@@ -190,6 +198,7 @@
     },
     "Reduced Reload Time": {
       "value": "16%",
+      "ar": "وقت إعادة تلقيم مخفض",
       "da": "Reduceret genindlæsningstid",
       "de": "Verringerte Nachladezeit",
       "en": "Reduced Reload Time",
@@ -213,6 +222,7 @@
     },
     "Special Trait": {
       "value": "Twin Shot",
+      "ar": "ميزة خاصة",
       "da": "Særlig egenskab",
       "de": "Besondere Eigenschaft",
       "en": "Special Trait",

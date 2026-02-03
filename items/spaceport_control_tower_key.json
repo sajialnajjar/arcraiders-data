@@ -1,6 +1,7 @@
 {
   "id": "spaceport_control_tower_key",
   "name": {
+    "ar": "مفتاح برج مراقبة الميناء الفضائي",
     "da": "Rumhavnskontrolltårnsnøgle",
     "de": "Raumhafen-Kontrollturm-Schlüssel",
     "en": "Spaceport Control Tower Key",
@@ -23,6 +24,7 @@
     "zh-TW": "太空港控制塔鑰匙"
   },
   "description": {
+    "ar": "يفتح باباً في برج المراقبة A6 في الميناء الفضائي",
     "da": "Låser en dør op i kontroltårn A6 i rumhavnen",
     "de": "Öffnet eine Tür im Kontrollturm A6 im Raumhafen",
     "en": "Unlocks a door in Control Tower A6 in Spaceport",

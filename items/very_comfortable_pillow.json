@@ -1,6 +1,7 @@
 {
   "id": "very_comfortable_pillow",
   "name": {
+    "ar": "وسادة مريحة جداً",
     "da": "Meget behagelig pude",
     "de": "Ultragemütliches Kissen",
     "en": "Very Comfortable Pillow",
@@ -23,6 +24,7 @@
     "zh-TW": "非常舒適的枕頭"
   },
   "description": {
+    "ar": "موضع حسد كل مغير. تشبه النوم على سحابة مريحة بشكل خاص.",
     "da": "Misundelsen fra enhver Raider. Som at sove på en særligt ergonomisk sky.",
     "de": "Macht jeden Raider neidisch. Darauf schläfst du wie auf einer besonders ergonomischen Wolke.",
     "en": "The envy of every Raider. Like sleeping on an especially ergonomic cloud.",

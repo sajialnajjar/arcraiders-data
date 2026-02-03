@@ -1,6 +1,7 @@
 {
   "id": "wolfpack",
   "name": {
+    "ar": "قطيع الذئاب",
     "da": "Ulveflok",
     "de": "Wolfpack",
     "en": "Wolfpack",
@@ -23,6 +24,7 @@
     "zh-TW": "狼群"
   },
   "description": {
+    "ar": "قنبلة تتشتت إلى عدة صواريخ موجهة، كل منها يستهدف ARC ويسبب ضرراً متفجراً عند الاصطدام.",
     "da": "En granat der spredes til flere målsøgende missiler, hver rettet mod ARC og giver eksplosiv skade ved sammenstød.",
     "de": "Eine Granate, die sich in mehrere zielsuchende Raketen spaltet, welche auf ARC zufliegen und beim Aufprall Explosionsschaden verursachen.",
     "en": "A grenade that scatters into multiple homing missiles, each one targeting ARC and dealing explosive damage on impact.",
@@ -52,6 +54,7 @@
   "effects": {
     "Damage": {
       "value": "166 x12",
+      "ar": "الضرر",
       "da": "Skade",
       "de": "Schaden",
       "en": "Damage",
@@ -75,6 +78,7 @@
     },
     "Homing Range": {
       "value": "100m",
+      "ar": "مدى التوجيه",
       "da": "Målsøgningsrækkevidde",
       "de": "Zielsuchreichweite",
       "en": "Homing Range",

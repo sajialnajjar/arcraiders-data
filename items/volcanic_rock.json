@@ -1,6 +1,7 @@
 {
   "id": "volcanic_rock",
   "name": {
+    "ar": "صخرة بركانية",
     "da": "Vulkansk sten",
     "de": "Vulkangestein",
     "en": "Volcanic Rock",
@@ -23,6 +24,7 @@
     "zh-TW": "火山岩"
   },
   "description": {
+    "ar": "يمكن رميها.",
     "da": "Kan kastes.",
     "de": "Kann geworfen werden.",
     "en": "Can be thrown.",
@@ -53,6 +55,7 @@
   "effects": {
     "Damage": {
       "value": 10,
+      "ar": "الضرر",
       "da": "Skade",
       "de": "Schaden",
       "en": "Damage",

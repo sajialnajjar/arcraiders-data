@@ -1,6 +1,7 @@
 {
   "id": "stitcher_ii",
   "name": {
+    "ar": "ستيتشر 2",
     "da": "Stitcher II",
     "de": "Stitcher II",
     "en": "Stitcher II",
@@ -23,6 +24,7 @@
     "zh-TW": "縫合者 II"
   },
   "description": {
+    "ar": "يسبب ضرراً جيداً، ولكنه يمتلك معدل إطلاق نار منخفض نوعاً ما وقد يكون من الصعب التحكم به.",
     "da": "Giver god skade, men har en ret lav skudhastighed og kan være svær at kontrollere.",
     "de": "Richtet ordentlichen Schaden an, hat aber eine recht niedrige Feuerrate und ist schwer zu kontrollieren.",
     "en": "Deals good damage, but has quite a low fire-rate and can be hard to control.",
@@ -52,6 +54,7 @@
   "effects": {
     "Ammo Type": {
       "value": "Light Ammo",
+      "ar": "نوع الذخيرة",
       "da": "Ammunitionstype",
       "de": "Munitionstyp",
       "en": "Ammo Type",
@@ -75,6 +78,7 @@
     },
     "ARC Armor Penetration": {
       "value": "Very Weak",
+      "ar": "اختراق دروع ARC",
       "da": "ARC-rustningspenetration",
       "de": "ARC-Panzerungsdurchdringung",
       "en": "ARC Armor Penetration",
@@ -98,6 +102,7 @@
     },
     "Durability": {
       "value": "110/110",
+      "ar": "المتانة",
       "da": "Holdbarhed",
       "de": "Haltbarkeit",
       "en": "Durability",
@@ -121,6 +126,7 @@
     },
     "Firing Mode": {
       "value": "Fully-Automatic",
+      "ar": "وضع الإطلاق",
       "da": "Skydningstilstand",
       "de": "Feuermodus",
       "en": "Firing Mode",
@@ -144,6 +150,7 @@
     },
     "Magazine Size": {
       "value": 20,
+      "ar": "حجم المخزن",
       "da": "Magasinstørrelse",
       "de": "Magazingröße",
       "en": "Magazine Size",
@@ -167,6 +174,7 @@
     },
     "Reduced Horizontal Recoil": {
       "value": "16.6%",
+      "ar": "ارتداد أفقي مخفض",
       "da": "Reduceret horisontal rekyl",
       "de": "Reduzierter horizontaler Rückstoß",
       "en": "Reduced Horizontal Recoil",
@@ -190,6 +198,7 @@
     },
     "Reduced Reload Time": {
       "value": "13%",
+      "ar": "وقت إعادة تلقيم مخفض",
       "da": "Reduceret genindlæsningstid",
       "de": "Verringerte Nachladezeit",
       "en": "Reduced Reload Time",

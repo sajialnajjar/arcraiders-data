@@ -1,6 +1,7 @@
 {
   "id": "simple_gun_parts",
   "name": {
+    "ar": "أجزاء سلاح بسيطة",
     "da": "Simple våbendele",
     "de": "Einfache Waffenteile",
     "en": "Simple Gun Parts",
@@ -23,6 +24,7 @@
     "zh-TW": "簡易槍械零件"
   },
   "description": {
+    "ar": "تستخدم لصنع الأسلحة. تستخدم لصنع: Il Toro, Burletta, Anvil, Arpeggio, أجزاء سلاح ثقيلة",
     "da": "Bruges til at fremstille våben. Bruges til at fremstille: Il Toro, Burletta, Anvil, Arpeggio, Tunge våbendele",
     "de": "Wird zur Herstellung von Waffen verwendet. Zur Herstellung von: Il Toro, Burletta, Anvil, Arpeggio, Teile für Waffe mit schwerer Munition",
     "en": "Used to craft weapons. Used to craft: Il Toro, Burletta, Anvil, Arpeggio, Heavy Gun Parts",

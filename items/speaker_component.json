@@ -1,6 +1,7 @@
 {
   "id": "speaker_component",
   "name": {
+    "ar": "مكون مكبر صوت",
     "da": "Højttalerkomponent",
     "de": "Lautsprecher-Komponente",
     "en": "Speaker Component",
@@ -23,6 +24,7 @@
     "zh-TW": "揚聲器組件"
   },
   "description": {
+    "ar": "تستخدم في التصنيع. تستخدم لصنع: قنبلة طُعم، عباءة كهروضوئية",
     "da": "Bruges til håndværk. Bruges til at lave: Lokkegranate, Fotoelektrisk kappe",
     "de": "Wird bei der Herstellung verwendet. Zur Herstellung von: Ködergranate, Fotoelektrischer Tarnumhang",
     "en": "Used in crafting. Used to craft: Lure Grenade, Photoelectric Cloak",

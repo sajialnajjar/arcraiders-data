@@ -1,6 +1,7 @@
 {
   "id": "snap_blast_grenade",
   "name": {
+    "ar": "قنبلة الانفجار الخاطف",
     "da": "Lyneksplosionsgranat",
     "de": "Snapshot-Granate",
     "en": "Snap Blast Grenade",
@@ -23,6 +24,7 @@
     "zh-TW": "黏附爆破手榴彈"
   },
   "description": {
+    "ar": "قنبلة تلتصق بالأسطح وتسبب ضرر انفجار بعد تأخير قصير.",
     "da": "En granat, der hæfter til overflader og giver eksplosiv skade efter en kort forsinkelse.",
     "de": "Eine Granate, die an Oberflächen haftet und nach kurzer Verzögerung Explosionsschaden verursacht.",
     "en": "A grenade that sticks to surfaces, dealing explosive damage after a short delay.",
@@ -52,6 +54,7 @@
   "effects": {
     "Damage": {
       "value": 70,
+      "ar": "الضرر",
       "da": "Skade",
       "de": "Schaden",
       "en": "Damage",
@@ -75,6 +78,7 @@
     },
     "Radius": {
       "value": "7.5m",
+      "ar": "نطاق",
       "da": "Radius",
       "de": "Radius",
       "en": "Radius",

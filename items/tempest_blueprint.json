@@ -1,6 +1,7 @@
 {
   "id": "tempest_blueprint",
   "name": {
+    "ar": "مخطط العاصفة",
     "da": "Tempest-tegning",
     "de": "Bauplan: Tempest",
     "en": "Tempest Blueprint",
@@ -23,6 +24,7 @@
     "zh-TW": "暴風 藍圖"
   },
   "description": {
+    "ar": "سلاح عالي القوة يستخدم تقنية التسارع المغناطيسي.",
     "da": "Et kraftigt vaben, der bruger magnetisk accelerationsteknologi.",
     "de": "Eine leistungsstarke Waffe mit magnetischer Beschleunigungstechnologie.",
     "en": "A high-powered weapon utilizing magnetic acceleration technology.",

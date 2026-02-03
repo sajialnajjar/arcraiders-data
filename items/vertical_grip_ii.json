@@ -1,6 +1,7 @@
 {
   "id": "vertical_grip_ii",
   "name": {
+    "ar": "مقبض عمودي 2",
     "da": "Vertikalt greb II",
     "de": "Vertikaler Griff II",
     "en": "Vertical Grip II",
@@ -23,6 +24,7 @@
     "zh-TW": "垂直握把 II"
   },
   "description": {
+    "ar": "يقلل بشكل معتدل من الارتداد العمودي. متوافق مع: Arpeggio, Ferro, Venator, Il Toro, Stitcher",
     "da": "Reducerer vertikalt rekyl moderat. Kompatibel med: Arpeggio, Ferro, Venator, Il Toro, Stitcher",
     "de": "Verringert den vertikalen Rückstoß moderat. Kompatibel mit: Arpeggio, Ferro, Venator, Il Toro, Stitcher",
     "en": "Moderately reduces vertical recoil. Compatible with: Arpeggio, Ferro, Venator, Il Toro, Stitcher",
@@ -48,11 +50,18 @@
   "rarity": "Uncommon",
   "value": 2000,
   "weightKg": 0.5,
-  "compatibleWith": ["Arpeggio", "Rattler", "Kettle", "Il Toro", "Stitcher"],
+  "compatibleWith": [
+    "Arpeggio",
+    "Rattler",
+    "Kettle",
+    "Il Toro",
+    "Stitcher"
+  ],
   "blueprintLocked": true,
   "effects": {
     "Reduced Vertical Recoil": {
       "value": "30%",
+      "ar": "ارتداد أفقي مخفض",
       "da": "Reduceret vertikalt rekyl",
       "de": "Verringerter vertikaler Rückstoß",
       "en": "Reduced Vertical Recoil",

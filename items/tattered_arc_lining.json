@@ -1,6 +1,7 @@
 {
   "id": "tattered_arc_lining",
   "name": {
+    "ar": "بطانة ARC ممزقة",
     "da": "Lasket ARC-Foer",
     "de": "Zerfetzte ARC-Fütterung",
     "en": "Tattered Arc Lining",
@@ -23,6 +24,7 @@
     "zh-TW": "破損的ARC內襯"
   },
   "description": {
+    "ar": "يمكن إعادة تدويرها إلى مواد تصنيع.",
     "da": "Kan genbruges til håndværksmaterialer.",
     "de": "Kann zu Herstellungsmaterialien recycelt werden.",
     "en": "Can be recycled into crafting materials.",

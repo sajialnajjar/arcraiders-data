@@ -1,6 +1,7 @@
 {
   "id": "vita_shot",
   "name": {
+    "ar": "حقنة فيتا",
     "da": "Vita-indsprøjtning",
     "de": "Vita-Spritze",
     "en": "Vita Shot",
@@ -23,6 +24,7 @@
     "zh-TW": "活力注射劑"
   },
   "description": {
+    "ar": "عنصر طبي يعيد كمية كبيرة من الصحة.",
     "da": "En medicinsk genstand, der gendanner en stor mængde helbred.",
     "de": "Ein medizinischer Gegenstand, der viel Gesundheit wiederherstellt.",
     "en": "A medical item that restores a large amount of health.",
@@ -52,6 +54,7 @@
   "effects": {
     "Healing": {
       "value": 50,
+      "ar": "شفاء",
       "da": "Helbredelse",
       "de": "Heilen",
       "en": "Healing",
@@ -75,6 +78,7 @@
     },
     "Use Time": {
       "value": "4s",
+      "ar": "وقت الاستخدام",
       "da": "Brugstid",
       "de": "Verwendungszeit",
       "en": "Use Time",

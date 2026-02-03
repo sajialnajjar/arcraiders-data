@@ -1,6 +1,7 @@
 {
   "id": "stella_montis_security_checkpoint_key",
   "name": {
+    "ar": "مفتاح نقطة التفتيش الأمنية في ستيلا مونتيس",
     "da": "Stella Montis sikkerhedskontrolpunkt-nøgle",
     "de": "Schlüssel zur Sicherheitskontrolle in Stella Montis",
     "en": "Stella Montis Security Checkpoint Key",
@@ -23,6 +24,7 @@
     "zh-TW": "星山安全檢查站鑰匙"
   },
   "description": {
+    "ar": "يفتح باباً في نقطة التفتيش الأمنية في ستيلا مونتيس",
     "da": "Låser en dør op i sikkerhedskontrolpunktet i Stella Montis",
     "de": "Öffnet eine Tür in der Sicherheitskontrolle in Stella Montis",
     "en": "Unlocks a door in the Security Checkpoint in Stella Montis",

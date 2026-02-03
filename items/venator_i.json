@@ -1,6 +1,7 @@
 {
   "id": "venator_i",
   "name": {
+    "ar": "فيناتور 1",
     "da": "Venator I",
     "de": "Venator I",
     "en": "Venator I",
@@ -23,6 +24,7 @@
     "zh-TW": "复仇者 I"
   },
   "description": {
+    "ar": "مسدس نصف أوتوماتيكي. يطلق طلقتين في وقت واحد.",
     "da": "Halvautomatisk pistol. Affyrer to skud ad gangen.",
     "de": "Feuert zwei Schüsse gleichzeitig.",
     "en": "Semi-automatic pistol. Fires two shots at a time.",
@@ -52,6 +54,7 @@
   "effects": {
     "Ammo Type": {
       "value": "Medium Ammo",
+      "ar": "نوع الذخيرة",
       "da": "Ammunitionstype",
       "de": "Munitionstyp",
       "en": "Ammo Type",
@@ -75,6 +78,7 @@
     },
     "ARC Armor Penetration": {
       "value": "Moderate",
+      "ar": "اختراق درع ARC",
       "da": "ARC-rustningspenetrering",
       "de": "ARC-Rüstungsdurchdringung",
       "en": "ARC Armor Penetration",
@@ -98,6 +102,7 @@
     },
     "Durability": {
       "value": "100/100",
+      "ar": "المتانة",
       "da": "Holdbarhed",
       "de": "Haltbarkeit",
       "en": "Durability",
@@ -121,6 +126,7 @@
     },
     "Firing Mode": {
       "value": "Semi-Automatic",
+      "ar": "وضع الإطلاق",
       "da": "Skydetilstand",
       "de": "Feuermodus",
       "en": "Firing Mode",
@@ -144,6 +150,7 @@
     },
     "Magazine Size": {
       "value": 10,
+      "ar": "حجم المخزن",
       "da": "Magasinstørrelse",
       "de": "Magazingröße",
       "en": "Magazine Size",
@@ -167,6 +174,7 @@
     },
     "Special Trait": {
       "value": "Twin Shot",
+      "ar": "ميزة خاصة",
       "da": "Særlig egenskab",
       "de": "Besondere Eigenschaft",
       "en": "Special Trait",

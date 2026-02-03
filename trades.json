@@ -1,6 +1,10 @@
 [
   {
     "trader": "Celeste",
+    "traderLocalized": {
+      "ar": "سيليست",
+      "en": "Celeste"
+    },
     "itemId": "chemicals",
     "quantity": 1,
     "cost": {
@@ -11,6 +15,10 @@
   },
   {
     "trader": "Celeste",
+    "traderLocalized": {
+      "ar": "سيليست",
+      "en": "Celeste"
+    },
     "itemId": "fabric",
     "quantity": 1,
     "cost": {
@@ -21,6 +29,10 @@
   },
   {
     "trader": "Celeste",
+    "traderLocalized": {
+      "ar": "سيليست",
+      "en": "Celeste"
+    },
     "itemId": "metal_parts",
     "quantity": 1,
     "cost": {
@@ -31,6 +43,10 @@
   },
   {
     "trader": "Celeste",
+    "traderLocalized": {
+      "ar": "سيليست",
+      "en": "Celeste"
+    },
     "itemId": "plastic_parts",
     "quantity": 1,
     "cost": {
@@ -41,6 +57,10 @@
   },
   {
     "trader": "Celeste",
+    "traderLocalized": {
+      "ar": "سيليست",
+      "en": "Celeste"
+    },
     "itemId": "rubber_parts",
     "quantity": 1,
     "cost": {
@@ -51,6 +71,10 @@
   },
   {
     "trader": "Celeste",
+    "traderLocalized": {
+      "ar": "سيليست",
+      "en": "Celeste"
+    },
     "itemId": "complex_gun_parts",
     "quantity": 1,
     "cost": {
@@ -61,6 +85,10 @@
   },
   {
     "trader": "Celeste",
+    "traderLocalized": {
+      "ar": "سيليست",
+      "en": "Celeste"
+    },
     "itemId": "exodus_modules",
     "quantity": 1,
     "cost": {
@@ -71,6 +99,10 @@
   },
   {
     "trader": "Celeste",
+    "traderLocalized": {
+      "ar": "سيليست",
+      "en": "Celeste"
+    },
     "itemId": "heavy_gun_parts",
     "quantity": 1,
     "cost": {
@@ -81,6 +113,10 @@
   },
   {
     "trader": "Celeste",
+    "traderLocalized": {
+      "ar": "سيليست",
+      "en": "Celeste"
+    },
     "itemId": "medium_gun_parts",
     "quantity": 1,
     "cost": {
@@ -91,6 +127,10 @@
   },
   {
     "trader": "Celeste",
+    "traderLocalized": {
+      "ar": "سيليست",
+      "en": "Celeste"
+    },
     "itemId": "light_gun_parts",
     "quantity": 1,
     "cost": {
@@ -101,6 +141,10 @@
   },
   {
     "trader": "Celeste",
+    "traderLocalized": {
+      "ar": "سيليست",
+      "en": "Celeste"
+    },
     "itemId": "moss",
     "quantity": 1,
     "cost": {
@@ -111,6 +155,10 @@
   },
   {
     "trader": "Celeste",
+    "traderLocalized": {
+      "ar": "سيليست",
+      "en": "Celeste"
+    },
     "itemId": "processor",
     "quantity": 1,
     "cost": {
@@ -121,6 +169,10 @@
   },
   {
     "trader": "Celeste",
+    "traderLocalized": {
+      "ar": "سيليست",
+      "en": "Celeste"
+    },
     "itemId": "rope",
     "quantity": 1,
     "cost": {
@@ -131,6 +183,10 @@
   },
   {
     "trader": "Celeste",
+    "traderLocalized": {
+      "ar": "سيليست",
+      "en": "Celeste"
+    },
     "itemId": "sensors",
     "quantity": 1,
     "cost": {
@@ -141,6 +197,10 @@
   },
   {
     "trader": "Celeste",
+    "traderLocalized": {
+      "ar": "سيليست",
+      "en": "Celeste"
+    },
     "itemId": "speaker_component",
     "quantity": 1,
     "cost": {
@@ -151,6 +211,10 @@
   },
   {
     "trader": "Celeste",
+    "traderLocalized": {
+      "ar": "سيليست",
+      "en": "Celeste"
+    },
     "itemId": "synthesized_fuel",
     "quantity": 1,
     "cost": {
@@ -161,6 +225,10 @@
   },
   {
     "trader": "Celeste",
+    "traderLocalized": {
+      "ar": "سيليست",
+      "en": "Celeste"
+    },
     "itemId": "syringe",
     "quantity": 1,
     "cost": {
@@ -171,6 +239,10 @@
   },
   {
     "trader": "Celeste",
+    "traderLocalized": {
+      "ar": "سيليست",
+      "en": "Celeste"
+    },
     "itemId": "voltage_converter",
     "quantity": 1,
     "cost": {
@@ -181,6 +253,10 @@
   },
   {
     "trader": "Celeste",
+    "traderLocalized": {
+      "ar": "سيليست",
+      "en": "Celeste"
+    },
     "itemId": "battery",
     "quantity": 1,
     "cost": {
@@ -191,6 +267,10 @@
   },
   {
     "trader": "Celeste",
+    "traderLocalized": {
+      "ar": "سيليست",
+      "en": "Celeste"
+    },
     "itemId": "canister",
     "quantity": 1,
     "cost": {
@@ -201,6 +281,10 @@
   },
   {
     "trader": "Celeste",
+    "traderLocalized": {
+      "ar": "سيليست",
+      "en": "Celeste"
+    },
     "itemId": "duct_tape",
     "quantity": 1,
     "cost": {
@@ -211,6 +295,10 @@
   },
   {
     "trader": "Celeste",
+    "traderLocalized": {
+      "ar": "سيليست",
+      "en": "Celeste"
+    },
     "itemId": "great_mullein",
     "quantity": 1,
     "cost": {
@@ -221,6 +309,10 @@
   },
   {
     "trader": "Celeste",
+    "traderLocalized": {
+      "ar": "سيليست",
+      "en": "Celeste"
+    },
     "itemId": "magnet",
     "quantity": 1,
     "cost": {
@@ -231,6 +323,10 @@
   },
   {
     "trader": "Celeste",
+    "traderLocalized": {
+      "ar": "سيليست",
+      "en": "Celeste"
+    },
     "itemId": "oil",
     "quantity": 1,
     "cost": {
@@ -241,6 +337,10 @@
   },
   {
     "trader": "Celeste",
+    "traderLocalized": {
+      "ar": "سيليست",
+      "en": "Celeste"
+    },
     "itemId": "simple_gun_parts",
     "quantity": 1,
     "cost": {
@@ -251,6 +351,10 @@
   },
   {
     "trader": "Celeste",
+    "traderLocalized": {
+      "ar": "سيليست",
+      "en": "Celeste"
+    },
     "itemId": "steel_spring",
     "quantity": 1,
     "cost": {
@@ -261,6 +365,10 @@
   },
   {
     "trader": "Celeste",
+    "traderLocalized": {
+      "ar": "سيليست",
+      "en": "Celeste"
+    },
     "itemId": "wires",
     "quantity": 1,
     "cost": {
@@ -271,6 +379,10 @@
   },
   {
     "trader": "Shani",
+    "traderLocalized": {
+      "ar": "شاني",
+      "en": "Shani"
+    },
     "itemId": "binoculars",
     "quantity": 1,
     "cost": {
@@ -281,6 +393,10 @@
   },
   {
     "trader": "Shani",
+    "traderLocalized": {
+      "ar": "شاني",
+      "en": "Shani"
+    },
     "itemId": "blue_light_stick",
     "quantity": 1,
     "cost": {
@@ -291,6 +407,10 @@
   },
   {
     "trader": "Shani",
+    "traderLocalized": {
+      "ar": "شاني",
+      "en": "Shani"
+    },
     "itemId": "firecracker",
     "quantity": 1,
     "cost": {
@@ -301,6 +421,10 @@
   },
   {
     "trader": "Shani",
+    "traderLocalized": {
+      "ar": "شاني",
+      "en": "Shani"
+    },
     "itemId": "green_light_stick",
     "quantity": 1,
     "cost": {
@@ -311,6 +435,10 @@
   },
   {
     "trader": "Shani",
+    "traderLocalized": {
+      "ar": "شاني",
+      "en": "Shani"
+    },
     "itemId": "red_light_stick",
     "quantity": 1,
     "cost": {
@@ -321,6 +449,10 @@
   },
   {
     "trader": "Shani",
+    "traderLocalized": {
+      "ar": "شاني",
+      "en": "Shani"
+    },
     "itemId": "yellow_light_stick",
     "quantity": 1,
     "cost": {
@@ -331,6 +463,10 @@
   },
   {
     "trader": "Shani",
+    "traderLocalized": {
+      "ar": "شاني",
+      "en": "Shani"
+    },
     "itemId": "combat_mk2",
     "quantity": 1,
     "cost": {
@@ -341,6 +477,10 @@
   },
   {
     "trader": "Shani",
+    "traderLocalized": {
+      "ar": "شاني",
+      "en": "Shani"
+    },
     "itemId": "looting_mk2",
     "quantity": 1,
     "cost": {
@@ -351,6 +491,10 @@
   },
   {
     "trader": "Shani",
+    "traderLocalized": {
+      "ar": "شاني",
+      "en": "Shani"
+    },
     "itemId": "tactical_mk2",
     "quantity": 1,
     "cost": {
@@ -361,6 +505,10 @@
   },
   {
     "trader": "Shani",
+    "traderLocalized": {
+      "ar": "شاني",
+      "en": "Shani"
+    },
     "itemId": "angled_grip_ii",
     "quantity": 1,
     "cost": {
@@ -371,6 +519,10 @@
   },
   {
     "trader": "Shani",
+    "traderLocalized": {
+      "ar": "شاني",
+      "en": "Shani"
+    },
     "itemId": "compensator_ii",
     "quantity": 1,
     "cost": {
@@ -381,6 +533,10 @@
   },
   {
     "trader": "Shani",
+    "traderLocalized": {
+      "ar": "شاني",
+      "en": "Shani"
+    },
     "itemId": "extended_light_mag_ii",
     "quantity": 1,
     "cost": {
@@ -391,6 +547,10 @@
   },
   {
     "trader": "Shani",
+    "traderLocalized": {
+      "ar": "شاني",
+      "en": "Shani"
+    },
     "itemId": "extended_medium_mag_ii",
     "quantity": 1,
     "cost": {
@@ -401,6 +561,10 @@
   },
   {
     "trader": "Shani",
+    "traderLocalized": {
+      "ar": "شاني",
+      "en": "Shani"
+    },
     "itemId": "silencer_i",
     "quantity": 1,
     "cost": {
@@ -411,6 +575,10 @@
   },
   {
     "trader": "Shani",
+    "traderLocalized": {
+      "ar": "شاني",
+      "en": "Shani"
+    },
     "itemId": "stable_stock_ii",
     "quantity": 1,
     "cost": {
@@ -421,6 +589,10 @@
   },
   {
     "trader": "Shani",
+    "traderLocalized": {
+      "ar": "شاني",
+      "en": "Shani"
+    },
     "itemId": "recorder",
     "quantity": 1,
     "cost": {
@@ -431,6 +603,10 @@
   },
   {
     "trader": "Shani",
+    "traderLocalized": {
+      "ar": "شاني",
+      "en": "Shani"
+    },
     "itemId": "sterilized_bandage",
     "quantity": 1,
     "cost": {
@@ -441,6 +617,10 @@
   },
   {
     "trader": "Shani",
+    "traderLocalized": {
+      "ar": "شاني",
+      "en": "Shani"
+    },
     "itemId": "surge_shield_recharger",
     "quantity": 1,
     "cost": {
@@ -451,6 +631,10 @@
   },
   {
     "trader": "Shani",
+    "traderLocalized": {
+      "ar": "شاني",
+      "en": "Shani"
+    },
     "itemId": "raider_hatch_key",
     "quantity": 1,
     "cost": {
@@ -461,6 +645,10 @@
   },
   {
     "trader": "Shani",
+    "traderLocalized": {
+      "ar": "شاني",
+      "en": "Shani"
+    },
     "itemId": "fireworks_box",
     "quantity": 1,
     "cost": {
@@ -471,6 +659,10 @@
   },
   {
     "trader": "Tian Wen",
+    "traderLocalized": {
+      "ar": "تيان وين",
+      "en": "Tian Wen"
+    },
     "itemId": "ferro_i",
     "quantity": 1,
     "cost": {
@@ -481,6 +673,10 @@
   },
   {
     "trader": "Tian Wen",
+    "traderLocalized": {
+      "ar": "تيان وين",
+      "en": "Tian Wen"
+    },
     "itemId": "hairpin_i",
     "quantity": 1,
     "cost": {
@@ -491,6 +687,10 @@
   },
   {
     "trader": "Tian Wen",
+    "traderLocalized": {
+      "ar": "تيان وين",
+      "en": "Tian Wen"
+    },
     "itemId": "kettle_i",
     "quantity": 1,
     "cost": {
@@ -501,6 +701,10 @@
   },
   {
     "trader": "Tian Wen",
+    "traderLocalized": {
+      "ar": "تيان وين",
+      "en": "Tian Wen"
+    },
     "itemId": "stitcher_i",
     "quantity": 1,
     "cost": {
@@ -511,6 +715,10 @@
   },
   {
     "trader": "Tian Wen",
+    "traderLocalized": {
+      "ar": "تيان وين",
+      "en": "Tian Wen"
+    },
     "itemId": "energy_clip",
     "quantity": 1,
     "cost": {
@@ -521,6 +729,10 @@
   },
   {
     "trader": "Tian Wen",
+    "traderLocalized": {
+      "ar": "تيان وين",
+      "en": "Tian Wen"
+    },
     "itemId": "launcher_ammo",
     "quantity": 6,
     "cost": {
@@ -531,6 +743,10 @@
   },
   {
     "trader": "Tian Wen",
+    "traderLocalized": {
+      "ar": "تيان وين",
+      "en": "Tian Wen"
+    },
     "itemId": "hullcracker_i",
     "quantity": 1,
     "cost": {
@@ -541,6 +757,10 @@
   },
   {
     "trader": "Tian Wen",
+    "traderLocalized": {
+      "ar": "تيان وين",
+      "en": "Tian Wen"
+    },
     "itemId": "renegade_i",
     "quantity": 1,
     "cost": {
@@ -551,6 +771,10 @@
   },
   {
     "trader": "Tian Wen",
+    "traderLocalized": {
+      "ar": "تيان وين",
+      "en": "Tian Wen"
+    },
     "itemId": "anvil_i",
     "quantity": 1,
     "cost": {
@@ -561,6 +785,10 @@
   },
   {
     "trader": "Tian Wen",
+    "traderLocalized": {
+      "ar": "تيان وين",
+      "en": "Tian Wen"
+    },
     "itemId": "burletta_i",
     "quantity": 1,
     "cost": {
@@ -571,6 +799,10 @@
   },
   {
     "trader": "Tian Wen",
+    "traderLocalized": {
+      "ar": "تيان وين",
+      "en": "Tian Wen"
+    },
     "itemId": "il_toro_i",
     "quantity": 1,
     "cost": {
@@ -581,6 +813,10 @@
   },
   {
     "trader": "Tian Wen",
+    "traderLocalized": {
+      "ar": "تيان وين",
+      "en": "Tian Wen"
+    },
     "itemId": "angled_grip_iii",
     "quantity": 1,
     "cost": {
@@ -591,6 +827,10 @@
   },
   {
     "trader": "Tian Wen",
+    "traderLocalized": {
+      "ar": "تيان وين",
+      "en": "Tian Wen"
+    },
     "itemId": "extended_light_mag_ii",
     "quantity": 1,
     "cost": {
@@ -601,6 +841,10 @@
   },
   {
     "trader": "Tian Wen",
+    "traderLocalized": {
+      "ar": "تيان وين",
+      "en": "Tian Wen"
+    },
     "itemId": "shotgun_choke_ii",
     "quantity": 1,
     "cost": {
@@ -611,6 +855,10 @@
   },
   {
     "trader": "Tian Wen",
+    "traderLocalized": {
+      "ar": "تيان وين",
+      "en": "Tian Wen"
+    },
     "itemId": "angled_grip_i",
     "quantity": 1,
     "cost": {
@@ -621,6 +869,10 @@
   },
   {
     "trader": "Tian Wen",
+    "traderLocalized": {
+      "ar": "تيان وين",
+      "en": "Tian Wen"
+    },
     "itemId": "compensator_i",
     "quantity": 1,
     "cost": {
@@ -631,6 +883,10 @@
   },
   {
     "trader": "Tian Wen",
+    "traderLocalized": {
+      "ar": "تيان وين",
+      "en": "Tian Wen"
+    },
     "itemId": "extended_light_mag_i",
     "quantity": 1,
     "cost": {
@@ -641,6 +897,10 @@
   },
   {
     "trader": "Tian Wen",
+    "traderLocalized": {
+      "ar": "تيان وين",
+      "en": "Tian Wen"
+    },
     "itemId": "extended_medium_mag_i",
     "quantity": 1,
     "cost": {
@@ -651,6 +911,10 @@
   },
   {
     "trader": "Tian Wen",
+    "traderLocalized": {
+      "ar": "تيان وين",
+      "en": "Tian Wen"
+    },
     "itemId": "extended_shotgun_mag_i",
     "quantity": 1,
     "cost": {
@@ -661,6 +925,10 @@
   },
   {
     "trader": "Tian Wen",
+    "traderLocalized": {
+      "ar": "تيان وين",
+      "en": "Tian Wen"
+    },
     "itemId": "muzzle_brake_i",
     "quantity": 1,
     "cost": {
@@ -671,6 +939,10 @@
   },
   {
     "trader": "Tian Wen",
+    "traderLocalized": {
+      "ar": "تيان وين",
+      "en": "Tian Wen"
+    },
     "itemId": "shotgun_choke_i",
     "quantity": 1,
     "cost": {
@@ -681,6 +953,10 @@
   },
   {
     "trader": "Tian Wen",
+    "traderLocalized": {
+      "ar": "تيان وين",
+      "en": "Tian Wen"
+    },
     "itemId": "stable_stock_i",
     "quantity": 1,
     "cost": {
@@ -691,6 +967,10 @@
   },
   {
     "trader": "Tian Wen",
+    "traderLocalized": {
+      "ar": "تيان وين",
+      "en": "Tian Wen"
+    },
     "itemId": "vertical_grip_i",
     "quantity": 1,
     "cost": {
@@ -701,6 +981,10 @@
   },
   {
     "trader": "Tian Wen",
+    "traderLocalized": {
+      "ar": "تيان وين",
+      "en": "Tian Wen"
+    },
     "itemId": "heavy_ammo",
     "quantity": 10,
     "cost": {
@@ -711,6 +995,10 @@
   },
   {
     "trader": "Tian Wen",
+    "traderLocalized": {
+      "ar": "تيان وين",
+      "en": "Tian Wen"
+    },
     "itemId": "light_ammo",
     "quantity": 25,
     "cost": {
@@ -721,6 +1009,10 @@
   },
   {
     "trader": "Tian Wen",
+    "traderLocalized": {
+      "ar": "تيان وين",
+      "en": "Tian Wen"
+    },
     "itemId": "medium_ammo",
     "quantity": 20,
     "cost": {
@@ -731,6 +1023,10 @@
   },
   {
     "trader": "Tian Wen",
+    "traderLocalized": {
+      "ar": "تيان وين",
+      "en": "Tian Wen"
+    },
     "itemId": "shotgun_ammo",
     "quantity": 5,
     "cost": {
@@ -741,6 +1037,10 @@
   },
   {
     "trader": "Apollo",
+    "traderLocalized": {
+      "ar": "أبولو",
+      "en": "Apollo"
+    },
     "itemId": "blue_light_stick",
     "quantity": 1,
     "cost": {
@@ -751,6 +1051,10 @@
   },
   {
     "trader": "Apollo",
+    "traderLocalized": {
+      "ar": "أبولو",
+      "en": "Apollo"
+    },
     "itemId": "green_light_stick",
     "quantity": 1,
     "cost": {
@@ -761,6 +1065,10 @@
   },
   {
     "trader": "Apollo",
+    "traderLocalized": {
+      "ar": "أبولو",
+      "en": "Apollo"
+    },
     "itemId": "red_light_stick",
     "quantity": 1,
     "cost": {
@@ -771,6 +1079,10 @@
   },
   {
     "trader": "Apollo",
+    "traderLocalized": {
+      "ar": "أبولو",
+      "en": "Apollo"
+    },
     "itemId": "yellow_light_stick",
     "quantity": 1,
     "cost": {
@@ -781,6 +1093,10 @@
   },
   {
     "trader": "Apollo",
+    "traderLocalized": {
+      "ar": "أبولو",
+      "en": "Apollo"
+    },
     "itemId": "light_impact_grenade",
     "quantity": 1,
     "cost": {
@@ -791,6 +1107,10 @@
   },
   {
     "trader": "Apollo",
+    "traderLocalized": {
+      "ar": "أبولو",
+      "en": "Apollo"
+    },
     "itemId": "gas_mine",
     "quantity": 1,
     "cost": {
@@ -801,6 +1121,10 @@
   },
   {
     "trader": "Apollo",
+    "traderLocalized": {
+      "ar": "أبولو",
+      "en": "Apollo"
+    },
     "itemId": "remote_raider_flare",
     "quantity": 1,
     "cost": {
@@ -811,6 +1135,10 @@
   },
   {
     "trader": "Apollo",
+    "traderLocalized": {
+      "ar": "أبولو",
+      "en": "Apollo"
+    },
     "itemId": "recorder",
     "quantity": 1,
     "cost": {
@@ -821,6 +1149,10 @@
   },
   {
     "trader": "Apollo",
+    "traderLocalized": {
+      "ar": "أبولو",
+      "en": "Apollo"
+    },
     "itemId": "noisemaker",
     "quantity": 1,
     "cost": {
@@ -831,6 +1163,10 @@
   },
   {
     "trader": "Apollo",
+    "traderLocalized": {
+      "ar": "أبولو",
+      "en": "Apollo"
+    },
     "itemId": "heavy_fuze_grenade",
     "quantity": 1,
     "cost": {
@@ -841,6 +1177,10 @@
   },
   {
     "trader": "Apollo",
+    "traderLocalized": {
+      "ar": "أبولو",
+      "en": "Apollo"
+    },
     "itemId": "smoke_grenade",
     "quantity": 1,
     "cost": {
@@ -851,6 +1191,10 @@
   },
   {
     "trader": "Apollo",
+    "traderLocalized": {
+      "ar": "أبولو",
+      "en": "Apollo"
+    },
     "itemId": "seeker_grenade",
     "quantity": 1,
     "cost": {
@@ -861,6 +1205,10 @@
   },
   {
     "trader": "Apollo",
+    "traderLocalized": {
+      "ar": "أبولو",
+      "en": "Apollo"
+    },
     "itemId": "snap_blast_grenade",
     "quantity": 1,
     "cost": {
@@ -871,6 +1219,10 @@
   },
   {
     "trader": "Apollo",
+    "traderLocalized": {
+      "ar": "أبولو",
+      "en": "Apollo"
+    },
     "itemId": "gas_grenade",
     "quantity": 1,
     "cost": {
@@ -881,6 +1233,10 @@
   },
   {
     "trader": "Apollo",
+    "traderLocalized": {
+      "ar": "أبولو",
+      "en": "Apollo"
+    },
     "itemId": "deadline",
     "quantity": 1,
     "cost": {
@@ -891,6 +1247,10 @@
   },
   {
     "trader": "Apollo",
+    "traderLocalized": {
+      "ar": "أبولو",
+      "en": "Apollo"
+    },
     "itemId": "jolt_mine",
     "quantity": 1,
     "cost": {
@@ -901,6 +1261,10 @@
   },
   {
     "trader": "Apollo",
+    "traderLocalized": {
+      "ar": "أبولو",
+      "en": "Apollo"
+    },
     "itemId": "pulse_mine",
     "quantity": 1,
     "cost": {
@@ -911,6 +1275,10 @@
   },
   {
     "trader": "Apollo",
+    "traderLocalized": {
+      "ar": "أبولو",
+      "en": "Apollo"
+    },
     "itemId": "zipline",
     "quantity": 1,
     "cost": {
@@ -921,6 +1289,10 @@
   },
   {
     "trader": "Apollo",
+    "traderLocalized": {
+      "ar": "أبولو",
+      "en": "Apollo"
+    },
     "itemId": "barricade_kit",
     "quantity": 1,
     "cost": {
@@ -931,6 +1303,10 @@
   },
   {
     "trader": "Apollo",
+    "traderLocalized": {
+      "ar": "أبولو",
+      "en": "Apollo"
+    },
     "itemId": "door_blocker",
     "quantity": 1,
     "cost": {
@@ -941,6 +1317,10 @@
   },
   {
     "trader": "Lance",
+    "traderLocalized": {
+      "ar": "لانس",
+      "en": "Lance"
+    },
     "itemId": "looting_mk1",
     "quantity": 1,
     "cost": {
@@ -951,6 +1331,10 @@
   },
   {
     "trader": "Lance",
+    "traderLocalized": {
+      "ar": "لانس",
+      "en": "Lance"
+    },
     "itemId": "tactical_mk1",
     "quantity": 1,
     "cost": {
@@ -961,6 +1345,10 @@
   },
   {
     "trader": "Lance",
+    "traderLocalized": {
+      "ar": "لانس",
+      "en": "Lance"
+    },
     "itemId": "combat_mk1",
     "quantity": 1,
     "cost": {
@@ -971,6 +1359,10 @@
   },
   {
     "trader": "Lance",
+    "traderLocalized": {
+      "ar": "لانس",
+      "en": "Lance"
+    },
     "itemId": "light_shield",
     "quantity": 1,
     "cost": {
@@ -981,6 +1373,10 @@
   },
   {
     "trader": "Lance",
+    "traderLocalized": {
+      "ar": "لانس",
+      "en": "Lance"
+    },
     "itemId": "defibrillator",
     "quantity": 1,
     "cost": {
@@ -991,6 +1387,10 @@
   },
   {
     "trader": "Lance",
+    "traderLocalized": {
+      "ar": "لانس",
+      "en": "Lance"
+    },
     "itemId": "shield_recharger",
     "quantity": 1,
     "cost": {
@@ -1001,6 +1401,10 @@
   },
   {
     "trader": "Lance",
+    "traderLocalized": {
+      "ar": "لانس",
+      "en": "Lance"
+    },
     "itemId": "adrenaline_shot",
     "quantity": 1,
     "cost": {
@@ -1011,6 +1415,10 @@
   },
   {
     "trader": "Lance",
+    "traderLocalized": {
+      "ar": "لانس",
+      "en": "Lance"
+    },
     "itemId": "bandage",
     "quantity": 1,
     "cost": {
@@ -1021,6 +1429,10 @@
   },
   {
     "trader": "Lance",
+    "traderLocalized": {
+      "ar": "لانس",
+      "en": "Lance"
+    },
     "itemId": "looting_mk2",
     "quantity": 1,
     "cost": {
@@ -1031,6 +1443,10 @@
   },
   {
     "trader": "Lance",
+    "traderLocalized": {
+      "ar": "لانس",
+      "en": "Lance"
+    },
     "itemId": "tactical_mk2",
     "quantity": 1,
     "cost": {
@@ -1041,6 +1457,10 @@
   },
   {
     "trader": "Lance",
+    "traderLocalized": {
+      "ar": "لانس",
+      "en": "Lance"
+    },
     "itemId": "combat_mk2",
     "quantity": 1,
     "cost": {
@@ -1051,6 +1471,10 @@
   },
   {
     "trader": "Lance",
+    "traderLocalized": {
+      "ar": "لانس",
+      "en": "Lance"
+    },
     "itemId": "heavy_shield",
     "quantity": 1,
     "cost": {
@@ -1061,6 +1485,10 @@
   },
   {
     "trader": "Lance",
+    "traderLocalized": {
+      "ar": "لانس",
+      "en": "Lance"
+    },
     "itemId": "medium_shield",
     "quantity": 1,
     "cost": {
@@ -1071,6 +1499,10 @@
   },
   {
     "trader": "Lance",
+    "traderLocalized": {
+      "ar": "لانس",
+      "en": "Lance"
+    },
     "itemId": "sterilized_bandage",
     "quantity": 1,
     "cost": {
@@ -1081,6 +1513,10 @@
   },
   {
     "trader": "Lance",
+    "traderLocalized": {
+      "ar": "لانس",
+      "en": "Lance"
+    },
     "itemId": "surge_shield_recharger",
     "quantity": 1,
     "cost": {
@@ -1091,6 +1527,10 @@
   },
   {
     "trader": "Lance",
+    "traderLocalized": {
+      "ar": "لانس",
+      "en": "Lance"
+    },
     "itemId": "herbal_bandage",
     "quantity": 1,
     "cost": {
@@ -1101,6 +1541,10 @@
   },
   {
     "trader": "Lance",
+    "traderLocalized": {
+      "ar": "لانس",
+      "en": "Lance"
+    },
     "itemId": "looting_mk1",
     "quantity": 1,
     "cost": {
@@ -1111,6 +1555,10 @@
   },
   {
     "trader": "Lance",
+    "traderLocalized": {
+      "ar": "لانس",
+      "en": "Lance"
+    },
     "itemId": "tactical_mk1",
     "quantity": 1,
     "cost": {
@@ -1121,6 +1569,10 @@
   },
   {
     "trader": "Lance",
+    "traderLocalized": {
+      "ar": "لانس",
+      "en": "Lance"
+    },
     "itemId": "combat_mk1",
     "quantity": 1,
     "cost": {

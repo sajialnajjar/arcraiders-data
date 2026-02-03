@@ -1,6 +1,7 @@
 {
   "id": "ss2",
   "name": {
+    "ar": "سماء صافية",
     "da": "Klarere himmel",
     "de": "Klarer Himmel",
     "en": "Clearer Skies",
@@ -30,6 +31,7 @@
     }
   ],
   "description": {
+    "ar": "تحطم سرب من الدبابير التائهة بالقرب من إحدى فتحات السقف لدينا. تحتاج إلى تقليل صفوف ARC قبل وقوع المزيد من الحوادث. وهل يمكنك جمع بعض المواد القوية بشكل خاص لإصلاح الضرر؟",
     "da": "En sværm af desorienterede hvepse styrtede ned nær et af vores ovenlys. Du skal tynde ud i ARC-rækkerne, før der sker flere ulykker. Og kan du samle nogle særligt robuste materialer til at reparere skaden?",
     "de": "Ein Schwarm orientierungsloser Wespen ist in der Nähe eines unserer Oberlichter abgestürzt. Du musst die Reihen der ARC lichten, bevor noch mehr Unfälle passieren. Und kannst du ein paar besonders robuste Materialien sammeln, um den Schaden zu beheben?",
     "en": "A swarm of disoriented wasps crashed near one of our skylights. You need to thin the ARC ranks before more accidents happen. And can you gather some particularly sturdy materials to repair the damage?",
@@ -53,6 +55,7 @@
   },
   "objectives": [
     {
+      "ar": "دمر 3 أعداء من ARC",
       "da": "Ødelæg 3 ARC-fjender",
       "de": "3 ARC-Gegner zerstören",
       "en": "Destroy 3 ARC enemies",
@@ -75,6 +78,7 @@
       "zh-TW": "消滅3個ARC敵人"
     },
     {
+      "ar": "احصل على 3 سبائك ARC لشاني",
       "da": "Skaff 3 ARC-legeringer til Shani",
       "de": "3 ARC-Legierung für Shani besorgen",
       "en": "Get 3 ARC Alloy for Shani",
@@ -112,7 +116,11 @@
     }
   ],
   "xp": 0,
-  "previousQuestIds": ["ss1"],
-  "nextQuestIds": ["ss4"],
+  "previousQuestIds": [
+    "ss1"
+  ],
+  "nextQuestIds": [
+    "ss4"
+  ],
   "updatedAt": "01/13/2026"
 }

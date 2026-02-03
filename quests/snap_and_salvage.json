@@ -1,6 +1,7 @@
 {
   "id": "12_snap_and_salvage",
   "name": {
+    "ar": "تصوير وانتشال",
     "da": "Snap og bjærg",
     "de": "Schnappen und Ausschlachten",
     "en": "Snap and Salvage",
@@ -22,7 +23,9 @@
     "zh-CN": "拍照与打捞",
     "zh-TW": "拍照與打撈"
   },
-  "map": ["stella_montis"],
+  "map": [
+    "stella_montis"
+  ],
   "trader": "Tian Wen",
   "requiredItemIds": [
     {
@@ -36,6 +39,7 @@
   ],
   "grantedItemIds": [],
   "description": {
+    "ar": "كل Speranza تضج بالحديث عن ستيلا مونتيس حالياً، وأعترف أن الأمر لفت انتباهي. دع الآخرين ينشغلون بالتفاصيل؛ أنا مهتم بالتقنية الموجودة في الداخل.",
     "da": "Hele Speranza summer over Stella Montis lige nu, og jeg må indrømme, at det har fanget min opmærksomhed. Lad de andre finde ud af hvad og hvordan; jeg er interesseret i teknikken derinde.",
     "de": "In Speranza wird nur noch über Stella Montis gesprochen und ich muss zugeben, mein Interesse ist auch geweckt. Sollen die anderen sich mit dem Was und Wie befassen - mich interessiert die Technik, die da drinnen versteckt ist.",
     "en": "All of Speranza is buzzing about Stella Montis right now, and I admit it's caught my attention. Let the others sort out the whats and hows; I'm interested in the tech inside.",
@@ -59,6 +63,7 @@
   },
   "objectives": [
     {
+      "ar": "التقط صورة لأي من المركبات الجوالة في Sandbox",
       "da": "Tag et foto af en af roverne i Sandbox-området",
       "de": "Fotografiere einen beliebigen Rover im Sandkasten",
       "en": "Take a photo of any of the Rovers in the Sandbox",
@@ -81,6 +86,7 @@
       "zh-TW": "在沙盒區域為任意一台漫遊者拍一張照片"
     },
     {
+      "ar": "فتش الأوراق في غرفة نقطة التفتيش الأمنية بجوار الردهة (Lobby)",
       "da": "Gennemsøg papirerne i sikkerhedskontrolrummet ved lobbyen",
       "de": "Durchsuche die Unterlagen im Sicherheitskontrollraum bei der Lobby",
       "en": "Search the papers in the Security Checkpoint room by the Lobby",
@@ -103,8 +109,9 @@
       "zh-TW": "搜查大廳旁安全檢查室裡的文件"
     },
     {
+      "ar": "سلم Magnetron إلى تيان وين",
       "da": "Aflever en Magnetron til Tian Wen",
-      "de": "Liefere eine Magnetron an Tian Wen",
+      "de": "Liefere einen Magnetron an Tian Wen",
       "en": "Deliver a Magnetron to Tian Wen",
       "es": "Entrega un magnetrón a Tian Wen",
       "fr": "Livre un magnétron à Tian Wen",
@@ -125,6 +132,7 @@
       "zh-TW": "將一個磁控管交給田文"
     },
     {
+      "ar": "سلم Flow Controller إلى تيان وين",
       "da": "Aflever en Flow Controller til Tian Wen",
       "de": "Liefere einen Durchflussregler an Tian Wen",
       "en": "Deliver a Flow Controller to Tian Wen",
@@ -166,7 +174,11 @@
     }
   ],
   "xp": 0,
-  "previousQuestIds": ["12_cold_storage"],
-  "nextQuestIds": ["with_a_view"],
+  "previousQuestIds": [
+    "12_cold_storage"
+  ],
+  "nextQuestIds": [
+    "with_a_view"
+  ],
   "updatedAt": "01/13/2026"
 }

@@ -1,6 +1,7 @@
 {
   "id": "ss10x6",
   "name": {
+    "ar": "مصدر التلوث",
     "da": "Kilden til forureningen",
     "de": "Quelle der Kontamination",
     "en": "Source of the Contamination",
@@ -22,11 +23,14 @@
     "zh-CN": "污染源",
     "zh-TW": "污染源"
   },
-  "map": ["dam_battlegrounds"],
+  "map": [
+    "dam_battlegrounds"
+  ],
   "trader": "Celeste",
   "description": {
+    "ar": "أنا لا أقول إن مياهنا قد تم العبث بها، ولكن بناءً على عيناتك، لا يمكنني استبعاد الاحتمال أيضاً. هل يمكنك العودة إلى السد ومعرفة ما الخطب؟",
     "da": "Jeg siger ikke, at vores vand er blevet manipuleret, men baseret på dine prøver kan jeg heller ikke udelukke muligheden. Vil du vende tilbage til dæmningen og se, hvad der er galt?",
-    "de": "Ich sag jetzt nicht, dass uns jemand was ins Wasser getan hat, aber angesichts deiner Proben kann ich das auch nicht ausschließen. Könntest du noch mal zum Damm gehen und nachsehen, was da los ist?",
+    "de": "Ich sage nicht, dass unser Wasser manipuliert wurde, aber basierend auf deinen Proben kann ich die Möglichkeit auch nicht ausschließen. Würdest du zum Damm zurückkehren und nachsehen, was nicht stimmt?",
     "en": "I'm not saying our water's been tampered with, but based on your samples, I can't rule out the possibility either. Would you return to the Dam and see what's wrong?",
     "es": "No digo que hayan manipulado nuestra agua, pero según tus muestras, tampoco puedo descartar esa posibilidad. ¿Podrías volver a la presa y ver qué está mal?",
     "fr": "Je ne dis pas que notre eau a été trafiquée, mais d'après vos échantillons, je ne peux pas non plus écarter cette possibilité. Pourriez-vous retourner au barrage et voir ce qui ne va pas ?",
@@ -48,8 +52,9 @@
   },
   "objectives": [
     {
+      "ar": "صل إلى مبنى معالجة المياه في السد",
       "da": "Nå vandbehandlingsbygningen i dæmningen",
-      "de": "Das Gebäude der Wasseraufbereitung am Damm erreichen",
+      "de": "Erreiche das Wasseraufbereitungsgebäude im Damm",
       "en": "Reach the Water Treatment Building in The Dam",
       "es": "Llega al edificio de tratamiento de agua en la presa",
       "fr": "Atteindre le bâtiment de traitement de l'eau dans le barrage",
@@ -70,8 +75,9 @@
       "zh-TW": "到達大壩的水處理建築"
     },
     {
+      "ar": "ابحث عن مأخذ تصريف الفيضانات بالقرب من المستنقع",
       "da": "Søg efter oversvømmelsesindtaget nær sumpen",
-      "de": "Den Überflutungseinlass am Sumpf suchen",
+      "de": "Suche nach dem Hochwasser-Überlaufeinlass in der Nähe des Sumpfes",
       "en": "Search for the Flood Spill Intake near the Swamp",
       "es": "Busca la entrada de desbordamiento cerca del pantano",
       "fr": "Chercher la prise de déversement d'inondation près du marais",
@@ -92,8 +98,9 @@
       "zh-TW": "在沼澤附近尋找洩洪進水口"
     },
     {
+      "ar": "حقق في أي أجسام مشبوهة",
       "da": "Undersøg mistænkelige genstande",
-      "de": "Verdächtige Objekte untersuchen",
+      "de": "Untersuche verdächtige Objekte",
       "en": "Investigate any suspicious objects",
       "es": "Investiga cualquier objeto sospechoso",
       "fr": "Enquêter sur tout objet suspect",
@@ -129,7 +136,11 @@
     }
   ],
   "xp": 0,
-  "previousQuestIds": ["ss10x4"],
-  "nextQuestIds": ["ss10x7"],
+  "previousQuestIds": [
+    "ss10x4"
+  ],
+  "nextQuestIds": [
+    "ss10x7"
+  ],
   "updatedAt": "01/13/2026"
 }

@@ -1,6 +1,7 @@
 {
   "id": "bombing_run",
   "name": {
+    "ar": "غارة قصف",
     "da": "Bombetogt",
     "de": "Bombenlauf",
     "en": "Bombing Run",
@@ -15,7 +16,7 @@
     "pl": "Nalot bombowy",
     "pt": "Bombardeamento",
     "pt-BR": "Bombardeio",
-    "ru": "Заход на цель",
+    "ru": "Бомбардировка",
     "sr": "Bombaški napad",
     "tr": "Bombardıman Koşusu",
     "uk": "Бомбардування",
@@ -24,6 +25,7 @@
   },
   "trader": "Shani",
   "description": {
+    "ar": "الآن، حان الوقت لمعرفة ما إذا كان ذلك الاستطلاع قد أتى ثماره. إذا تمكنا من تعليم الـ Raiders كيفية مواجهة القاذفات بفعالية هناك، فسنكون أكثر أماناً هنا.",
     "da": "Nu er det tid til at se, om den rekognoscering gav pote. Hvis vi kan lære Raiders effektivt at modgå Bombardiers deroppe, ville vi være meget mere sikre hernede.",
     "de": "Jetzt wird sich zeigen, ob sich die Aufklärung ausgezahlt hat. Wenn wir den Raiders beibringen können, die Bombardiers dort oben effektiv zu bekämpfen, wären wir hier unten viel sicherer.",
     "en": "Now, time to see if that recon paid off. If we can teach Raiders to effectively counter Bombardiers up there, we'd be a lot safer down here.",
@@ -47,6 +49,7 @@
   },
   "objectives": [
     {
+      "ar": "دمر قاذفة",
       "da": "Ødelæg en Bombardier",
       "de": "Zerstöre einen Bombardier",
       "en": "Destroy a Bombardier",
@@ -69,6 +72,7 @@
       "zh-TW": "摧毀一個轟炸者"
     },
     {
+      "ar": "سلم خلية قاذفة إلى شاني",
       "da": "Lever en Bombardier-celle til Shani",
       "de": "Liefere eine Bombardier-Zelle bei Shani ab",
       "en": "Deliver a Bombardier Cell to Shani",
@@ -102,7 +106,9 @@
     }
   ],
   "xp": 0,
-  "previousQuestIds": ["combat_recon"],
+  "previousQuestIds": [
+    "combat_recon"
+  ],
   "nextQuestIds": [],
   "updatedAt": "01/27/2026"
 }

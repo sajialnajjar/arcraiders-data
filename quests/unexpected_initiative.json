@@ -1,6 +1,7 @@
 {
   "id": "ss10q",
   "name": {
+    "ar": "مبادرة غير متوقعة",
     "da": "Uventet initiativ",
     "de": "Unerwartete Initiative",
     "en": "Unexpected Initiative",
@@ -22,11 +23,14 @@
     "zh-CN": "意外的主动",
     "zh-TW": "意外的主動"
   },
-  "map": ["buried_city"],
+  "map": [
+    "buried_city"
+  ],
   "trader": "Tian Wen",
   "description": {
+    "ar": "أقوم بإعداد دفيئة (Greenhouse) للمساعدة في تعزيز إنتاجنا الغذائي. أنا أسدي خدمة لـ Celeste، حسناً؟ هذا كل شيء. لكن كفى حديثاً عن ذلك. لقد قمت بترتيب كل التفاصيل، لكنني سأحتاج إلى إمدادات، ولن أقوم بنقلها بمفردي.",
     "da": "Jeg sætter et drivhus op for at øge vores madproduktion. Jeg gør Celeste en tjeneste, okay? Det er alt. Men nok om det. Jeg har alle detaljerne på plads, men jeg får brug for forsyninger, og jeg slæber dem ikke alene.",
-    "de": "Ich baue ein Gewächshaus, um unsere Nahrungsproduktion zu erhöhen. Ich tue Celeste nur einen Gefallen, mehr nicht. Aber genug davon. Ich hab die Details ausgearbeitet, aber ich brauche Vorräte, und die kann ich nicht alleine schleppen.",
+    "de": "Ich richte ein Gewächshaus ein, um unsere Nahrungsproduktion anzukurbeln. Ich tue Celeste einen Gefallen, okay? Das ist alles. Aber genug davon. Ich habe alle Details ausgearbeitet, aber ich brauche Vorräte, und ich werde sie nicht alleine schleppen.",
     "en": "I'm setting up a greenhouse, to help boost our food production. I'm doing Celeste a solid, alright? That's all. But enough about that. I've got all the details worked out, but I'll need supplies, and I'm not hauling them alone.",
     "es": "Estoy montando un invernadero para aumentar nuestra producción de alimentos. Le estoy haciendo un favor a Celeste, ¿vale? Eso es todo. Pero basta de eso. Tengo todos los detalles resueltos, pero necesitaré suministros, y no los voy a transportar solo.",
     "fr": "Je mets en place une serre pour augmenter notre production alimentaire. Je rends service à Celeste, d'accord ? C'est tout. Mais assez parlé de ça. J'ai tous les détails réglés, mais j'aurai besoin de fournitures, et je ne vais pas les transporter seul.",
@@ -46,11 +50,11 @@
     "zh-CN": "我正在建造一个温室，以帮助提高我们的食物产量。我是在帮塞莱斯特一个忙，明白吗？就是这样。但别再说这个了。我已经把所有细节都安排好了，但我需要补给品，而且我不会一个人搬运它们。",
     "zh-TW": "我正在建造一個溫室，以幫助提高我們的食物產量。我是在幫塞萊斯特一個忙，明白嗎？就是這樣。但別再說這個了。我已經把所有細節都安排好了，但我需要補給品，而且我不會一個人搬運它們。"
   },
-  "objectivesOneRound": true,
   "objectives": [
     {
+      "ar": "صل إلى شقق Grandioso في المدينة المدفونة",
       "da": "Nå Grandioso-lejlighederne i Buried City",
-      "de": "Liefere ein Nährstoffmessgerät an Tian Wen",
+      "de": "Erreiche die Grandioso-Apartments in der Begrabenen Stadt",
       "en": "Reach the Grandioso Apartments in Buried City",
       "es": "Llega a los Apartamentos Grandioso en Buried City",
       "fr": "Atteindre les appartements Grandioso dans Buried City",
@@ -71,8 +75,9 @@
       "zh-TW": "到達埋沒之城的格蘭迪奧索公寓"
     },
     {
+      "ar": "ابحث عن مقياس رطوبة (Moisture Meter) على سطح شقق Grandioso",
       "da": "Søg efter en fugtighedsmåler på taget af Grandioso-lejlighederne",
-      "de": "Liefere einen Feuchtigkeitsmesser an Tian Wen",
+      "de": "Suche nach einem Feuchtigkeitsmesser auf dem Dach der Grandioso-Apartments",
       "en": "Search for a Moisture Meter on the rooftop of the Grandioso Apartments",
       "es": "Busca un medidor de humedad en la azotea de los Apartamentos Grandioso",
       "fr": "Chercher un humidimètre sur le toit des appartements Grandioso",
@@ -93,8 +98,9 @@
       "zh-TW": "在格蘭迪奧索公寓的屋頂搜尋濕度計"
     },
     {
+      "ar": "صل إلى Piazza Roma في المدينة المدفونة",
       "da": "Nå Piazza Roma i Buried City",
-      "de": "Erreiche die Grandioso-Apartments in der Begrabenen Stadt",
+      "de": "Erreiche Piazza Roma in der Begrabenen Stadt",
       "en": "Reach Piazza Roma in Buried City",
       "es": "Llega a Piazza Roma en Buried City",
       "fr": "Atteindre Piazza Roma dans Buried City",
@@ -115,8 +121,9 @@
       "zh-TW": "到達埋沒之城的羅馬廣場"
     },
     {
+      "ar": "ابحث عن مقياس مغذيات (Nutrient Meter) في حدائق السطح المحطمة في Piazza Roma",
       "da": "Søg efter en næringsstofmåler i de ødelagte taghaver på Piazza Roma",
-      "de": "Suche auf dem Dach der Grandioso- Apartments nach einem Feuchtigkeitsmesser",
+      "de": "Suche nach einem Nährstoffmesser in den zerstörten Dachgärten der Piazza Roma",
       "en": "Search for a Nutrient Meter in the broken rooftop gardens at Piazza Roma",
       "es": "Busca un medidor de nutrientes en los jardines de azotea destruidos de Piazza Roma",
       "fr": "Chercher un nutriment-mètre dans les jardins sur toit endommagés de Piazza Roma",
@@ -137,8 +144,9 @@
       "zh-TW": "在羅馬廣場破損的屋頂花園中搜尋營養計"
     },
     {
+      "ar": "سلم مقياس المغذيات إلى تيان وين",
       "da": "Lever en næringsstofmåler til Tian Wen",
-      "de": "Erreiche die Piazza Roma in der Begrabenen Stadt",
+      "de": "Liefere einen Nährstoffmesser an Tian Wen",
       "en": "Deliver a Nutrient Meter to Tian Wen",
       "es": "Entrega un medidor de nutrientes a Tian Wen",
       "fr": "Livrer un nutriment-mètre à Tian Wen",
@@ -159,8 +167,9 @@
       "zh-TW": "將營養計交給田文"
     },
     {
+      "ar": "سلم مقياس الرطوبة إلى تيان وين",
       "da": "Lever en fugtighedsmåler til Tian Wen",
-      "de": "Suche in den kaputten Dachgärten an der Piazza Roma nach einem Nährstoffmessgerät",
+      "de": "Liefere einen Feuchtigkeitsmesser an Tian Wen",
       "en": "Deliver a Moisture Meter to Tian Wen",
       "es": "Entrega un medidor de humedad a Tian Wen",
       "fr": "Livrer un humidimètre à Tian Wen",
@@ -196,7 +205,12 @@
     }
   ],
   "xp": 0,
-  "previousQuestIds": ["ss10p", "ss10n"],
-  "nextQuestIds": ["ss10r"],
+  "previousQuestIds": [
+    "ss10p",
+    "ss10n"
+  ],
+  "nextQuestIds": [
+    "ss10r"
+  ],
   "updatedAt": "01/13/2026"
 }

@@ -1,6 +1,7 @@
 {
   "id": "ss10r",
   "name": {
+    "ar": "رمز للتوحيد",
     "da": "Et symbol på forening",
     "de": "Ein Symbol der Einheit",
     "en": "A Symbol of Unification",
@@ -22,11 +23,14 @@
     "zh-CN": "统一的象征",
     "zh-TW": "統一的象徵"
   },
-  "map": ["dam_battlegrounds"],
+  "map": [
+    "dam_battlegrounds"
+  ],
   "trader": "Celeste",
   "description": {
+    "ar": "أتعلم، في الماضي كان لدينا علم بالفعل - حسناً، قطعة قماش أكثر من أي شيء آخر. ومع ذلك، رؤيته تعني أنك تعلم أن لديك حلفاء بالقرب منك، وأنك في أرضك. لذا، كنت أفكر...",
     "da": "Ved du, i gamle dage havde vi faktisk et flag - altså, mere en klud end noget andet. Alligevel, at se det betød, at du vidste, du havde allierede i nærheden, at du var på dit eget territorium. Så jeg tænkte...",
-    "de": "Weißt du, früher hatten wir eine Flagge - na ja, war kaum mehr als ein Stück Stoff. Aber wenn man sie sah, wusste man, es waren Verbündete in der Nähe, man war auf heimischem Boden. Also dachte ich mir ...",
+    "de": "Weißt du, früher hatten wir tatsächlich eine Flagge - nun ja, eher einen Stofffetzen als alles andere. Trotzdem, sie zu sehen bedeutete, dass du wusstest, dass Verbündete in der Nähe waren, dass du auf deinem eigenen Territorium warst. Also, ich dachte...",
     "en": "Y'know, back in the day we actually used to have a flag - well, a scrap of cloth more than anything. Still, seeing it meant you knew you had allies nearby, that you were on your own home turf. So, I was thinking...",
     "es": "Sabes, en los viejos tiempos teníamos una bandera, bueno, más bien un trozo de tela. Aun así, verla significaba que sabías que tenías aliados cerca, que estabas en tu propio territorio. Así que estaba pensando...",
     "fr": "Tu sais, à l'époque, on avait vraiment un drapeau - enfin, un bout de tissu plus qu'autre chose. Quand même, le voir signifiait que tu savais que tu avais des alliés à proximité, que tu étais sur ton propre territoire. Alors, je me disais...",
@@ -46,11 +50,11 @@
     "zh-CN": "你知道吗，以前我们实际上有一面旗帜——嗯，与其说是旗帜不如说是一块破布。不过，看到它就意味着你知道附近有盟友，你在自己的地盘上。所以，我在想...",
     "zh-TW": "你知道嗎，以前我們實際上有一面旗幟——嗯，與其說是旗幟不如說是一塊破布。不過，看到它就意味著你知道附近有盟友，你在自己的地盤上。所以，我在想..."
   },
-  "objectivesOneRound": true,
   "objectives": [
     {
+      "ar": "الوصول إلى مخفر Formicai في ساحات معارك السد",
       "da": "Nå Formicai-udposten i Dam Battlegrounds",
-      "de": "Erreiche den Formicai-Außenposten auf den Damm-Schlachtfeldern",
+      "de": "Erreiche den Formicai-Außenposten in Dam Battlegrounds",
       "en": "Reach the Formicai Outpost in Dam Battlegrounds",
       "es": "Llega al puesto avanzado Formicai en Dam Battlegrounds",
       "fr": "Atteindre l'avant-poste Formicai dans Dam Battlegrounds",
@@ -71,8 +75,9 @@
       "zh-TW": "到達大壩戰場的福米凱前哨站"
     },
     {
+      "ar": "حدد موقع العلم في مخفر Formicai",
       "da": "Find flaget ved Formicai-udposten",
-      "de": "Suche die Flagge beim Formicai-Außenposten",
+      "de": "Finde die Flagge am Formicai-Außenposten",
       "en": "Locate the flag at the Formicai Outpost",
       "es": "Localiza la bandera en el puesto avanzado Formicai",
       "fr": "Localiser le drapeau à l'avant-poste Formicai",
@@ -93,8 +98,9 @@
       "zh-TW": "在福米凱前哨站找到旗幟"
     },
     {
+      "ar": "ارفع العلم على المنصة الصغيرة المطلة على البحيرة الحمراء",
       "da": "Hejs flaget på den lille platform med udsigt over Rødsjøen",
-      "de": "Hisse die Flagge auf der kleinen Plattform mit Blick auf die Roten Seen",
+      "de": "Hisse die Flagge auf der kleinen Plattform mit Blick auf den Roten See",
       "en": "Hoist the flag on the small platform overlooking the Red Lake",
       "es": "Iza la bandera en la pequeña plataforma con vista al Lago Rojo",
       "fr": "Hisser le drapeau sur la petite plateforme surplombant le Lac Rouge",
@@ -130,8 +136,14 @@
     }
   ],
   "xp": 0,
-  "previousQuestIds": ["ss10q"],
-  "nextQuestIds": ["ss10t", "ss10u", "ss10v"],
+  "previousQuestIds": [
+    "ss10q"
+  ],
+  "nextQuestIds": [
+    "ss10t",
+    "ss10u",
+    "ss10v"
+  ],
   "videoUrl": "https://www.youtube.com/watch?v=6Cb6aQWBt8U",
   "updatedAt": "01/13/2026"
 }

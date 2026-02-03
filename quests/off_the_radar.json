@@ -1,6 +1,7 @@
 {
   "id": "ss4",
   "name": {
+    "ar": "خارج الرادار",
     "da": "Uden for radaren",
     "de": "Unter dem Radar",
     "en": "Off The Radar",
@@ -22,7 +23,11 @@
     "zh-CN": "脱离雷达",
     "zh-TW": "脫離雷達"
   },
-  "map": ["buried_city", "the_spaceport", "dam_battlegrounds"],
+  "map": [
+    "buried_city",
+    "the_spaceport",
+    "dam_battlegrounds"
+  ],
   "trader": "Shani",
   "grantedItemIds": [
     {
@@ -31,11 +36,12 @@
     }
   ],
   "description": {
+    "ar": "الضرر هنا في الأسفل كان سيئاً للغاية، لكن البنية التحتية في الأعلى تضررت بشكل أسوأ. لا يزال لدي بعض الهوائيات التي لا تعمل منذ العاصفة.",
     "de": "Der Schaden hier unten war ziemlich übel, aber die Infrastruktur oben hat es noch schlimmer erwischt. Ich hab noch einige Antennen, die seit dem Sturm nicht mehr funktionieren."
   },
-  "objectivesOneRound": true,
   "objectives": [
     {
+      "ar": "قم بزيارة مستودع ميداني",
       "da": "Besøg et feltdepot",
       "de": "Ein Felddepot besuchen",
       "en": "Visit a Field Depot",
@@ -58,6 +64,7 @@
       "zh-TW": "訪問野外補給站"
     },
     {
+      "ar": "أصلح الهوائي الموجود على سطح المستودع الميداني",
       "da": "Reparer antennen på taget af feltdepotet",
       "de": "Die Antenne auf dem Dach des Felddepots reparieren",
       "en": "Repair the antenna on the roof of the Field Depot",
@@ -87,7 +94,12 @@
     }
   ],
   "xp": 0,
-  "previousQuestIds": ["ss2", "ss3"],
-  "nextQuestIds": ["ss5"],
+  "previousQuestIds": [
+    "ss2",
+    "ss3"
+  ],
+  "nextQuestIds": [
+    "ss5"
+  ],
   "updatedAt": "01/13/2026"
 }

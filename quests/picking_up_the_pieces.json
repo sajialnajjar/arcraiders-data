@@ -1,6 +1,7 @@
 {
   "id": "ss1",
   "name": {
+    "ar": "لملمة الشتات",
     "da": "Samle brikkerne op",
     "de": "Die Scherben aufsammeln",
     "en": "Picking Up The Pieces",
@@ -24,8 +25,9 @@
   },
   "trader": "Shani",
   "description": {
+    "ar": "لقد هدأت العاصفة في الغالب، لكن الكثير من بنيتنا التحتية تعرض لضربة قوية. إذا كنت تأمل في البقاء معنا، فأنا أحتاج منك أن تساهم بجهدك في عمليات الإصلاح.",
     "da": "Stormen har stort set lagt sig, men meget af vores infrastruktur har fået ordentlig bank. Hvis du håber at blive hos os, skal du bidrage til reparationsindsatsen.",
-    "de": "Der Sturm hat sich gelegt, aber große Teile unserer Infrastruktur haben ordentlich was abgekriegt. Wenn du bei uns bleiben willst, musst du deinen Beitrag zu den Reparaturarbeiten leisten.",
+    "de": "Der Sturm hat sich gelegt, aber große Teile unserer Infrastruktur haben ordentlich was abgekriegt. Wenn du bei uns bleiben willst, musst du deinen Beitrag zu den Reperaturarbeiten leisten.",
     "en": "The storm has mostly settled, but much of our infrastructure has taken a proper beating. If you're hoping to stay with us, I'll need you to pull your weight in the repair efforts.",
     "es": "La tormenta se ha calmado en su mayoría, pero gran parte de nuestra infraestructura ha recibido una buena paliza. Si esperas quedarte con nosotros, necesitaré que aportes tu parte en los esfuerzos de reparación.",
     "fr": "La tempête s'est calmée pour la plupart, mais une grande partie de notre infrastructure a été sérieusement endommagée. Si vous espérez rester avec nous, j'aurai besoin que vous participiez aux efforts de réparation.",
@@ -47,6 +49,7 @@
   },
   "objectives": [
     {
+      "ar": "قم بزيارة أي منطقة على خريطتك تحمل أيقونة فئة غنائم",
       "da": "Besøg et hvilket som helst område på dit kort med et bytteikon",
       "de": "Ein beliebiges Gebiet auf deiner Karte besuchen, das mit einem Beutekategorie-Symbol markiert ist",
       "en": "Visit any area on your map with a loot category icon",
@@ -69,6 +72,7 @@
       "zh-TW": "訪問地圖上任何帶有戰利品類別圖示的區域"
     },
     {
+      "ar": "اجمع الغنائم من 3 حاويات",
       "da": "Plyndre 3 containere",
       "de": "3 Container plündern",
       "en": "Loot 3 containers",
@@ -103,6 +107,9 @@
   ],
   "xp": 0,
   "previousQuestIds": [],
-  "nextQuestIds": ["ss2", "ss3"],
+  "nextQuestIds": [
+    "ss2",
+    "ss3"
+  ],
   "updatedAt": "01/13/2026"
 }

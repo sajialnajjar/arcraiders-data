@@ -1,6 +1,7 @@
 {
   "id": "ss8b",
   "name": {
+    "ar": "الشرر يتطاير",
     "da": "Gnister flyver",
     "de": "Fliegende Funken",
     "en": "Sparks Fly",
@@ -34,6 +35,7 @@
     }
   ],
   "description": {
+    "ar": "لدغات الدبابير (Hornet) تلك يمكن أن تؤذيك حقاً إذا كنت سيئ الحظ. وحتى لو دمرت واحدة، فإنك لا تزال تهدر طناً من الذخيرة. لقد كنت أعمل على طريقة أكثر أناقة لإسقاطها. هل تريد أن تجعل بعض الشرر يتطاير؟",
     "da": "De Hornet-stik kan virkelig ødelægge dig, hvis du er uheldig. Og selv hvis du ødelægger en, spilder du stadig en masse ammunition. Jeg har arbejdet på en mere elegant måde at tage dem ned på. Lyst til at få nogle gnister til at flyve?",
     "de": "Stiche von diesen Hornissen können einem echt übel mitspielen, wenn man Pech hat. Und selbst wenn man eine erledigt, vergeudet man dabei eine Menge Munition. Ich arbeite an einer eleganteren Lösung, um sie vom Himmel zu holen. Willst du Funken fliegen lassen?",
     "en": "Those Hornet stings can really mess you up, if you're unlucky. And even if you destroy one, you're still wasting a ton of ammo. I've been working on a more elegant way to bring them down. Care to make some sparks fly?",
@@ -57,6 +59,7 @@
   },
   "objectives": [
     {
+      "ar": "دمر Hornet باستخدام Trigger 'Nade أو Snap Blast",
       "da": "Ødelæg en Hornet med en Trigger 'Nade eller Snap Blast",
       "de": "Eine Hornisse mit einer Abzuggranate vernichten",
       "en": "Destroy a Hornet with a Trigger 'Nade or Snap Blast",
@@ -94,7 +97,11 @@
     }
   ],
   "xp": 0,
-  "previousQuestIds": ["ss8a"],
-  "nextQuestIds": ["the_league"],
+  "previousQuestIds": [
+    "ss8a"
+  ],
+  "nextQuestIds": [
+    "the_league"
+  ],
   "updatedAt": "01/13/2026"
 }

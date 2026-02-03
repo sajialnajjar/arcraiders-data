@@ -1,6 +1,7 @@
 {
   "id": "ss10o",
   "name": {
+    "ar": "حفظ الذكرى",
     "da": "Bevare mindet",
     "de": "In Erinnerung behalten",
     "en": "Keeping the Memory",
@@ -22,9 +23,12 @@
     "zh-CN": "保存记忆",
     "zh-TW": "保存記憶"
   },
-  "map": ["dam_battlegrounds"],
+  "map": [
+    "dam_battlegrounds"
+  ],
   "trader": "Celeste",
   "description": {
+    "ar": "لقد فقدت صوابي قليلاً عندما أرسلتك خلف ذلك الفخ. عادةً لا أفقد أعصابي، لكن الموجة الأولى... مررنا بالكثير آنذاك. فقدنا الكثير من الناس. لا يزال الجرح غائراً بالنسبة لي، لكني أردتك أن تتفهم.",
     "da": "Jeg mistede lidt besindelsen, da jeg sendte dig efter den fælde. Jeg mister normalt ikke besindelsen, men First Wave... Vi gik igennem meget dengang. Mistede mange mennesker. Det er stadig et åbent sår for mig, men jeg vil have, at du forstår.",
     "de": "Ich hab da etwas die Beherrschung verloren, als ich dich wegen der Falle losgeschickt hab. Ich verlier sonst nicht so leicht die Fassung, aber die Erste Welle... Wir haben damals viel durchgemacht. Wir haben viele verloren. Ich hab das noch nicht verwunden, aber ich will, dass du mich verstehst.",
     "en": "I lost my cool a bit when I sent you after that trap. I don't usually lose my temper, but the First Wave... We went through a lot, back then. Lost a lot of people. It's still a bit of a raw wound for me, but I want you to understand.",
@@ -46,9 +50,9 @@
     "zh-CN": "当我派你去处理那个陷阱时，我有点失控了。我通常不会发脾气，但第一波行动...那时我们经历了很多。失去了很多人。这对我来说仍然是一个未愈合的伤口，但我希望你能理解。",
     "zh-TW": "當我派你去處理那個陷阱時，我有點失控了。我通常不會發脾氣，但第一波行動...那時我們經歷了很多。失去了很多人。這對我來說仍然是一個未癒合的傷口，但我希望你能理解。"
   },
-  "objectivesOneRound": true,
   "objectives": [
     {
+      "ar": "الوصول إلى الحطام في تلال فورميكاي",
       "da": "Nå vraget i Formicai Hills",
       "de": "Geh zu dem Wrack am Formicai-Hügel",
       "en": "Reach the wreckage in the Formicai Hills",
@@ -71,6 +75,7 @@
       "zh-TW": "到達Formicai山丘的殘骸處"
     },
     {
+      "ar": "ابحث عن الخوذة المفقودة",
       "da": "Søg efter den forsvundne hjelm",
       "de": "Suche nach dem fehlenden Helm",
       "en": "Search for the missing helmet",
@@ -93,6 +98,7 @@
       "zh-TW": "尋找遺失的頭盔"
     },
     {
+      "ar": "أعد الخوذة إلى النصب التذكاري",
       "da": "Returner hjelmen til mindesmærket",
       "de": "Bring den Helm zurück zum Denkmal",
       "en": "Return the helmet to the memorial",
@@ -130,7 +136,11 @@
     }
   ],
   "xp": 0,
-  "previousQuestIds": ["ss10j"],
-  "nextQuestIds": ["ss10p"],
+  "previousQuestIds": [
+    "ss10j"
+  ],
+  "nextQuestIds": [
+    "ss10p"
+  ],
   "updatedAt": "01/13/2026"
 }

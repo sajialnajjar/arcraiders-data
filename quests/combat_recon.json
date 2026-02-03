@@ -1,6 +1,7 @@
 {
   "id": "combat_recon",
   "name": {
+    "ar": "استطلاع قتالي",
     "da": "Kamprekognoscering",
     "de": "Kampfaufklärung",
     "en": "Combat Recon",
@@ -15,14 +16,16 @@
     "pl": "Zwiad bojowy",
     "pt": "Reconhecimento de Combate",
     "pt-BR": "Reconhecimento de Combate",
-    "ru": "Разведка боем",
+    "ru": "Боевая разведка",
     "sr": "Borbena izvidnica",
     "tr": "Savaş Keşfi",
     "uk": "Бойова розвідка",
     "zh-CN": "战斗侦察",
     "zh-TW": "戰鬥偵察"
   },
-  "map": ["buried_city"],
+  "map": [
+    "buried_city"
+  ],
   "trader": "Shani",
   "grantedItemIds": [
     {
@@ -31,8 +34,9 @@
     }
   ],
   "description": {
+    "ar": "مع تجوال القاذفات في المكان، وجدت ARC طريقة جديدة تماماً لإخراج الـ Raiders من مخابئهم.\n\nإذا كنت تأمل في إسقاط واحدة، فستحتاج إلى شحذ مهاراتك واستراتيجيتك.",
     "da": "Med Bombardiers, der strejfer omkring, har ARC fundet en helt ny måde at drive Raiders ud af deres dækning.\n\nHvis du håber på at nedlægge en, skal du skærpe dine færdigheder og din strategi.",
-    "de": "Mit diesen Kanonieren haben die ARC einen komplett neuen Weg gefunden, um Raider aus ihrer Deckung zu locken.\n\nWenn du einen ausschalten willst, musst du deine Fertigkeiten und deine Strategie verbessern.",
+    "de": "Mit diesen Bombardiers, die hier herumstreifen, hat ARC einen ganz neuen Weg gefunden, Raiders aus der Deckung zu treiben.\n\nWenn du hoffst, einen zu erledigen, musst du deine Fähigkeiten und deine Strategie schärfen.",
     "en": "With those Bombardiers roaming around, ARC has found an entirely new way to flush Raiders out of cover.\n\nIf you're hoping to take one down, you'll need to sharpen your skills and your strategy.",
     "es": "Con esos Bombarderos rondando, ARC ha encontrado una forma completamente nueva de sacar a los Raiders de su cobertura.\n\nSi esperas derribar uno, necesitarás perfeccionar tus habilidades y tu estrategia.",
     "fr": "Avec ces Bombardiers qui rôdent, ARC a trouvé une toute nouvelle façon de débusquer les Raiders.\n\nSi tu espères en abattre un, tu devras affûter tes compétences et ta stratégie.",
@@ -54,8 +58,9 @@
   },
   "objectives": [
     {
+      "ar": "استطلع مكان غطاء في سلالم مرآب السيارات",
       "da": "Find et dækningssted i parkeringshusets trappeopgange",
-      "de": "Such dir im Treppenhaus des Parkhauses einen Platz zum Verstecken",
+      "de": "Kundschafte einen Deckungsplatz in den Treppenhäusern des Parkhauses aus",
       "en": "Scope out a cover spot in the Parking Garage staircases",
       "es": "Busca un lugar de cobertura en las escaleras del estacionamiento",
       "fr": "Repérer une zone de couverture dans les escaliers du parking",
@@ -76,8 +81,9 @@
       "zh-TW": "在停車庫樓梯間尋找掩護點"
     },
     {
+      "ar": "استطلع مكان غطاء في الحافلات بالقرب من حديقة مارانو",
       "da": "Find et dækningssted i busserne nær Marano Park",
-      "de": "Such dir einen Platz in den Bussen in der Nähe des Marano-Parks, wo du dich verstecken kannst",
+      "de": "Kundschafte einen Deckungsplatz in den Bussen beim Marano Park aus",
       "en": "Scope out a cover spot in the buses near Marano Park",
       "es": "Busca un lugar de cobertura en los autobuses cerca del Parque Marano",
       "fr": "Repérer une zone de couverture dans les bus près du parc Marano",
@@ -98,8 +104,9 @@
       "zh-TW": "在馬拉諾公園附近的巴士裡尋找掩護點"
     },
     {
+      "ar": "استطلع مكان غطاء في السندرات حول الشارع الرئيسي",
       "da": "Find et dækningssted på lofterne omkring Main Street",
-      "de": "Such dir in den Dachböden an der Hauptstraße einen Platz zum Verstecken",
+      "de": "Kundschafte einen Deckungsplatz auf den Dachböden rund um die Main Street aus",
       "en": "Scope out a cover spot in the attics around Main Street",
       "es": "Busca un lugar de cobertura en los áticos alrededor de Main Street",
       "fr": "Repérer une zone de couverture dans les greniers autour de Main Street",
@@ -120,8 +127,9 @@
       "zh-TW": "在主街周圍的閣樓裡尋找掩護點"
     },
     {
+      "ar": "دمر 2 مراقبين (Spotters)",
       "da": "Ødelæg 2 Spotters",
-      "de": "Zerstöre 2 Aufklärer",
+      "de": "Zerstöre 2 Spotter",
       "en": "Destroy 2 Spotters",
       "es": "Destruye 2 Observadores",
       "fr": "Détruire 2 Spotters",
@@ -142,8 +150,9 @@
       "zh-TW": "摧毀2個觀察者"
     },
     {
+      "ar": "سلم مرحل مراقب إلى شاني",
       "da": "Lever et Spotter-relæ til Shani",
-      "de": "Liefere ein Aufklärer-Relais an Shani",
+      "de": "Liefere ein Spotter-Relais bei Shani ab",
       "en": "Deliver a Spotter Relay to Shani",
       "es": "Entrega un relé de observador a Shani",
       "fr": "Livrer un relais de Spotter à Shani",
@@ -179,7 +188,11 @@
     }
   ],
   "xp": 0,
-  "previousQuestIds": ["ss10x5", "ss10v"],
-  "nextQuestIds": ["bombing_run"],
+  "previousQuestIds": [
+    "ss10x5"
+  ],
+  "nextQuestIds": [
+    "bombing_run"
+  ],
   "updatedAt": "01/27/2026"
 }

@@ -1,6 +1,7 @@
 {
   "id": "ss10h",
   "name": {
+    "ar": "نصب مكسور",
     "da": "Ødelagt monument",
     "de": "Zerstörtes Monument",
     "en": "Broken Monument",
@@ -22,7 +23,9 @@
     "zh-CN": "破碎的纪念碑",
     "zh-TW": "破碎的紀念碑"
   },
-  "map": ["dam_battlegrounds"],
+  "map": [
+    "dam_battlegrounds"
+  ],
   "trader": "Tian Wen",
   "requiredItemIds": [
     {
@@ -39,8 +42,9 @@
     }
   ],
   "description": {
+    "ar": "لدي موقع خاص آخر أحتاج أن تبحث فيه من أجلي. ساحة معركة قديمة، من الموجة الأولى. الـ Raiders في الوقت الحاضر عادة ما ينهبون أماكن كهذه، على الرغم من الأهمية التي كانت تحملها ذات يوم. الناس ينسون بسرعة. أسرع مما ينبغي.",
     "da": "Jeg har et andet specielt sted, jeg har brug for, at du gennemsøger for mig. En gammel slagmark, fra den første bølge. Raiders plejer normalt at plyndre sådanne steder i dag, på trods af den betydning, de engang havde. Folk glemmer hurtigt. Hurtigere end de burde.",
-    "de": "Es gibt danoch eine andere besondere Stelle, an der du für mich nachsehen sollst. Ein altes Schlachtfeld aus der Ersten Welle. Heutzutage grasen Raider solche Orte ab, trotz der besonderen Bedeutung. Die Leute vergessen schnell. Schneller, als sie sollten.",
+    "de": "Es gibt da noch eine andere besondere Stelle, an der du für mich nachsehen sollst. Ein altes Schlachtfeld aus der Ersten Welle. Heutzutage grasen Raider solche Orte ab, trotz der besonderen Bedeutung. Die Leute vergessen schnell. Schneller, als sie sollten.",
     "en": "I have another special site I need you to search for me. An old battlegrounds, from the First Wave. Raiders nowadays usually pick places like that clean, despite the significance they once held. People forget quickly. Quicker than they should.",
     "es": "Tengo otro sitio especial que necesito que registres para mí. Un antiguo campo de batalla, de la Primera Ola. Los Raiders hoy en día suelen saquear lugares como ese, a pesar de la importancia que alguna vez tuvieron. La gente olvida rápido. Más rápido de lo que debería.",
     "fr": "J'ai un autre site spécial que j'ai besoin que vous fouilliiez pour moi. Un ancien champ de bataille, de la Première Vague. Les Raiders de nos jours nettoient généralement des endroits comme ça, malgré l'importance qu'ils avaient autrefois. Les gens oublient vite. Plus vite qu'ils ne le devraient.",
@@ -60,9 +64,9 @@
     "zh-CN": "我还有一个特殊地点需要你去搜索。一个古老的战场，来自第一波。如今的掠夺者通常会把这样的地方洗劫一空，尽管它们曾经意义重大。人们很快就会忘记。比应该忘记的速度还快。",
     "zh-TW": "我還有一個特殊地點需要你去搜索。一個古老的戰場，來自第一波。如今的掠奪者通常會把這樣的地方洗劫一空，儘管它們曾經意義重大。人們很快就會忘記。比應該忘記的速度還快。"
   },
-  "objectivesOneRound": true,
   "objectives": [
     {
+      "ar": "الوصول إلى الأراضي المقدسة بجوار ساحة الخردة",
       "da": "Nå de hellige grunde ved skrotpladsen",
       "de": "Erreiche die heiligen Stätten beim Schrottplatz",
       "en": "Reach the hallowed grounds by the Scrap Yard",
@@ -85,6 +89,7 @@
       "zh-TW": "到達廢料場旁的神聖之地"
     },
     {
+      "ar": "ابحث عن بوصلة بالقرب من المركبات المعطلة",
       "da": "Søg efter et kompas nær de ødelagte køretøjer",
       "de": "Suche nach einem Kompass in der Nähe der liegen gebliebenen Fahrzeuge",
       "en": "Search for a compass near the broken-down vehicles",
@@ -107,6 +112,7 @@
       "zh-TW": "在損壞的車輛附近搜索指南針"
     },
     {
+      "ar": "ابحث عن شريط الفيديو بالقرب من الحاويات الأسطوانية",
       "da": "Søg efter videobåndet nær de cylindriske containere",
       "de": "Suche das Videoband in der Nähe der zylindrischen Container",
       "en": "Search for the video tape near the cylindrical containers",
@@ -129,6 +135,7 @@
       "zh-TW": "在圓柱形貨櫃附近搜索錄影帶"
     },
     {
+      "ar": "ابحث عن حصص الميدان القديمة في معسكر الـ Raider",
       "da": "Søg efter de gamle feltrationer i Raider-lejren",
       "de": "Suche nach den alten Feldrationen im Raider-Lager",
       "en": "Search for the old field rations in the Raider camp",
@@ -151,6 +158,7 @@
       "zh-TW": "在掠奪者營地搜索舊野戰口糧"
     },
     {
+      "ar": "سلم شريط الموجة الأولى إلى تيان وين",
       "da": "Lever den første bølge-bånd til Tian Wen",
       "de": "Übergib Tian Wen die Aufnahme der Ersten Welle",
       "en": "Deliver the First Wave Tape to Tian Wen",
@@ -173,6 +181,7 @@
       "zh-TW": "將第一波錄影帶交給田文"
     },
     {
+      "ar": "سلم بوصلة الموجة الأولى إلى تيان وين",
       "da": "Lever den første bølge-kompas til Tian Wen",
       "de": "Übergib Tian Wen den Erste-Welle-Kompass",
       "en": "Deliver First Wave Compass to Tian Wen",
@@ -195,6 +204,7 @@
       "zh-TW": "將第一波指南針交給田文"
     },
     {
+      "ar": "سلم حصص الموجة الأولى إلى تيان وين",
       "da": "Lever den første bølge-rationer til Tian Wen",
       "de": "Übergib Tian Wen die Erste-Welle-Rationen",
       "en": "Deliver First Wave Rations to Tian Wen",
@@ -232,7 +242,12 @@
     }
   ],
   "xp": 0,
-  "previousQuestIds": ["ss10e"],
-  "nextQuestIds": ["ss10i", "ss10j"],
+  "previousQuestIds": [
+    "ss10e"
+  ],
+  "nextQuestIds": [
+    "ss10i",
+    "ss10j"
+  ],
   "updatedAt": "01/13/2026"
 }

@@ -1,6 +1,7 @@
 {
   "id": "ss10x10",
   "name": {
+    "ar": "انقطاع التيار",
     "da": "Strømafbrydelse",
     "de": "Stromausfall",
     "en": "Power Out",
@@ -15,18 +16,21 @@
     "pl": "Brak prądu",
     "pt": "Queda de Energia",
     "pt-BR": "Sem Energia",
-    "ru": "Отключение энергии",
+    "ru": "Отключение электричества",
     "sr": "Nestanak struje",
     "tr": "Elektrik Kesintisi",
     "uk": "Відключення електроенергії",
     "zh-CN": "断电",
     "zh-TW": "斷電"
   },
-  "map": ["the_spaceport"],
+  "map": [
+    "the_spaceport"
+  ],
   "trader": "Celeste",
   "description": {
+    "ar": "هذا يتجاوز سوء الحظ. شيء ما — أو شخص ما — قد عطل بعض محطاتنا الكهربائية الفرعية. المهندس الذي أرسلته لإصلاحها لم يعد، لذا أحتاج إلى كل الـ Raiders المتاحين للتحقيق في الأمر. وهذا يشملك.",
     "da": "Dette går ud over uheld. Noget – eller nogen – har slået nogle af vores elektriske transformerstationer ud. Ingeniøren, jeg sendte ud for at reparere det, er ikke vendt tilbage, så jeg har brug for alle tilgængelige Raiders til at undersøge det. Det inkluderer dig.",
-    "de": "Das war nicht einfach Pech. Jemand - oder etwas - hat einige unserer Umspannwerke in die Mangel genommen. Der Ingenieur, den ich deswegen losgeschickt hab, ist nicht zurückgekommen. Deswegen müssen alle verfügbaren Raider sich der Sache annehmen. Auch du.",
+    "de": "Das geht über Pech hinaus. Etwas – oder jemand – hat einige unserer elektrischen Umspannwerke lahmgelegt. Der Ingenieur, den ich zur Reparatur geschickt habe, ist nicht zurückgekehrt, also brauche ich alle verfügbaren Raider, um der Sache nachzugehen. Das schließt dich ein.",
     "en": "This goes beyond bad luck. Something—or someone—has knocked out some of our electrical substations. The engineer I sent out to fix it hasn't returned, so I need all available Raiders to look into it. That includes you.",
     "es": "Esto va más allá de la mala suerte. Algo, o alguien, ha dejado fuera de servicio algunas de nuestras subestaciones eléctricas. El ingeniero que envié a repararlo no ha regresado, así que necesito que todos los Raiders disponibles investiguen. Eso te incluye a ti.",
     "fr": "Cela va au-delà de la malchance. Quelque chose – ou quelqu'un – a mis hors service certaines de nos sous-stations électriques. L'ingénieur que j'ai envoyé pour réparer n'est pas revenu, j'ai donc besoin de tous les Raiders disponibles pour enquêter. Ça vous inclut.",
@@ -46,11 +50,11 @@
     "zh-CN": "这已经超出了倒霉的范畴。某种东西——或者某个人——破坏了我们的一些变电站。我派去修理的工程师还没有回来，所以我需要所有可用的掠夺者去调查。包括你。",
     "zh-TW": "這已經超出了倒楣的範疇。某種東西——或者某個人——破壞了我們的一些變電站。我派去修理的工程師還沒有回來，所以我需要所有可用的掠奪者去調查。包括你。"
   },
-  "objectivesOneRound": true,
   "objectives": [
     {
+      "ar": "اعثر على المحطة الكهربائية الفرعية جنوب الميناء الفضائي، بجوار نقطة التفتيش",
       "da": "Find den elektriske transformerstation syd for rumhavnen, ved siden af kontrolpunktet",
-      "de": "Finde das Umspannwerk südlich des Raumhafens",
+      "de": "Finde das elektrische Umspannwerk südlich vom Raumhafen, neben dem Kontrollpunkt",
       "en": "Find the Electrical Substation south of the Spaceport, next to the Checkpoint",
       "es": "Encuentra la subestación eléctrica al sur del espaciopuerto, junto al punto de control",
       "fr": "Trouvez la sous-station électrique au sud du spatioport, à côté du point de contrôle",
@@ -71,8 +75,9 @@
       "zh-TW": "找到太空港南邊檢查站旁的變電站"
     },
     {
+      "ar": "ابحث عن أي أثر للمهندس المفقود",
       "da": "Find et tegn på den forsvundne ingeniør",
-      "de": "Hinweise auf den verschwundenen Ingenieur finden",
+      "de": "Finde irgendein Zeichen des vermissten Ingenieurs",
       "en": "Find any sign of the missing engineer",
       "es": "Encuentra cualquier señal del ingeniero desaparecido",
       "fr": "Trouvez un signe de l'ingénieur disparu",
@@ -93,8 +98,9 @@
       "zh-TW": "尋找失蹤工程師的任何跡象"
     },
     {
+      "ar": "احمل المصهر/البطارية وعد إلى المحطة الكهربائية الفرعية",
       "da": "Bær sikringen/batteriet tilbage til den elektriske transformerstation",
-      "de": "Installiere die Sicherung",
+      "de": "Bringe die Sicherung/Batterie zurück zum elektrischen Umspannwerk",
       "en": "Carry the fuse/battery back to the Electrical Substation",
       "es": "Lleva el fusible/batería de vuelta a la subestación eléctrica",
       "fr": "Rapportez le fusible/la batterie à la sous-station électrique",
@@ -115,8 +121,9 @@
       "zh-TW": "將保險絲/電池帶回變電站"
     },
     {
+      "ar": "قم بتفعيل مفتاح الطاقة في صندوق المصاهر",
       "da": "Aktiver strømkontakten på sikringsboksen",
-      "de": "Stelle die Energie wieder her",
+      "de": "Aktiviere den Netzschalter am Sicherungskasten",
       "en": "Enable the power switch on the Fuse Box",
       "es": "Activa el interruptor de energía en la caja de fusibles",
       "fr": "Activez l'interrupteur d'alimentation sur la boîte à fusibles",
@@ -156,7 +163,11 @@
     }
   ],
   "xp": 0,
-  "previousQuestIds": ["ss10x9"],
-  "nextQuestIds": ["ss10x11"],
+  "previousQuestIds": [
+    "ss10x9"
+  ],
+  "nextQuestIds": [
+    "ss10x11"
+  ],
   "updatedAt": "11/23/2025"
 }

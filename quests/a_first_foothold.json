@@ -1,6 +1,7 @@
 {
   "id": "ss11",
   "name": {
+    "ar": "موطئ قدم أول",
     "da": "Et første fodfæste",
     "de": "Der erste Schritt",
     "en": "A First Foothold",
@@ -22,9 +23,13 @@
     "zh-CN": "第一个立足点",
     "zh-TW": "第一個立足點"
   },
-  "map": ["the_blue_gate"],
+  "map": [
+    "the_blue_gate"
+  ],
   "trader": "Shani",
-  "otherRequirements": ["18x Raids"],
+  "otherRequirements": [
+    "18x Raids"
+  ],
   "grantedItemIds": [
     {
       "itemId": "noisemaker",
@@ -32,6 +37,7 @@
     }
   ],
   "description": {
+    "ar": "لقد انتهينا للتو من توسيع شبكة الأنفاق نحو البوابة الزرقاء، وما زلنا نعمل بجد בباقي. قام طاقمي ببناء بنية تحتية جديدة حول الوادي لحماية الـ Raiders لدينا، لكن تهديد ARC المستمر جعل من الصعب إنجاز أي شيء.",
     "da": "Vi er lige blevet færdige med at udvide Tube-netværket mod den Blå Port, og vi arbejder stadig på resten. Mit mandskab har bygget ny infrastruktur rundt om dalen for at beskytte vores Raiders, men den konstante ARC-trussel har gjort det svært at få noget gjort.",
     "de": "Wir haben gerade erst die U-Bahn-Linie bis zum Blauen Tor verlängert und arbeiten immer noch am Rest. Meine Leute haben rund um das Tal neue Infrastruktur gebaut, um unsere Raider zu schützen, aber die ständige Bedrohung durch die ARC macht es echt schwer, was zu erledigen.",
     "en": "We've only just finished expanding the Tube network towards the Blue Gate, and we're still laboring away at the rest. My crew's been building new infrastructure around the valley to safeguard our Raiders, but the constant ARC threat has made it difficult to get anything done.",
@@ -55,6 +61,7 @@
   },
   "objectives": [
     {
+      "ar": "ثبّت منصة المراقبة بالقرب من خط الجرف",
       "da": "Stabiliser observationsdækket nær højderyggen",
       "de": "Stabilisiere die Aussichtsplattform in der Nähe des Bergkamms",
       "en": "Stabilize the observation deck near the Ridgeline",
@@ -77,8 +84,9 @@
       "zh-TW": "穩固山脊線附近的觀察台"
     },
     {
+      "ar": "فعّل محطة الاتصالات بالقرب من بستان الزيتون",
       "da": "Aktiver kommunikationsterminalen nær olivenlunden",
-      "de": "Aktiviere das Kommunikationsterminal in der Nähe des Dlivenhains",
+      "de": "Aktiviere das Kommunikationsterminal in der Nähe des Olivenhains",
       "en": "Enable the comms terminal near the Olive Grove",
       "es": "Activa el terminal de comunicaciones cerca del olivar",
       "fr": "Activer le terminal de communication près de l'Oliveraie",
@@ -99,6 +107,7 @@
       "zh-TW": "啟用橄欖林附近的通訊終端"
     },
     {
+      "ar": "قم بتدوير أطباق الأقمار الصناعية على سطح الكنيسة، شمال خزانة البيانات",
       "da": "Drej satellitantennerne på kirketaget, nord for datahvælvingen",
       "de": "Dreh die Satellitenschüsseln auf dem Dach der Kirche, nördlich vom Datentresor",
       "en": "Rotate the satellite dishes on the church roof, north of the Data Vault",
@@ -121,8 +130,9 @@
       "zh-TW": "旋轉資料庫北側教堂屋頂上的衛星天線"
     },
     {
+      "ar": "ثبّت ألواح السقف على هيكل الـ Raider بالقرب من فسحة الصياد",
       "da": "Søm tagpladerne fast på Raider-strukturen nær Trapper's Glade",
-      "de": "Nagele die Dachplatten an der Raider- Konstruktion in der Nähe von der Trapper-Waldwiese fest",
+      "de": "Nagele die Dachplatten an der Raider-Konstruktion in der Nähe von der Trapper-Waldwiese fest",
       "en": "Nail down the roof plates on the Raider structure near Trapper's Glade",
       "es": "Clava las placas del techo en la estructura Raider cerca del claro del trampero",
       "fr": "Fixer les plaques de toit sur la structure de Raider près de la Clairière du trappeur",
@@ -159,6 +169,8 @@
   ],
   "xp": 0,
   "previousQuestIds": [],
-  "nextQuestIds": ["ss11a"],
+  "nextQuestIds": [
+    "ss11a"
+  ],
   "updatedAt": "01/13/2026"
 }

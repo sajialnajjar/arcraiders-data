@@ -1,6 +1,7 @@
 {
   "id": "with_a_view",
   "name": {
+    "ar": "مع إطلالة",
     "da": "Med Udsigt",
     "de": "Mit Aussicht",
     "en": "With A View",
@@ -22,9 +23,12 @@
     "zh-CN": "视野开阔",
     "zh-TW": "視野開闊"
   },
-  "map": ["stella_montis"],
+  "map": [
+    "stella_montis"
+  ],
   "trader": "Shani",
   "description": {
+    "ar": "هل لاحظت يوماً خطوط الضوء التي تنطلق عبر السماء؟\n\nلقد رأيت الكثير لدرجة أنني لا أستطيع تصديق أنها طبيعية، ولكن الأمر يتطلب أكثر من مجرد حدس لإقناع سيليست.",
     "da": "Har du nogensinde lagt mærke til de lysstriber, der farer over himlen?\n\nJeg har set for meget til at tro, at de er naturlige, men der skal mere end en fornemmelse til for at overbevise Celeste.",
     "de": "Hast du schon mal diese Lichtstreifen bemerkt, die über den Himmel schießen?\n\nIch habe zu viel gesehen, um zu glauben, dass sie natürlich sind, aber es braucht mehr als eine Ahnung, um Celeste zu überzeugen.",
     "en": "Have you ever noticed those streaks of light darting across the skies?\n\nI've seen too much to believe they're natural, but it'll take more than a hunch to convince Celeste.",
@@ -48,6 +52,7 @@
   },
   "objectives": [
     {
+      "ar": "احصل على Rotary Encoder",
       "da": "Skaf en roterende indkoder",
       "de": "Beschaffe einen Drehgeber",
       "en": "Obtain a Rotary Encoder",
@@ -70,6 +75,7 @@
       "zh-TW": "獲取一個旋轉編碼器"
     },
     {
+      "ar": "قم بزيارة أي من غرف التحكم بالقرب من خط التجميع",
       "da": "Besøg et af kontrolrummene nær samlebåndet",
       "de": "Besuche einen der Kontrollräume in der Nähe der Montagelinie",
       "en": "Visit any of the Control Rooms near the Assembly Line",
@@ -92,6 +98,7 @@
       "zh-TW": "訪問裝配線附近的任何控制室"
     },
     {
+      "ar": "استخدم Rotary Encoder لتفعيل مفتاح الخادم",
       "da": "Brug den roterende indkoder til at aktivere serverkontakten",
       "de": "Benutze den Drehgeber, um den Server-Schalter zu aktivieren",
       "en": "Use the Rotary Encoder to activate the server switch",
@@ -114,6 +121,7 @@
       "zh-TW": "使用旋轉編碼器激活伺服器開關"
     },
     {
+      "ar": "تفاعل مع جهاز كمبيوتر قريب للمساعدة في تحديد الأجزاء الصحيحة",
       "da": "Interager med en computer i nærheden for at hjælpe med at identificere de rigtige dele",
       "de": "Interagiere mit einem nahegelegenen Computer, um die richtigen Teile zu identifizieren",
       "en": "Interact with a nearby computer to help identify the correct parts",
@@ -136,6 +144,7 @@
       "zh-TW": "與附近的電腦互動以幫助識別正確的零件"
     },
     {
+      "ar": "سلم Ion Sputter إلى Shani",
       "da": "Lever en ionforstøver til Shani",
       "de": "Liefere einen Ionenzerstäuber bei Shani ab",
       "en": "Deliver an Ion Sputter to Shani",
@@ -173,7 +182,9 @@
     }
   ],
   "xp": 0,
-  "previousQuestIds": ["12_snap_and_salvage"],
-  "nextQuestIds": ["movie_night"],
-  "updatedAt": "01/29/2026"
+  "previousQuestIds": [
+    "12_snap_and_salvage"
+  ],
+  "nextQuestIds": [],
+  "updatedAt": "01/27/2026"
 }

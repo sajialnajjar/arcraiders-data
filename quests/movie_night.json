@@ -1,6 +1,7 @@
 {
   "id": "movie_night",
   "name": {
+    "ar": "ليلة الفيلم",
     "da": "Filmaften",
     "de": "Filmabend",
     "en": "Movie Night",
@@ -22,7 +23,9 @@
     "zh-CN": "电影之夜",
     "zh-TW": "電影之夜"
   },
-  "map": ["stella_montis"],
+  "map": [
+    "stella_montis"
+  ],
   "trader": "Apollo",
   "grantedItemIds": [
     {
@@ -35,6 +38,7 @@
     }
   ],
   "description": {
+    "ar": "الجميع على حافة الهاوية منذ انتشار الشائعات عن إشارة ARC تلك. كنت أفكر في أن ليلة مشاهدة فيلم ستكون وسيلة إلهاء رائعة، لكني أفتقد بعض الإمدادات الأساسية.\nستساعدني، أليس كذلك؟",
     "da": "Alle har været på dupperne, lige siden rygterne om det ARC-signal spredte sig. Jeg tænkte, at en filmaften ville være en god adspredelse, men jeg mangler nogle vigtige forsyninger.\nDu hjælper mig, ikke?",
     "de": "Alle sind nervös, seit sich Gerüchte über dieses ARC-Signal verbreitet haben. Ich dachte, ein Filmabend wäre eine tolle Ablenkung, aber mir fehlen einige wichtige Vorräte.\nDu hilfst mir doch, oder?",
     "en": "Everyone's been on edge ever since rumors of that ARC signal spread. I was thinking a movie night would be a great distraction, but I'm missing some crucial supplies.\nYou'll help me out, yeah?",
@@ -58,6 +62,7 @@
   },
   "objectives": [
     {
+      "ar": "سلم تلفزيون محمول إلى أبولو",
       "da": "Lever et bærbart tv til Apollo",
       "de": "Liefere einen tragbaren Fernseher bei Apollo ab",
       "en": "Deliver a Portable TV to Apollo",
@@ -80,6 +85,7 @@
       "zh-TW": "將一台便攜式電視交給阿波羅"
     },
     {
+      "ar": "في ستيلا مونتيس، ابحث في الأرشيف الثقافي عن أشرطة أفلام قديمة",
       "da": "På Stella Montis skal du søge i kulturarkiverne efter gamle filmbånd",
       "de": "Suche auf Stella Montis in den Kulturarchiven nach alten Filmbändern",
       "en": "On Stella Montis, search the Cultural Archives for old movie tapes",
@@ -102,6 +108,7 @@
       "zh-TW": "在斯特拉蒙蒂斯，去文化檔案館搜尋舊電影錄影帶"
     },
     {
+      "ar": "سلم مجموعة أشرطة الأفلام إلى أبولو",
       "da": "Lever stakken af filmbånd til Apollo",
       "de": "Liefere den Stapel Filmbänder bei Apollo ab",
       "en": "Deliver the Stack of Movie Tapes to Apollo",
@@ -138,6 +145,8 @@
       "quantity": 1
     }
   ],
-  "previousQuestIds": ["with_a_view"],
-  "updatedAt": "01/29/2026"
+  "previousQuestIds": [
+    "the_league"
+  ],
+  "updatedAt": "01/27/2026"
 }

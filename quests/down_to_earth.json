@@ -1,6 +1,7 @@
 {
   "id": "ss6",
   "name": {
+    "ar": "على أرض الواقع",
     "da": "Ned på jorden",
     "de": "Bodenständig",
     "en": "Down To Earth",
@@ -22,7 +23,11 @@
     "zh-CN": "脚踏实地",
     "zh-TW": "腳踏實地"
   },
-  "map": ["buried_city", "the_spaceport", "dam_battlegrounds"],
+  "map": [
+    "buried_city",
+    "the_spaceport",
+    "dam_battlegrounds"
+  ],
   "trader": "Shani",
   "grantedItemIds": [
     {
@@ -31,11 +36,12 @@
     }
   ],
   "description": {
-    "de": "Raider berichten schon lange von seltsam aussehenden Kisten, die aus defekten ARC-Sonden fallen. Wenn wir die irgendwie öffnen könnten, verstehen wir vielleicht, wonach sie suchen."
+    "ar": "أبلغ الـ Raiders منذ فترة طويلة عن صناديق غريبة الشكل تسقط من مسابير ARC المعطلة. إذا تمكنا من فتحها بطريقة ما، فقد نفهم ما يبحثون عنه.",
+    "de": "Raider berichten schon lange von seltsam aussehenden Kisten, die aus defekten ARC-Sondern fallen. Wenn wir die irgendwie öffnen könnten, verstehen wir vielleicht, wonach sie suchen."
   },
-  "objectivesOneRound": true,
   "objectives": [
     {
+      "ar": "قم بزيارة مستودع ميداني",
       "da": "Besøg et feltdepot",
       "de": "Ein Felddepot besuchen",
       "en": "Visit a Field Depot",
@@ -58,6 +64,7 @@
       "zh-TW": "訪問野外倉庫"
     },
     {
+      "ar": "سلم صندوق ميداني إلى محطة الإمداد",
       "da": "Lever en feltkasse til forsyningsstationen",
       "de": "Feldkiste an ein Felddepot liefern",
       "en": "Deliver a Field Crate to Supply Station",
@@ -80,6 +87,7 @@
       "zh-TW": "將野外箱子運送到補給站"
     },
     {
+      "ar": "اجمع المكافأة",
       "da": "Indsaml belønningen",
       "de": "Sammle die Belohnung ein",
       "en": "Collect the reward",
@@ -113,7 +121,11 @@
     }
   ],
   "xp": 0,
-  "previousQuestIds": ["ss5a"],
-  "nextQuestIds": ["ss9"],
+  "previousQuestIds": [
+    "ss5a"
+  ],
+  "nextQuestIds": [
+    "ss9"
+  ],
   "updatedAt": "01/13/2026"
 }

@@ -1,6 +1,7 @@
 {
   "id": "ss10e",
   "name": {
+    "ar": "ما تركناه خلفنا",
     "da": "Hvad vi efterlod",
     "de": "Was wir zurückließen",
     "en": "What We Left Behind",
@@ -22,9 +23,14 @@
     "zh-CN": "我们留下的东西",
     "zh-TW": "我們留下的東西"
   },
-  "map": ["buried_city", "the_spaceport", "dam_battlegrounds"],
+  "map": [
+    "buried_city",
+    "the_spaceport",
+    "dam_battlegrounds"
+  ],
   "trader": "Tian Wen",
   "description": {
+    "ar": "أخبرتني سيليست أنك الشخص الذي ساعدها في مطاردتي للمساهمة أكثر. سأقول هذا مرة واحدة: أنا لا أقدر التدخل، ولدي أسبابي الخاصة للرفض. ومع ذلك، أنا أقدر الخردة. بما أنك تبدو جيداً في تعقبها، فقد تكون لدي مهمة لك.",
     "da": "Celeste fortalte mig, at du er den, der hjælp hende med at presse mig til at bidrage mere. Jeg siger det én gang: Jeg sætter ikke pris på indblanding, og jeg har mine egne grunde til at afslå. Jeg sætter dog pris på skrot. Siden du tilsyneladende er god til at spore det op, har jeg måske en opgave til dig.",
     "de": "Celeste sagte mir, du hättest ihr dabei geholfen, mich anzubetteln. Ich sag's nur einmal: Ich mag keine Einmischungen, und ich habe meine Gründe für meine Ablehnung. Den Schrott weiß ich allerdings zu schätzen. Da du offensichtlich gut darin bist, das Zeuf zu finden, hätte ich vielleicht eine Aufgabe für dich.",
     "en": "Celeste told me you're the one who helped her hound me about pitching in more. I'll say this once: I don't appreciate the meddling, and I have my own reasons for refusing. I do, however, appreciate the scrap. Since you're apparently good at tracking it down, I may have a task for you.",
@@ -48,6 +54,7 @@
   },
   "objectives": [
     {
+      "ar": "في المدينة المدفونة، فتش حاويتين في مخيم Raider أسفل مرآب السيارات",
       "da": "På Buried City, gennemsøg 2 containere i Raider-lejren under parkeringshuset",
       "de": "Durchsuche 2 Container im Raider-Lager unter dem Parkhaus in der Begrabenen Stadt",
       "en": "On Buried City, search 2 containers in the Raider Camp beneath the Parking Garage",
@@ -70,6 +77,7 @@
       "zh-TW": "在掩埋之城，搜索停車場下方掠奪者營地的2個貨櫃"
     },
     {
+      "ar": "في Dam Battlegrounds، ابحث عن أي شيء مهم في موقع المستنقع الجنوبي (South Swamp Outpost)",
       "da": "På Dam Battlegrounds, søg efter noget betydningsfuldt i den sydlige sump-udpost",
       "de": "Suche im Südlichen Sumpfaußenposten auf den Damm-Schlachtfeldern nach allem, was von Bedeutung sein könnte",
       "en": "On Dam Battlegrounds, search for anything significant in the South Swamp Outpost",
@@ -92,6 +100,7 @@
       "zh-TW": "在大壩戰場，在南部沼澤前哨站搜索任何重要物品"
     },
     {
+      "ar": "في الميناء الفضائي، ابحث عن أي شيء مهم في مخبأ Bilguun، بجوار مخزن الحاويات",
       "da": "På Spaceport, søg efter noget betydningsfuldt i Bilguuns skjulested, ved siden af containeropbevaringen",
       "de": "Suche in Bilguuns Versteck neben dem Containerlager im Raumhafen nach allem, was von Bedeutung sein könnte",
       "en": "On Spaceport, search for anything significant in Bilguun's Hideout, next to the Container Storage",
@@ -129,7 +138,11 @@
     }
   ],
   "xp": 0,
-  "previousQuestIds": ["ss10b"],
-  "nextQuestIds": ["ss10h"],
+  "previousQuestIds": [
+    "ss10b"
+  ],
+  "nextQuestIds": [
+    "ss10h"
+  ],
   "updatedAt": "01/13/2026"
 }

@@ -1,6 +1,7 @@
 {
   "id": "ss10k",
   "name": {
+    "ar": "استطلاع الأرض",
     "da": "Et overblik over terrænet",
     "de": "Eine Lagebeschreibung",
     "en": "A Lay of the Land",
@@ -22,11 +23,14 @@
     "zh-CN": "地形勘察",
     "zh-TW": "地形勘察"
   },
-  "map": ["the_spaceport"],
+  "map": [
+    "the_spaceport"
+  ],
   "trader": "Shani",
   "description": {
+    "ar": "تلك الدمدمة البعيدة تصبح أقل بعداً مع مرور كل يوم. لدي خيط حول بعض ماسحات LiDAR التي قد تساعدنا في مراقبة الهزات. أنت ترغب في الاحتفاظ بسقف فوق رأسك، أليس كذلك؟",
     "da": "De fjerne drøn bliver mindre fjerne for hver dag der går. Jeg har et spor om nogle LiDAR-scannere, der kan hjælpe os med at overvåge rystelserne. Du vil gerne beholde et tag over hovedet, ikke?",
-    "de": "Dieses Rumpeln in der Ferne ist jeden Tag etwas weniger fern. Ich hab da einen Hinweis auf Lidar-Scanner, die uns helfen könnten, die Erschütterungen zu registrieren. Du möchtest doch auch dein Dach über dem Kopf behalten, nicht wahr?",
+    "de": "Diese fernen Grollen werden mit jedem Tag weniger fern. Ich habe einen Hinweis auf einige LiDAR-Scanner, die uns helfen könnten, die Erschütterungen zu überwachen. Du willst doch ein Dach über dem Kopf behalten, oder?",
     "en": "Those distant rumbles are getting less distant with each passing day. I have a lead on some LiDAR scanners that may help us monitor the tremors. You do want to keep a roof over your head, don't you?",
     "es": "Esos retumbos distantes se vuelven menos distantes con cada día que pasa. Tengo una pista sobre unos escáneres LiDAR que pueden ayudarnos a monitorear los temblores. Quieres mantener un techo sobre tu cabeza, ¿verdad?",
     "fr": "Ces grondements lointains se rapprochent de jour en jour. J'ai une piste sur des scanners LiDAR qui pourraient nous aider à surveiller les tremblements. Vous voulez bien garder un toit au-dessus de votre tête, n'est-ce pas ?",
@@ -46,9 +50,9 @@
     "zh-CN": "那些遥远的隆隆声每天都在变得越来越近。我有一些LiDAR扫描仪的线索，可以帮助我们监测震动。你总想头顶有个屋顶吧？",
     "zh-TW": "那些遙遠的隆隆聲每天都在變得越來越近。我有一些LiDAR掃描儀的線索，可以幫助我們監測震動。你總想頭頂有個屋頂吧？"
   },
-  "objectivesOneRound": true,
   "objectives": [
     {
+      "ar": "الوصول إلى مستودع جيانغسو",
       "da": "Nå Jiangsu-lageret",
       "de": "Erreiche das Jiangsu-Lagerhaus",
       "en": "Reach the Jiangsu Warehouse",
@@ -71,6 +75,7 @@
       "zh-TW": "抵達江蘇倉庫"
     },
     {
+      "ar": "اعثر على ملاحظات الشحن في مكتب رئيس العمال",
       "da": "Find forsendelsesnoterne på formandens kontor",
       "de": "Finde die Versandnotizen im Büro des Vorarbeiters",
       "en": "Find the shipping notes in the foreman's office",
@@ -93,8 +98,9 @@
       "zh-TW": "在工頭辦公室找到運輸記錄"
     },
     {
+      "ar": "حدد موقع الماسحات الضوئية في الطابق العلوي من برج المراقبة A6",
       "da": "Find scannerne på øverste etage i kontroltårn A6",
-      "de": "Finde die Scanner im Büro der Flugsteuerung des Kontrollturms A6",
+      "de": "Finde die Scanner im oberen Stockwerk des Kontrollturms A6",
       "en": "Locate the scanners on the upper floor of Control Tower A6",
       "es": "Localiza los escáneres en el piso superior de la torre de control A6",
       "fr": "Localiser les scanners à l'étage supérieur de la Tour de contrôle A6",
@@ -115,8 +121,9 @@
       "zh-TW": "在A6控制塔上層找到掃描儀"
     },
     {
+      "ar": "سلم 1 ماسح LiDAR إلى شاني",
       "da": "Lever 1 LiDAR-scanner til Shani",
-      "de": "Bring 1 Lidar-Scanner zu Shani",
+      "de": "Liefere 1 LiDAR-Scanner an Shani",
       "en": "Deliver 1 LiDAR Scanners to Shani",
       "es": "Entrega 1 escáner LiDAR a Shani",
       "fr": "Livrer 1 scanner LiDAR à Shani",
@@ -152,8 +159,12 @@
     }
   ],
   "xp": 0,
-  "previousQuestIds": ["ss10g"],
-  "nextQuestIds": ["ss10s"],
+  "previousQuestIds": [
+    "ss10g"
+  ],
+  "nextQuestIds": [
+    "ss10s"
+  ],
   "videoUrl": "https://youtu.be/pWXjplDChHc",
   "updatedAt": "11/23/2025"
 }

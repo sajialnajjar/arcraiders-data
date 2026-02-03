@@ -1,6 +1,7 @@
 {
   "id": "ss10t",
   "name": {
+    "ar": "يوميات سيليست",
     "da": "Celestes dagbøger",
     "de": "Celestes Tagebücher",
     "en": "Celeste's Journals",
@@ -22,7 +23,9 @@
     "zh-CN": "塞莱斯特的日记",
     "zh-TW": "賽蕾絲特的日記"
   },
-  "map": ["dam_battlegrounds"],
+  "map": [
+    "dam_battlegrounds"
+  ],
   "trader": "Celeste",
   "requiredItemIds": [
     {
@@ -31,8 +34,9 @@
     }
   ],
   "description": {
+    "ar": "حسناً، هذا محرج... فقدت اثنين من يومياتي أثناء بعض عمليات تفتيش المخافر في آخر مرة كنت فيها على السطح. هل يمكنك التوجه إلى هناك ومحاولة العثور عليها قبل أن يتعثر بها شخص آخر؟",
     "da": "Okay, så dette er akavet... Jeg mistede to af mine dagbøger under nogle udpostinspektioner sidste gang jeg var på overfladen. Kunne du tage derhen og prøve at finde dem tilbage, før nogen andre snubler over dem?",
-    "de": "Also, das ist mir etwas peinlich. Als ich das letzte Mal an der Oberfläche war, um Außenposten zu inspizieren, hab ich zwei meiner Tagebücher verloren. Könntest du losziehen und sie finden, bevor es jemand anders tut?",
+    "de": "Okay, das ist jetzt peinlich... Ich habe zwei meiner Tagebücher bei einigen Außenposteninspektionen verloren, als ich das letzte Mal an der Oberfläche war. Könntest du dorthin gehen und versuchen, sie zurückzufinden, bevor jemand anderes über sie stolpert?",
     "en": "Okay, so this is awkward... I lost two of my journals during some outpost inspections last time I went topside. Could you head out there and try to find them back before someone else stumbles on them?",
     "es": "Vale, esto es incómodo... Perdí dos de mis diarios durante algunas inspecciones de puestos avanzados la última vez que fui a la superficie. ¿Podrías ir allí e intentar encontrarlos antes de que alguien más se tropiece con ellos?",
     "fr": "Bon, c'est gênant... J'ai perdu deux de mes journaux lors d'inspections d'avant-postes la dernière fois que je suis allée en surface. Pourrais-tu aller là-bas et essayer de les retrouver avant que quelqu'un d'autre ne tombe dessus ?",
@@ -52,11 +56,11 @@
     "zh-CN": "好吧，这有点尴尬……我上次去地面检查前哨站时弄丢了两本日记。你能去那里帮我找回来吗？最好在别人发现之前找到它们。",
     "zh-TW": "好吧，這有點尷尬……我上次去地面檢查前哨站時弄丟了兩本日記。你能去那裡幫我找回來嗎？最好在別人發現之前找到它們。"
   },
-  "objectivesOneRound": true,
   "objectives": [
     {
+      "ar": "استرجع يوميات سيليست من مخفر المستنقع الجنوبي",
       "da": "Hent Celestes dagbøger fra Syd-Sump-udposten",
-      "de": "Hol Celestes Tagebücher aus dem Südlichen Sumpfaußenposten",
+      "de": "Hole Celestes Tagebücher vom Südlichen Sumpf-Außenposten",
       "en": "Retrieve Celeste's Journals from the South Swamp Outpost",
       "es": "Recupera los diarios de Celeste del puesto avanzado del pantano sur",
       "fr": "Récupérer les journaux de Celeste à l'avant-poste du marais sud",
@@ -77,8 +81,9 @@
       "zh-TW": "從南部沼澤前哨站取回賽蕾絲特的日記"
     },
     {
+      "ar": "استرجع يوميات سيليست من المخفر الشمالي المطل على البحيرات الحمراء",
       "da": "Hent Celestes dagbøger fra den nordlige udpost med udsigt over de røde søer",
-      "de": "Hol Celestes Tagebücher aus dem nördlichen Außenposten mit Blick auf die Roten Seen",
+      "de": "Hole Celestes Tagebücher vom nördlichen Außenposten mit Blick auf die Roten Seen",
       "en": "Retrieve Celeste's Journals from the northern outpost overlooking the Red Lakes",
       "es": "Recupera los diarios de Celeste del puesto avanzado norte con vistas a los Lagos Rojos",
       "fr": "Récupérer les journaux de Celeste à l'avant-poste nord surplombant les lacs rouges",
@@ -99,8 +104,9 @@
       "zh-TW": "從俯瞰紅湖的北部前哨站取回賽蕾絲特的日記"
     },
     {
+      "ar": "سلم يوميتين إلى سيليست",
       "da": "Lever 2 dagbøger til Celeste",
-      "de": "Bring 2 Tagebücher zu Celeste",
+      "de": "Liefere 2 Tagebücher an Celeste",
       "en": "Deliver 2 Journals to Celeste",
       "es": "Entrega 2 diarios a Celeste",
       "fr": "Livrer 2 journaux à Celeste",
@@ -136,7 +142,11 @@
     }
   ],
   "xp": 0,
-  "previousQuestIds": ["ss10r"],
-  "nextQuestIds": ["ss10w"],
+  "previousQuestIds": [
+    "ss10r"
+  ],
+  "nextQuestIds": [
+    "ss10w"
+  ],
   "updatedAt": "01/13/2026"
 }

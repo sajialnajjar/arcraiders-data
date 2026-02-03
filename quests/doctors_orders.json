@@ -1,6 +1,7 @@
 {
   "id": "ss10c",
   "name": {
+    "ar": "أوامر الطبيب",
     "da": "Lægens ordrer",
     "de": "Ärztliche Anweisung",
     "en": "Doctor's Orders",
@@ -42,6 +43,7 @@
     }
   ],
   "description": {
+    "ar": "اسمع يا مبتدئ: إذا كنت تريد مني أن أعالجك، فمن الأفضل أن تثبت أن أطرافك الثمينة تلك تستحق التضميد.",
     "da": "Hør her, nybegynder: hvis du vil have mig til at behandle dig, skal du hellere bevise, at de dyrebare lemmer af dig er værd at forbinde.",
     "de": "Also, Neuankömmling: Wenn ich dich behandeln soll, beweist du mir besser erst mal, dass du meine Verbände wert bist.",
     "en": "Say, newbie: if you want me to treat you, you better prove that those precious limbs of yours are worth bandaging.",
@@ -65,6 +67,7 @@
   },
   "objectives": [
     {
+      "ar": "احصل على حقنة واحدة",
       "da": "Få 1 sprøjte",
       "de": "Beschaffe 1 Spritze",
       "en": "Obtain 1 Syringe",
@@ -87,6 +90,7 @@
       "zh-TW": "獲得1個注射器"
     },
     {
+      "ar": "احصل على 2 مطهر",
       "da": "Få 2 antiseptisk middel",
       "de": "Beschaffe 2 Desinfektionsmittel",
       "en": "Obtain 2 Antiseptic",
@@ -109,6 +113,7 @@
       "zh-TW": "獲得2個消毒劑"
     },
     {
+      "ar": "احصل على 1 قماش متين",
       "da": "Få 1 holdbart stof",
       "de": "Beschaffe 1 strapazierfähiges Stoffstück",
       "en": "Obtain 1 Durable Cloth",
@@ -131,6 +136,7 @@
       "zh-TW": "獲得1個耐用布料"
     },
     {
+      "ar": "احصل على 1 عشبة آذان الدب",
       "da": "Få 1 kongelys",
       "de": "Beschaffe 1 Kleinblütige Königskerze",
       "en": "Obtain 1 Great Mullein",
@@ -168,7 +174,11 @@
     }
   ],
   "xp": 0,
-  "previousQuestIds": ["ss10a"],
-  "nextQuestIds": ["ss10f"],
+  "previousQuestIds": [
+    "ss10a"
+  ],
+  "nextQuestIds": [
+    "ss10f"
+  ],
   "updatedAt": "01/13/2026"
 }

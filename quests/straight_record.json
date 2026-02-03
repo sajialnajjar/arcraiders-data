@@ -1,8 +1,9 @@
 {
   "id": "ss10j",
   "name": {
+    "ar": "سجل نظيف",
     "da": "Ren protokol",
-    "de": "Klare Verhältnisse",
+    "de": "Gute Aufnahme",
     "en": "Straight Record",
     "es": "Registro limpio",
     "fr": "Enregistrement direct",
@@ -22,7 +23,9 @@
     "zh-CN": "清白记录",
     "zh-TW": "清白紀錄"
   },
-  "map": ["dam_battlegrounds"],
+  "map": [
+    "dam_battlegrounds"
+  ],
   "trader": "Celeste",
   "grantedItemIds": [
     {
@@ -35,8 +38,9 @@
     }
   ],
   "description": {
+    "ar": "في وقت الموجة الأولى (First Wave)، قمت أنا وفريقي ببناء فخ عند السد. قمنا بزيادة الحمل على مولد وحولناه إلى فخ ARC مؤقت. الآن أسمع أن الـ Raiders يستخدمونه لقطع الاتصالات ونصب الكمائن لبعضهم البعض. أحتاج منك أن تنهي هذا الأمر.",
     "da": "Tilbage under First Wave byggede mit hold og jeg en fælde ved dæmningen. Overbelastede en generator og gjorde den til en improviseret ARC-fælde. Nu hører jeg, at Raiders bruger den til at afbryde kommunikation og lave baghold på hinanden. Jeg har brug for, at du stopper det.",
-    "de": "In der Ersten Welle haben wir eine Falle am Damm gebaut: einen Generator überlastet und in eine provisorische ARC- Falle verwandelt. Jetzt hab ich gehört, dass Raider sie nutzen, um die Kommunikation zu unterbrechen und sich gegenseitig in Hinterhalte zu locken. Das muss ein Ende haben.",
+    "de": "In der Ersten Welle haben wir eine Falle am Damm gebaut: einen Generator überlastet und in eine provisorische ARC-Falle verwandelt. Jetzt hab ich gehört, dass Raider sie nutzen, um die Kommunikation zu unterbrechen und sich gegenseitig in Hinterhalte zu locken. Das muss ein Ende haben.",
     "en": "Back during the First Wave, my squad and I built a trap out by the Dam. Overloaded a generator, turned it into a makeshift ARC trap. Now I hear Raiders are using it to cut comms and spring ambushes on each other. I need you to end it.",
     "es": "Durante la First Wave, mi escuadrón y yo construimos una trampa junto a la presa. Sobrecargamos un generador y lo convertimos en una trampa ARC improvisada. Ahora oigo que los Raiders la están usando para cortar comunicaciones y tender emboscadas entre ellos. Necesito que le pongas fin.",
     "fr": "Pendant la First Wave, mon équipe et moi avons construit un piège près du barrage. On a surchargé un générateur et on l'a transformé en piège ARC de fortune. Maintenant j'entends dire que les Raiders l'utilisent pour couper les communications et tendre des embuscades. Je veux que tu y mettes fin.",
@@ -58,6 +62,7 @@
   },
   "objectives": [
     {
+      "ar": "صل إلى Victory Ridge",
       "da": "Nå Victory Ridge",
       "de": "Erreiche den Siegeskamm",
       "en": "Reach Victory Ridge",
@@ -80,6 +85,7 @@
       "zh-TW": "到達勝利嶺"
     },
     {
+      "ar": "اعثر على فخ EMP القديم",
       "da": "Find den gamle EMP-fælde",
       "de": "Finde die alte EMP-Falle",
       "en": "Find the old EMP trap",
@@ -102,6 +108,7 @@
       "zh-TW": "找到舊的EMP陷阱"
     },
     {
+      "ar": "عطل مفتاح الطاقة الأول",
       "da": "Deaktiver den første strømafbryder",
       "de": "Deaktiviere den ersten Stromschalter",
       "en": "Disable the first power switch",
@@ -124,6 +131,7 @@
       "zh-TW": "停用第一個電源開關"
     },
     {
+      "ar": "عطل مفتاح الطاقة الثاني",
       "da": "Deaktiver den anden strømafbryder",
       "de": "Deaktiviere den zweiten Stromschalter",
       "en": "Disable the second power switch",
@@ -146,6 +154,7 @@
       "zh-TW": "停用第二個電源開關"
     },
     {
+      "ar": "عطل مفتاح الطاقة الثالث",
       "da": "Deaktiver den tredje strømafbryder",
       "de": "Deaktiviere den dritten Stromschalter",
       "en": "Disable the third power switch",
@@ -168,6 +177,7 @@
       "zh-TW": "停用第三個電源開關"
     },
     {
+      "ar": "أغلق فخ EMP",
       "da": "Sluk EMP-fælden",
       "de": "Schalte die EMP-Falle aus",
       "en": "Shut down the EMP trap",
@@ -201,7 +211,11 @@
     }
   ],
   "xp": 0,
-  "previousQuestIds": ["ss10h"],
-  "nextQuestIds": ["ss10o"],
+  "previousQuestIds": [
+    "ss10h"
+  ],
+  "nextQuestIds": [
+    "ss10o"
+  ],
   "updatedAt": "01/13/2026"
 }

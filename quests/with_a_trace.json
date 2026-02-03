@@ -1,6 +1,7 @@
 {
   "id": "ss11bx",
   "name": {
+    "ar": "مع أثر",
     "da": "Med et spor",
     "de": "Mit einer Spur",
     "en": "With a Trace",
@@ -22,11 +23,14 @@
     "zh-CN": "追寻踪迹",
     "zh-TW": "追尋蹤跡"
   },
-  "map": ["the_blue_gate"],
+  "map": [
+    "the_blue_gate"
+  ],
   "trader": "Shani",
   "description": {
+    "ar": "تلك الآلة التي تم إسقاطها... لم نكن نحن من فعل ذلك. نعلم أن هناك ناجين متفرقين هناك، ولكن هذا؟ هذا يتجاوز بكثير شخصاً واحداً.",
     "da": "Den nedskudte maskine... Det var ikke os, der gjorde det. Vi ved, at der er spredte overlevende derude, men dette? Dette går langt ud over en enkelt person.",
-    "de": "Diese runtergeholte Maschine... Wir waren das nicht. Wir wissen, dass es da draußen den einen oder anderen Überlebenden gibt, aber das? Da steckt mehrals einer dahinter.",
+    "de": "Diese runtergeholte Maschine... Wir waren das nicht. Wir wissen, dass es da draußen den ein oder anderen Überlebenden gibt, aber das? Da steckt mehr als einer dahinter.",
     "en": "That downed machine... We weren't the ones who did that. We know that there are stray survivors out there, but this? This goes far beyond a single person.",
     "es": "Esa máquina derribada... No fuimos nosotros quienes hicimos eso. Sabemos que hay supervivientes dispersos por ahí, pero ¿esto? Esto va mucho más allá de una sola persona.",
     "fr": "Cette machine abattue... Ce n'est pas nous qui avons fait ça. Nous savons qu'il y a des survivants isolés là-bas, mais ça ? Ça va bien au-delà d'une seule personne.",
@@ -48,8 +52,9 @@
   },
   "objectives": [
     {
+      "ar": "صل إلى Barren Clearing",
       "da": "Nå den golde lysning",
-      "de": "Erreiche die unbewachseneLichtung",
+      "de": "Erreiche die unbewachsene Lichtung",
       "en": "Reach the Barren Clearing",
       "es": "Alcanza el claro árido",
       "fr": "Atteindre la clairière aride",
@@ -70,6 +75,7 @@
       "zh-TW": "到達荒蕪空地"
     },
     {
+      "ar": "اعثر على علامات تشير إلى من أسقط آلات ARC",
       "da": "Find tegn på, hvem der skød ARC-maskinerne ned",
       "de": "Suche nach Hinweisen, wer die ARC-Maschinen zerstört hat",
       "en": "Find signs of who brought down the ARC machines",
@@ -92,6 +98,7 @@
       "zh-TW": "尋找擊落ARC機器的人的線索"
     },
     {
+      "ar": "افحص الحطام المزين",
       "da": "Inspicér det prydede vrag",
       "de": "Untersuche das geschmückte Wrack",
       "en": "Inspect the Adorned Wreckage",
@@ -114,6 +121,7 @@
       "zh-TW": "檢查裝飾過的殘骸"
     },
     {
+      "ar": "افحص جهاز الاتصالات",
       "da": "Inspicér kommunikationsenheden",
       "de": "Untersuche das Kommunikationsgerät",
       "en": "Inspect the communications device",
@@ -147,7 +155,9 @@
     }
   ],
   "xp": 0,
-  "previousQuestIds": ["ss11a"],
+  "previousQuestIds": [
+    "ss11a"
+  ],
   "nextQuestIds": [],
   "updatedAt": "01/13/2026"
 }

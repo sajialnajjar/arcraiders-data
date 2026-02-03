@@ -1,6 +1,7 @@
 {
   "id": "ss10x20",
   "name": {
+    "ar": "نقل مدرع",
     "da": "Pansrede transporter",
     "de": "Gepanzerte Transporter",
     "en": "Armored Transports",
@@ -22,11 +23,14 @@
     "zh-CN": "装甲运输队",
     "zh-TW": "裝甲運輸隊"
   },
-  "map": ["the_blue_gate"],
+  "map": [
+    "the_blue_gate"
+  ],
   "trader": "Tian Wen",
   "description": {
+    "ar": "منذ أن قمنا بتوسيع الأنفاق نحو البوابة الزرقاء، بدأت بعض القطع النادرة بالظهور في السوق السوداء.\n\nفي هذه الأثناء، أنا عالق هنا أبيع خردة Rattlers القديمة. إذا لم أجد خطوط إمداد جديدة، فسأبقى في الخلف.",
     "da": "Siden vi udvidede tunnelerne til den Blå Port, er nogle sjældne dele begyndt at dukke op på det sorte marked.\n\nI mellemtiden sidder jeg fast her og sælger slidte gamle Rattlers. Hvis jeg ikke finder nye forsyningslinjer, bliver jeg efterladt i støvet.",
-    "de": "Seitdem wir die Tunnel zum Blauen Tor erweitert haben, sind ein paar seltene Stücke auf dem Schwarzmarkt aufgetaucht.\n\nAber ich muss hier ramponierte alte Rattler verhökern. Wenn ich nicht bald neue Vorräte bekomme, bin ich erledigt.",
+    "de": "Seit wir die Tunnel zum Blauen Tor erweitert haben, tauchen einige seltene Stücke auf dem Schwarzmarkt auf.\n\nIn der Zwischenzeit sitze ich hier fest und verhökere alte, ramponierte Rattlers. Wenn ich keine neuen Versorgungslinien finde, werde ich abgehängt.",
     "en": "Ever since we expanded the tunnels to the Blue Gate, some rare pieces have started appearing on the black market.\n\nMeanwhile, I'm stuck here peddling battered old Rattlers. If I don't find new supply lines, I'll be left in the dust.",
     "es": "Desde que expandimos los túneles hacia la Puerta Azul, algunas piezas raras han comenzado a aparecer en el mercado negro.\n\nMientras tanto, estoy atrapado aquí vendiendo viejos Crótalos maltrechos. Si no encuentro nuevas líneas de suministro, me quedaré atrás.",
     "fr": "Depuis que nous avons élargi les tunnels vers la Porte Bleue, des pièces rares ont commencé à apparaître sur le marché noir.\n\nPendant ce temps, je suis coincé ici à vendre de vieux Crotales cabossés. Si je ne trouve pas de nouvelles lignes d'approvisionnement, je vais être laissé pour compte.",
@@ -48,8 +52,9 @@
   },
   "objectives": [
     {
+      "ar": "الوصول إلى نقطة التفتيش",
       "da": "Nå kontrolpunktet",
-      "de": "Erreiche die Sicherheitskontrolle",
+      "de": "Erreiche den Kontrollpunkt",
       "en": "Reach the Checkpoint",
       "es": "Alcanza el puesto de control",
       "fr": "Atteindre le point de contrôle",
@@ -70,8 +75,9 @@
       "zh-TW": "到達檢查點"
     },
     {
+      "ar": "فتش أكواخ الحراسة بحثاً عن بطاقة مفتاح الدورية المدرعة",
       "da": "Gennemsøg vagtskurene efter et nøglekort til pansret patrulje",
-      "de": "Durchsuche die Wachhütten nach der Schlüsselkarte für das gepanzerte Patrouillenfahrzeug",
+      "de": "Durchsuche die Wachhütten nach einer Schlüsselkarte für die gepanzerte Patrouille",
       "en": "Search the Guard huts for a Armored Patrol Key Card",
       "es": "Busca en las casetas de guardia una tarjeta llave de patrulla blindada",
       "fr": "Fouiller les guérites pour trouver une carte-clé de patrouille blindée",
@@ -92,8 +98,9 @@
       "zh-TW": "搜索警衛室尋找裝甲巡邏鑰匙卡"
     },
     {
+      "ar": "الوصول إلى نفق المرور بالقرب من نقطة تفتيش البوابة الزرقاء",
       "da": "Nå trafiktunnelen nær den Blå Port-kontrolpunktet",
-      "de": "Geh zum Verkehrstunnel in der Nähe der Sicherheitskontrolle am Blauen Tor",
+      "de": "Erreiche den Verkehrstunnel in der Nähe des Blauen Tor-Kontrollpunkts",
       "en": "Reach the Traffic Tunnel near the Blue Gate Checkpoint",
       "es": "Alcanza el túnel de tráfico cerca del puesto de control de la Puerta Azul",
       "fr": "Atteindre le tunnel routier près du point de contrôle de la Porte Bleue",
@@ -114,8 +121,9 @@
       "zh-TW": "到達藍門檢查點附近的交通隧道"
     },
     {
+      "ar": "اعثر وافتح الباب الخلفي لسيارة دورية مدرعة",
       "da": "Find og lås bagdøren op på en pansret patruljebil",
-      "de": "Finde die hintere Tür des gepanzerten Patrouillenfahrzeugs und öffne sie",
+      "de": "Finde und entriegele die Hintertür eines gepanzerten Streifenwagens",
       "en": "Find and unlock the rear door of an armored patrol car",
       "es": "Encuentra y desbloquea la puerta trasera de un coche patrulla blindado",
       "fr": "Trouver et déverrouiller la porte arrière d'une voiture de patrouille blindée",
@@ -151,7 +159,10 @@
     }
   ],
   "xp": 0,
-  "previousQuestIds": ["ss10x19", "ss11bx"],
+  "previousQuestIds": [
+    "ss10x19",
+    "ss11bx"
+  ],
   "nextQuestIds": [],
   "updatedAt": "11/23/2025"
 }

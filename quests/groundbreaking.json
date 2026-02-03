@@ -1,8 +1,9 @@
 {
   "id": "groundbreaking",
   "name": {
+    "ar": "وضع حجر الأساس",
     "da": "Banebrydende arbejde",
-    "de": "Stets voran",
+    "de": "Bahnbrechend",
     "en": "Groundbreaking",
     "es": "Comenzando la obra",
     "fr": "Coup d’envoi des travaux",
@@ -16,14 +17,16 @@
     "pl": "Przełomowe prace",
     "pt": "Início das Obras",
     "pt-BR": "Abalando as Estruturas",
-    "ru": "Первый шаг",
+    "ru": "Начало работ",
     "sr": "Revolucionarno",
     "tr": "Temel Atma",
     "uk": "Початок робіт",
     "zh-CN": "破土动工",
     "zh-TW": "破土動工"
   },
-  "map": ["the_blue_gate"],
+  "map": [
+    "the_blue_gate"
+  ],
   "trader": "Apollo",
   "grantedItemIds": [
     {
@@ -32,6 +35,7 @@
     }
   ],
   "description": {
+    "ar": "بيانات أو لا بيانات: سنتعلم كيف نجعل هذا المكان مقاوماً للزلازل. مع بحث بهذا التعمق، لا بد من وجود أثر ورقي في مكان ما.",
     "da": "Data eller ej: Vi finder ud af, hvordan vi gør stedet jordskælvssikkert. Med så dybdegående forskning må der være et papirspor et sted.",
     "de": "Daten hin oder her: Wir lernen, wie wir diesen Ort erdbebensicher machen. Bei so tiefgehender Forschung muss es irgendwo eine Spur aus Dokumenten geben.",
     "en": "Data or no data: we'll learn how to make this place earthquake-proof. With a research this in-depth, there's bound to be a paper trail somewhere.",
@@ -56,6 +60,7 @@
   },
   "objectives": [
     {
+      "ar": "ادخل الغرفة المقفلة في قمة الحاج",
       "da": "Gå ind i det aflåste rum ved Pilgrim's Peak",
       "de": "Betritt den verschlossenen Raum am Pilgrim’s Peak",
       "en": "Enter the locked room at Pilgrim's Peak",
@@ -79,6 +84,7 @@
       "zh-TW": "進入朝聖者峰的上鎖房間"
     },
     {
+      "ar": "ابحث في الغرفة عن أي أبحاث بناء",
       "da": "Gennemsøg rummet efter forskning i byggeri",
       "de": "Durchsuche den Raum nach Bau-Forschungsunterlagen",
       "en": "Search the room for any construction research",
@@ -102,6 +108,7 @@
       "zh-TW": "搜查房間，尋找任何建築研究資料"
     },
     {
+      "ar": "اعثر على المبنى المصور على السبورة البيضاء",
       "da": "Find bygningen, der er afbildet på whiteboardet",
       "de": "Finde das Gebäude, das auf dem Whiteboard abgebildet ist",
       "en": "Find the building pictured on the whiteboard",
@@ -125,6 +132,7 @@
       "zh-TW": "找到白板上畫著的建築"
     },
     {
+      "ar": "صور مشروع الإسكان المهجور",
       "da": "Fotografér det forladte boligbyggeri",
       "de": "Fotografiere das verlassene Wohnbauprojekt",
       "en": "Photograph the abandoned housing project",
@@ -159,7 +167,11 @@
     }
   ],
   "xp": 0,
-  "previousQuestIds": ["deciphering_the_data"],
-  "nextQuestIds": ["on_deaf_ears"],
+  "previousQuestIds": [
+    "deciphering_the_data"
+  ],
+  "nextQuestIds": [
+    "on_deaf_ears"
+  ],
   "updatedAt": "12/16/2025"
 }

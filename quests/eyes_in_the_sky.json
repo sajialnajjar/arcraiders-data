@@ -1,8 +1,9 @@
 {
   "id": "ss10s",
   "name": {
+    "ar": "عيون في السماء",
     "da": "Øjne i himlen",
-    "de": "Augen im Himmel",
+    "de": "Augen am Himmel",
     "en": "Eyes in the Sky",
     "es": "Ojos en el cielo",
     "fr": "Yeux dans le ciel",
@@ -22,7 +23,11 @@
     "zh-CN": "天空之眼",
     "zh-TW": "天空之眼"
   },
-  "map": ["buried_city", "the_spaceport", "dam_battlegrounds"],
+  "map": [
+    "buried_city",
+    "the_spaceport",
+    "dam_battlegrounds"
+  ],
   "trader": "Shani",
   "grantedItemIds": [
     {
@@ -31,8 +36,9 @@
     }
   ],
   "description": {
+    "ar": "يتطلب الوصول إلى قمة البرج استخدام حبل انزلاق (zipline). تعمل ماسحات LiDAR التي وجدتها بشكل أفضل عند وضعها في مواقع مرتفعة. لقد حددت بعض المواقع الجيدة حول حزام الصدأ؛ آمل أن تكون ثابت الخطى.",
     "da": "Kræver en zipline for at komme op på toppen af tårnet. De LiDAR-scannere du fandt fungerer bedst, når de placeres på høje steder. Jeg har identificeret et par gode steder rundt om i rustbæltet; håber du er sikker på benene.",
-    "de": "Die Lidar-Scanner, die du gefunden hast, funktionieren am besten, wenn sie an hohen Stellen platziert werden. Ich hab ein paar gute Plätze im Rostgürtel gefunden - ich hoffe, du bist trittsicher.",
+    "de": "Erfordert eine Seilrutsche, um auf die Spitze des Turms zu gelangen. Diese LiDAR-Scanner, die du gefunden hast, funktionieren am besten, wenn sie an hohen Orten platziert werden. Ich habe ein paar gute Stellen im Rostgürtel identifiziert; hoffentlich bist du trittsicher.",
     "en": "Requires a zipline to get on top of the tower. Those LiDAR scanners you found work best when put in high locations. I've identified a few good spots around the Rust Belt; hope you're surefooted.",
     "es": "Requiere una tirolesa para llegar a la cima de la torre. Esos escáneres LiDAR que encontraste funcionan mejor cuando se colocan en lugares altos. He identificado algunos buenos lugares alrededor del cinturón de óxido; espero que tengas buen equilibrio.",
     "fr": "Des scanners LiDAR que vous avez trouvés fonctionnent mieux depuis une hauteur. J'ai identifié quelques endroits propices à travers la Région de la rouille. J'espère que vous n'avez pas le vertige.",
@@ -54,8 +60,9 @@
   },
   "objectives": [
     {
+      "ar": "في ساحات معارك السد، قم بتثبيت ماسح LiDAR في أعلى برج المراقبة",
       "da": "På dæmningens slagmark, installer en LiDAR-scanner på toppen af kontroltårnet",
-      "de": "Installiere einen Lidar-Scanner oben auf dem Kontrollturm auf den Damm- Schlachtfeldern",
+      "de": "Installiere auf dem Damm-Schlachtfeld einen LiDAR-Scanner auf der Spitze des Kontrollturms",
       "en": "On Dam Battlegrounds, install a LiDAR Scanner at the top of the Control Tower",
       "es": "En el campo de batalla de la presa, instala un escáner LiDAR en la cima de la torre de control",
       "fr": "Au Champ de bataille du Barrage, installer un scanner LiDAR au sommet de la Tour de contrôle",
@@ -76,8 +83,9 @@
       "zh-TW": "在大壩戰場的控制塔頂部安裝LiDAR掃描儀"
     },
     {
+      "ar": "في الميناء الفضائي، قم بتثبيت ماسح LiDAR في برج الاتصالات",
       "da": "På rumhavnen, installer en LiDAR-scanner ved kommunikationstårnet",
-      "de": "Installiere einen Lidar-Scanner auf dem Kommunikationsturm im Raumhafen",
+      "de": "Installiere im Raumhafen einen LiDAR-Scanner am Kommunikationsturm",
       "en": "On Spaceport, install a LiDAR Scanner at the Communications Tower",
       "es": "En el espaciopuerto, instala un escáner LiDAR en la torre de comunicaciones",
       "fr": "Au Port spatial, installer un scanner LiDAR sur la Tour de communication",
@@ -98,8 +106,9 @@
       "zh-TW": "在太空港的通訊塔安裝LiDAR掃描儀"
     },
     {
+      "ar": "في المدينة المدفونة، قم بتثبيت ماسح LiDAR أعلى لافتة الغاليريا",
       "da": "I den begravede by, installer en LiDAR-scanner oven på Galleria-skiltet",
-      "de": "Installiere einen Lidar-Scanner auf dem Galleria-Schild in der Begrabenen Stadt",
+      "de": "Installiere in der Begrabenen Stadt einen LiDAR-Scanner auf dem Galleria-Schild",
       "en": "On Buried City, install a LiDAR Scanner on top of the Galleria sign",
       "es": "En la ciudad enterrada, instala un escáner LiDAR encima del letrero de la galería",
       "fr": "Dans la Ville enfouie, installer un scanner LiDAR au sommet de l'enseigne de la Galleria",
@@ -135,7 +144,13 @@
     }
   ],
   "xp": 0,
-  "previousQuestIds": ["ss10k"],
-  "nextQuestIds": ["ss10w", "ss10x", "ss10y"],
+  "previousQuestIds": [
+    "ss10k"
+  ],
+  "nextQuestIds": [
+    "ss10w",
+    "ss10x",
+    "ss10y"
+  ],
   "updatedAt": "01/13/2026"
 }

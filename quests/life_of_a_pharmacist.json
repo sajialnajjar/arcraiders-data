@@ -1,8 +1,9 @@
 {
   "id": "ss10x14",
   "name": {
+    "ar": "حياة صيدلي",
     "da": "Livet som apoteker",
-    "de": "Das Leben einer Apothekerin",
+    "de": "Leben eines Apothekers",
     "en": "Life of a Pharmacist",
     "es": "Vida de un farmacéutico",
     "fr": "La vie d'un pharmacien",
@@ -15,18 +16,21 @@
     "pl": "Życie farmaceuty",
     "pt": "Vida de um farmacêutico",
     "pt-BR": "Vida de um Farmacêutico",
-    "ru": "Жизнь аптекаря",
+    "ru": "Жизнь фармацевта",
     "sr": "Život farmaceuta",
     "tr": "Bir Eczacının Hayatı",
     "uk": "Життя фармацевта",
     "zh-CN": "药剂师的生活",
     "zh-TW": "藥劑師的生活"
   },
-  "map": ["buried_city"],
+  "map": [
+    "buried_city"
+  ],
   "trader": "Lance",
   "description": {
+    "ar": "هذا المكان يمكن أن يستفيد من تجديد، لكني لا أريده أن يبدو مثل أوكار الـ Raiders الرثة الخاصة بكم. انظر إذا كان بإمكانك معرفة كيف اعتاد زملائي من عظماء الطب العيش.",
     "da": "Dette sted kunne godt bruge en makeover, men jeg vil ikke have, at det skal ligne jeres pjaltede Raider-huler. Se om du kan finde ud af, hvordan mine medicinske kolleger plejede at leve.",
-    "de": "Dieser Ort könnte eine Verschönerung vertragen, aber ich will nicht, dass er am Ende wie eure schäbigen Raider-Höhlen aussieht. Finde heraus, wie meine medizinischen Vorfahren gelebt haben.",
+    "de": "Dieser Ort könnte eine Renovierung vertragen, aber ich will nicht, dass er wie eure schäbigen Raider-Höhlen aussieht. Schau mal, ob du herausfinden kannst, wie meine medizinischen Kollegen früher gelebt haben.",
     "en": "This place could use a makeover, but I don't want it looking like your raggedy Raider Dens. See if you can find out how my fellow medical greats used to live.",
     "es": "Este lugar necesita una renovación, pero no quiero que parezca vuestras guaridas de Raiders andrajosas. Mira si puedes averiguar cómo vivían mis colegas médicos.",
     "fr": "Cet endroit aurait besoin d'un relooking, mais je ne veux pas qu'il ressemble à vos tanières de Raiders miteux. Voyez si vous pouvez découvrir comment mes confrères médicaux vivaient autrefois.",
@@ -48,8 +52,9 @@
   },
   "objectives": [
     {
+      "ar": "اعثر على Arbusto Farmacia بجوار الطريق السريع المنهار",
       "da": "Find Arbusto Farmacia ved den kollapsede motorvej",
-      "de": "Finde die Arbusto Farmacia an der eingestürzten Schnellstraße",
+      "de": "Finde die Arbusto Farmacia an der eingestürzten Autobahn",
       "en": "Find the Arbusto Farmacia by the collapsed highway",
       "es": "Encuentra la Arbusto Farmacia junto a la autopista derrumbada",
       "fr": "Trouvez l'Arbusto Farmacia près de l'autoroute effondrée",
@@ -70,8 +75,9 @@
       "zh-TW": "在坍塌的高速公路旁找到阿布斯托藥房"
     },
     {
+      "ar": "وثق هوايات الصيدلي",
       "da": "Dokumenter apotekerens hobbyer",
-      "de": "Die Hobbys der Apothekerin dokumentieren",
+      "de": "Dokumentiere die Hobbys des Apothekers",
       "en": "Document the pharmacist's hobbies",
       "es": "Documenta los pasatiempos del farmacéutico",
       "fr": "Documentez les passe-temps du pharmacien",
@@ -92,8 +98,9 @@
       "zh-TW": "記錄藥劑師的愛好"
     },
     {
+      "ar": "وثق عائلة الصيدلي",
       "da": "Dokumenter apotekerens familie",
-      "de": "Die Familie der Apothekerin dokumentieren",
+      "de": "Dokumentiere die Familie des Apothekers",
       "en": "Document the pharmacist's family",
       "es": "Documenta la familia del farmacéutico",
       "fr": "Documentez la famille du pharmacien",
@@ -114,8 +121,9 @@
       "zh-TW": "記錄藥劑師的家庭"
     },
     {
+      "ar": "وثق ذوق الصيدلي",
       "da": "Dokumenter apotekerens smag",
-      "de": "Den Geschmack der Apothekerin dokumentieren",
+      "de": "Dokumentiere den Geschmack des Apothekers",
       "en": "Document the pharmacist's taste",
       "es": "Documenta el gusto del farmacéutico",
       "fr": "Documentez les goûts du pharmacien",
@@ -136,8 +144,9 @@
       "zh-TW": "記錄藥劑師的品味"
     },
     {
+      "ar": "وثق مهارات الصيدلي",
       "da": "Dokumenter apotekerens færdigheder",
-      "de": "Die Fähigkeiten der Apothekerin dokumentieren",
+      "de": "Dokumentiere die Fähigkeiten des Apothekers",
       "en": "Document the pharmacist's skills",
       "es": "Documenta las habilidades del farmacéutico",
       "fr": "Documentez les compétences du pharmacien",
@@ -173,7 +182,12 @@
     }
   ],
   "xp": 0,
-  "previousQuestIds": ["ss10x13"],
-  "nextQuestIds": ["ss10x15", "a_toxic_trail"],
+  "previousQuestIds": [
+    "ss10x13"
+  ],
+  "nextQuestIds": [
+    "ss10x15",
+    "a_toxic_trail"
+  ],
   "updatedAt": "12/29/2025"
 }

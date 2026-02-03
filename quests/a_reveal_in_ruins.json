@@ -1,6 +1,7 @@
 {
   "id": "ss10g",
   "name": {
+    "ar": "كشف في الأطلال",
     "da": "En afsløring i ruiner",
     "de": "Eine Enthüllung in Trümmern",
     "en": "A Reveal in Ruins",
@@ -22,9 +23,12 @@
     "zh-CN": "废墟中的揭秘",
     "zh-TW": "廢墟中的揭秘"
   },
-  "map": ["buried_city"],
+  "map": [
+    "buried_city"
+  ],
   "trader": "Lance",
   "description": {
+    "ar": "حصلت على محلل ESR جديد فاخر؛ كنت أخطط للكشف عنه بشكل كبير. دقيقة واحدة كان هنا، وفي الدقيقة التالية—بوف. هل يمكنك المساعدة؟",
     "da": "Jeg fik fat i en flot ny ESR-analysator; havde planlagt en stor afsløring. Det ene øjeblik er den her, det næste – puf. Kan du hjælpe?",
     "de": "Ich hab einen neuen ESR-Analysator in die Finger gekriegt, wollte da ganz groß mit rauskommen. Und dann - zack! - ist das Teil plötzlich verschwunden. Hilfst du mir?",
     "en": "I got my hands on a fancy new ESR analyzer; had a whole big reveal planned. One minute it's here, next minute—poof. Please help?",
@@ -46,9 +50,9 @@
     "zh-CN": "我搞到了一台全新的ESR分析仪；本来计划了一场盛大的揭幕。前一分钟还在这儿，下一分钟——噗，不见了。能帮帮忙吗？",
     "zh-TW": "我搞到了一台全新的ESR分析儀；本來計劃了一場盛大的揭幕。前一分鐘還在這兒，下一分鐘——噗，不見了。能幫幫忙嗎？"
   },
-  "objectivesOneRound": true,
   "objectives": [
     {
+      "ar": "ابحث عن محلل ESR داخل أي صيدلية في المدينة المدفونة",
       "da": "Søg efter en ESR-analysator inde i et apotek i den begravede by",
       "de": "In einer Apotheke in der Begrabenen Stadt nach einem ESR-Analysator suchen",
       "en": "Search for an ESR Analyzer inside any pharmacy in Buried City",
@@ -71,6 +75,7 @@
       "zh-TW": "在埋沒之城的任意藥店中搜尋ESR分析儀"
     },
     {
+      "ar": "سلم محلل ESR إلى لانس",
       "da": "Lever ESR-analysatoren til Lance",
       "de": "Bring den ESR-Analysator zu Lance",
       "en": "Deliver the ESR Analyzer to Lance",
@@ -104,7 +109,11 @@
     }
   ],
   "xp": 0,
-  "previousQuestIds": ["ss10f"],
-  "nextQuestIds": ["ss10k"],
+  "previousQuestIds": [
+    "ss10f"
+  ],
+  "nextQuestIds": [
+    "ss10k"
+  ],
   "updatedAt": "01/13/2026"
 }

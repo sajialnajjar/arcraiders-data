@@ -1,8 +1,9 @@
 {
   "id": "ss10m",
   "name": {
+    "ar": "العيون على الجائزة",
     "da": "Øjnene på præmien",
-    "de": "Augen aufs Ziel",
+    "de": "Die Augen auf den Preis",
     "en": "Eyes on the Prize",
     "es": "Ojos en el premio",
     "fr": "Les yeux sur le prix",
@@ -22,7 +23,9 @@
     "zh-CN": "紧盯目标",
     "zh-TW": "緊盯目標"
   },
-  "map": ["buried_city"],
+  "map": [
+    "buried_city"
+  ],
   "trader": "Tian Wen",
   "requiredItemIds": [
     {
@@ -31,8 +34,9 @@
     }
   ],
   "description": {
+    "ar": "كل شيء كان هادئاً حول نقاط التسليم الخاصة بي منذ مساعدتك، لكن هذا لا يعني أن الأمور ستبقى كذلك لفترة طويلة. لقد قمت بإعداد مراقبة في أحد أكثر المواقع استخداماً في المدينة المدفونة، لمنع التلاعب في المستقبل. المشكلة الوحيدة هي أنها تحتاج إلى طاقة لتعمل.",
     "da": "Alt har været roligt omkring mine afleveringssteder siden du hjalp, men det betyder ikke, at det forbliver sådan længe. Jeg har sat overvågning op på et af mine mest brugte steder i Buried City for at forhindre fremtidig manipulation. Det eneste problem er, at det har brug for strøm for at blive aktiveret.",
-    "de": "Seit du mir geholfen hast, ist es ruhig geblieben, was meine Lager angeht. Aber das kann sich ändern. Deswegen hab ich an einem meiner wichtigsten Plätze in der Begrabenen Stadt für Überwachung gesorgt. Einziges Problem: Ich brauch Strom da oben.",
+    "de": "Seit du geholfen hast, ist alles ruhig bei meinen Abgabestellen, aber das heißt nicht, dass es lange so bleiben wird. Ich habe an einem meiner meistgenutzten Orte in Buried City eine Überwachung eingerichtet, um zukünftige Manipulationen zu verhindern. Das einzige Problem ist, dass sie Strom braucht, um in Betrieb zu gehen.",
     "en": "Everything's been calm around my drop-offs since you helped out, but that doesn't mean it'll stay that way for long. I've set up surveillance at one of my most used spots in Buried City, to prevent future tampering. Only problem is, it needs power to go live.",
     "es": "Todo ha estado tranquilo en mis puntos de entrega desde que ayudaste, pero eso no significa que vaya a seguir así por mucho tiempo. He instalado vigilancia en uno de mis lugares más usados en Buried City, para prevenir futuras manipulaciones. El único problema es que necesita energía para funcionar.",
     "fr": "Tout est calme autour de mes points de dépôt depuis que tu as aidé, mais ça ne veut pas dire que ça va durer longtemps. J'ai installé une surveillance à l'un de mes endroits les plus utilisés dans Buried City, pour empêcher toute manipulation future. Le seul problème, c'est qu'il faut de l'électricité pour la mettre en service.",
@@ -54,8 +58,9 @@
   },
   "objectives": [
     {
+      "ar": "اعثر على شرفة السطح المنعزلة جنوب غرب المحطة الجنوبية، ابحث عن أقمشة زرقاء",
       "da": "Find den afsondrede tagterrasse sydvest for Southern Station, kig efter blå presenninger",
-      "de": "Die geschützte Dachterrasse südwestlich der Südlichen Station finden (nach blauen Tarps Ausschau halten)",
+      "de": "Finde die abgelegene Dachterrasse südwestlich der Southern Station, suche nach blauen Planen",
       "en": "Find the secluded roof terrace south-west of the Southern Station, look for blue tarps",
       "es": "Encuentra la terraza aislada al suroeste de la Southern Station, busca lonas azules",
       "fr": "Trouve la terrasse isolée au sud-ouest de la Southern Station, cherche des bâches bleues",
@@ -76,8 +81,9 @@
       "zh-TW": "找到南站西南方向的隱蔽屋頂露台，尋找藍色防水布"
     },
     {
+      "ar": "أعد توصيل اللوحة الشمسية باستخدام 3 أسلاك",
       "da": "Omkobl solpanelet ved hjælp af 3 ledninger",
-      "de": "Verkable das Solarpanel mit 3 Kabeln neu",
+      "de": "Verdrahte das Solarpanel mit 3 Kabeln neu",
       "en": "Rewire the solar panel using 3 Wires",
       "es": "Recablea el panel solar usando 3 cables",
       "fr": "Recâble le panneau solaire en utilisant 3 câbles",
@@ -109,7 +115,11 @@
     }
   ],
   "xp": 0,
-  "previousQuestIds": ["ss10l"],
-  "nextQuestIds": ["ss10n"],
+  "previousQuestIds": [
+    "ss10l"
+  ],
+  "nextQuestIds": [
+    "ss10n"
+  ],
   "updatedAt": "01/13/2026"
 }

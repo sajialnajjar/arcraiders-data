@@ -1,6 +1,7 @@
 {
   "id": "ss8",
   "name": {
+    "ar": "ممر آمن",
     "da": "Sikker passage",
     "de": "Sicherer Durchgang",
     "en": "Safe Passage",
@@ -34,10 +35,12 @@
     }
   ],
   "description": {
-    "de": "Ich hab Gerüchte über ein Signal gehört, das Shani aufgefangen hat. Die ARC passen sich ständig an, und ich bin mir sicher, dass das nicht ihr letztes Warnsignal sein wird. Na ja, wenn sie ein Wettrüsten wollen, dann kriegen sie eins."
+    "ar": "سمعت شائعات عن إشارة التقطتها شاني. الـ ARC يتكيفون باستمرار، وأنا واثق أن هذه لن تكون إشارة تحذيرهم الأخيرة. حسناً، إذا أرادوا سباق تسلح، فسيحصلون عليه.",
+    "de": "Ich hab Gerüchte über ein Singal gehört, das Shani aufgefangen hat. Die ARC passen sich ständig an, und ich bin mir sicher, dass das nicht ihr letztes Warnsignal sein wird. Na ja, wenn sie ein Wettrüsten wollen, dann kriegen sie eins."
   },
   "objectives": [
     {
+      "ar": "دمر عدوين من ARC باستخدام أي قنبلة يدوية متفجرة",
       "da": "Ødelæg 2 ARC-fjender ved at bruge en eksplosiv granat",
       "de": "Zerstöre 2 ARC-Gegner mit jeweils einer Explosionsgranate",
       "en": "Destroy 2 ARC enemies using any explosive grenade",
@@ -75,7 +78,11 @@
     }
   ],
   "xp": 0,
-  "previousQuestIds": ["ss5"],
-  "nextQuestIds": ["ss8a"],
+  "previousQuestIds": [
+    "ss5"
+  ],
+  "nextQuestIds": [
+    "ss8a"
+  ],
   "updatedAt": "01/13/2026"
 }

@@ -1,6 +1,7 @@
 {
   "id": "ss10f",
   "name": {
+    "ar": "بضائع طبية",
     "da": "Medicinske varer",
     "de": "Medizinisches Merchandise",
     "en": "Medical Merchandise",
@@ -22,9 +23,14 @@
     "zh-CN": "医疗用品",
     "zh-TW": "醫療用品"
   },
-  "map": ["dam_battlegrounds", "the_spaceport", "buried_city"],
+  "map": [
+    "dam_battlegrounds",
+    "the_spaceport",
+    "buried_city"
+  ],
   "trader": "Lance",
   "description": {
+    "ar": "لقد أصبحت ماهراً جداً في نسج الضمادات من القماش، لكن يخجلني أن أعترف بأنني لم أتقن تماماً نسج جهاز أشعة سينية أو مقياس تأكسج نبضي.",
     "da": "Jeg er blevet ret dygtig til at væve bandager af stof, men til min skam har jeg ikke helt mestret at væve en røntgenmaskine eller et pulsoximeter.",
     "de": "Ich bin inzwischen ganz gut darin, Verbände aus Stoff herzustellen, aber zu meiner Schande muss ich gestehen, dass ich noch kein Röntgengerät oder Pulsoxymeter weben kann.",
     "en": "I've become quite crafty at weaving bandages from Fabric, but to my shame, I haven't quite mastered weaving an x-ray machine or a pulse oximiter.",
@@ -48,6 +54,7 @@
   },
   "objectives": [
     {
+      "ar": "في الميناء الفضائي، فتش حاويتين في غرف الفحص بمبنى المغادرة",
       "da": "På rumhavnen, gennemsøg 2 containere i afgangsbygningens undersøgelsesrum",
       "de": "Durchsuche 2 Container im Untersuchungszimmer des Abfluggebäudes im Raumhafen",
       "en": "On Spaceport, search 2 containers in the Departure Building's exam rooms",
@@ -70,6 +77,7 @@
       "zh-TW": "在太空港，搜索出發大樓檢查室中的2個容器"
     },
     {
+      "ar": "فتش 3 حاويات في المستشفى بالمدينة المدفونة",
       "da": "Gennemsøg 3 containere på hospitalet i den begravede by",
       "de": "Durchsuche 3 Container im Krankenhaus in der Begrabenen Stadt",
       "en": "Search 3 containers in the Hospital in Buried City",
@@ -92,6 +100,7 @@
       "zh-TW": "在埋藏之城的醫院中搜索3個容器"
     },
     {
+      "ar": "في ساحات معارك السد، فتش حاويتين في الغرفة الطبية بمبنى البحث والإدارة",
       "da": "På dæmningens slagmark, gennemsøg 2 containere i det medicinske rum i forsknings- og administrationsbygningen",
       "de": "Durchsuche 2 Container im Untersuchungszimmer des Forschungs- und Verwaltungsgebäudes auf den Damm-Schlachtfeldern",
       "en": "On Dam Battlegrounds, search 2 containers in the Research & Administration building's medical room",
@@ -129,7 +138,11 @@
     }
   ],
   "xp": 0,
-  "previousQuestIds": ["ss10c"],
-  "nextQuestIds": ["ss10g"],
+  "previousQuestIds": [
+    "ss10c"
+  ],
+  "nextQuestIds": [
+    "ss10g"
+  ],
   "updatedAt": "01/13/2026"
 }

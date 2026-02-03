@@ -1,8 +1,9 @@
 {
   "id": "paving_the_way",
   "name": {
+    "ar": "تمهيد الطريق",
     "da": "Bane vejen",
-    "de": "Stets voran",
+    "de": "Den Weg ebnen",
     "en": "Paving the Way",
     "es": "Abriendo camino",
     "fr": "Ouvrir la voie",
@@ -15,18 +16,23 @@
     "pl": "Torowanie drogi",
     "pt": "Abrindo caminho",
     "pt-BR": "Abrindo Caminho",
-    "ru": "Проложить путь",
+    "ru": "Прокладывая путь",
     "sr": "Utiranje puta",
     "tr": "Yol Açmak",
     "uk": "Прокладаючи шлях",
     "zh-CN": "铺路",
     "zh-TW": "鋪路"
   },
-  "map": ["dam_battlegrounds", "the_blue_gate", "buried_city"],
+  "map": [
+    "dam_battlegrounds",
+    "the_blue_gate",
+    "buried_city"
+  ],
   "trader": "Apollo",
   "description": {
+    "ar": "أن ينهار قطاع بأكمله هكذا... لا عجب أن الناس خائفون. نحن بحاجة إلى تعزيزات تتجاوز أي شيء فعلناه من قبل، ولا يمكننا القيام بذلك بمفردنا.",
     "da": "At en hel sektor kollapser sådan... Ikke underligt folk er bange. Vi skal forstærke ud over alt, hvad vi har gjort før, og vi kan ikke gøre det alene.",
-    "de": "Dass ein ganzer Sektor einfach so zusammenbricht ... Kein Wunder, dass die Leute Angst haben. Wir müssen uns mehr denn je absichern, und das schaffen wir nicht alleine.",
+    "de": "Dass ein ganzer Sektor so einstürzt... Kein Wunder, dass die Leute Angst haben. Wir müssen mehr verstärken als je zuvor, und wir können es nicht alleine schaffen.",
     "en": "For an entire sector to collapse like that... No wonder people are scared. We need to reinforce beyond anything we've done before, and we can't do it alone.",
     "es": "Para que todo un sector colapse así... No es de extrañar que la gente tenga miedo. Necesitamos reforzar más allá de todo lo que hemos hecho antes, y no podemos hacerlo solos.",
     "fr": "Pour qu'un secteur entier s'effondre comme ça... Pas étonnant que les gens aient peur. Nous devons renforcer au-delà de tout ce que nous avons fait avant, et nous ne pouvons pas le faire seuls.",
@@ -48,6 +54,7 @@
   },
   "objectives": [
     {
+      "ar": "اذهب إلى أي مبنى ENELICA",
       "da": "Gå til en hvilken som helst ENELICA-bygning",
       "de": "Gehe zu einem beliebigen ENELICA-Gebäude",
       "en": "Go to any ENELICA building",
@@ -70,8 +77,9 @@
       "zh-TW": "前往任何ENELICA建築"
     },
     {
+      "ar": "ابحث عن لوحة إعلانات عليها ملاحظة من الباحث",
       "da": "Søg efter en opslagstavle med en note fra forskeren",
-      "de": "Durchsuche den Raum nach Bauhinweisen",
+      "de": "Suche nach einer Pinnwand mit einer Notiz des Forschers",
       "en": "Search for a notice board with a note from the researcher",
       "es": "Busca un tablón de anuncios con una nota del investigador",
       "fr": "Cherchez un panneau d'affichage avec une note du chercheur",
@@ -92,8 +100,9 @@
       "zh-TW": "尋找一塊有研究員留言的公告板"
     },
     {
+      "ar": "في المدينة المدفونة، اصعد إلى الطابق العلوي فوق Convinio في Piazza Roma",
       "da": "På Buried City, nå øverste etage over Convinio på Piazza Roma",
-      "de": "Gehe in der Begrabenen Stadt in die oberste Etage über dem Convinio auf der Piazza Roma",
+      "de": "Erreiche in Buried City die oberste Etage über dem Convinio an der Piazza Roma",
       "en": "On Buried City, reach the top floor above the Convinio in Piazza Roma",
       "es": "En Buried City, llega al último piso encima del Convinio en Piazza Roma",
       "fr": "Sur Buried City, atteignez le dernier étage au-dessus du Convinio sur la Piazza Roma",
@@ -114,8 +123,9 @@
       "zh-TW": "在埋沒之城，前往羅馬廣場Convinio上方的頂樓"
     },
     {
+      "ar": "اعثر على شقة الباحث وابحث عن أي بيانات بحثية",
       "da": "Find forskerens lejlighed og led efter forskningsdata",
-      "de": "Such die Wohnung des Forschers und schau nach, ob du irgendwelche Forschungsdaten findest",
+      "de": "Finde die Wohnung des Forschers und suche nach Forschungsdaten",
       "en": "Find the researcher's flat and search for any research data",
       "es": "Encuentra el piso del investigador y busca cualquier dato de investigación",
       "fr": "Trouvez l'appartement du chercheur et cherchez des données de recherche",
@@ -151,7 +161,11 @@
     }
   ],
   "xp": 0,
-  "previousQuestIds": ["ss10x5"],
-  "nextQuestIds": ["deciphering_the_data"],
+  "previousQuestIds": [
+    "ss10x5"
+  ],
+  "nextQuestIds": [
+    "deciphering_the_data"
+  ],
   "updatedAt": "12/29/2025"
 }

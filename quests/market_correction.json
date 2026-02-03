@@ -1,6 +1,7 @@
 {
   "id": "ss10l",
   "name": {
+    "ar": "تصحيح السوق",
     "da": "Markedskorrektion",
     "de": "Marktkorrektur",
     "en": "Market Correction",
@@ -22,11 +23,14 @@
     "zh-CN": "市场修正",
     "zh-TW": "市場修正"
   },
-  "map": ["buried_city"],
+  "map": [
+    "buried_city"
+  ],
   "trader": "Tian Wen",
   "description": {
+    "ar": "تلك السرقة من قبل؟ لم تعد تبدو صدفة بعد الآن. بعض المنافسين من توليدو يؤسسون متجراً حيث لا ينتمون. أريد تخريب مخبأهم، ويفضل قبل أن يشعروا بالراحة المفرطة.",
     "da": "Det tyveri før? Ser ikke ud som en tilfældighed længere. Noget af konkurrencen fra Toledo etablerer sig, hvor de ikke hører hjemme. Jeg vil have deres gemmested saboteret, helst før de bliver for komfortable.",
-    "de": "Der frühere Diebstahl? Sieht nicht mehr nach Zufall aus. Konkurrenz aus Toledo lässt sich nieder, wo sie nicht hingehört. Ich will ihre Vorräte sabotiert sehen - vorzugsweise, bevor sie sich komplett eingerichtet haben.",
+    "de": "Dieser Diebstahl vorher? Sieht nicht mehr nach einem Zufall aus. Einige der Konkurrenz aus Toledo eröffnen ein Geschäft, wo sie nicht hingehören. Ich will, dass ihr Versteck sabotiert wird, vorzugsweise bevor sie es sich zu gemütlich machen.",
     "en": "That theft before? Doesn't look like a coincidence anymore. Some of the competition from Toledo is setting up shop where they don't belong. I want their cache sabotaged, preferably before they get too comfortable.",
     "es": "¿Ese robo de antes? Ya no parece una coincidencia. Parte de la competencia de Toledo está estableciéndose donde no pertenece. Quiero que su alijo sea saboteado, preferiblemente antes de que se pongan demasiado cómodos.",
     "fr": "Ce vol d'avant ? Ça ne ressemble plus à une coïncidence. Une partie de la concurrence de Toledo s'installe là où elle n'a rien à faire. Je veux que leur cachette soit sabotée, de préférence avant qu'ils ne s'installent trop confortablement.",
@@ -46,11 +50,11 @@
     "zh-CN": "之前那次盗窃？看起来不再像是巧合了。一些来自托莱多的竞争对手在不该出现的地方开店了。我要破坏他们的储藏点，最好在他们站稳脚跟之前。",
     "zh-TW": "之前那次盜竊？看起來不再像是巧合了。一些來自托萊多的競爭對手在不該出現的地方開店了。我要破壞他們的儲藏點，最好在他們站穩腳跟之前。"
   },
-  "objectivesOneRound": true,
   "objectives": [
     {
+      "ar": "حد موقع المخبأ بالقرب من محطة مارانو",
       "da": "Find gemmestedet nær Marano-stationen",
-      "de": "Finde den Geheimvorrat in der Nähe des Marano-Bahnhofs",
+      "de": "Finde das Versteck in der Nähe der Marano-Station",
       "en": "Locate the cache near Marano Station",
       "es": "Localiza el alijo cerca de la estación Marano",
       "fr": "Localisez la cachette près de la station Marano",
@@ -71,8 +75,9 @@
       "zh-TW": "找到馬拉諾車站附近的儲藏點"
     },
     {
+      "ar": "خرب المخبأ",
       "da": "Saboter cachen",
-      "de": "Sabotiere den Geheimvorrat",
+      "de": "Sabotiere den Cache",
       "en": "Sabotage the cache",
       "es": "Sabotea el caché",
       "fr": "Sabotez la cache",
@@ -108,7 +113,11 @@
     }
   ],
   "xp": 0,
-  "previousQuestIds": ["ss10i"],
-  "nextQuestIds": ["ss10m"],
+  "previousQuestIds": [
+    "ss10i"
+  ],
+  "nextQuestIds": [
+    "ss10m"
+  ],
   "updatedAt": "01/13/2026"
 }

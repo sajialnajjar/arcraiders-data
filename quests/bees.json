@@ -1,6 +1,7 @@
 {
   "id": "ss10x12",
   "name": {
+    "ar": "نحل!",
     "da": "Bier!",
     "de": "Bienen!",
     "en": "Bees!",
@@ -22,7 +23,9 @@
     "zh-CN": "蜜蜂！",
     "zh-TW": "蜜蜂！"
   },
-  "map": ["the_blue_gate"],
+  "map": [
+    "the_blue_gate"
+  ],
   "trader": "Celeste",
   "grantedItemIds": [
     {
@@ -31,6 +34,7 @@
     }
   ],
   "description": {
+    "ar": "نحل! لا يزال هناك نحل في الجوار! بينما لست خبيراً، فإن طاقم الدفيئة لدينا يريد البعض بشدة.",
     "da": "Bier! Der er stadig bier omkring! Selvom jeg ikke er nogen ekspert, vil vores drivhusteam desperat have nogle.",
     "de": "Bienen! Es gibt noch Bienen! Obwohl ich kein Experte bin, will unsere Gewächshaus-Crew unbedingt welche haben.",
     "en": "Bees! There are bees still around! While I'm no expert, our greenhouse crew desperately wants some.",
@@ -54,6 +58,7 @@
   },
   "objectives": [
     {
+      "ar": "الوصول إلى بستان الزيتون في البوابة الزرقاء",
       "da": "Nå olivenlunden i Blue Gate",
       "de": "Erreiche den Olivenhain im Blauen Tor",
       "en": "Reach the Olive Grove in Blue Gate",
@@ -76,6 +81,7 @@
       "zh-TW": "到達藍門的橄欖林"
     },
     {
+      "ar": "ابحث عن خلايا النحل حول بستان الزيتون",
       "da": "Søg efter bistader omkring olivenlunden",
       "de": "Suche nach Bienenstöcken rund um den Olivenhain",
       "en": "Search for bee hives around the Olive Grove",
@@ -109,7 +115,11 @@
     }
   ],
   "xp": 0,
-  "previousQuestIds": ["ss10x11"],
-  "nextQuestIds": ["ss10x13"],
+  "previousQuestIds": [
+    "ss10x11"
+  ],
+  "nextQuestIds": [
+    "ss10x13"
+  ],
   "updatedAt": "11/23/2025"
 }

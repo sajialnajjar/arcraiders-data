@@ -1,8 +1,9 @@
 {
   "id": "ss10x8",
   "name": {
+    "ar": "مكان دافئ للراحة",
     "da": "Et varmt sted at hvile",
-    "de": "Ein warmes Plätzchen für ein",
+    "de": "Ein warmer Ort zum Ausruhen",
     "en": "A Warm Place to Rest",
     "es": "Un lugar cálido para descansar",
     "fr": "Un nid douillet",
@@ -22,11 +23,14 @@
     "zh-CN": "温暖的休息之所",
     "zh-TW": "溫暖的休息之所"
   },
-  "map": ["buried_city"],
+  "map": [
+    "buried_city"
+  ],
   "trader": "Apollo",
   "description": {
+    "ar": "رأى أحد زبائني عائلة تحتمي في مخيم قديم في المدينة المدفونة. سأدفع لأي شخص يتمكن من العثور عليهم ومرافقتهم إلى بر الأمان.",
     "da": "En kunde af mig så en familie søge ly i en gammel lejr i den begravede by. Jeg betaler enhver, der formår at finde dem og eskortere dem tilbage til sikkerhed.",
-    "de": "PAUSCHEN Einer meiner Kunden hat gesehen, wie eine Familie in einem alten Lager in der Begrabenen Stadt Unterschlupf gesucht hat. Ich bezahle gut dafür, dass jemand sie findet und sicher hierher geleitet.",
+    "de": "Ein Kunde von mir hat eine Familie gesehen, die in einem alten Lager in der Begrabenen Stadt Schutz gesucht hat. Ich bezahle jeden, der es schafft, sie zu finden und sicher zurückzubringen.",
     "en": "A customer of mine saw a family taking cover in an old encampment in Buried City. I'll pay anyone who manages to find them and escort them back to safety.",
     "es": "Un cliente mío vio a una familia refugiándose en un viejo campamento en la Ciudad Enterrada. Pagaré a quien logre encontrarlos y escoltarlos de vuelta a un lugar seguro.",
     "fr": "Un de mes clients a vu une famille se mettre à l'abri dans un vieux campement dans la Cité ensevelie. Je paierai quiconque parviendra à les trouver et à les escorter en lieu sûr.",
@@ -48,8 +52,9 @@
   },
   "objectives": [
     {
+      "ar": "حدد موقع مخيم الطريق السريع المهجور",
       "da": "Find den forladte motorvejslejr",
-      "de": "Das verlassene Straßenlager finden",
+      "de": "Finde das verlassene Autobahn-Lager",
       "en": "Locate the Abandoned Highway Camp",
       "es": "Localiza el campamento abandonado de la autopista",
       "fr": "Localiser le camp de l'autoroute abandonnée",
@@ -70,8 +75,9 @@
       "zh-TW": "找到廢棄的高速公路營地"
     },
     {
+      "ar": "ابحث عن أي علامات للناجين",
       "da": "Søg efter tegn på overlevende",
-      "de": "Nach Anzeichen von Überlebenden suchen",
+      "de": "Suche nach Anzeichen von Überlebenden",
       "en": "Search for any signs of survivors",
       "es": "Busca señales de supervivientes",
       "fr": "Chercher des signes de survivants",
@@ -92,6 +98,7 @@
       "zh-TW": "搜尋任何倖存者的跡象"
     },
     {
+      "ar": "اتبع العلامات الحمراء",
       "da": "Følg de røde markører",
       "de": "Folge den roten Markierungen",
       "en": "Follow the red markers",
@@ -114,6 +121,7 @@
       "zh-TW": "跟隨紅色標記"
     },
     {
+      "ar": "افحص القبر",
       "da": "Undersøg graven",
       "de": "Untersuche das Grab",
       "en": "Inspect the grave",
@@ -155,7 +163,11 @@
     }
   ],
   "xp": 0,
-  "previousQuestIds": ["ss10x7"],
-  "nextQuestIds": ["ss10x9"],
+  "previousQuestIds": [
+    "ss10x7"
+  ],
+  "nextQuestIds": [
+    "ss10x9"
+  ],
   "updatedAt": "11/23/2025"
 }

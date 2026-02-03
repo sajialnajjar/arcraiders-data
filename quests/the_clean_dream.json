@@ -1,6 +1,7 @@
 {
   "id": "the_clean_dream",
   "name": {
+    "ar": "الحلم النظيف",
     "da": "Den rene drøm",
     "de": "Der reine Traum",
     "en": "The Clean Dream",
@@ -22,7 +23,10 @@
     "zh-CN": "清洁之梦",
     "zh-TW": "清潔之夢"
   },
-  "map": ["the_spaceport", "the_blue_gate"],
+  "map": [
+    "the_spaceport",
+    "the_blue_gate"
+  ],
   "trader": "Apollo",
   "grantedItemIds": [
     {
@@ -31,8 +35,9 @@
     }
   ],
   "description": {
+    "ar": "هل تعلم ما الذي أحلم به مؤخراً؟ جهاز تقطير مياه ناطق! جنون، أليس كذلك؟ لكن بجدية، مع مركبات أكثر نقاءً يمكنني صنع متفجرات أشد قوة! سيكون ذلك شيئاً مذهلاً، أليس كذلك؟",
     "da": "Ved du, hvad jeg har drømt om på det seneste? En talende vanddestillator! Skørt, ikke? Men seriøst, med renere forbindelser kunne jeg lave sprængstoffer med mere kraft! Det ville være noget, ikke?",
-    "de": "Weißt du, wovon ich in letzter Zeit träume? Von einem sprechenden Wasserdestilliergerät! Verrückt, oder? Aber im Ernst, mit reineren Verbindungen könnte ich Sprengstoffe mit mehr Wumms herstellen! Das wäre doch was, oder?",
+    "de": "Weißt du, wovon ich in letzter Zeit träume? Ein sprechender Wasserdestillierer! Verrückt, oder? Aber im Ernst, mit reineren Verbindungen könnte ich Sprengstoff mit mehr Wumms herstellen! Das wäre doch was, oder?",
     "en": "You know what I've been dreaming of lately? A talking water distiller! Crazy, huh? But seriously, with purer compounds I could make explosives with more oumph! Would be something, right?",
     "es": "¿Sabes con qué he estado soñando últimamente? ¡Un destilador de agua que habla! Loco, ¿no? Pero en serio, con compuestos más puros podría hacer explosivos con más potencia. ¿No sería genial?",
     "fr": "Tu sais de quoi je rêve ces derniers temps ? Un distillateur d'eau parlant ! Fou, non ? Mais sérieusement, avec des composés plus purs, je pourrais fabriquer des explosifs avec plus de punch ! Ce serait quelque chose, non ?",
@@ -54,6 +59,7 @@
   },
   "objectives": [
     {
+      "ar": "في الميناء الفضائي، فتش 4 حاويات في الأنفاق تحت الأرض",
       "da": "På Rumhavnen, gennemsøg 4 containere i de underjordiske tunneler",
       "de": "Durchsuche 4 Container in den unterirdischen Tunneln beim Raumhafen",
       "en": "On Spaceport, search 4 containers in the underground tunnels",
@@ -76,6 +82,7 @@
       "zh-TW": "在太空港，搜索地下隧道中的4個貨櫃"
     },
     {
+      "ar": "اعثر على أي نظام ترشيح في الأنفاق وراقبه",
       "da": "Find og overvåg et hvilket som helst filtreringssystem i tunnelerne",
       "de": "Finde und überwache ein beliebiges Filtersystem in den Tunneln",
       "en": "Find and monitor any Filtration System in the tunnels",
@@ -98,8 +105,9 @@
       "zh-TW": "在隧道中找到並監控任何過濾系統"
     },
     {
+      "ar": "في Blue Gate، قم بزيارة قبو الصيانة",
       "da": "På Blue Gate, besøg vedligeholdelsesbunkeren",
-      "de": "Gehe zum Wartungsbunker beim Blauen Tor",
+      "de": "Geh zum Wartungsbunker beim Blauen Tor",
       "en": "On The Blue Gate, visit the Maintenance Bunker",
       "es": "En Blue Gate, visita el búnker de mantenimiento",
       "fr": "À Blue Gate, visitez le bunker de maintenance",
@@ -120,6 +128,7 @@
       "zh-TW": "在藍色之門，前往維修地堡"
     },
     {
+      "ar": "راقب نظام التنقية في القبو",
       "da": "Overvåg rensningssystemet i bunkeren",
       "de": "Überwache das Reinigungssystem im Bunker",
       "en": "Monitor the Purification System in the bunker",
@@ -142,6 +151,7 @@
       "zh-TW": "在地堡中監控淨化系統"
     },
     {
+      "ar": "اعثر على المخططات في القبو وقم بتصويرها",
       "da": "Find og fotografer tegningerne i bunkeren",
       "de": "Finde und fotografiere die Baupläne im Bunker",
       "en": "Find and photograph the blueprints in the bunker",
@@ -179,7 +189,9 @@
     }
   ],
   "xp": 0,
-  "previousQuestIds": ["ss11bx"],
-  "nextQuestIds": ["a_prime_specimen"],
-  "updatedAt": "01/29/2026"
+  "previousQuestIds": [
+    "ss11bx"
+  ],
+  "nextQuestIds": [],
+  "updatedAt": "01/13/2026"
 }

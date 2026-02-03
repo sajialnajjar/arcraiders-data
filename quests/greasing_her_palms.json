@@ -1,6 +1,7 @@
 {
   "id": "ss10a",
   "name": {
+    "ar": "إكرامية",
     "da": "Smøre hendes håndflader",
     "de": "Hände gerieben",
     "en": "Greasing Her Palms",
@@ -22,7 +23,11 @@
     "zh-CN": "给她点好处",
     "zh-TW": "給她點好處"
   },
-  "map": ["dam_battlegrounds", "the_spaceport", "buried_city"],
+  "map": [
+    "dam_battlegrounds",
+    "the_spaceport",
+    "buried_city"
+  ],
   "trader": "Celeste",
   "grantedItemIds": [
     {
@@ -31,6 +36,7 @@
     }
   ],
   "description": {
+    "ar": "مؤخراً، كنت أحاول وفشلت في إقناع تيان وين بالانضمام إلى مشاريع مجتمعنا. قد أضطر لجعل الصفقة أكثر جاذبية. كانت تشتكي من جودة الخردة الموجودة في السوق؛ هل تعتقد أننا نستطيع أن نقدم لها خدمة؟",
     "da": "For nylig har jeg forsøgt og fejlet i at få Tian Wen til at deltage i vores fællesskabsprojekter. Jeg er måske nødt til at forsøde handlen. Hun har klaget over kvaliteten af bjærgningen, der findes på markedet; tror du, vi kunne gøre hende en tjeneste?",
     "de": "Ich hab in letzter Zeit erfolglos versucht, Tian Wen für unsere Gemeinschaftsprojekte zu erwärmen. Vielleicht muss ich ihr das Ganze schmackhafter machen. Sie hat sich über die Qualität des Schrotts beschwert, an den sie kommt - können wir ihr da wohl eine kleine Freude bereiten?",
     "en": "Recently, I've been trying and failing to get Tian Wen to join our community projects. I may have to sweeten the deal. She's been complaining about the quality of salvage found on the market; think we could do her a solid?",
@@ -54,8 +60,9 @@
   },
   "objectives": [
     {
+      "ar": "في ساحات معارك السد، قم بزيارة الغرفة المقفلة في مبنى التحكم في معالجة المياه",
       "da": "På Dam Battlegrounds, besøg det låste rum i vandbehandlingskontrolbygningen",
-      "de": "Besuche auf den Damm- Schlachtfeldern den verschlossenen Raum im Kontrollgebäude der Wasseraufbereitung",
+      "de": "Besuche auf den Damm-Schlachtfeldern den verschlossenen Raum im Kontrollgebäude der Wasseraufbereitung",
       "en": "On Dam Battlegrounds, visit the Locked Room in the Water Treatment Control building",
       "es": "En Dam Battlegrounds, visita la sala cerrada en el edificio de control de tratamiento de agua",
       "fr": "Au champ de bataille du Barrage, visiter la salle verrouillée du bâtiment du Contrôle du traitement de l'eau",
@@ -76,6 +83,7 @@
       "zh-TW": "在大壩戰場，訪問水處理控制大樓的上鎖房間"
     },
     {
+      "ar": "في الميناء الفضائي، تفحص دافعات الصواريخ خارج تجميع الصواريخ",
       "da": "På Spaceport, undersøg raketdyserne uden for raketsamlingen",
       "de": "Schau dir im Raumhafen die Schubdüsen außerhalb der Raketenmontage an",
       "en": "On Spaceport, scope out the rocket thrusters outside the Rocket Assembly",
@@ -98,8 +106,9 @@
       "zh-TW": "在太空港，偵察火箭組裝廠外的火箭推進器"
     },
     {
+      "ar": "في المدينة المدفونة، قم بزيارة المنطقة المحصنة في الطابق السادس من مبنى السفر عبر الفضاء",
       "da": "På Buried City, besøg det barrikaderede område på etage 6 i rumrejsebygningen",
-      "de": "Besuche in der Begrabenen Stadt den",
+      "de": "Besuche in der Begrabenen Stadt den abgesperrten Bereich im 6. Stock des Raumfahrtbüros",
       "en": "On Buried City, visit the barricaded area on floor 6 of the Space Travel Building",
       "es": "En Buried City, visita el área barricada en el piso 6 del edificio de viajes espaciales",
       "fr": "Dans la Ville enfouie, visiter la zone barricadée au 6e niveau du Bureau des voyages spatiaux",
@@ -135,7 +144,12 @@
     }
   ],
   "xp": 0,
-  "previousQuestIds": ["ss10"],
-  "nextQuestIds": ["ss10b", "ss10c"],
+  "previousQuestIds": [
+    "ss10"
+  ],
+  "nextQuestIds": [
+    "ss10b",
+    "ss10c"
+  ],
   "updatedAt": "01/13/2026"
 }

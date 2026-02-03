@@ -1,6 +1,7 @@
 {
   "id": "the_league",
   "name": {
+    "ar": "الدوري",
     "da": "Ligaen",
     "de": "Die Liga",
     "en": "The League",
@@ -22,7 +23,9 @@
     "zh-CN": "联盟",
     "zh-TW": "聯盟"
   },
-  "map": ["dam_battlegrounds"],
+  "map": [
+    "dam_battlegrounds"
+  ],
   "trader": "Apollo",
   "grantedItemIds": [
     {
@@ -35,8 +38,9 @@
     }
   ],
   "description": {
+    "ar": "الأطفال هنا يركلون أغلفة القنابل الفارغة. إنها مسألة وقت فقط قبل أن يجدوا واحدة غير فارغة.\n\nإليك الخطة. ساعدني في بعض التحضيرات، وسأقوم بإنشاء فريق كرة قدم حقيقي للصغار.",
     "da": "Børnene heromkring har sparket rundt til tomme granathylstre. Det er kun et spørgsmål om tid, før de ikke er så tomme.\n\nSå her er planen. Du hjælper mig med lidt forberedelse, og så opretter jeg et rigtigt fodboldhold til de unge.",
-    "de": "Die Kinder hier haben mit leeren Granatenhülsen gespielt. Es ist nur eine Frage der Zeit, bis sie mal nicht leer sind.\n\nAlso, hier ist der Plan: Du hilfst mir bei den Vorbereitungen, und ich gründe eine richtige Fußballmannschaft für die Kleinen.",
+    "de": "Die Kinder hier in der Gegend kicken leere Granatenhülsen herum. Es ist nur eine Frage der Zeit, bis sie nicht mehr so leer sind.\n\nAlso, hier ist der Plan. Du hilfst mir bei den Vorbereitungen, und ich stelle eine richtige Fußballmannschaft für die Kleinen auf.",
     "en": "Kids around here have been kicking empty grenade casings around. It's only a matter of time before they're not so empty.\n\nSo here's the plan. You help me with some prep work, and I'll set up an actual football team for the young ones.",
     "es": "Los niños de por aquí han estado pateando carcasas de granadas vacías. Es solo cuestión de tiempo antes de que no estén tan vacías.\n\nAsí que este es el plan. Me ayudas con algunos preparativos y organizaré un equipo de fútbol real para los jóvenes.",
     "fr": "Les gamins du coin s'amusent à shooter dans des goupilles de grenades vides. Ce n'est qu'une question de temps avant qu'elles ne soient plus si vides.\n\nAlors voici le plan. Tu m'aides avec les préparatifs, et je monte une vraie équipe de foot pour les jeunes.",
@@ -58,8 +62,9 @@
   },
   "objectives": [
     {
+      "ar": "سلم كرة قدم مفرغة من الهواء إلى أبولو",
       "da": "Lever en flad fodbold til Apollo",
-      "de": "Bring einen platten Fußball zu Apollo",
+      "de": "Liefere einen platten Fußball bei Apollo ab",
       "en": "Deliver a Deflated Football to Apollo",
       "es": "Entrega un balón de fútbol desinflado a Apollo",
       "fr": "Livrer un ballon de foot dégonflé à Apollo",
@@ -80,8 +85,9 @@
       "zh-TW": "將一個乾癟的足球交給阿波羅"
     },
     {
+      "ar": "سلم مضخة دراجة إلى أبولو",
       "da": "Lever en cykelpumpe til Apollo",
-      "de": "Liefere eine Fahrradpumpe an Apollo",
+      "de": "Liefere eine Fahrradpumpe bei Apollo ab",
       "en": "Deliver a Bicycle Pump to Apollo",
       "es": "Entrega una bomba de bicicleta a Apollo",
       "fr": "Livrer une pompe à vélo à Apollo",
@@ -102,8 +108,9 @@
       "zh-TW": "將一個自行車打氣筒交給阿波羅"
     },
     {
+      "ar": "في Dam Battlegrounds، صوّر المرمى بجانب أبراج المياه",
       "da": "På Dam Battlegrounds skal du fotografere målet ved vandtårnene",
-      "de": "Fotografiere das Tor bei den Wassertürmen auf den Damm-Schlachtfeldern",
+      "de": "Fotografiere auf den Dam Battlegrounds das Tor bei den Wassertürmen",
       "en": "On Dam Battlegrounds, photograph the goal by the Water Towers",
       "es": "En Campos de Batalla de la Presa, fotografía la portería junto a las Torres de Agua",
       "fr": "Sur Dam Battlegrounds, photographier le but près des châteaux d'eau",
@@ -124,8 +131,9 @@
       "zh-TW": "在大壩戰場，拍攝水塔旁邊的球門"
     },
     {
+      "ar": "في المدينة المدفونة، صوّر مجلات كرة القدم في أي كشك",
       "da": "I Buried City skal du fotografere fodboldmagasinerne i enhver kiosk",
-      "de": "Fotografiere in der Begrabenen Stadt die Fußballmagazine in einem beliebigen Kiosk",
+      "de": "Fotografiere in der Buried City die Fußballmagazine in einem beliebigen Kiosk",
       "en": "On Buried City, photograph the football magazines in any kiosk",
       "es": "En Ciudad Enterrada, fotografía las revistas de fútbol en cualquier quiosco",
       "fr": "Dans Buried City, photographier les magazines de foot dans n'importe quel kiosque",
@@ -146,6 +154,7 @@
       "zh-TW": "在掩埋城市，拍攝任何報刊亭裡的足球雜誌"
     },
     {
+      "ar": "ابحث عن كرة قدم مفرغة من الهواء",
       "da": "Søg efter en flad fodbold",
       "de": "Suche nach einem platten Fußball",
       "en": "Search for a Deflated Football",
@@ -168,6 +177,7 @@
       "zh-TW": "尋找一個乾癟的足球"
     },
     {
+      "ar": "ابحث عن مضخة دراجة",
       "da": "Søg efter en cykelpumpe",
       "de": "Suche nach einer Fahrradpumpe",
       "en": "Search for a Bicycle Pump",
@@ -205,7 +215,11 @@
     }
   ],
   "xp": 0,
-  "previousQuestIds": ["ss8b"],
-  "nextQuestIds": ["movie_night"],
+  "previousQuestIds": [
+    "ss8b"
+  ],
+  "nextQuestIds": [
+    "movie_night"
+  ],
   "updatedAt": "01/27/2026"
 }

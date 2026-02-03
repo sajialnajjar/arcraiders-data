@@ -1,8 +1,9 @@
 {
   "id": "on_deaf_ears",
   "name": {
+    "ar": "على آذان صماء",
     "da": "For Døve Ører",
-    "de": "Auf taube Ohren gestoßen",
+    "de": "Auf taube Ohren",
     "en": "On Deaf Ears",
     "es": "A oídos sordos",
     "fr": "Dialogue de sourds",
@@ -22,9 +23,12 @@
     "zh-CN": "充耳不闻",
     "zh-TW": "充耳不聞"
   },
-  "map": ["stella_montis"],
+  "map": [
+    "stella_montis"
+  ],
   "trader": "Lance",
   "description": {
+    "ar": "يبدو أن نصف الـ Raiders هنا يعانون من تلف شديد في السمع.\n\nسمعت شائعات بأنهم طوروا أجهزة سمع متطورة للغاية في ستيلا مونتيس. إذا تمكنت من العثور عليها، ربما نتمكن جميعاً من التحدث بصوت منخفض لمرة واحدة.",
     "da": "Det lader til, at hver anden Raider her har alvorlige høreskader.\n\nJeg har hørt rygter om, at de har udviklet nogle ekstra avancerede høreapparater på Stella Montis. Hvis du kan opspore dem, kan vi måske alle bruge vores indendørsstemmer for en gangs skyld.",
     "de": "Scheint so, als hätte jeder zweite Raider hier einen ernsthaften Gehörschaden.\n\nIch habe Gerüchte gehört, dass sie in Stella Montis einige extra fortschrittliche Hörgeräte entwickelt haben. Wenn du sie aufspüren kannst, könnten wir alle vielleicht mal unsere Zimmerlautstärke benutzen.",
     "en": "Seems like every other Raider here has some serious hearing damage.\n\nI heard rumors they developed some extra advanced hearing aids at Stella Montis. If you can track them down, we might all be able to use our indoor voices, for once.",
@@ -48,6 +52,7 @@
   },
   "objectives": [
     {
+      "ar": "اعثر على سجلات ضيوف الباحث في أجهزة كمبيوتر الاستقبال",
       "da": "Find forskerens gæstelogbøger på receptionscomputerne",
       "de": "Finde die Gästebücher des Forschers auf den Computern am Empfang",
       "en": "Find the researcher's guest logs on the reception computers",
@@ -70,6 +75,7 @@
       "zh-TW": "在接待處的電腦上找到研究員的訪客記錄"
     },
     {
+      "ar": "اعثر على المكان الذي ألقى فيه الباحث محاضرته، وادخل إلى ملاحظاته",
       "da": "Find ud af, hvor forskeren holdt sin forelæsning, og få adgang til deres noter",
       "de": "Finde heraus, wo der Forscher seinen Vortrag gehalten hat, und greife auf seine Notizen zu",
       "en": "Find where the researcher held their lecture, and access their notes",
@@ -92,6 +98,7 @@
       "zh-TW": "找到研究員舉辦講座的地方，並獲取他們的筆記"
     },
     {
+      "ar": "اعثر على معلومات حول النماذج الأولية في أجهزة كمبيوتر البحث الطبي",
       "da": "Find oplysninger om prototyperne på computere til medicinsk forskning",
       "de": "Finde Informationen über die Prototypen auf den Computern der medizinischen Forschung",
       "en": "Find information about the prototypes on the Medical Research computers",
@@ -114,6 +121,7 @@
       "zh-TW": "在醫學研究電腦上找到關於原型的資訊"
     },
     {
+      "ar": "اعثر على سجلات الشحن المطبوعة في ورش التجميع",
       "da": "Find de udskrevne forsendelseslogbøger i samleværkstederne",
       "de": "Finde die ausgedruckten Versandprotokolle in den Montagewerkstätten",
       "en": "Find the printed shipping logs in the Assembly Workshops",
@@ -155,7 +163,11 @@
     }
   ],
   "xp": 0,
-  "previousQuestIds": ["12_snap_and_salvage", "groundbreaking"],
-  "nextQuestIds": ["on_the_map"],
+  "previousQuestIds": [
+    "groundbreaking"
+  ],
+  "nextQuestIds": [
+    "on_the_map"
+  ],
   "updatedAt": "01/27/2026"
 }

@@ -1,6 +1,7 @@
 {
   "id": "ss10",
   "name": {
+    "ar": "استخدام أفضل",
     "da": "En bedre brug",
     "de": "Eine bessere Verwendung",
     "en": "A Better Use",
@@ -22,9 +23,15 @@
     "zh-CN": "更好的用途",
     "zh-TW": "更好的用途"
   },
-  "map": ["buried_city", "the_spaceport", "the_blue_gate", "dam_battlegrounds"],
+  "map": [
+    "buried_city",
+    "the_spaceport",
+    "the_blue_gate",
+    "dam_battlegrounds"
+  ],
   "trader": "Tian Wen",
   "description": {
+    "ar": "نحن نفتقر إلى كل شيء باستثناء الأفواه التي يجب إطعامها، ومع ذلك تطلق Celeste إمدادات ثمينة في الهواء ليتنازع عليها الـ Raiders. لقد انتهيت من السماح للأشياء الجيدة أن تضيع.",
     "da": "Vi mangler alt undtagen munde at fodre, men alligevel sender Celeste værdifulde forsyninger op i luften, så Raiders kan slås om dem. Jeg er færdig med at lade de gode ting gå til spilde.",
     "de": "Wir haben von allem zu wenig, außer von hungrigen Mäulern, und trotzdem schießt Celeste unsere kostbaren Vorräte in die Luft, damit Raider sich drum streiten können. Ich hab es satt, gutes Zeug so zu verschwenden.",
     "en": "We're short on everything but mouths to feed, yet Celeste's launching precious supplies into the air for Raiders to claw over. I'm done letting the good stuff go to waste.",
@@ -48,6 +55,7 @@
   },
   "objectives": [
     {
+      "ar": "اطلب إنزال إمدادات من محطة اتصال",
       "da": "Anmod om en forsyningsdrop fra en opkaldstation",
       "de": "Bei einer Anforderungsstation einen Vorratsabwurf anfordern",
       "en": "Request in a Supply Drop from a Call Station",
@@ -70,6 +78,7 @@
       "zh-TW": "在呼叫站請求補給空投"
     },
     {
+      "ar": "اجمع محتويات إنزال الإمدادات",
       "da": "Plyndre en forsyningsdrop",
       "de": "Einen Vorratsabwurf plündern",
       "en": "Loot a Supply Drop",
@@ -107,7 +116,11 @@
     }
   ],
   "xp": 0,
-  "previousQuestIds": ["ss7"],
-  "nextQuestIds": ["ss10a"],
+  "previousQuestIds": [
+    "ss7"
+  ],
+  "nextQuestIds": [
+    "ss10a"
+  ],
   "updatedAt": "01/13/2026"
 }

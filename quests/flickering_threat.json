@@ -1,6 +1,7 @@
 {
   "id": "ss10x11",
   "name": {
+    "ar": "تهديد وامض",
     "da": "Flimrende trussel",
     "de": "Flackernde Bedrohung",
     "en": "Flickering Threat",
@@ -22,7 +23,9 @@
     "zh-CN": "闪烁的威胁",
     "zh-TW": "閃爍的威脅"
   },
-  "map": ["dam_battlegrounds"],
+  "map": [
+    "dam_battlegrounds"
+  ],
   "trader": "Celeste",
   "requiredItemIds": [
     {
@@ -31,8 +34,9 @@
     }
   ],
   "description": {
+    "ar": "مهندسي المعتاد لا يزال يتعافى من جروحه، وكان مشوشاً لأيام. لا يمكننا تحمل العمل بنصف الشبكة حتى يشفى؛ أحتاج لشخص ما ليحمل مفتاح الربط الخاص به في هذه الأثناء.",
     "da": "Min sædvanlige ingeniør er stadig ved at hele fra sine sår og har været omtåget i dage. Vi har ikke råd til at være på halvt net, indtil han bliver rask; jeg har brug for nogen til at tage hans skruenøgle i mellemtiden.",
-    "de": "Der Ingenieur meines Vertrauens ist immer noch nicht von seinen Wunden genesen. Er ist schon seit Tagen etwas wirr, und wir können uns nicht erlauben, mit halber Kraft zu arbeiten, bis er wieder gesund ist. Ich brauche jemanden, der an seiner Stelle den Schraubenschlüssel schwingt.",
+    "de": "Mein üblicher Ingenieur erholt sich immer noch von seinen Wunden und ist seit Tagen benommen. Wir können es uns nicht leisten, mit halber Netzleistung zu arbeiten, bis er geheilt ist; ich brauche jemanden, der in der Zwischenzeit seinen Schraubenschlüssel übernimmt.",
     "en": "My usual engineer is still healing from his wounds, and has been loopy for days. We can't afford to be at half-grid until he heals; I need someone to pick up his wrench in the mean time.",
     "es": "Mi ingeniero habitual todavía se está recuperando de sus heridas y ha estado aturdido durante días. No podemos permitirnos estar a media red hasta que se cure; necesito que alguien tome su llave inglesa mientras tanto.",
     "fr": "Mon ingénieur habituel se remet encore de ses blessures et est dans les vapes depuis des jours. On ne peut pas se permettre de fonctionner à demi-régime jusqu'à ce qu'il guérisse ; j'ai besoin de quelqu'un pour prendre sa clé en attendant.",
@@ -54,8 +58,9 @@
   },
   "objectives": [
     {
+      "ar": "اعثر على غرفة المولد",
       "da": "Find generatorummet",
-      "de": "Die Generatorhalle finden",
+      "de": "Finde den Generatorraum",
       "en": "Find the Generator Room",
       "es": "Encuentra la sala de generadores",
       "fr": "Trouvez la salle des générateurs",
@@ -76,8 +81,9 @@
       "zh-TW": "找到發電機房"
     },
     {
+      "ar": "أصلح المولد",
       "da": "Reparer generatoren",
-      "de": "Repariere den Generator mit 4 Kabeln",
+      "de": "Repariere den Generator",
       "en": "Repair the Generator",
       "es": "Repara el generador",
       "fr": "Réparez le générateur",
@@ -98,8 +104,9 @@
       "zh-TW": "修理發電機"
     },
     {
+      "ar": "اعثر على عمود التهوية",
       "da": "Find ventilationskanalen",
-      "de": "Den Lüftungsschacht finden",
+      "de": "Finde den Lüftungsschacht",
       "en": "Find the Ventilation Shaft",
       "es": "Encuentra el conducto de ventilación",
       "fr": "Trouvez le conduit de ventilation",
@@ -120,8 +127,9 @@
       "zh-TW": "找到通風井"
     },
     {
+      "ar": "قم بتمكين الطاقة عبر مفتاح الطاقة الموجود أسفل الدرج",
       "da": "Aktiver strømmen via strømkontakten under trappen",
-      "de": "Den Strom mit dem Stromschalter unter der Treppe aktivieren",
+      "de": "Aktiviere den Strom über den Netzschalter unter der Treppe",
       "en": "Enable the power via the power switch underneath the stairs",
       "es": "Activa la energía mediante el interruptor debajo de las escaleras",
       "fr": "Activez l'alimentation via l'interrupteur sous les escaliers",
@@ -157,7 +165,11 @@
     }
   ],
   "xp": 0,
-  "previousQuestIds": ["ss10x10"],
-  "nextQuestIds": ["ss10x12"],
+  "previousQuestIds": [
+    "ss10x10"
+  ],
+  "nextQuestIds": [
+    "ss10x12"
+  ],
   "updatedAt": "11/06/2025"
 }

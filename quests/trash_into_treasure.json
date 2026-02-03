@@ -1,6 +1,7 @@
 {
   "id": "ss3",
   "name": {
+    "ar": "من القمامة إلى الكنز",
     "da": "Skrald til skat",
     "de": "Des einen Müll ist des anderen Schatz",
     "en": "Trash Into Treasure",
@@ -40,6 +41,7 @@
     }
   ],
   "description": {
+    "ar": "بالنسبة لـ Raider، لا يوجد شيء اسمه خردة - إنها كلها مواد قيمة تنتظر إعادة التدوير. إذا كنت تريد تحقيق أي شيء هنا، فلا يمكنك الانتظار حتى يقدم لك كل شيء على طبق من فضة.",
     "da": "For en Raider findes der ikke skrot – det er alt sammen værdifulde materialer, der venter på at blive genanvendt. Hvis du vil opnå noget her, kan du ikke bare vente på, at alting bliver serveret på et sølvfad.",
     "de": "Für einen Raider gibt es keinen Schrott, das sind alles Wertstoffe, die recycelt werden wollen. Wenn du hier etwas erreichen willst, kannst du nicht darauf warten, dass dir alles auf dem Silbertablett serviert wird.",
     "en": "For a Raider, there is no such thing as scrap – it is all valuable material waiting to be recycled. If you want to get anywhere out here, you can’t just wait for everything to be handed to you on a silver platter.",
@@ -63,6 +65,7 @@
   },
   "objectives": [
     {
+      "ar": "احصل على 6 أسلاك",
       "da": "Skaff 6 ledninger",
       "de": "6 Kabel besorgen",
       "en": "Obtain 6 Wires",
@@ -85,6 +88,7 @@
       "zh-TW": "獲取6根電線"
     },
     {
+      "ar": "احصل على بطارية واحدة",
       "da": "Skaff 1 batteri",
       "de": "1 Akku besorgen",
       "en": "Obtain 1 Battery",
@@ -118,7 +122,11 @@
     }
   ],
   "xp": 0,
-  "previousQuestIds": ["ss1"],
-  "nextQuestIds": ["ss4"],
+  "previousQuestIds": [
+    "ss1"
+  ],
+  "nextQuestIds": [
+    "ss4"
+  ],
   "updatedAt": "01/13/2026"
 }

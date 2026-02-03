@@ -1,6 +1,7 @@
 {
   "id": "ss10i",
   "name": {
+    "ar": "موسوم بالموت",
     "da": "Mærket til døden",
     "de": "Zum Tode verurteilt",
     "en": "Marked for Death",
@@ -22,9 +23,12 @@
     "zh-CN": "死亡标记",
     "zh-TW": "死亡標記"
   },
-  "map": ["buried_city"],
+  "map": [
+    "buried_city"
+  ],
   "trader": "Tian Wen",
   "description": {
+    "ar": "شخص ما كان يسرق الإمدادات من نقطة التسليم الخاصة بي في المدينة المدفونة. لقد نصبت فخاً، لكني أحتاج إلى شخص ما ليتحقق منه نيابة عني.",
     "da": "Nogen har stjålet forsyninger fra mit afleveringssted i Buried City. Jeg har sat en fælde op, men jeg har brug for nogen til at tjekke den for mig.",
     "de": "Jemand hat sich an den Vorräten in meinem Lager in der Begrabenen Stadt bedient. Ich hab eine Falle aufgestellt, aber ich brauch jemanden, der hingeht und nachsieht.",
     "en": "Someone has been lifting supplies from my drop-off point in Buried City. I've set up a trap, but I need someone to check it for me.",
@@ -48,6 +52,7 @@
   },
   "objectives": [
     {
+      "ar": "الوصول إلى مستودعات Su Durante في ضواحي المدينة المدفونة",
       "da": "Nå Su Durante-lagrene i udkanten af Buried City",
       "de": "Geh zu den Su-Durante-Lagerhäusern am Stadtrand der Begrabenen Stadt",
       "en": "Reach the Su Durante Warehouses in the Outskirts in Buried City",
@@ -70,6 +75,7 @@
       "zh-TW": "前往埋葬之城郊區的蘇·杜蘭特倉庫"
     },
     {
+      "ar": "ابحث عن مخبأ تيان وين بالقرب من المستودعات",
       "da": "Søg efter Tian Wens gemmested nær lagrene",
       "de": "Suche nach Tian Wens Versteck in der Nähe der Lagerhäuser",
       "en": "Search for Tian Wen's cache near the Warehouses",
@@ -92,6 +98,7 @@
       "zh-TW": "在倉庫附近搜尋田文的儲藏點"
     },
     {
+      "ar": "اتبع الأدلة",
       "da": "Følg sporene",
       "de": "Folge den Hinweisen",
       "en": "Follow the clues",
@@ -125,7 +132,11 @@
     }
   ],
   "xp": 0,
-  "previousQuestIds": ["ss10h"],
-  "nextQuestIds": ["ss10l"],
+  "previousQuestIds": [
+    "ss10h"
+  ],
+  "nextQuestIds": [
+    "ss10l"
+  ],
   "updatedAt": "01/13/2026"
 }

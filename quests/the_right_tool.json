@@ -1,6 +1,7 @@
 {
   "id": "ss7",
   "name": {
+    "ar": "الأداة المناسبة",
     "da": "Det rigtige værktøj",
     "de": "Das richtige Werkzeug",
     "en": "The Right Tool",
@@ -34,6 +35,7 @@
     }
   ],
   "description": {
+    "ar": "أنت أحد الوافدين الجدد، أليس كذلك؟ أحتاج إلى متطوع لاختبار هذا الـ Ferro المطور؛ يجب أن يقطع دروع ARC مثل الزبدة. أحدث بعض الثقوب في بضع آلات ثم عد إلي بتقرير.",
     "da": "Du er en af de nyankomne, ikke? Jeg har brug for en frivillig til at teste denne forbedrede Ferro  den burde skære gennem ARC-panser som smør. Skyd nogle huller i et par maskiner og rapporter så tilbage.",
     "de": "Du gehörst zu den Neuankömmlingen, oder? Ich brauche einen Freiwilligen, der dieses verbesserte Ferro ausprobiert - es sollte ARC-Panzerungen durchschneiden wie Butter. Baller Löcher in ein paar Maschinen und erstatte mir dann Bericht.",
     "en": "You are one of the newcomers, right? I need a volunteer to test this upgraded Ferro  it should cut through ARC armor like butter. Put some holes in a few machines and then report back to me.",
@@ -57,6 +59,7 @@
   },
   "objectives": [
     {
+      "ar": "دمر Fireball",
       "da": "Ødelæg en Fireball",
       "de": "Einen Feuerball zerstören",
       "en": "Destroy a Fireball",
@@ -79,6 +82,7 @@
       "zh-TW": "摧毀火球"
     },
     {
+      "ar": "دمر Hornet",
       "da": "Ødelæg en Hornet",
       "de": "Eine Hornisse zerstören",
       "en": "Destroy a Hornet",
@@ -101,6 +105,7 @@
       "zh-TW": "摧毀大黃蜂"
     },
     {
+      "ar": "دمر Turret",
       "da": "Ødelæg et tårn",
       "de": "Einen Geschützturm zerstören",
       "en": "Destroy a Turret",
@@ -138,7 +143,11 @@
     }
   ],
   "xp": 0,
-  "previousQuestIds": ["ss5"],
-  "nextQuestIds": ["ss10"],
+  "previousQuestIds": [
+    "ss5"
+  ],
+  "nextQuestIds": [
+    "ss10"
+  ],
   "updatedAt": "01/13/2026"
 }

@@ -1,6 +1,7 @@
 {
   "id": "12_in_my_image",
   "name": {
+    "ar": "على صورتي",
     "da": "I mit billede",
     "de": "Mein Ebenbild",
     "en": "In My Image",
@@ -22,7 +23,9 @@
     "zh-CN": "按我的样子",
     "zh-TW": "按我的樣子"
   },
-  "map": ["stella_montis"],
+  "map": [
+    "stella_montis"
+  ],
   "trader": "Lance",
   "grantedItemIds": [
     {
@@ -31,6 +34,7 @@
     }
   ],
   "description": {
+    "ar": "لقد عالجت للتو واحدة من أوائل الـ Raiders الذين زاروا ستيلا مونتيس، وقالت إنها رأت... آخرين. أندرويدز، يشبهونني كثيراً.",
     "da": "Jeg har lige behandlet en af de første Raiders, der besøgte Stella Montis, og hun sagde, at hun så ... andre. Androids, meget lig mig.",
     "de": "Ich habe gerade einen der Raider behandelt, die als Erste in Stella Montis waren. Sie hat mir erzählt, sie hätte... andere gesehen - andere Androiden, die mir sehr ähnlich waren.",
     "en": "I just treated one of the first Raiders who visited Stella Montis, and she said that she saw... others. Androids, very much like me.",
@@ -54,6 +58,7 @@
   },
   "objectives": [
     {
+      "ar": "انتقل إلى ستيلا مونتيس",
       "da": "Deploy til Stella Montis",
       "de": "In Stella Montis eindringen",
       "en": "Deploy into Stella Montis",
@@ -76,8 +81,9 @@
       "zh-TW": "部署到史特拉蒙蒂斯"
     },
     {
+      "ar": "اعثر على 3 أندرويد وفتشهم",
       "da": "Find og gennemsøg 3 androider",
-      "de": "Finde und durchsuche 3 Androiden",
+      "de": "Finde und durchsuche 3 Andoiden",
       "en": "Find and search 3 Androids",
       "es": "Encuentra y registra 3 androides",
       "fr": "Trouver et fouiller 3 androïdes",
@@ -109,7 +115,11 @@
     }
   ],
   "xp": 0,
-  "previousQuestIds": ["ss5"],
-  "nextQuestIds": ["12_cold_storage"],
+  "previousQuestIds": [
+    "ss5"
+  ],
+  "nextQuestIds": [
+    "12_cold_storage"
+  ],
   "updatedAt": "01/13/2026"
 }

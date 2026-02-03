@@ -1,6 +1,7 @@
 {
   "id": "ss11a",
   "name": {
+    "ar": "تحول إلى ركام",
     "da": "Reduceret til ruiner",
     "de": "Schutt und Asche",
     "en": "Reduced to Rubble",
@@ -22,7 +23,9 @@
     "zh-CN": "化为废墟",
     "zh-TW": "化為廢墟"
   },
-  "map": ["the_blue_gate"],
+  "map": [
+    "the_blue_gate"
+  ],
   "trader": "Shani",
   "grantedItemIds": [
     {
@@ -31,6 +34,7 @@
     }
   ],
   "description": {
+    "ar": "ذلك الطريق السريع المنهار يقلقني؛ يبدو أن انهياره حديث. قد يكون الكثير من السطح (Topside) في حالة خراب، لكن معظمه منذ زمن بعيد.",
     "da": "Den kollapsede motorvej bekymrer mig; den ser ud til at være nylig. Meget af Topside kan være i ruiner, men det meste er fra for længe siden.",
     "de": "Die eingestürzte Schnellstraße macht mir Sorgen; das scheint erst kürzlich passiert zu sein. An der Oberfläche ist ja fast alles kaputt, aber das meiste schon seit Ewigkeiten.",
     "en": "That collapsed highway worries me; it looks to be recent. Much of Topside may be in ruins, but most of it is from ages ago.",
@@ -54,6 +58,7 @@
   },
   "objectives": [
     {
+      "ar": "التقط صورة للطريق السريع المنهار",
       "da": "Tag et billede af den kollapsede motorvej",
       "de": "Fotografiere die eingestürzte Schnellstraße",
       "en": "Take a photo of the Collapsed Highway",
@@ -76,8 +81,9 @@
       "zh-TW": "拍攝倒塌的高速公路照片"
     },
     {
+      "ar": "اذهب إلى Broken Earth",
       "da": "Gå til den Brudte Jord",
-      "de": "Geh zur aufgebrochenen Erde",
+      "de": "Gehe zur aufgebrochenen Erde",
       "en": "Go to the Broken Earth",
       "es": "Ve a la Tierra rota",
       "fr": "Aller à la Terre brisée",
@@ -98,6 +104,7 @@
       "zh-TW": "前往破碎大地"
     },
     {
+      "ar": "اتبع أثر الدمار عبر Broken Earth",
       "da": "Følg ødelæggelsessporet gennem den Brudte Jord",
       "de": "Folge den Spuren der Zerstörung durch die aufgebrochene Erde",
       "en": "Follow the trail of destruction through the Broken Earth",
@@ -120,6 +127,7 @@
       "zh-TW": "沿著破壞痕跡穿過破碎大地"
     },
     {
+      "ar": "حقق في آلات ARC المجهولة",
       "da": "Undersøg de ukendte ARC-maskiner",
       "de": "Untersuche die geheimnisvollen ARC-Maschinen",
       "en": "Investigate the unknown ARC machines",
@@ -157,7 +165,11 @@
     }
   ],
   "xp": 0,
-  "previousQuestIds": ["ss11"],
-  "nextQuestIds": ["ss11bx"],
+  "previousQuestIds": [
+    "ss11"
+  ],
+  "nextQuestIds": [
+    "ss11bx"
+  ],
   "updatedAt": "01/13/2026"
 }

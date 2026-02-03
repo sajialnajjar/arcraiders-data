@@ -1,8 +1,9 @@
 {
   "id": "ss10x4",
   "name": {
+    "ar": "متاعب المياه",
     "da": "Vandproblemer",
-    "de": "Wassersorgen",
+    "de": "Wasserprobleme",
     "en": "Water Troubles",
     "es": "Problemas de agua",
     "fr": "Navigation en eaux troubles",
@@ -22,11 +23,14 @@
     "zh-CN": "水源问题",
     "zh-TW": "水源問題"
   },
-  "map": ["dam_battlegrounds"],
+  "map": [
+    "dam_battlegrounds"
+  ],
   "trader": "Celeste",
   "description": {
+    "ar": "إذا كنت هنا للشكوى من المياه، فانضم إلى النادي. لقد كنت أتلقى الشكاوى طوال اليوم. من المؤكد أن هناك خطأ ما، وأحتاج إلى مساعدة لحله.",
     "da": "Hvis du er her for at klage over vandet, så velkommen i klubben. Jeg har modtaget klager hele dagen. Der er helt sikkert noget galt med det, og jeg har brug for hjælp til at løse det.",
-    "de": "Wenn du hier bist, um dich über das Wasser zu beschweren, dann willkommen im Club. Ich beschwere mich schon den ganzen Tag. Irgendwas stimmt da nicht und ich brauch deine Hilfe, um rauszufinden was.",
+    "de": "Wenn du hier bist, um dich über das Wasser zu beschweren, bist du nicht allein. Ich habe den ganzen Tag Beschwerden entgegengenommen. Irgendetwas stimmt definitiv nicht damit, und ich brauche Hilfe, um das zu klären.",
     "en": "If you're here to complain about the water, join the club. I've been fielding complaints all day. Something is definitely up with it, and I need some help to sort it out.",
     "es": "Si estás aquí para quejarte del agua, únete al club. He estado recibiendo quejas todo el día. Definitivamente algo anda mal con ella, y necesito ayuda para resolverlo.",
     "fr": "Si vous venez vous plaindre de l'eau, bienvenue au club. J'ai été submergé de plaintes toute la journée. Il y a quelque chose qui cloche et j'ai besoin d'aide pour régler le problème.",
@@ -46,11 +50,11 @@
     "zh-CN": "如果你是来抱怨水的问题，那你来对地方了。我整天都在处理投诉。水源肯定出了问题，我需要一些帮助来解决这个问题。",
     "zh-TW": "如果你是來抱怨水的問題，那你來對地方了。我整天都在處理投訴。水源肯定出了問題，我需要一些幫助來解決這個問題。"
   },
-  "objectivesOneRound": true,
   "objectives": [
     {
+      "ar": "حدد موقع Flood Access Tunnel تحت Red Lake Balcony",
       "da": "Find Oversvømmelsesadgangstunnelen under Rødsjøbalkonen",
-      "de": "Den Hochwasserzugangstunnel unter dem Balkon „Rote Seen” finden",
+      "de": "Finde den Flutzugangstunnel unter dem Roten-See-Balkon",
       "en": "Locate the Flood Access Tunnel under the Red Lake Balcony",
       "es": "Localiza el Túnel de Acceso a Inundaciones bajo el Balcón del Lago Rojo",
       "fr": "Localiser le Tunnel d'évacuation sous le Plateau des lacs rouges",
@@ -71,8 +75,9 @@
       "zh-TW": "找到紅湖陽台下方的洪水通道"
     },
     {
+      "ar": "اعثر على مأخذ إمدادات المياه الخاصة بالمنطقة",
       "da": "Find indtagelsen til Distriktets Vandforsyning",
-      "de": "Den Einlass zur Wasserversorgung des Bezirks finden",
+      "de": "Finde die Zuleitung zur Wasserversorgung des Bezirks",
       "en": "Find the intake to the District's Water Supply",
       "es": "Encuentra la toma del Suministro de Agua del Distrito",
       "fr": "Trouver l'entrée du réservoir d'eau du quartier",
@@ -93,8 +98,9 @@
       "zh-TW": "找到區域供水系統的進水口"
     },
     {
+      "ar": "خذ عينة من المياه",
       "da": "Tag en vandprøve",
-      "de": "Eine Wasserprobe nehmen",
+      "de": "Nimm eine Wasserprobe",
       "en": "Sample the water",
       "es": "Toma una muestra del agua",
       "fr": "Prélever un échantillon d'eau",
@@ -130,7 +136,13 @@
     }
   ],
   "xp": 0,
-  "previousQuestIds": ["ss10x3", "ss10y"],
-  "nextQuestIds": ["ss10x5", "ss10x6"],
+  "previousQuestIds": [
+    "ss10x3",
+    "ss10y"
+  ],
+  "nextQuestIds": [
+    "ss10x5",
+    "ss10x6"
+  ],
   "updatedAt": "01/13/2026"
 }

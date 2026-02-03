@@ -1,6 +1,7 @@
 {
   "id": "ss9",
   "name": {
+    "ar": "الثلاثية",
     "da": "Trifecta",
     "de": "Die Triade",
     "en": "The Trifecta",
@@ -22,7 +23,12 @@
     "zh-CN": "三连胜",
     "zh-TW": "三連勝"
   },
-  "map": ["buried_city", "the_spaceport", "the_blue_gate", "dam_battlegrounds"],
+  "map": [
+    "buried_city",
+    "the_spaceport",
+    "the_blue_gate",
+    "dam_battlegrounds"
+  ],
   "trader": "Shani",
   "requiredItemIds": [
     {
@@ -45,6 +51,7 @@
     }
   ],
   "description": {
+    "ar": "الاستخبارات جيدة بما فيه الكفاية، لكنها توصلنا إلى حد معين فقط. إذا كان الـ ARC يقتربون حقاً، فأنا بحاجة إلى أن يثبت كل Raider أنه قادر على التعامل مع طائراتهم بدون طيار في القتال.",
     "da": "Efterretninger er fint nok, men det bringer os kun så langt. Hvis ARC virkelig nærmer sig, har jeg brug for, at hver Raider beviser, at de kan håndtere deres droner i kamp.",
     "de": "Aufklärung ist gut und schön, aber damit kommen wir nicht weit. Wenn die ARC wirklich näher rücken, muss jeder Raider beweisen, dass er im Kampf mit seinen Drohnen umgehen kann.",
     "en": "Intel's all well and good, but it only gets us so far. If ARC's truly closing in, I need every Raider to prove they can handle their drones in a fight.",
@@ -68,6 +75,7 @@
   },
   "objectives": [
     {
+      "ar": "دمر 2 Wasps",
       "da": "Ødelæg 2 Wasps",
       "de": "Eine Wespe zerstören",
       "en": "Destroy 2 Wasps",
@@ -90,6 +98,7 @@
       "zh-TW": "摧毀2個黃蜂"
     },
     {
+      "ar": "احصل على 2 Wasp Driver لـ Shani",
       "da": "Skaff 2 Wasp Driver til Shani",
       "de": "Einen Wespentreiber für Shani besorgen",
       "en": "Get 2 Wasp Driver for Shani",
@@ -112,6 +121,7 @@
       "zh-TW": "為莎妮獲取2個黃蜂驅動器"
     },
     {
+      "ar": "دمر 2 Hornets",
       "da": "Ødelæg 2 Hornets",
       "de": "Eine Hornisse zerstören",
       "en": "Destroy 2 Hornets",
@@ -134,6 +144,7 @@
       "zh-TW": "摧毀2個大黃蜂"
     },
     {
+      "ar": "احصل على 2 Hornet Driver لـ Shani",
       "da": "Skaff 2 Hornet Driver til Shani",
       "de": "Einen Hornissentreiber für Shani besorgen",
       "en": "Get 2 Hornet Driver for Shani",
@@ -156,6 +167,7 @@
       "zh-TW": "為莎妮獲取2個大黃蜂驅動器"
     },
     {
+      "ar": "دمر 2 Snitches",
       "da": "Ødelæg 2 Snitches",
       "de": "Einen Spitzel zerstören",
       "en": "Destroy 2 Snitches",
@@ -178,6 +190,7 @@
       "zh-TW": "摧毀2個告密者"
     },
     {
+      "ar": "احصل على 2 Snitch Scanner لـ Shani",
       "da": "Skaff 2 Snitch Scanner til Shani",
       "de": "Einen Spitzel-Scanner für Shani besorgen",
       "en": "Get 2 Snitch Scanner for Shani",
@@ -215,7 +228,9 @@
     }
   ],
   "xp": 0,
-  "previousQuestIds": ["ss6"],
+  "previousQuestIds": [
+    "ss6"
+  ],
   "nextQuestIds": [],
   "updatedAt": "01/13/2026"
 }

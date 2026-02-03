@@ -1,6 +1,7 @@
 {
   "id": "ss10v",
   "name": {
+    "ar": "الخروج من الظلال",
     "da": "Ud af skyggerne",
     "de": "Aus den Schatten",
     "en": "Out of the Shadows",
@@ -22,7 +23,12 @@
     "zh-CN": "走出阴影",
     "zh-TW": "走出陰影"
   },
-  "map": ["buried_city", "the_spaceport", "the_blue_gate", "dam_battlegrounds"],
+  "map": [
+    "buried_city",
+    "the_spaceport",
+    "the_blue_gate",
+    "dam_battlegrounds"
+  ],
   "trader": "Shani",
   "requiredItemIds": [
     {
@@ -41,8 +47,9 @@
     }
   ],
   "description": {
+    "ar": "هل رأيت الأعلام؟ لقد ولى زمن الاختباء. لقد تم اختبارك في المعارك أكثر من اللازم، مما أسمعه؛ هل تعتقد أنك قادر على مواجهة Rocketeer؟",
     "da": "Så du flagene? Tiden med at krybe sammen er forbi. Du har været mere end kampafprøvet, fra hvad jeg hører; tror du, du kan tage kampen op med en Rocketeer?",
-    "de": "Hast du die Flaggen gesehen? Wir haben uns lange genug versteckt. Nach allem, was man hört, bist du kampfgestählt - denkst du, du kannst es mit einem Raketenkanonier aufnehmen?",
+    "de": "Hast du die Flaggen gesehen? Die Zeit des Versteckens ist vorbei. Du wurdest mehr als kampferprobt, wie ich höre; glaubst du, du kannst es mit einem Rocketeer aufnehmen?",
     "en": "Did you see the flags? The time for cowering is over. You've been more than battle-tested, from what I hear; think you can take on a Rocketeer?",
     "es": "¿Viste las banderas? El tiempo de acobardarse ha terminado. Has sido más que probado en batalla, por lo que escucho; ¿crees que puedes enfrentarte a un Rocketeer?",
     "fr": "As-tu vu les drapeaux ? Le temps de se cacher est révolu. Tu as été plus qu'éprouvé au combat, d'après ce que j'entends ; penses-tu pouvoir affronter un Rocketeer ?",
@@ -64,8 +71,9 @@
   },
   "objectives": [
     {
+      "ar": "دمر Rocketeer",
       "da": "Ødelæg en Rocketeer",
-      "de": "Einen Raketenkanonier zerstören",
+      "de": "Zerstöre einen Rocketeer",
       "en": "Destroy a Rocketeer",
       "es": "Destruye un Rocketeer",
       "fr": "Détruire un Rocketeer",
@@ -86,8 +94,9 @@
       "zh-TW": "摧毀一名火箭兵"
     },
     {
+      "ar": "احصل على Rocketeer Driver",
       "da": "Få en Rocketeer-driver",
-      "de": "Beschaffe einen Raketenkanoniertreiber",
+      "de": "Erhalte einen Rocketeer-Treiber",
       "en": "Obtain a Rocketeer Driver",
       "es": "Obtén un controlador de Rocketeer",
       "fr": "Obtenir un pilote de Rocketeer",
@@ -119,7 +128,9 @@
     }
   ],
   "xp": 0,
-  "previousQuestIds": ["ss10r", "ss8b"],
+  "previousQuestIds": [
+    "ss10r"
+  ],
   "nextQuestIds": [],
   "updatedAt": "01/13/2026"
 }

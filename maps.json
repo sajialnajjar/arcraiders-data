@@ -2,6 +2,7 @@
   {
     "id": "dam_battlegrounds",
     "name": {
+      "ar": "ساحات قتال السد",
       "da": "dæmning_slagsmark",
       "de": "Damm-Schlachtfelder",
       "en": "Dam Battlegrounds",
@@ -22,11 +23,12 @@
       "zh-CN": "大坝战场",
       "zh-TW": "水壩_戰場"
     },
-    "image": "https://cdn.arctracker.io/maps/dam_battlegrounds.png"
+    "image": "https://cdn.arctracker.io/maps/dam_battlegrounds.webp"
   },
   {
     "id": "the_spaceport",
     "name": {
+      "ar": "الميناء الفضائي",
       "da": "rumhavn",
       "de": "Raumhafen",
       "en": "The Spaceport",
@@ -47,11 +49,12 @@
       "zh-CN": "太空港",
       "zh-TW": "太空港"
     },
-    "image": "https://cdn.arctracker.io/maps/the_spaceport.png"
+    "image": "https://cdn.arctracker.io/maps/the_spaceport.webp"
   },
   {
     "id": "buried_city",
     "name": {
+      "ar": "المدينة المدفونة",
       "da": "begravet_by",
       "de": "Begrabene Stadt",
       "en": "Buried City",
@@ -72,11 +75,12 @@
       "zh-CN": "掩埋废城",
       "zh-TW": "埋葬之城"
     },
-    "image": "https://cdn.arctracker.io/maps/buried_city.png"
+    "image": "https://cdn.arctracker.io/maps/buried_city.webp"
   },
   {
     "id": "the_blue_gate",
     "name": {
+      "ar": "البوابة الزرقاء",
       "da": "den_blaa_port",
       "de": "Das blaue Tor",
       "en": "The Blue Gate",
@@ -97,11 +101,12 @@
       "zh-CN": "蓝门",
       "zh-TW": "藍門"
     },
-    "image": "https://cdn.arctracker.io/maps/the_blue_gate.png"
+    "image": "https://cdn.arctracker.io/maps/the_blue_gate.webp"
   },
   {
     "id": "stella_montis_upper",
     "name": {
+      "ar": "ستيلا مونتيس",
       "da": "bjergstjerne",
       "de": "Stella Montis",
       "en": "Stella Montis",
@@ -122,11 +127,12 @@
       "zh-CN": "星辰山",
       "zh-TW": "山之星"
     },
-    "image": "https://cdn.arctracker.io/maps/stella_montis_upper.png"
+    "image": "https://cdn.arctracker.io/maps/stella_montis_upper.webp"
   },
   {
     "id": "stella_montis_lower",
     "name": {
+      "ar": "ستيلا مونتيس",
       "da": "bjergstjerne",
       "de": "Stella Montis",
       "en": "Stella Montis",
@@ -147,6 +153,6 @@
       "zh-CN": "星辰山",
       "zh-TW": "山之星"
     },
-    "image": "https://cdn.arctracker.io/maps/stella_montis_lower.png"
+    "image": "https://cdn.arctracker.io/maps/stella_montis_lower.webp"
   }
 ]

@@ -1,6 +1,7 @@
 {
   "id": "rubber_duck",
   "name": {
+    "ar": "بطة مطاطية",
     "da": "Badeand",
     "de": "Quietscheente",
     "en": "Rubber Duck",
@@ -23,6 +24,7 @@
     "zh-TW": "橡皮鴨"
   },
   "description": {
+    "ar": "دائماً هناك للاستماع عندما تحتاج إليها. يمكن رميها لإحداث ضوضاء.",
     "da": "Altid der for at lytte, når du har brug for det. Kan kastes for at skabe støj.",
     "de": "Immer da, um zuzuhören, wenn man es braucht. Kann geworfen werden, um Lärm zu erzeugen.",
     "en": "Always there to lend an ear when you need it. Can be thrown to create noise.",

@@ -1,6 +1,7 @@
 {
   "id": "power_rod",
   "name": {
+    "ar": "قضيب طاقة",
     "da": "Kraftstang",
     "de": "Energiestab",
     "en": "Power Rod",
@@ -23,6 +24,7 @@
     "zh-TW": "能量棒"
   },
   "description": {
+    "ar": "يستخدم في التصنيع. يستخدم لصنع: Heavy Shield, Snap Hook",
     "da": "Bruges til håndværk. Bruges til at lave: Tungt skjold, Karabinkrog",
     "de": "Wird bei der Herstellung verwendet. Zur Herstellung von: Schwerer Schild, Karabinerhaken",
     "en": "Used in crafting. Used to craft: Heavy Shield, Snap Hook",

@@ -1,6 +1,7 @@
 {
   "id": "shotgun_choke_ii",
   "name": {
+    "ar": "خانق بندقية الرش 2",
     "da": "Haglgevær-choke II",
     "de": "Schrotflintenchoke II",
     "en": "Shotgun Choke II",
@@ -23,6 +24,7 @@
     "zh-TW": "霰彈槍收束器 II"
   },
   "description": {
+    "ar": "يقلل التشتت الأساسي بشكل معتدل. متوافق مع: Il Toro, Vulcano",
     "da": "Reducerer grundspredning moderat. Kompatibel med: Il Toro, Vulcano",
     "de": "Verringert die Grundstreuung moderat. Kompatibel mit: Il Toro, Vulcano",
     "en": "Moderately reduces base dispersion. Compatible with: Il Toro, Vulcano",
@@ -48,11 +50,15 @@
   "rarity": "Uncommon",
   "value": 2000,
   "weightKg": 0.5,
-  "compatibleWith": ["Il Toro", "Vulcano"],
+  "compatibleWith": [
+    "Il Toro",
+    "Vulcano"
+  ],
   "blueprintLocked": true,
   "effects": {
     "Reduced Base Dispersion": {
       "value": "20%",
+      "ar": "تشتت أساسي مخفض",
       "da": "Reduceret grundspredning",
       "de": "Verringerte Grundstreuung",
       "en": "Reduced Base Dispersion",

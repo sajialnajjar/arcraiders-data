@@ -1,6 +1,7 @@
 {
   "id": "shield_recharger",
   "name": {
+    "ar": "شاحن الدرع",
     "da": "Skjoldoplader",
     "de": "Schildauflader",
     "en": "Shield Recharger",
@@ -23,6 +24,7 @@
     "zh-TW": "護盾充能器"
   },
   "description": {
+    "ar": "مجموعة محمولة تعيد شحن الدرع تدريجياً بمرور الوقت.",
     "da": "Et håndholdt sæt, der gradvist oplader skjoldet over tid.",
     "de": "Ein Hangerät, das Schilde im Laufe der Zeit wieder auflädt.",
     "en": "A handheld kit that gradually recharges shield over time.",
@@ -52,6 +54,7 @@
   "effects": {
     "Duration": {
       "value": "10s",
+      "ar": "المدة",
       "da": "Varighed",
       "de": "Dauer",
       "en": "Duration",
@@ -75,6 +78,7 @@
     },
     "Recharge": {
       "value": "4/s",
+      "ar": "إعادة الشحن",
       "da": "Opladning",
       "de": "Aufladung",
       "en": "Recharge",
@@ -98,6 +102,7 @@
     },
     "Use Time": {
       "value": "2s",
+      "ar": "وقت الاستخدام",
       "da": "Brugstid",
       "de": "Verwendungszeit",
       "en": "Use Time",
@@ -120,7 +125,11 @@
       "zh-TW": "使用時間"
     }
   },
-  "craftBench": ["workbench", "med_station", "in_raid"],
+  "craftBench": [
+    "workbench",
+    "med_station",
+    "in_raid"
+  ],
   "recipe": {
     "arc_powercell": 1,
     "rubber_parts": 5

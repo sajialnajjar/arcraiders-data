@@ -1,6 +1,7 @@
 {
   "id": "shotgun_silencer",
   "name": {
+    "ar": "كاتم صوت بندقية الرش",
     "da": "Haglgevær-lyddæmper",
     "de": "Schrotflinten-Schalldämpfer",
     "en": "Shotgun Silencer",
@@ -23,6 +24,7 @@
     "zh-TW": "霰彈槍消音器"
   },
   "description": {
+    "ar": "يقلل بشكل معتدل من كمية الضوضاء الناتجة عند الإطلاق.",
     "da": "Reducerer støjen produceret ved skydning moderat.",
     "de": "Verringert die beim Schießen erzeugte Lautstärke moderat.",
     "en": "Moderately reduces the amount of noise produced when firing.",
@@ -52,6 +54,7 @@
   "effects": {
     "Reduced Noise": {
       "value": "50%",
+      "ar": "ضوضاء مخفضة",
       "da": "Reduceret støj",
       "de": "Reduzierte Lautstärke",
       "en": "Reduced Noise",

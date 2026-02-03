@@ -1,6 +1,7 @@
 {
   "id": "renegade_i",
   "name": {
+    "ar": "المتمرد 1",
     "da": "Renegade I",
     "de": "Renegade I",
     "en": "Renegade I",
@@ -23,6 +24,7 @@
     "zh-TW": "叛徒 I"
   },
   "description": {
+    "ar": "بندقية معركة بآلية الرافعة ذات ناتج ضرر عالٍ ودقة وضرر إصابة في الرأس.",
     "da": "Har høj skadeoutput, præcision og hovedskudsskade.",
     "de": "Richtet bei Körpertreffern und insbesondere bei Kopfschüssen hohen Schaden an und ist präzise.",
     "en": "Lever-action battle rifle with high damage output, accuracy, and headshot damage.",
@@ -52,6 +54,7 @@
   "effects": {
     "Ammo Type": {
       "value": "Medium Ammo",
+      "ar": "نوع الذخيرة",
       "da": "Ammunitionstype",
       "de": "Munitionstyp",
       "en": "Ammo Type",
@@ -75,6 +78,7 @@
     },
     "ARC Armor Penetration": {
       "value": "Moderate",
+      "ar": "اختراق دروع ARC",
       "da": "ARC-rustningspenetrering",
       "de": "ARC-Panzerungsdurchdringung",
       "en": "ARC Armor Penetration",
@@ -98,6 +102,7 @@
     },
     "Durability": {
       "value": "100/100",
+      "ar": "المتانة",
       "da": "Holdbarhed",
       "de": "Haltbarkeit",
       "en": "Durability",
@@ -121,6 +126,7 @@
     },
     "Firing Mode": {
       "value": "Lever-Action",
+      "ar": "وضع الإطلاق",
       "da": "Skydningstilstand",
       "de": "Feuermodus",
       "en": "Firing Mode",
@@ -144,6 +150,7 @@
     },
     "Magazine Size": {
       "value": 8,
+      "ar": "حجم المخزن",
       "da": "Magasinstørrelse",
       "de": "Magazingröße",
       "en": "Magazine Size",

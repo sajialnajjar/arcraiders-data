@@ -1,6 +1,7 @@
 {
   "id": "recorder",
   "name": {
+    "ar": "ناي",
     "da": "Blokfløjte",
     "de": "Spielbare Flöte",
     "en": "Recorder",
@@ -23,6 +24,7 @@
     "zh-TW": "直笛"
   },
   "description": {
+    "ar": "ناي قابل للعب يستخدم لجذب انتباه ARC وإثارة إعجاب المغيرين الآخرين.",
     "da": "En spillelig blokfløjte brugt til at tiltrække ARCs opmærksomhed og imponere andre Raiders.",
     "de": "Eine spielbare Flöte, mit der ARC angelockt oder andere Raider beeindruckt werden können.",
     "en": "A playable recorder used to attract ARC's attention, and impress other Raiders.",
@@ -52,6 +54,7 @@
   "effects": {
     "Durability": {
       "value": "100/100",
+      "ar": "المتانة",
       "da": "Holdbarhed",
       "de": "Haltbarkeit",
       "en": "Durability",

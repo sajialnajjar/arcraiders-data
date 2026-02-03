@@ -1,6 +1,7 @@
 {
   "id": "radio",
   "name": {
+    "ar": "راديو",
     "da": "Radio",
     "de": "Radio",
     "en": "Radio",
@@ -23,6 +24,7 @@
     "zh-TW": "收音機"
   },
   "description": {
+    "ar": "يمكن إعادة تدويره إلى مكونات تصنيع.",
     "da": "Kan genbruges til håndværkskomponenter.",
     "de": "Kann zu Herstellungsmaterialien recycelt werden.",
     "en": "Can be recycled into crafting components.",

@@ -1,6 +1,7 @@
 {
   "id": "power_cable",
   "name": {
+    "ar": "كابل طاقة",
     "da": "Strømkabel",
     "de": "Stromkabel",
     "en": "Power Cable",
@@ -23,6 +24,7 @@
     "zh-TW": "電力電纜"
   },
   "description": {
+    "ar": "كابل قوي يستخدم لنقل الطاقة الكهربائية.",
     "da": "Et kraftigt kabel brugt til at transmittere elektrisk strøm.",
     "de": "Kann zu Herstellungsmaterialien recycelt werden.",
     "en": "A heavy-duty cable used for transmitting electrical power.",

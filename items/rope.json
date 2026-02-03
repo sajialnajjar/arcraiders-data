@@ -1,6 +1,7 @@
 {
   "id": "rope",
   "name": {
+    "ar": "حبل",
     "da": "Reb",
     "de": "Seil",
     "en": "Rope",
@@ -23,6 +24,7 @@
     "zh-TW": "繩索"
   },
   "description": {
+    "ar": "يستخدم في التصنيع. يستخدم لصنع: حبل انزلاق، خطاف تثبيت",
     "da": "Bruges i håndværk. Bruges til at lave: Zipline, Karabinkrog",
     "de": "Wird bei der Herstellung verwendet. Zur Herstellung von: Seilrutsche, Karabinerhaken",
     "en": "Used in crafting. Used to craft: Zipline, Snap Hook",

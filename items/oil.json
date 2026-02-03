@@ -1,6 +1,7 @@
 {
   "id": "oil",
   "name": {
+    "ar": "زيت",
     "da": "Olie",
     "de": "Öl",
     "en": "Oil",
@@ -23,6 +24,7 @@
     "zh-TW": "油"
   },
   "description": {
+    "ar": "تستخدم لصنع الأسلحة والمتفجرات. يمكن إعادة تدويرها إلى مواد كيميائية. تستخدم لصنع: Renegade, Explosive Compound, Blaze Grenade",
     "da": "Bruges til at fremstille våben og sprængstoffer. Kan genbruges til kemikalier. Bruges til at fremstille: Renegade, Eksplosiv blanding, Flammegranate",
     "de": "Wird zur Herstellung von Waffen und Sprengstoffen verwendet. Kann zu Chemikalien recycelt werden. Zur Herstellung von: Renegade, Flammengranate, Explosive Substanz",
     "en": "Used to craft weapons and explosives. Can be recycled into chemicals. Used to craft: Renegade, Explosive Compound, Blaze Grenade",

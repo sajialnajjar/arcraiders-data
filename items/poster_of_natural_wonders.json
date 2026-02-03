@@ -1,6 +1,7 @@
 {
   "id": "poster_of_natural_wonders",
   "name": {
+    "ar": "ملصق عجائب الطبيعة",
     "da": "Plakat af naturens vidundere",
     "de": "Naturwunder-Poster",
     "en": "Poster of Natural Wonders",
@@ -23,6 +24,7 @@
     "zh-TW": "自然奇觀海報"
   },
   "description": {
+    "ar": "إذا وقفت قريباً وأغمضت عينيك قليلاً، يبدو الأمر وكأن العالم لم ينهار أبداً.",
     "da": "Hvis du står tæt på og knuger øjnene sammen, er det som om verden aldrig styrtede sammen.",
     "de": "Wenn du ganz nah rangehst und die Augen zusammenkneifst, ist es fast, als on die Welt nie untergegangen wäre.",
     "en": "If you stand close and squint your eyes, it's like the world never came crumbling down.",

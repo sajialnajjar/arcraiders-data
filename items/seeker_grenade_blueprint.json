@@ -1,6 +1,7 @@
 {
   "id": "seeker_grenade_blueprint",
   "name": {
+    "ar": "مخطط قنبلة باحثة",
     "da": "Søgergranat-tegning",
     "de": "Bauplan: Suchgranate",
     "en": "Seeker Grenade Blueprint",
@@ -23,6 +24,7 @@
     "zh-TW": "追蹤手榴彈藍圖"
   },
   "description": {
+    "ar": "يفتح مخطط تصنيع القنبلة الباحثة.",
     "da": "Låser opskriften til Søgergranaten op.",
     "de": "Schaltet den Herstellungsbauplan für die Suchgranate frei.",
     "en": "Unlocks the crafting blueprint for the Seeker Grenade.",

@@ -1,6 +1,7 @@
 {
   "id": "rusted_bolts",
   "name": {
+    "ar": "مسامير صدئة",
     "da": "Rustne Bolte",
     "de": "Verrostete Bolzen",
     "en": "Rusted Bolts",
@@ -23,6 +24,7 @@
     "zh-TW": "生鏽螺栓"
   },
   "description": {
+    "ar": "يمكن إعادة تدويرها إلى أجزاء معدنية.",
     "da": "Kan genbruges til metaldele.",
     "de": "Kann zu Metallteilen recycelt werden.",
     "en": "Can be recycled into metal parts.",

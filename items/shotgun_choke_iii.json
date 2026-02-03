@@ -1,6 +1,7 @@
 {
   "id": "shotgun_choke_iii",
   "name": {
+    "ar": "خانق بندقية الرش 3",
     "da": "Haglgevær choke III",
     "de": "Schrotflintenchoke III",
     "en": "Shotgun Choke III",
@@ -23,6 +24,7 @@
     "zh-TW": "霰彈槍收束器 III"
   },
   "description": {
+    "ar": "يقلل التشتت الأساسي بشكل كبير.",
     "da": "Reducerer betydeligt grundspredning.",
     "de": "Verringert die Grundstreuung erheblich.",
     "en": "Significantly reduces base dispersion.",
@@ -52,6 +54,7 @@
   "effects": {
     "Compatible With": {
       "value": "Il Toro, Vulcano",
+      "ar": "متوافق مع",
       "da": "Kompatibel med",
       "de": "Kompatibel mit",
       "en": "Compatible With",
@@ -75,6 +78,7 @@
     },
     "Increased Durability Burn Rate": {
       "value": "20%",
+      "ar": "معدل استهلاك المتانة",
       "da": "Øget holdbarhedsforbrændingshastighed",
       "de": "Erhöhte Haltbarkeitsverbrauchsrate",
       "en": "Increased Durability Burn Rate",
@@ -98,6 +102,7 @@
     },
     "Reduced Base Dispersion": {
       "value": "30%",
+      "ar": "تشتت أساسي مخفض",
       "da": "Reduceret grundspredning",
       "de": "Reduzierte Grundstreuung",
       "en": "Reduced Base Dispersion",

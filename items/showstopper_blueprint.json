@@ -1,6 +1,7 @@
 {
   "id": "showstopper_blueprint",
   "name": {
+    "ar": "مخطط شو ستوبر",
     "da": "Showstopper-tegning",
     "de": "Bauplan: Showstopper",
     "en": "Showstopper Blueprint",
@@ -23,6 +24,7 @@
     "zh-TW": "表演終結者 藍圖"
   },
   "description": {
+    "ar": "قنبلة تنفجر بعد تأخير، وتصعق الأعداء داخل نطاقها.",
     "da": "En granat, der detonerer efter en forsinkelse og bedover fjender inden for dens radius.",
     "de": "Eine Granate, die nach einer Verzogerung explodiert und Gegner in ihrem Radius betaubt.",
     "en": "A grenade that detonates after a delay, stunning enemies within its radius.",

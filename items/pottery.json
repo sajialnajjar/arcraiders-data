@@ -1,6 +1,7 @@
 {
   "id": "pottery",
   "name": {
+    "ar": "فخار",
     "da": "Keramik",
     "de": "Keramik",
     "en": "Pottery",
@@ -23,6 +24,7 @@
     "zh-TW": "陶器"
   },
   "description": {
+    "ar": "قد يساوي بضع عملات.",
     "da": "Kan være et par mønter værd.",
     "de": "Vielleicht ein paar Münzen wert",
     "en": "May be worth a few coins.",

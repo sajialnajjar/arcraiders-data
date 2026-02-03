@@ -1,6 +1,7 @@
 {
   "id": "renegade_ii",
   "name": {
+    "ar": "المتمرد 2",
     "da": "Renegade II",
     "de": "Renegade II",
     "en": "Renegade II",
@@ -23,6 +24,7 @@
     "zh-TW": "叛徒 II"
   },
   "description": {
+    "ar": "بندقية معركة بآلية الرافعة ذات ناتج ضرر عالٍ ودقة وضرر إصابة في الرأس.",
     "da": "Håndtagsriffel med høj skadeeffekt, præcision og hovedskudsskade.",
     "de": "Richtet bei Körpertreffern und insbesondere bei Kopfschüssen hohen Schaden an und ist präzise.",
     "en": "Lever-action battle rifle with high damage output, accuracy, and headshot damage.",
@@ -52,6 +54,7 @@
   "effects": {
     "Ammo Type": {
       "value": "Medium Ammo",
+      "ar": "نوع الذخيرة",
       "da": "Ammunitionstype",
       "de": "Munitionstyp",
       "en": "Ammo Type",
@@ -75,6 +78,7 @@
     },
     "ARC Armor Penetration": {
       "value": "Moderate",
+      "ar": "اختراق دروع ARC",
       "da": "ARC rustningspenetrering",
       "de": "ARC-Panzerungsdurchdringung",
       "en": "ARC Armor Penetration",
@@ -98,6 +102,7 @@
     },
     "Durability": {
       "value": "110/110",
+      "ar": "المتانة",
       "da": "Holdbarhed",
       "de": "Haltbarkeit",
       "en": "Durability",
@@ -121,6 +126,7 @@
     },
     "Firing Mode": {
       "value": "Lever-Action",
+      "ar": "وضع الإطلاق",
       "da": "Skydningstilstand",
       "de": "Feuermodus",
       "en": "Firing Mode",
@@ -144,6 +150,7 @@
     },
     "Increased Fire Rate": {
       "value": "25%",
+      "ar": "معدل إطلاق النار",
       "da": "Øget skudhastighed",
       "de": "Erhöhte Feuerrate",
       "en": "Increased Fire Rate",
@@ -167,6 +174,7 @@
     },
     "Magazine Size": {
       "value": 8,
+      "ar": "حجم المخزن",
       "da": "Magasinstørrelse",
       "de": "Magazingröße",
       "en": "Magazine Size",
@@ -190,6 +198,7 @@
     },
     "Reduced Dispersion Recovery Time": {
       "value": "16.6%",
+      "ar": "وقت استعادة التشتت",
       "da": "Reduceret spredningsgendannelsestid",
       "de": "Verringerte Streuungserholungszeit",
       "en": "Reduced Dispersion Recovery Time",

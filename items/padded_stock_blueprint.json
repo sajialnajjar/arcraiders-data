@@ -1,6 +1,7 @@
 {
   "id": "padded_stock_blueprint",
   "name": {
+    "ar": "مخطط أخمص مبطن",
     "da": "Blåttryk: Polstret kolbe",
     "de": "Bauplan: Gepolsterter Schaft",
     "en": "Padded Stock Blueprint",
@@ -23,6 +24,7 @@
     "zh-TW": "軟墊槍托藍圖"
   },
   "description": {
+    "ar": "يحسن الثبات بشكل ملحوظ. متوافق مع: Arpeggio, Rattler, Ferro, Renegade, Torrente",
     "da": "Forbedrer stabiliteten betydeligt. Kompatibel med: Arpeggio, Rattler, Ferro, Renegade, Torrente",
     "de": "Verbessert die Stabilität erheblich. Kompatibel mit: Arpeggio, Rattler, Ferro, Renegade, Torrente",
     "en": "Significantly improves stability. Compatible with: Arpeggio, Rattler, Ferro, Renegade, Torrente",

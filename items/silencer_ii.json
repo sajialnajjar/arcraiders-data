@@ -1,6 +1,7 @@
 {
   "id": "silencer_ii",
   "name": {
+    "ar": "كاتم صوت 2",
     "da": "Lyddæmper II",
     "de": "Schalldämpfer II",
     "en": "Silencer II",
@@ -23,6 +24,7 @@
     "zh-TW": "消音器 II"
   },
   "description": {
+    "ar": "يقلل بشكل معتدل من كمية الضوضاء الناتجة عند الإطلاق. متوافق مع: Arpeggio, Ferro, Renegade, Anvil, Stitcher",
     "da": "Reducerer moderat mængden af støj produceret ved skydning. Kompatibel med: Arpeggio, Ferro, Renegade, Anvil, Stitcher",
     "de": "Verringert die Lautstärke von Schüssen moderat. Kompatibel mit: Arpeggio, Rattler, Kettle, Ferro, Anvil",
     "en": "Moderately reduces the amount of noise produced when firing. Compatible with: Arpeggio, Ferro, Renegade, Anvil, Stitcher",
@@ -51,6 +53,7 @@
   "effects": {
     "Reduced Noise": {
       "value": "40%",
+      "ar": "ضوضاء مخفضة",
       "da": "Reduceret støj",
       "de": "Verringerte Lautstärke",
       "en": "Reduced Noise",

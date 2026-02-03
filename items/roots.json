@@ -1,6 +1,7 @@
 {
   "id": "roots",
   "name": {
+    "ar": "جذور",
     "da": "Rødder",
     "de": "Wurzeln",
     "en": "Roots",
@@ -23,6 +24,7 @@
     "zh-TW": "根莖"
   },
   "description": {
+    "ar": "قد تساوي بضع عملات.",
     "da": "Kan være et par mønter værd.",
     "de": "Vielleicht ein paar Münzen wert",
     "en": "May be worth a few coins.",

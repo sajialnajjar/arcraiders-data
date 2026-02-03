@@ -1,6 +1,7 @@
 {
   "id": "silencer_i_blueprint",
   "name": {
+    "ar": "مخطط كاتم صوت 1",
     "da": "Lyddæmper I Tegning",
     "de": "Bauplan: Schalldämpfer I",
     "en": "Silencer I Blueprint",
@@ -23,6 +24,7 @@
     "zh-TW": "消音器 I 藍圖"
   },
   "description": {
+    "ar": "مخطط لتصنيع كاتم الصوت 1.",
     "da": "En tegning til at lave Lyddæmper I.",
     "de": "Verringert die Lautstärke von Schüssen geringfügig.",
     "en": "A blueprint to craft the Silencer I.",

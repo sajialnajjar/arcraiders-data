@@ -1,6 +1,7 @@
 {
   "id": "rattler_iv",
   "name": {
+    "ar": "راتلر 4",
     "da": "Rattler IV",
     "de": "Rattler IV",
     "en": "Rattler IV",
@@ -23,6 +24,7 @@
     "zh-TW": "響尾蛇 IV"
   },
   "description": {
+    "ar": "بندقية هجومية أوتوماتيكية بالكامل. خيار هجومي رخيص، ولكن يجب إعادة تحميله برصاصتين في كل مرة.",
     "da": "Fuldautomatisk assault rifle. En billig offensiv mulighed, men skal genoplades 2 kugler ad gangen.",
     "de": "Eine billige Option für offensive Zwecke - muss aber jedes Mal um 2 Geschosse nachgeladen werden.",
     "en": "Fully automatic assault rifle. A cheap offensive option, but has to be reloaded 2 bullets at a time.",
@@ -52,6 +54,7 @@
   "effects": {
     "Ammo Type": {
       "value": "Medium Ammo",
+      "ar": "نوع الذخيرة",
       "da": "Ammunitionstype",
       "de": "Munitionstyp",
       "en": "Ammo Type",
@@ -75,6 +78,7 @@
     },
     "ARC Armor Penetration": {
       "value": "Moderate",
+      "ar": "اختراق دروع ARC",
       "da": "ARC Pansergennemtrængning",
       "de": "ARC-Panzerungsdurchdringung",
       "en": "ARC Armor Penetration",
@@ -98,6 +102,7 @@
     },
     "Durability": {
       "value": "130/130",
+      "ar": "المتانة",
       "da": "Holdbarhed",
       "de": "Haltbarkeit",
       "en": "Durability",
@@ -121,6 +126,7 @@
     },
     "Firing Mode": {
       "value": "Fully-Automatic",
+      "ar": "وضع الإطلاق",
       "da": "Skydemetode",
       "de": "Feuermodus",
       "en": "Firing Mode",
@@ -144,6 +150,7 @@
     },
     "Magazine Size": {
       "value": 24,
+      "ar": "حجم المخزن",
       "da": "Magasinstørrelse",
       "de": "Magazingröße",
       "en": "Magazine Size",

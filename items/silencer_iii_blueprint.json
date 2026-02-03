@@ -1,6 +1,7 @@
 {
   "id": "silencer_iii_blueprint",
   "name": {
+    "ar": "مخطط كاتم صوت 3",
     "da": "Lyddæmper III Tegning",
     "de": "Bauplan: Schalldämpfer III",
     "en": "Silencer III Blueprint",
@@ -23,6 +24,7 @@
     "zh-TW": "消音器 III 藍圖"
   },
   "description": {
+    "ar": "مخطط لتصنيع كاتم الصوت 3.",
     "da": "En tegning til at lave Lyddæmper III.",
     "de": "Ein Bauplan zur Herstellung des Schalldämpfers III.",
     "en": "A blueprint to craft the Silencer III.",

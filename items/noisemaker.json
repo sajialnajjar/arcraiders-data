@@ -1,6 +1,7 @@
 {
   "id": "noisemaker",
   "name": {
+    "ar": "صانع ضجيج",
     "da": "Støjgenerator",
     "de": "Krachmacher",
     "en": "Noisemaker",
@@ -23,6 +24,7 @@
     "zh-TW": "噪音製造器"
   },
   "description": {
+    "ar": "مستشعر قُرب قابل للنشر يطلق إنذاراً عند اكتشاف غزاة أعداء.",
     "da": "En udplaceringsparat nærhedssensor, der udløser en alarm, når fjendtlige raiders opdages.",
     "de": "Ein einsatzbereiter Näherungssensor, der einen Alarm ertönen lässt, wenn er gegnerische Raider entdeckt.",
     "en": "A deployable proximity sensor that sounds an alarm when enemy raiders are detected.",
@@ -52,6 +54,7 @@
   "effects": {
     "Duration": {
       "value": "4s",
+      "ar": "المدة",
       "da": "Varighed",
       "de": "Dauer",
       "en": "Duration",
@@ -75,6 +78,7 @@
     },
     "Trigger Radius": {
       "value": "8m",
+      "ar": "نطاق التفعيل",
       "da": "Udløserradius",
       "de": "Auslöseradius",
       "en": "Trigger Radius",

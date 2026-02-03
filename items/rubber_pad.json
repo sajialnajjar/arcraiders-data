@@ -1,6 +1,7 @@
 {
   "id": "rubber_pad",
   "name": {
+    "ar": "وسادة مطاطية",
     "da": "Gummipude",
     "de": "Gummimatte",
     "en": "Rubber Pad",
@@ -23,6 +24,7 @@
     "zh-TW": "橡膠墊"
   },
   "description": {
+    "ar": "يمكن إعادة تدويرها إلى أجزاء مطاطية.",
     "da": "Kan genbruges til gummidele.",
     "de": "Kann zu Gummiteilen recycelt werden.",
     "en": "Can be recycled into rubber parts.",

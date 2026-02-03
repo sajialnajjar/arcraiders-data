@@ -1,6 +1,7 @@
 {
   "id": "padded_stock",
   "name": {
+    "ar": "أخمص مبطن",
     "da": "Polstret kolbe",
     "de": "Gepolsterter Schaft",
     "en": "Padded Stock",
@@ -23,6 +24,7 @@
     "zh-TW": "軟墊槍托"
   },
   "description": {
+    "ar": "يحسن الثبات بشكل ملحوظ. متوافق مع: Arpeggio, Rattler, Ferro, Renegade, Torrente",
     "da": "Forbedrer stabiliteten betydeligt. Kompatibel med: Arpeggio, Rattler, Ferro, Renegade, Torrente",
     "de": "Verbessert die Stabilität erheblich. Kompatibel mit: Arpeggio, Rattler, Ferro, Renegade, Torrente",
     "en": "Significantly improves stability. Compatible with: Arpeggio, Rattler, Ferro, Renegade, Torrente",
@@ -51,6 +53,7 @@
   "effects": {
     "Increased Equip Time": {
       "value": "20%",
+      "ar": "زيادة وقت التجهيز",
       "da": "Øget udstyrstid",
       "de": "Erhöhte Ausrüstungszeit",
       "en": "Increased Equip Time",
@@ -74,6 +77,7 @@
     },
     "Increased Unequip Time": {
       "value": "20%",
+      "ar": "زيادة وقت إلغاء التجهيز",
       "da": "Øget afmonteringstid",
       "de": "Erhöhte Ablagezeit",
       "en": "Increased Unequip Time",
@@ -97,6 +101,7 @@
     },
     "Reduced ADS Speed": {
       "value": "30%",
+      "ar": "تقليل سرعة التصويب",
       "da": "Reduceret sigtehastighed",
       "de": "Verringerte Zielgeschwindigkeit",
       "en": "Reduced ADS Speed",
@@ -120,6 +125,7 @@
     },
     "Reduced Horizontal Recoil": {
       "value": "15%",
+      "ar": "تقليل الارتداد الأفقي",
       "da": "Reduceret horisontal rekyl",
       "de": "Verringerter horizontaler Rückstoß",
       "en": "Reduced Horizontal Recoil",
@@ -143,6 +149,7 @@
     },
     "Reduced Per-Shot Dispersion": {
       "value": "20%",
+      "ar": "تقليل تشتت الطلقة الواحدة",
       "da": "Reduceret spredning pr. skud",
       "de": "Verringerte Streuung pro Schuss",
       "en": "Reduced Per-Shot Dispersion",
@@ -166,6 +173,7 @@
     },
     "Reduced Vertical Recoil": {
       "value": "15%",
+      "ar": "تقليل الارتداد العمودي",
       "da": "Reduceret vertikal rekyl",
       "de": "Verringerter vertikaler Rückstoß",
       "en": "Reduced Vertical Recoil",

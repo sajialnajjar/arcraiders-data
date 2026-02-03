@@ -1,6 +1,7 @@
 {
   "id": "remote_raider_flare_blueprint",
   "name": {
+    "ar": "مخطط شعلة المغيرين عن بعد",
     "da": "Fjernbetjent raider-blus Tegning",
     "de": "Bauplan: Raider-Leuchtfackel mit Fernzündung",
     "en": "Remote Raider Flare Blueprint",
@@ -23,6 +24,7 @@
     "zh-TW": "遠程掠奪者信號彈藍圖"
   },
   "description": {
+    "ar": "جهاز قابل للنشر يطلق شعلة استغاثة للمغيرين عند تشغيله يدوياً.",
     "da": "En udplaceringsenhed, der, når den udløses manuelt, affyrer et raider-nødblus.",
     "de": "Ein einsetzbares Gerät, das bei manueller Auslösung ein Raider-Notsignal abfeuert.",
     "en": "A deployable device that, when manually triggered, launches a Raider Distress Flare.",

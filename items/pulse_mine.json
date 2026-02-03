@@ -1,6 +1,7 @@
 {
   "id": "pulse_mine",
   "name": {
+    "ar": "لغم نبضي",
     "da": "Pulsmine",
     "de": "Sprungmine: Impuls",
     "en": "Pulse Mine",
@@ -23,6 +24,7 @@
     "zh-TW": "脈衝地雷"
   },
   "description": {
+    "ar": "لغم يعمل بالاقتراب يقفز لأعلى ويضرب أي شيء داخل نطاقه.",
     "da": "En nærhedsudløst mine, der springer op og slår alt tilbage inden for dens radius.",
     "de": "Eine Mine, die bei Annäherung explodiert und dabei alle in ihrem Radius zurückstößt.",
     "en": "A proximity-triggered mine that pops up and knocks back anything within its radius.",
@@ -53,6 +55,7 @@
   "effects": {
     "Radius": {
       "value": "7.5m",
+      "ar": "نصف القطر",
       "da": "Radius",
       "de": "Radius",
       "en": "Radius",

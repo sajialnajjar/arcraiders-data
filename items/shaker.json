@@ -1,6 +1,7 @@
 {
   "id": "shaker",
   "name": {
+    "ar": "شيكر",
     "da": "Shaker",
     "de": "Shaker",
     "en": "Shaker",
@@ -23,6 +24,7 @@
     "zh-TW": "沙鈴"
   },
   "description": {
+    "ar": "أداة إيقاعية تستخدم لجذب انتباه ARC وإبهار المغيرين الآخرين.",
     "da": "Et rytmisk instrument brugt til at tiltrække ARCs opmærksomhed og imponere andre Raiders.",
     "de": "Ein rhythmisches Instrument, das die Aufmerksamkeit von ARC anzieht und andere Raiders beeindruckt.",
     "en": "A rhythmic instrument used to attract ARC's attention, and impress other Raiders.",

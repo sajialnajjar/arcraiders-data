@@ -1,6 +1,7 @@
 {
   "id": "osprey_iii",
   "name": {
+    "ar": "العقاب 3",
     "da": "Osprey III",
     "de": "Osprey III",
     "en": "Osprey III",
@@ -23,6 +24,7 @@
     "zh-TW": "魚鷹 III"
   },
   "description": {
+    "ar": "بندقية قنص بمسلاج ومزودة بمنظار، تتميز بدقة وأضرار موثوقة.",
     "da": "En kikkertsigteret bundstykkeriffel med pålidelig skadeeffekt og præcision.",
     "de": "Verursacht verlässlichen Schaden bei annehmbarer Genauigkeit.",
     "en": "A scoped bolt-action sniper rifle with reliable damage output and accuracy.",
@@ -52,6 +54,7 @@
   "effects": {
     "Ammo Type": {
       "value": "Medium Ammo",
+      "ar": "نوع الذخيرة",
       "da": "Ammunitionstype",
       "de": "Munitionstyp",
       "en": "Ammo Type",
@@ -75,6 +78,7 @@
     },
     "ARC Armor Penetration": {
       "value": "Moderate",
+      "ar": "اختراق دروع ARC",
       "da": "ARC rustningspenetration",
       "de": "ARC-Rüstungsdurchschlag",
       "en": "ARC Armor Penetration",
@@ -98,6 +102,7 @@
     },
     "Durability": {
       "value": "120/120",
+      "ar": "المتانة",
       "da": "Holdbarhed",
       "de": "Haltbarkeit",
       "en": "Durability",
@@ -121,6 +126,7 @@
     },
     "Firing Mode": {
       "value": "Bolt-Action",
+      "ar": "وضع الإطلاق",
       "da": "Skydemetode",
       "de": "Feuermodus",
       "en": "Firing Mode",
@@ -144,6 +150,7 @@
     },
     "Magazine Size": {
       "value": 8,
+      "ar": "حجم المخزن",
       "da": "Magasinstørrelse",
       "de": "Magazingröße",
       "en": "Magazine Size",
@@ -167,6 +174,7 @@
     },
     "Reduced Bolt Action Time": {
       "value": "40%",
+      "ar": "تقليل وقت المسلاج",
       "da": "Reduceret bundstykketid",
       "de": "Reduzierte Repetierzeit",
       "en": "Reduced Bolt Action Time",
@@ -190,6 +198,7 @@
     },
     "Reduced Reload Time": {
       "value": "25%",
+      "ar": "تقليل وقت إعادة التلقيم",
       "da": "Reduceret genladningstid",
       "de": "Reduzierte Nachladezeit",
       "en": "Reduced Reload Time",
@@ -213,6 +222,7 @@
     },
     "Special Trait": {
       "value": "Scoped",
+      "ar": "سمة خاصة",
       "da": "Særlig egenskab",
       "de": "Besondere Eigenschaft",
       "en": "Special Trait",

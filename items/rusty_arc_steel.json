@@ -1,6 +1,7 @@
 {
   "id": "rusty_arc_steel",
   "name": {
+    "ar": "فولاذ ARC صدئ",
     "da": "Rusten ARC-stål",
     "de": "Rostiger ARC-Stahl",
     "en": "Rusty ARC Steel",
@@ -23,6 +24,7 @@
     "zh-TW": "生鏽的ARC鋼鐵"
   },
   "description": {
+    "ar": "تم الحصول عليه من أعداء وأنشطة ARC. يمكن إعادة تدويره إلى خردة معدنية.",
     "da": "Opnået fra ARC-fjender og aktiviteter. Kan genbruges til skrotmetal.",
     "de": "Von ARC-Gegnern und Aktivitäten erhalten. Kann zu Metallteilen recycelt werden.",
     "en": "Obtained from ARC enemies and activites. Can be recycled into scrap metal.",

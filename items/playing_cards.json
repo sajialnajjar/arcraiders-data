@@ -1,6 +1,7 @@
 {
   "id": "playing_cards",
   "name": {
+    "ar": "أوراق لعب",
     "da": "Spillekort",
     "de": "Spielkarten",
     "en": "Playing Cards",
@@ -23,6 +24,7 @@
     "zh-TW": "撲克牌"
   },
   "description": {
+    "ar": "يحב سكان سبيرانزا رؤية من يمكنه بناء أطول برج - לפני שהרעידות يوقعونه.",
     "da": "Speranzanere elsker at se, hvem der kan bygge det højeste tårn - før rystelserne vælter dem.",
     "de": "Speranzaner lieben es zu sehen, wer den höchsten Turm bauen kann - bevor die Erschütterungen ihn umwerfen.",
     "en": "Speranzans love to see who can build the tallest tower - before the tremors knock them down.",

@@ -1,6 +1,7 @@
 {
   "id": "rattler_iii",
   "name": {
+    "ar": "راتلر 3",
     "da": "Rattler III",
     "de": "Rattler III",
     "en": "Rattler III",
@@ -23,6 +24,7 @@
     "zh-TW": "響尾蛇 III"
   },
   "description": {
+    "ar": "بندقية هجومية أوتوماتيكية بالكامل. خيار هجومي رخيص، ولكن يجب إعادة تحميله برصاصتين في كل مرة.",
     "da": "En billig offensiv mulighed, men skal lades med 2 kugler ad gangen.",
     "de": "Eine billige Option für offensive Zwecke - muss aber jedes Mal um 2 Geschosse nachgeladen werden.",
     "en": "Fully automatic assault rifle. A cheap offensive option, but has to be reloaded 2 bullets at a time.",
@@ -52,6 +54,7 @@
   "effects": {
     "Ammo Type": {
       "value": "Medium Ammo",
+      "ar": "نوع الذخيرة",
       "da": "Ammunitionstype",
       "de": "Munitionstyp",
       "en": "Ammo Type",
@@ -75,6 +78,7 @@
     },
     "ARC Armor Penetration": {
       "value": "Moderate",
+      "ar": "اختراق دروع ARC",
       "da": "ARC-rustningspenetrering",
       "de": "ARC-Panzerungsdurchdringung",
       "en": "ARC Armor Penetration",
@@ -98,6 +102,7 @@
     },
     "Durability": {
       "value": "120/120",
+      "ar": "المتانة",
       "da": "Holdbarhed",
       "de": "Haltbarkeit",
       "en": "Durability",
@@ -121,6 +126,7 @@
     },
     "Firing Mode": {
       "value": "Fully-Automatic",
+      "ar": "وضع الإطلاق",
       "da": "Skydningstilstand",
       "de": "Feuermodus",
       "en": "Firing Mode",
@@ -144,6 +150,7 @@
     },
     "Magazine Size": {
       "value": 20,
+      "ar": "حجم المخزن",
       "da": "Magasinstørrelse",
       "de": "Magazingröße",
       "en": "Magazine Size",
@@ -167,6 +174,7 @@
     },
     "Upgrade Modifiers": {
       "value": "+8 Magazine Size",
+      "ar": "معدلات الترقية",
       "da": "Opgraderingsmodifikatorer",
       "de": "Verbesserungsmodifikatoren",
       "en": "Upgrade Modifiers",

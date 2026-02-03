@@ -1,6 +1,7 @@
 {
   "id": "patrol_car_key",
   "name": {
+    "ar": "مفتاح سيارة دورية",
     "da": "Patruljebilnøgle",
     "de": "Streifenwagenschlüssel",
     "en": "Patrol Car Key",
@@ -23,6 +24,7 @@
     "zh-TW": "巡邏車鑰匙"
   },
   "description": {
+    "ar": "مفتاح لسيارة دورية.",
     "da": "En nøgle til en patruljebil.",
     "de": "Ein Schlüssel für einen Streifenwagen.",
     "en": "A key to a patrol car.",

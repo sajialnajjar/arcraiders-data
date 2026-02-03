@@ -1,6 +1,7 @@
 {
   "id": "rusted_shut_medical_kit",
   "name": {
+    "ar": "حقيبة طبية صدئة ومغلقة",
     "da": "Rustet lukket medicinsæt",
     "de": "Verrosteter verschlossener Verbandkasten",
     "en": "Rusted Shut Medical Kit",
@@ -23,6 +24,7 @@
     "zh-TW": "鏽死的醫療包"
   },
   "description": {
+    "ar": "حقيبة طبية صدئة ومغلقة، محتوياتها غير معروفة.",
     "da": "Et rustet medicinsæt, dets indhold er ukendt.",
     "de": "Kann zu Herstellungsmaterialien recycelt werden.",
     "en": "A medical kit rusted shut, its contents unknown.",

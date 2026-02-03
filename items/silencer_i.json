@@ -1,6 +1,7 @@
 {
   "id": "silencer_i",
   "name": {
+    "ar": "كاتم صوت 1",
     "da": "Lyddæmper I",
     "de": "Schalldämpfer I",
     "en": "Silencer I",
@@ -23,6 +24,7 @@
     "zh-TW": "消音器 I"
   },
   "description": {
+    "ar": "يقلل قليلاً من كمية الضوضاء الناتجة عند الإطلاق.",
     "da": "Reducerer lidt mængden af støj, der produceres ved skydning.",
     "de": "Verringert die Lautstärke von Schüssen geringfügig.",
     "en": "Slightly reduces the amount of noise produced when firing.",
@@ -51,6 +53,7 @@
   "effects": {
     "Noise Reduction": {
       "value": "20%",
+      "ar": "خفض الضوضاء",
       "da": "Støjreduktion",
       "de": "Geräuschreduzierung",
       "en": "Noise Reduction",

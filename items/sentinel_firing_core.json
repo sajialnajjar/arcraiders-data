@@ -1,6 +1,7 @@
 {
   "id": "sentinel_firing_core",
   "name": {
+    "ar": "نواة إطلاق الحارس",
     "da": "Vægter-affyringskerne",
     "de": "Wächter-Feuerkern",
     "en": "Sentinel Firing Core",
@@ -23,6 +24,7 @@
     "zh-TW": "哨兵射擊核心"
   },
   "description": {
+    "ar": "يمكن إعادة تدويرها إلى مواد تصنيع.",
     "da": "Kan genbruges til håndværksmaterialer.",
     "de": "Kann zu Herstellungsmaterialien recycelt werden.",
     "en": "Can be recycled into crafting materials.",

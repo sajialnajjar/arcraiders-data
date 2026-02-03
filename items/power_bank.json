@@ -1,6 +1,7 @@
 {
   "id": "power_bank",
   "name": {
+    "ar": "بنك طاقة",
     "da": "Powerbank",
     "de": "Powerbank",
     "en": "Power Bank",
@@ -23,6 +24,7 @@
     "zh-TW": "行動電源"
   },
   "description": {
+    "ar": "يمكن إعادة تدويره إلى مواد تصنيع.",
     "da": "Kan genbruges til håndværksmaterialer.",
     "de": "Kann zu Herstellungsmaterialien recycelt werden.",
     "en": "Can be recycled into crafting materials.",

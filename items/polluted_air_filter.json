@@ -1,6 +1,7 @@
 {
   "id": "polluted_air_filter",
   "name": {
+    "ar": "فلتر هواء ملوث",
     "da": "Forurenet luftfilter",
     "de": "Verunreinigter Luftfilter",
     "en": "Polluted Air Filter",
@@ -23,6 +24,7 @@
     "zh-TW": "污染空氣過濾器"
   },
   "description": {
+    "ar": "يمكن إعادة تدويره إلى مكونات تصنيع.",
     "da": "Kan genbruges til håndværkskomponenter.",
     "de": "Kann zu Herstellungsmaterialien recycelt werden.",
     "en": "Can be recycled into crafting components.",

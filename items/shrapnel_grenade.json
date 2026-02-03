@@ -1,6 +1,7 @@
 {
   "id": "shrapnel_grenade",
   "name": {
+    "ar": "قنبلة شظايا",
     "da": "Splintgranat",
     "de": "Schrapnellgranate",
     "en": "Shrapnel Grenade",
@@ -23,6 +24,7 @@
     "zh-TW": "破片手榴彈"
   },
   "description": {
+    "ar": "قنبلة بدائية تنفجر إلى شظايا حادة عند التفجير. ضعيفة ضد دروع ARC.",
     "da": "En improviseret tændgranat der sprænges i barberbladskarpe fragmenter ved detonation. Svag mod ARC-pansring",
     "de": "Eine improvisierte Zündgranate, die bei Detonation in messerscharfe Fragmente zerbirst. Schwach gegen ARC-Panzerung.",
     "en": "A makeshift fuze grenade that bursts into razor-sharp fragments upon detonation. Weak against ARC armor plating",
@@ -52,6 +54,7 @@
   "effects": {
     "Damage": {
       "value": 60,
+      "ar": "الضرر",
       "da": "Skade",
       "de": "Schaden",
       "en": "Damage",
@@ -75,6 +78,7 @@
     },
     "Radius": {
       "value": "6m",
+      "ar": "نطاق",
       "da": "Radius",
       "de": "Radius",
       "en": "Radius",

@@ -1,6 +1,7 @@
 {
   "id": "shotgun_ammo",
   "name": {
+    "ar": "ذخيرة بندقية الرش",
     "da": "Haglammunition",
     "de": "Schrotflintenmunition",
     "en": "Shotgun Ammo",
@@ -23,6 +24,7 @@
     "zh-TW": "霰彈槍彈藥"
   },
   "description": {
+    "ar": "متوافقة مع: Il Toro, Vulcano",
     "da": "Kompatibel med: Il Toro, Vulcano",
     "de": "Kompatibel mit: Il Toro, Vulcano",
     "en": "Compatible with: Il Toro, Vulcano",
@@ -50,7 +52,10 @@
   "weightKg": 0.085,
   "stackSize": 20,
   "craftQuantity": 5,
-  "compatibleWith": ["Il Toro", "Vulcano"],
+  "compatibleWith": [
+    "Il Toro",
+    "Vulcano"
+  ],
   "craftBench": "workbench",
   "recipe": {
     "chemicals": 2,

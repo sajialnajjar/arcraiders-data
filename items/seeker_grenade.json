@@ -1,6 +1,7 @@
 {
   "id": "seeker_grenade",
   "name": {
+    "ar": "قنبلة باحثة",
     "da": "Søgergranат",
     "de": "Suchgranate",
     "en": "Seeker Grenade",
@@ -23,6 +24,7 @@
     "zh-TW": "追蹤手榴彈"
   },
   "description": {
+    "ar": "قنبلة موجهة تستهدف عدو ARC واحد قريب وتسبب ضرر انفجار عند الارتطام.",
     "da": "En målsøgende granat, der retter sig mod en enkelt ARC i nærheden og giver eksplosiv skade ved træffer.",
     "de": "Eine Zielsuchgranate, die auf einzelne ARC in der Nähe abzielt und beim Aufprall Explosionsschaden verursacht.",
     "en": "A homing grenade that targets a single nearby ARC dealing explosive damage on impact.",
@@ -53,6 +55,7 @@
   "effects": {
     "Damage": {
       "value": 50,
+      "ar": "الضرر",
       "da": "Skade",
       "de": "Schaden",
       "en": "Damage",
@@ -76,6 +79,7 @@
     },
     "Homing Range": {
       "value": "20m",
+      "ar": "نطاق التوجيه",
       "da": "Målsøgningsrækkevidde",
       "de": "Zielsuchreichweite",
       "en": "Homing Range",

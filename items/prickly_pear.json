@@ -1,6 +1,7 @@
 {
   "id": "prickly_pear",
   "name": {
+    "ar": "تين شوكي",
     "da": "Figenkaktus",
     "de": "Kaktusfeige",
     "en": "Prickly Pear",
@@ -23,6 +24,7 @@
     "zh-TW": "仙人掌果"
   },
   "description": {
+    "ar": "يمكن استهلاكه لاستعادة كمية صغيرة من القدرة على التحمل.",
     "da": "Kan indtages for en lille mængde udholdenhed.",
     "de": "Kann zum Gewinn einer kleinen Menge Ausdauer verzehrt werden.",
     "en": "Can be consumed for a small amount of stamina.",

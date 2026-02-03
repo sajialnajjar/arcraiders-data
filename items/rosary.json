@@ -1,6 +1,7 @@
 {
   "id": "rosary",
   "name": {
+    "ar": "مسبحة",
     "da": "Rosenkrans",
     "de": "Rosenkranz",
     "en": "Rosary",
@@ -23,6 +24,7 @@
     "zh-TW": "念珠"
   },
   "description": {
+    "ar": "قد تساوي بضع عملات.",
     "da": "Kan være et par mønter værd.",
     "de": "Vielleicht ein paar Münzen wert",
     "en": "May be worth a few coins.",

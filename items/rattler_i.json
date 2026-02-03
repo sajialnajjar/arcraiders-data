@@ -1,6 +1,7 @@
 {
   "id": "rattler_i",
   "name": {
+    "ar": "راتلر 1",
     "da": "Rattler I",
     "de": "Rattler I",
     "en": "Rattler I",
@@ -23,6 +24,7 @@
     "zh-TW": "響尾蛇 I"
   },
   "description": {
+    "ar": "بندقية هجومية أوتوماتيكية بالكامل. خيار هجومي رخيص، ولكن يجب إعادة تحميله برصاصتين في كل مرة.",
     "da": "En billig offensiv mulighed, men skal genoplades 2 kugler ad gangen.",
     "de": "Eine billige Option für offensive Zwecke - muss aber jedes Mal um 2 Geschosse nachgeladen werden.",
     "en": "Fully automatic assault rifle. A cheap offensive option, but has to be reloaded 2 bullets at a time.",
@@ -52,6 +54,7 @@
   "effects": {
     "Ammo Type": {
       "value": "Medium Ammo",
+      "ar": "نوع الذخيرة",
       "da": "Ammunitionstype",
       "de": "Munitionstyp",
       "en": "Ammo Type",
@@ -75,6 +78,7 @@
     },
     "ARC Armor Penetration": {
       "value": "Moderate",
+      "ar": "اختراق دروع ARC",
       "da": "ARC-rustningspenetrering",
       "de": "ARC-Panzerungsdurchdringung",
       "en": "ARC Armor Penetration",
@@ -98,6 +102,7 @@
     },
     "Durability": {
       "value": "100/100",
+      "ar": "المتانة",
       "da": "Holdbarhed",
       "de": "Haltbarkeit",
       "en": "Durability",
@@ -121,6 +126,7 @@
     },
     "Firing Mode": {
       "value": "Fully-Automatic",
+      "ar": "وضع الإطلاق",
       "da": "Skydetilstand",
       "de": "Feuermodus",
       "en": "Firing Mode",
@@ -144,6 +150,7 @@
     },
     "Magazine Size": {
       "value": 12,
+      "ar": "حجم المخزن",
       "da": "Magasinstørrelse",
       "de": "Magazingröße",
       "en": "Magazine Size",

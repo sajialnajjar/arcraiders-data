@@ -1,6 +1,7 @@
 {
   "id": "shotgun_choke_ii_blueprint",
   "name": {
+    "ar": "مخطط خانق بندقية الرش 2",
     "da": "Haglgevaer-choke II-tegning",
     "de": "Bauplan: Schrotflintenchoke II",
     "en": "Shotgun Choke II Blueprint",
@@ -23,6 +24,7 @@
     "zh-TW": "霰彈槍收束器 II 藍圖"
   },
   "description": {
+    "ar": "يقلل التشتت الأساسي بشكل معتدل. متوافق مع: Il Toro, Vulcano",
     "da": "Reducerer grundspredning moderat. Kompatibel med: Il Toro, Vulcano",
     "de": "Verringert die Grundstreuung moderat. Kompatibel mit: Il Toro, Vulcano",
     "en": "Moderately reduces base dispersion. Compatible with: Il Toro, Vulcano",

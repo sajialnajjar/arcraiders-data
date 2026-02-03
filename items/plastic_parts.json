@@ -1,6 +1,7 @@
 {
   "id": "plastic_parts",
   "name": {
+    "ar": "أجزاء بلاستيكية",
     "da": "Plastdele",
     "de": "Plastikteile",
     "en": "Plastic Parts",
@@ -23,6 +24,7 @@
     "zh-TW": "塑膠零件"
   },
   "description": {
+    "ar": "تستخدم لصنع مجموعة واسعة من العناصر. تستخدم لصنع: Hairpin, Light Shield, Looting Mk. 1, Light Impact Grenade, Extended Shotgun Mag I",
     "da": "Bruges til at fremstille en bred vifte af genstande. Bruges til at fremstille: Hårnål, Let skjold, Plyndring Mk. 1, Let slaggranat, Forlænget haglgevær-magasin I",
     "de": "Wird zur Herstellung verschiedenster Gegenstände verwendet. Zur Herstellung von: Hairpin, Leichter Schild, Beute-Marke 1, Leichte Aufschlaggranate, Erweitertes Schrotflintenmagazin I",
     "en": "Used to craft a wide range of items. Used to craft: Hairpin, Light Shield, Looting Mk. 1, Light Impact Grenade, Extended Shotgun Mag I",

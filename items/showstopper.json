@@ -1,6 +1,7 @@
 {
   "id": "showstopper",
   "name": {
+    "ar": "شو ستوبر",
     "da": "Showstopper",
     "de": "Showstopper",
     "en": "Showstopper",
@@ -23,6 +24,7 @@
     "zh-TW": "表演終結者"
   },
   "description": {
+    "ar": "قنبلة تنفجر بعد تأخير، وتصعق الأعداء داخل نطاقها.",
     "da": "En granat, der detonerer efter en forsinkelse og bedøver fjender inden for dens radius.",
     "de": "Eine Granate, die nach einer Verzögerung explodiert und Gegner in ihrem Radius betäubt.",
     "en": "A grenade that detonates after a delay, stunning enemies within its radius.",
@@ -53,6 +55,7 @@
   "effects": {
     "ARC Stun Duration": {
       "value": "10s",
+      "ar": "مدة صعق ARC",
       "da": "ARC bedøvelsesvarighed",
       "de": "ARC-Betäubungsdauer",
       "en": "ARC Stun Duration",
@@ -76,6 +79,7 @@
     },
     "Radius": {
       "value": "6m",
+      "ar": "نطاق",
       "da": "Radius",
       "de": "Radius",
       "en": "Radius",
@@ -99,6 +103,7 @@
     },
     "Raider Stun Duration": {
       "value": "2s",
+      "ar": "مدة صعق المغير",
       "da": "Raider bedøvelsesvarighed",
       "de": "Raider-Betäubungsdauer",
       "en": "Raider Stun Duration",

@@ -1,6 +1,7 @@
 {
   "id": "processor",
   "name": {
+    "ar": "معالج",
     "da": "Processor",
     "de": "Prozessor",
     "en": "Processor",
@@ -23,6 +24,7 @@
     "zh-TW": "處理器"
   },
   "description": {
+    "ar": "يستخدم في التصنيع. يستخدم لصنع: Tactical Mk. 3 (Defensive), Combat Mk. 3 (Flanking), Combat Mk. 3 (Aggressive), Looting Mk. 3 (Cautious), Tactical Mk. 3 (Healing)",
     "da": "Bruges til håndværk. Bruges til at lave: Taktisk Mk. 3 (Defensiv), Kamp Mk. 3 (Flankering), Kamp Mk. 3 (Aggressiv), Plyndring Mk. 3 (Forsigtig), Taktisk Mk. 3 (Helbredelse)",
     "de": "Wird zur Herstellung verwendet. Zur Herstellung von: Taktisch-Marke 3 (Defensiv), Kampf-Marke 3 (Flankierend), Kampf-Marke 3 (Aggressiv), Beute-Marke 3 (Vorsichtig), Taktisch-Marke 3 (Heilung)",
     "en": "Used in crafting. Used to craft: Tactical Mk. 3 (Defensive), Combat Mk. 3 (Flanking), Combat Mk. 3 (Aggressive), Looting Mk. 3 (Cautious), Tactical Mk. 3 (Healing)",

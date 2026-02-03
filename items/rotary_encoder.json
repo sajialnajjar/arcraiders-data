@@ -1,6 +1,7 @@
 {
   "id": "rotary_encoder",
   "name": {
+    "ar": "مشفر دوراني",
     "da": "Roterende encoder",
     "de": "Drehgeber",
     "en": "Rotary Encoder",
@@ -23,6 +24,7 @@
     "zh-TW": "旋轉編碼器"
   },
   "description": {
+    "ar": "يمكن إعادة تدويره إلى مواد تصنيع.",
     "da": "Kan genbruges til håndværksmaterialer.",
     "de": "Kann zu Herstellungsmaterialien recycelt werden.",
     "en": "Can be recycled into crafting materials.",

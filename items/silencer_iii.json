@@ -1,6 +1,7 @@
 {
   "id": "silencer_iii",
   "name": {
+    "ar": "كاتم صوت 3",
     "da": "Lyddæmper III",
     "de": "Schalldämpfer III",
     "en": "Silencer III",
@@ -23,6 +24,7 @@
     "zh-TW": "消音器 III"
   },
   "description": {
+    "ar": "يقلل بشكل كبير من كمية الضوضاء الناتجة عند الإطلاق. متوافق مع: Tempest, Arpeggio, Kettle, Ferro, Renegade",
     "da": "Reducerer mængden af støj produceret ved skydning betydeligt. Kompatibel med: Tempest, Arpeggio, Kettle, Ferro, Renegade",
     "de": "Verringert die Lautstärke von Schüssen erheblich. Kompatibel mit: Tempest, Arpeggio, Kettle, Ferro, Renegade",
     "en": "Significantly reduces the amount of noise produced when firing. Compatible with: Tempest, Arpeggio, Kettle, Ferro, Renegade",
@@ -48,10 +50,17 @@
   "rarity": "Epic",
   "value": 7000,
   "weightKg": 0.75,
-  "compatibleWith": ["Arpeggio", "Rattler", "Ferro", "Anvil", "Torrente"],
+  "compatibleWith": [
+    "Arpeggio",
+    "Rattler",
+    "Ferro",
+    "Anvil",
+    "Torrente"
+  ],
   "effects": {
     "Increased Durability Burn Rate": {
       "value": "20%",
+      "ar": "معدل استهلاك المتانة",
       "da": "Øget holdbarhedsforbrændingshastighed",
       "de": "Erhöhte Haltbarkeits-Verbrauchsrate",
       "en": "Increased Durability Burn Rate",
@@ -75,6 +84,7 @@
     },
     "Reduced Noise": {
       "value": "60%",
+      "ar": "ضوضاء مخفضة",
       "da": "Reduceret støj",
       "de": "Reduzierter Lärm",
       "en": "Reduced Noise",

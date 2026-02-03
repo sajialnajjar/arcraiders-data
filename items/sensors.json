@@ -1,6 +1,7 @@
 {
   "id": "sensors",
   "name": {
+    "ar": "مستشعرات",
     "da": "Sensorer",
     "de": "Sensoren",
     "en": "Sensors",
@@ -23,6 +24,7 @@
     "zh-TW": "感應器"
   },
   "description": {
+    "ar": "تستخدم في التصنيع. تستخدم لصنع: قطيع الذئاب، لغم متفجر، مفتاح فتحة المغير، قنبلة وضع العلامات",
     "da": "Bruges til håndværk. Bruges til at lave: Ulveflok, Eksplosiv mine, Plyndrerluge-nøgle, Mærkegranate",
     "de": "Wird bei der Herstellung verwendet. Zur Herstellung von: Sprengmine, Raider-Lukenschlüssel, Markierungsgranate",
     "en": "Used in crafting. Used to craft: Wolfpack, Explosive Mine, Raider Hatch Key, Tagging Grenade",

@@ -1,6 +1,7 @@
 {
   "id": "remote_control",
   "name": {
+    "ar": "جهاز تحكم عن بعد",
     "da": "Fjernbetjening",
     "de": "Fernbedienung",
     "en": "Remote Control",
@@ -23,6 +24,7 @@
     "zh-TW": "遙控器"
   },
   "description": {
+    "ar": "يمكن إعادة تدويره إلى مواد تصنيع.",
     "da": "Kan genbruges til håndværksmaterialer.",
     "de": "Kann zu Handwerksmaterialien recycelt werden.",
     "en": "Can be recycled into crafting materials.",

@@ -1,6 +1,7 @@
 {
   "id": "rubber_parts",
   "name": {
+    "ar": "أجزاء مطاطية",
     "da": "Gummidele",
     "de": "Gummiteile",
     "en": "Rubber Parts",
@@ -23,6 +24,7 @@
     "zh-TW": "橡膠零件"
   },
   "description": {
+    "ar": "قطع مطاطية خردة للتصنيع. تستخدم لصنع: فيرو، غلاية، نهب م.ك. 1، شاحن الدرع، خياط",
     "da": "Gummiskrotdele til håndværk. Bruges til at lave: Ferro, Kedel, Plyndring Mk. 1, Skjoldoplader, Syer",
     "de": "Wird zur Herstellung verschiedenster Gegenstände verwendet. Zur Herstellung von: Ferro, Kettle, Beute-Marke 1, Schildauflader, Stitcher",
     "en": "Scrap rubber pieces for crafting. Used to craft: Ferro, Kettle, Looting Mk. 1, Shield Recharger, Stitcher",

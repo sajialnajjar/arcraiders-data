@@ -1,6 +1,7 @@
 {
   "id": "photoelectric_cloak",
   "name": {
+    "ar": "عباءة كهروضوئية",
     "da": "Fotoelektrisk kappe",
     "de": "Fotoelektrischer Umhang",
     "en": "Photoelectric Cloak",
@@ -23,6 +24,7 @@
     "zh-TW": "光電斗篷"
   },
   "description": {
+    "ar": "أداة تسمح للمستخدم بإخفاء نفسه عن ARC.",
     "da": "En gadget, der giver brugeren mulighed for at skjule sig fra ARC.",
     "de": "Ein Gadget, mit dem der Benutzer sich vor ARC verstecken kann.",
     "en": "A gadget that allows the user to conceal themselves from ARC.",
@@ -51,6 +53,7 @@
   "effects": {
     "Durability": {
       "value": "100/100",
+      "ar": "المتانة",
       "da": "Holdbarhed",
       "de": "Haltbarkeit",
       "en": "Durability",

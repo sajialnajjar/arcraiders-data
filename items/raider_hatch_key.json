@@ -1,6 +1,7 @@
 {
   "id": "raider_hatch_key",
   "name": {
+    "ar": "مفتاح فتحة المغير",
     "da": "Raider lugenøgle",
     "de": "Raider-Lukenschlüssel",
     "en": "Raider Hatch Key",
@@ -23,6 +24,7 @@
     "zh-TW": "掠奪者艙門鑰匙"
   },
   "description": {
+    "ar": "يفتح فتحة المغير.",
     "da": "Låser en Raider-luge op.",
     "de": "Öffnet eine Raider-Luke.",
     "en": "Unlocks a Raider Hatch.",

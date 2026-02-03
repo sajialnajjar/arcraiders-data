@@ -1,6 +1,7 @@
 {
   "id": "pulse_mine_blueprint",
   "name": {
+    "ar": "مخطط لغم نبضي",
     "da": "Pulsmine-tegning",
     "de": "Bauplan: Sprungmine: Impuls",
     "en": "Pulse Mine Blueprint",
@@ -23,6 +24,7 @@
     "zh-TW": "脈衝地雷藍圖"
   },
   "description": {
+    "ar": "لغم يعمل بالاقتراب يقفز لأعلى ويضرب أي شيء داخل نطاقه.",
     "da": "En nærhedsudløst mine, der springer op og slår alt tilbage inden for dens radius.",
     "de": "Eine Mine, die bei Annäherung explodiert und dabei alle in ihrem Radius zurückstößt.",
     "en": "A proximity-triggered mine that pops up and knocks back anything within its radius.",

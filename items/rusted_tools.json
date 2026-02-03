@@ -1,6 +1,7 @@
 {
   "id": "rusted_tools",
   "name": {
+    "ar": "أدوات صدئة",
     "da": "Rustne værktøjer",
     "de": "Verrostete Werkzeuge",
     "en": "Rusted Tools",
@@ -23,6 +24,7 @@
     "zh-TW": "生鏽的工具"
   },
   "description": {
+    "ar": "مجموعة من الأدوات، صدئة ولكن لا تزال صالحة للاستخدام في التصنيع.",
     "da": "Et sæt værktøjer, rustne men stadig brugbare til håndværk.",
     "de": "Kann zu Metallteilen recycelt werden.",
     "en": "A set of tools, rusted but still usable for crafting.",

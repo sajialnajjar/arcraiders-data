@@ -1,6 +1,7 @@
 {
   "id": "silver_teaspoon_set",
   "name": {
+    "ar": "طقم ملاعق شاي فضية",
     "da": "Sølv teskesæt",
     "de": "Silberne Teelöffelt",
     "en": "Silver Teaspoon Set",
@@ -23,6 +24,7 @@
     "zh-TW": "銀茶匙套裝"
   },
   "description": {
+    "ar": "طقم لامع ومتلألئ من الرقي والأناقة.",
     "da": "Et skinnende, glitrende sæt af raffinement og elegance.",
     "de": "Ein glänzendes, schimmerndes Set voller Raffinesse und Eleganz.",
     "en": "A shining, shimmering set of refinement and elegance.",

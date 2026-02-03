@@ -1,6 +1,7 @@
 {
   "id": "painted_box",
   "name": {
+    "ar": "صندوق مطلي",
     "da": "Malet kasse",
     "de": "Bemalte Kiste",
     "en": "Painted Box",
@@ -23,6 +24,7 @@
     "zh-TW": "彩繪盒子"
   },
   "description": {
+    "ar": "قد يساوي بضع عملات.",
     "da": "Kan være nogle mønter værd.",
     "de": "Vielleicht ein paar Münzen wert",
     "en": "May be worth a few coins.",

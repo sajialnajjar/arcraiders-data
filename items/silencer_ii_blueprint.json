@@ -1,6 +1,7 @@
 {
   "id": "silencer_ii_blueprint",
   "name": {
+    "ar": "مخطط كاتم صوت 2",
     "da": "Lyddæmper II Tegning",
     "de": "Bauplan: Schalldämpfer II",
     "en": "Silencer II Blueprint",
@@ -23,6 +24,7 @@
     "zh-TW": "消音器 II 藍圖"
   },
   "description": {
+    "ar": "مخطط لتصنيع كاتم الصوت 2.",
     "da": "En tegning til at lave Lyddæmper II.",
     "de": "Verringert die Lautstärke von Schüssen moderat. Kompatibel mit: Arpeggio, Rattler, Kettle, Ferro, Anvil",
     "en": "A blueprint to craft the Silencer II.",

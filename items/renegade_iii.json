@@ -1,6 +1,7 @@
 {
   "id": "renegade_iii",
   "name": {
+    "ar": "المتمرد 3",
     "da": "Renegade III",
     "de": "Renegade III",
     "en": "Renegade III",
@@ -23,6 +24,7 @@
     "zh-TW": "叛逆者 III"
   },
   "description": {
+    "ar": "بندقية معركة بآلية الرافعة ذات ناتج ضرر عالٍ ودقة وضرر إصابة في الرأس.",
     "da": "Lever-action kampriffel med høj skadeeffekt, præcision og hovedskudsskade.",
     "de": "Richtet bei Körpertreffern und insbesondere bei Kopfschüssen hohen Schaden an und ist präzise.",
     "en": "Lever-action battle rifle with high damage output, accuracy, and headshot damage.",
@@ -52,6 +54,7 @@
   "effects": {
     "Ammo Type": {
       "value": "Medium Ammo",
+      "ar": "نوع الذخيرة",
       "da": "Ammunitionstype",
       "de": "Munitionstyp",
       "en": "Ammo Type",
@@ -75,6 +78,7 @@
     },
     "ARC Armor Penetration": {
       "value": "Moderate",
+      "ar": "اختراق دروع ARC",
       "da": "ARC rustningsgennemtrængning",
       "de": "ARC-Panzerungsdurchdringung",
       "en": "ARC Armor Penetration",
@@ -98,6 +102,7 @@
     },
     "Durability": {
       "value": "120/120",
+      "ar": "المتانة",
       "da": "Holdbarhed",
       "de": "Haltbarkeit",
       "en": "Durability",
@@ -121,6 +126,7 @@
     },
     "Firing Mode": {
       "value": "Lever-Action",
+      "ar": "وضع الإطلاق",
       "da": "Skydningstilstand",
       "de": "Feuermodus",
       "en": "Firing Mode",
@@ -144,6 +150,7 @@
     },
     "Increased Fire Rate": {
       "value": "50%",
+      "ar": "معدل إطلاق النار",
       "da": "Øget skudhastighed",
       "de": "Erhöhte Feuerrate",
       "en": "Increased Fire Rate",
@@ -167,6 +174,7 @@
     },
     "Magazine Size": {
       "value": 8,
+      "ar": "حجم المخزن",
       "da": "Magasinstørrelse",
       "de": "Magazingröße",
       "en": "Magazine Size",
@@ -190,6 +198,7 @@
     },
     "Reduced Dispersion Recovery Time": {
       "value": "33.3%",
+      "ar": "وقت استعادة التشتت",
       "da": "Reduceret genoprettelsestid for spredning",
       "de": "Verringerte Streuungs-Erholungszeit",
       "en": "Reduced Dispersion Recovery Time",

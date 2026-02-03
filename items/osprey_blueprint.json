@@ -1,6 +1,7 @@
 {
   "id": "osprey_blueprint",
   "name": {
+    "ar": "مخطط العقاب",
     "da": "Osprey-tegning",
     "de": "Bauplan: Osprey",
     "en": "Osprey Blueprint",
@@ -23,6 +24,7 @@
     "zh-TW": "Osprey藍圖"
   },
   "description": {
+    "ar": "تتميز بدقة وأضرار موثوقة.",
     "da": "Har pålidelig skadeeffekt og præcision.",
     "de": "Verursacht verlässlichen Schaden bei annehmbarer Genauigkeit.",
     "en": "Has reliable damage output and accuracy.",

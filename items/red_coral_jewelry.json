@@ -1,6 +1,7 @@
 {
   "id": "red_coral_jewelry",
   "name": {
+    "ar": "مجوهرات المرجان الأحمر",
     "da": "Rød koralsmykker",
     "de": "Rote Korallenschmuck",
     "en": "Red Coral Jewelry",
@@ -23,6 +24,7 @@
     "zh-TW": "紅珊瑚首飾"
   },
   "description": {
+    "ar": "تُقدر لبراعة صنعها وقدرتها السهلة على جعل عينيك تبرزان.",
     "da": "Værdsat for sit fine håndværk og ubesværede evne til at få dine øjne til at poppe.",
     "de": "Geschätzt für seine feine Handwerkskunst und mühelose Fähigkeit, Ihre Augen zum Leuchten zu bringen.",
     "en": "Valued for its fine craftsmanship, and effortless ability to make your eyes pop.",

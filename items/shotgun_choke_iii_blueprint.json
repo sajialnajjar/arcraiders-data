@@ -1,6 +1,7 @@
 {
   "id": "shotgun_choke_iii_blueprint",
   "name": {
+    "ar": "مخطط خانق بندقية الرش 3",
     "da": "Haglgevaer choke III-tegning",
     "de": "Bauplan: Schrotflintenchoke III",
     "en": "Shotgun Choke III Blueprint",
@@ -23,6 +24,7 @@
     "zh-TW": "霰彈槍收束器 III 藍圖"
   },
   "description": {
+    "ar": "يقلل التشتت الأساسي بشكل كبير.",
     "da": "Reducerer betydeligt grundspredning.",
     "de": "Verringert die Grundstreuung erheblich.",
     "en": "Significantly reduces base dispersion.",

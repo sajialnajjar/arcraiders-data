@@ -1,6 +1,7 @@
 {
   "id": "shotgun_silencer_blueprint",
   "name": {
+    "ar": "مخطط كاتم صوت بندقية الرش",
     "da": "Haglgevaer-lyddaemper-tegning",
     "de": "Bauplan: Schrotflinten-Schalldampfer",
     "en": "Shotgun Silencer Blueprint",
@@ -23,6 +24,7 @@
     "zh-TW": "霰彈槍消音器 藍圖"
   },
   "description": {
+    "ar": "يقلل بشكل معتدل من كمية الضوضاء الناتجة عند الإطلاق.",
     "da": "Reducerer stojen produceret ved skydning moderat.",
     "de": "Verringert die beim Schiessen erzeugte Lautstarke moderat.",
     "en": "Moderately reduces the amount of noise produced when firing.",

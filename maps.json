@@ -23,7 +23,7 @@
       "zh-CN": "大坝战场",
       "zh-TW": "水壩_戰場"
     },
-    "image": "https://cdn.arctracker.io/maps/dam_battlegrounds.webp"
+    "image": "https://cdn.arctracker.io/maps/dam_battlegrounds.png"
   },
   {
     "id": "the_spaceport",
@@ -49,7 +49,7 @@
       "zh-CN": "太空港",
       "zh-TW": "太空港"
     },
-    "image": "https://cdn.arctracker.io/maps/the_spaceport.webp"
+    "image": "https://cdn.arctracker.io/maps/the_spaceport.png"
   },
   {
     "id": "buried_city",
@@ -75,7 +75,7 @@
       "zh-CN": "掩埋废城",
       "zh-TW": "埋葬之城"
     },
-    "image": "https://cdn.arctracker.io/maps/buried_city.webp"
+    "image": "https://cdn.arctracker.io/maps/buried_city.png"
   },
   {
     "id": "the_blue_gate",
@@ -101,7 +101,7 @@
       "zh-CN": "蓝门",
       "zh-TW": "藍門"
     },
-    "image": "https://cdn.arctracker.io/maps/the_blue_gate.webp"
+    "image": "https://cdn.arctracker.io/maps/the_blue_gate.png"
   },
   {
     "id": "stella_montis_upper",
@@ -127,7 +127,7 @@
       "zh-CN": "星辰山",
       "zh-TW": "山之星"
     },
-    "image": "https://cdn.arctracker.io/maps/stella_montis_upper.webp"
+    "image": "https://cdn.arctracker.io/maps/stella_montis_upper.png"
   },
   {
     "id": "stella_montis_lower",
@@ -153,6 +153,6 @@
       "zh-CN": "星辰山",
       "zh-TW": "山之星"
     },
-    "image": "https://cdn.arctracker.io/maps/stella_montis_lower.webp"
+    "image": "https://cdn.arctracker.io/maps/stella_montis_lower.png"
   }
 ]

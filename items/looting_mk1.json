@@ -19,7 +19,7 @@
     "sr": "Pljačkanje Mk. 1",
     "tr": "Yağmalama Mod. 1",
     "uk": "Мародерство Mk. 1",
-    "zh-CN": "掠夺 Mk. 1",
+    "zh-CN": "搜刮 Mk. 1",
     "zh-TW": "掠奪 Mk. 1"
   },
   "description": {
@@ -133,7 +133,7 @@
   "salvagesInto": {
     "plastic_parts": 3
   },
-  "imageFilename": "https://cdn.arctracker.io/items/looting_mk1.png",
+  "imageFilename": "https://cdn.arctracker.io/items/v2/looting_mk1.png",
   "updatedAt": "03/17/2026",
   "addedIn": "base",
   "repairCost": {

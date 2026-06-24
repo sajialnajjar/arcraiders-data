@@ -19,7 +19,7 @@
     "sr": "Borbeni Mk. 1",
     "tr": "Çatışma Mod. 1",
     "uk": "Бойовий Mk. 1",
-    "zh-CN": "战斗型 Mk. 1",
+    "zh-CN": "战斗 Mk. 1",
     "zh-TW": "戰鬥型 Mk. 1"
   },
   "description": {
@@ -133,7 +133,7 @@
   "salvagesInto": {
     "plastic_parts": 3
   },
-  "imageFilename": "https://cdn.arctracker.io/items/combat_i.png",
+  "imageFilename": "https://cdn.arctracker.io/items/v2/combat_mk1.png",
   "updatedAt": "03/17/2026",
   "addedIn": "base",
   "repairCost": {

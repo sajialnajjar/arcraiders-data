@@ -19,7 +19,7 @@
     "sr": "Plamen Sprej",
     "tr": "Alev Püskürtücü",
     "uk": "Вогняний розпилювач",
-    "zh-CN": "火焰喷射器",
+    "zh-CN": "火焰喷涂",
     "zh-TW": "火焰噴射器"
   },
   "description": {
@@ -98,6 +98,9 @@
     }
   },
   "craftBench": "in_raid",
+  "craftSkills": {
+    "in_raid": ["surv_3r"]
+  },
   "recipe": {
     "air_freshener": 1,
     "fireball_burner": 1
@@ -109,8 +112,8 @@
   "salvagesInto": {
     "fireball_burner": 1
   },
-  "imageFilename": "https://cdn.arctracker.io/items/flame_spray.png",
-  "updatedAt": "02/24/2026",
+  "imageFilename": "https://cdn.arctracker.io/items/v2/flame_spray.png",
+  "updatedAt": "05/30/2026",
   "addedIn": "base",
   "repairCost": {
     "canister": 1,

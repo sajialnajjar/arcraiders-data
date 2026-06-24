@@ -20,7 +20,7 @@
     "tr": "Kaçak III",
     "uk": "Ренегат III",
     "zh-CN": "叛逆 III",
-    "zh-TW": "叛逆者 III"
+    "zh-TW": "叛徒 III"
   },
   "description": {
     "da": "Lever-action kampriffel med høj skadeeffekt, præcision og hovedskudsskade.",
@@ -225,7 +225,7 @@
     "advanced_mechanical_components": 1,
     "medium_gun_parts": 2
   },
-  "imageFilename": "https://cdn.arctracker.io/items/renegade.png",
+  "imageFilename": "https://cdn.arctracker.io/items/v2/renegade_iii.png",
   "updatedAt": "03/17/2026",
   "addedIn": "base",
   "agility": 55.8,
@@ -241,7 +241,9 @@
       "compensator_i",
       "compensator_ii",
       "compensator_iii",
-      "extended_barrel",
+      "extended_barrel_i",
+      "extended_barrel_ii",
+      "extended_barrel_iii",
       "muzzle_brake_i",
       "muzzle_brake_ii",
       "muzzle_brake_iii",

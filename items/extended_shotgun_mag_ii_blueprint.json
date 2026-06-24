@@ -19,7 +19,7 @@
     "sr": "Nacrt za produženi sacmarski okvir II",
     "tr": "Uzatılmış Av Tüfeği Şarjörü II Taslağı",
     "uk": "Креслення розширеного магазину для дробовика II",
-    "zh-CN": "延长霰弹枪弹匣 II 蓝图",
+    "zh-CN": "霰弹枪扩容弹匣 II 蓝图",
     "zh-TW": "延長霰彈槍彈匣 II 藍圖"
   },
   "description": {
@@ -49,7 +49,7 @@
   "value": 5000,
   "weightKg": 0,
   "stackSize": 1,
-  "imageFilename": "https://cdn.arctracker.io/items/extended_shotgun_mag_ii.png",
+  "imageFilename": "https://cdn.arctracker.io/items/v2/extended_shotgun_mag_ii_blueprint.png",
   "updatedAt": "11/12/2025",
   "addedIn": "base"
 }

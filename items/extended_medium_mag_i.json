@@ -19,7 +19,7 @@
     "sr": "Produženi srednji okvir I",
     "tr": "Uzatılmış Orta Şarjör I",
     "uk": "Розширений середній магазин I",
-    "zh-CN": "延长中型弹匣 I",
+    "zh-CN": "中型扩容弹匣 I",
     "zh-TW": "延長中型彈匣 I"
   },
   "description": {
@@ -94,7 +94,7 @@
   "salvagesInto": {
     "plastic_parts": 3
   },
-  "imageFilename": "https://cdn.arctracker.io/items/extended_medium_mag_i.png",
+  "imageFilename": "https://cdn.arctracker.io/items/v2/extended_medium_mag_i.png",
   "updatedAt": "03/22/2026",
   "addedIn": "base",
   "vendors": [

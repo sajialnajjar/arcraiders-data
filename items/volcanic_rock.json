@@ -41,7 +41,7 @@
     "sr": "Može se baciti.",
     "tr": "Fırlatılabilir.",
     "uk": "Можна кинути.",
-    "zh-CN": "可以投掷。",
+    "zh-CN": "可用于投掷。",
     "zh-TW": "可以投擲。"
   },
   "type": "Misc",
@@ -75,7 +75,7 @@
       "zh-TW": "傷害"
     }
   },
-  "imageFilename": "https://cdn.arctracker.io/items/volcanic_rock.png",
+  "imageFilename": "https://cdn.arctracker.io/items/v2/volcanic_rock.png",
   "updatedAt": "03/17/2026",
   "addedIn": "base"
 }

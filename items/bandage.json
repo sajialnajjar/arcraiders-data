@@ -122,6 +122,9 @@
   },
   "craftBench": ["in_raid", "med_station", "workbench"],
   "stationLevelRequired": 1,
+  "craftSkills": {
+    "in_raid": ["surv_3r"]
+  },
   "recipe": {
     "fabric": 5
   },
@@ -131,8 +134,8 @@
   "salvagesInto": {
     "fabric": 1
   },
-  "imageFilename": "https://cdn.arctracker.io/items/bandage.png",
-  "updatedAt": "02/24/2026",
+  "imageFilename": "https://cdn.arctracker.io/items/v2/bandage.png",
+  "updatedAt": "05/30/2026",
   "addedIn": "base",
   "vendors": [
     {

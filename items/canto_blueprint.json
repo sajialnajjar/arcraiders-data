@@ -10,7 +10,7 @@
     "hr": "Canto Nacrt",
     "it": "Canto Progetto",
     "ja": "Canto 設計図",
-    "ko-KR": "Canto 청사진",
+    "ko-KR": "칸토 설계도",
     "no": "Canto Tegning",
     "pl": "Canto Schemat",
     "pt": "Esquema de Canto",
@@ -19,7 +19,7 @@
     "sr": "Canto Nacrt",
     "tr": "Canto Taslak",
     "uk": "Canto Креслення",
-    "zh-CN": "Canto 蓝图",
+    "zh-CN": "颂歌蓝图",
     "zh-TW": "Canto 藍圖"
   },
   "description": {
@@ -49,6 +49,7 @@
   "value": 5000,
   "weightKg": 0,
   "stackSize": 1,
+  "imageFilename": "https://cdn.arctracker.io/items/v2/canto_blueprint.png",
   "updatedAt": "03/31/2026",
   "addedIn": "1.22"
 }

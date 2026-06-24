@@ -19,7 +19,7 @@
     "sr": "Produženi Laki Okvir I",
     "tr": "Uzatılmış Hafif Şarjör I",
     "uk": "Розширений легкий магазин I",
-    "zh-CN": "延长轻型弹匣 I",
+    "zh-CN": "轻型扩容弹匣 I",
     "zh-TW": "延長輕型彈匣 I"
   },
   "description": {
@@ -49,7 +49,14 @@
   "value": 640,
   "weightKg": 0.25,
   "stackSize": 1,
-  "compatibleWith": ["Bobcat", "Burletta", "Hairpin", "Kettle", "Stitcher"],
+  "compatibleWith": [
+    "Bobcat",
+    "Burletta",
+    "Canto",
+    "Hairpin",
+    "Kettle",
+    "Stitcher"
+  ],
   "effects": {
     "Magazine Size": {
       "value": "+5",
@@ -87,7 +94,7 @@
   "salvagesInto": {
     "plastic_parts": 3
   },
-  "imageFilename": "https://cdn.arctracker.io/items/extended_light_mag_i.png",
+  "imageFilename": "https://cdn.arctracker.io/items/v2/extended_light_mag_i.png",
   "updatedAt": "03/22/2026",
   "addedIn": "base",
   "vendors": [

@@ -19,7 +19,7 @@
     "sr": "Oštećeni Rocketeer Pokretač",
     "tr": "Hasarlı Roketçi Sürücüsü",
     "uk": "Пошкоджений ракетний драйвер",
-    "zh-CN": "损坏的火箭手引擎",
+    "zh-CN": "受损的“火箭手”引擎",
     "zh-TW": "損壞的火箭手驅動器"
   },
   "description": {
@@ -41,7 +41,7 @@
     "sr": "Može se reciklirati u materijale za izradu.",
     "tr": "Üretim malzemelerine geri dönüştürülebilir.",
     "uk": "Можна переробити на матеріали для крафту.",
-    "zh-CN": "可以回收成制作材料。",
+    "zh-CN": "可回收为制作材料。",
     "zh-TW": "可以回收成製作材料。"
   },
   "type": "Recyclable",
@@ -56,7 +56,7 @@
   "salvagesInto": {
     "arc_alloy": 2
   },
-  "imageFilename": "https://cdn.arctracker.io/items/damaged_rocketeer_driver.png",
+  "imageFilename": "https://cdn.arctracker.io/items/v2/damaged_rocketeer_driver.png",
   "updatedAt": "02/24/2026",
   "addedIn": "base"
 }

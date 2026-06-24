@@ -19,7 +19,7 @@
     "sr": "Produženi šaržer za sačmaru III",
     "tr": "Uzatılmış Av Tüfeği Şarjörü III",
     "uk": "Розширений магазин для дробовика III",
-    "zh-CN": "扩展霰弹枪弹匣 III",
+    "zh-CN": "霰弹枪扩容弹匣 III",
     "zh-TW": "擴展霰彈槍彈匣 III"
   },
   "description": {
@@ -89,7 +89,7 @@
   "salvagesInto": {
     "mechanical_components": 2
   },
-  "imageFilename": "https://cdn.arctracker.io/items/extended_shotgun_mag_iii.png",
+  "imageFilename": "https://cdn.arctracker.io/items/v2/extended_shotgun_mag_iii.png",
   "updatedAt": "02/24/2026",
   "addedIn": "base"
 }

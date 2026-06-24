@@ -6,7 +6,7 @@
     "en": "Torrente I",
     "es": "Torrente I",
     "fr": "Torrente I",
-    "he": "Torrente I",
+    "he": "טורנטה I",
     "hr": "Torrente I",
     "it": "Torrente I",
     "ja": "トレンテ I",
@@ -182,7 +182,7 @@
   "salvagesInto": {
     "medium_gun_parts": 2
   },
-  "imageFilename": "https://cdn.arctracker.io/items/torrente.png",
+  "imageFilename": "https://cdn.arctracker.io/items/v2/torrente_i.png",
   "updatedAt": "03/17/2026",
   "addedIn": "base",
   "modSlots": {
@@ -195,7 +195,9 @@
       "compensator_i",
       "compensator_ii",
       "compensator_iii",
-      "extended_barrel",
+      "extended_barrel_i",
+      "extended_barrel_ii",
+      "extended_barrel_iii",
       "muzzle_brake_i",
       "muzzle_brake_ii",
       "muzzle_brake_iii",

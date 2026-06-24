@@ -6,7 +6,7 @@
     "en": "Il Toro I",
     "es": "Il Toro I",
     "fr": "Il Toro I",
-    "he": "Il Toro I",
+    "he": "איל טורו I",
     "hr": "Il Toro I",
     "it": "Il Toro I",
     "ja": "イル・トーロ I",
@@ -181,7 +181,7 @@
   "salvagesInto": {
     "simple_gun_parts": 2
   },
-  "imageFilename": "https://cdn.arctracker.io/items/il_toro.png",
+  "imageFilename": "https://cdn.arctracker.io/items/v2/il_toro_i.png",
   "updatedAt": "03/22/2026",
   "addedIn": "base",
   "modSlots": {

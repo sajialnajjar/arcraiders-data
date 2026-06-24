@@ -19,7 +19,7 @@
     "sr": "Dvogled",
     "tr": "Dürbün",
     "uk": "Бінокль",
-    "zh-CN": "双筒望远镜",
+    "zh-CN": "望远镜",
     "zh-TW": "雙筒望遠鏡"
   },
   "description": {
@@ -87,7 +87,7 @@
   "salvagesInto": {
     "plastic_parts": 4
   },
-  "imageFilename": "https://cdn.arctracker.io/items/binoculars.png",
+  "imageFilename": "https://cdn.arctracker.io/items/v2/binoculars.png",
   "updatedAt": "03/22/2026",
   "addedIn": "base",
   "repairCost": {

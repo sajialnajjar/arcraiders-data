@@ -54,6 +54,7 @@
     "Arpeggio",
     "Bettina",
     "Bobcat",
+    "Canto",
     "Ferro",
     "Hullcracker",
     "Il Toro",
@@ -125,7 +126,7 @@
   "salvagesInto": {
     "rubber_parts": 3
   },
-  "imageFilename": "https://cdn.arctracker.io/items/stable_stock_i.png",
+  "imageFilename": "https://cdn.arctracker.io/items/v2/stable_stock_i.png",
   "updatedAt": "02/24/2026",
   "addedIn": "base"
 }

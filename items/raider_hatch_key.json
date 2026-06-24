@@ -19,7 +19,7 @@
     "sr": "Ključ Rejderskog Otvora",
     "tr": "Raider Geçidi Anahtarı",
     "uk": "Ключ від люка рейдера",
-    "zh-CN": "掠夺者舱门钥匙",
+    "zh-CN": "奇袭者暗门钥匙",
     "zh-TW": "掠奪者艙門鑰匙"
   },
   "description": {
@@ -41,7 +41,7 @@
     "sr": "Otključava Rejderski Otvor.",
     "tr": "Bir Akıncı Ambar Kapağını açar.",
     "uk": "Відкриває люк рейдера.",
-    "zh-CN": "解锁掠夺者舱门。",
+    "zh-CN": "解锁一道奇袭者暗门。",
     "zh-TW": "解鎖掠奪者艙門。"
   },
   "type": "Key",
@@ -51,12 +51,15 @@
   "stackSize": 1,
   "craftBench": ["in_raid", "utility_bench"],
   "stationLevelRequired": 2,
+  "craftSkills": {
+    "in_raid": ["surv_5c", "surv_3r"]
+  },
   "recipe": {
     "advanced_electrical_components": 1,
     "sensors": 3
   },
-  "imageFilename": "https://cdn.arctracker.io/items/raider_hatch_key.png",
-  "updatedAt": "03/22/2026",
+  "imageFilename": "https://cdn.arctracker.io/items/v2/raider_hatch_key.png",
+  "updatedAt": "05/30/2026",
   "addedIn": "base",
   "vendors": [
     {

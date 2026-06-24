@@ -18,9 +18,9 @@
     "ru": "Чайник III",
     "sr": "Kettle III",
     "tr": "Isıtıcı III",
-    "uk": "Kettle III",
+    "uk": "Чайник III",
     "zh-CN": "水壶 III",
-    "zh-TW": "Kettle III"
+    "zh-TW": "水壺 III"
   },
   "description": {
     "da": "Hurtig og præcis, men har lav kuglehastighed og tager lang tid at genoplade.",
@@ -202,7 +202,7 @@
     "metal_parts": 10,
     "simple_gun_parts": 1
   },
-  "imageFilename": "https://cdn.arctracker.io/items/kettle.png",
+  "imageFilename": "https://cdn.arctracker.io/items/v2/kettle_iii.png",
   "updatedAt": "03/17/2026",
   "addedIn": "base",
   "modSlots": {
@@ -224,7 +224,9 @@
       "compensator_i",
       "compensator_ii",
       "compensator_iii",
-      "extended_barrel",
+      "extended_barrel_i",
+      "extended_barrel_ii",
+      "extended_barrel_iii",
       "muzzle_brake_i",
       "muzzle_brake_ii",
       "muzzle_brake_iii",

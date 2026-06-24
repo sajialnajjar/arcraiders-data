@@ -19,7 +19,7 @@
     "sr": "Pljačkaški Mk. 3 (Preživeli) Nacrt",
     "tr": "Yağmalama Mod.3 (Hayatta Kalan) Taslağı",
     "uk": "Креслення мародерського Mk. 3 (вижилий)",
-    "zh-CN": "掠夺 Mk. 3（幸存者）蓝图",
+    "zh-CN": "搜刮 Mk. 3（生存型）蓝图",
     "zh-TW": "掠奪 Mk. 3（倖存者）藍圖"
   },
   "description": {
@@ -48,7 +48,7 @@
   "rarity": "Common",
   "value": 5000,
   "weightKg": 0,
-  "imageFilename": "https://cdn.arctracker.io/items/looting_mk3_survivor_blueprint.png",
+  "imageFilename": "https://cdn.arctracker.io/items/v2/looting_mk3_survivor_blueprint.png",
   "updatedAt": "03/17/2026",
   "addedIn": "base"
 }

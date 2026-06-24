@@ -22,7 +22,6 @@
     "zh-CN": "积少成多",
     "zh-TW": "撿起材料"
   },
-  "map": ["the_spaceport", "buried_city", "dam_battlegrounds"],
   "trader": "Shani",
   "description": {
     "da": "Stormen har mestendels lagt sig, men meget af vores infrastruktur har fået en hård medfart. Hvis du håber på at blive hos os, skal du trække dit læs i reparationsarbejdet.",
@@ -70,24 +69,24 @@
       "zh-TW": "前往地圖上有搜刮品類別圖示的區域"
     },
     {
-      "da": "Plyndr {0} beholdere",
+      "da": "Plyndr 3 beholdere",
       "de": "3 Container plündern",
       "en": "Loot 3 containers",
       "es": "Saquea 3 contenedores.",
       "fr": "Fouiller 3 conteneurs",
-      "he": "בזוז {0} מכלים",
-      "hr": "Opljačkaj {0} spremnika",
+      "he": "בזוז 3 מכלים",
+      "hr": "Opljačkaj 3 spremnika",
       "it": "Saccheggia 3 contenitori",
       "ja": "容器を3個調査した",
       "ko-KR": "컨테이너 3개 노획하기",
-      "no": "Plyndre {0} beholdere",
+      "no": "Plyndre 3 beholdere",
       "pl": "Splądruj pojemniki (3)",
-      "pt": "Saqueie {0} recipientes",
+      "pt": "Saqueie 3 recipientes",
       "pt-BR": "Saqueie 3 contentores",
       "ru": "Возьмите добычу из контейнеров (3)",
-      "sr": "Pretraži {0} kontejnera",
+      "sr": "Pretraži 3 kontejnera",
       "tr": "3 ganimet kaynağı ara",
-      "uk": "Обіщи {0} контейнерів",
+      "uk": "Обіщи 3 контейнерів",
       "zh-CN": "搜刮3个容器",
       "zh-TW": "搜刮3個容器"
     }
@@ -105,5 +104,5 @@
   "xp": 0,
   "previousQuestIds": [],
   "nextQuestIds": ["clearer_skies", "trash_into_treasure"],
-  "updatedAt": "03/31/2026"
+  "updatedAt": "04/28/2026"
 }

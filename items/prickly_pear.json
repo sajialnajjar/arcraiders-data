@@ -19,7 +19,7 @@
     "sr": "Opuncija",
     "tr": "Dikenli Armut",
     "uk": "Опунція",
-    "zh-CN": "仙人掌果",
+    "zh-CN": "仙人果（仙人掌果）",
     "zh-TW": "仙人掌果"
   },
   "description": {
@@ -56,7 +56,7 @@
   "salvagesInto": {
     "assorted_seeds": 2
   },
-  "imageFilename": "https://cdn.arctracker.io/items/prickly_pear.png",
+  "imageFilename": "https://cdn.arctracker.io/items/v2/prickly_pear.png",
   "updatedAt": "01/13/2026",
   "addedIn": "base"
 }

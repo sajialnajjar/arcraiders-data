@@ -6,7 +6,7 @@
     "en": "Hullcracker III",
     "es": "Rompe Cascos III",
     "fr": "Brise-fuselage III",
-    "he": "Hullcracker III",
+    "he": "הולקראקר III",
     "hr": "Lomač Trupa III",
     "it": "Spaccascudi III",
     "ja": "ハルクラッカー III",
@@ -202,7 +202,7 @@
     "advanced_mechanical_components": 2,
     "heavy_gun_parts": 1
   },
-  "imageFilename": "https://cdn.arctracker.io/items/hullcracker.png",
+  "imageFilename": "https://cdn.arctracker.io/items/v2/hullcracker_iii.png",
   "updatedAt": "03/17/2026",
   "addedIn": "base",
   "agility": 67.9,

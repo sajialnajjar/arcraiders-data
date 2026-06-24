@@ -19,7 +19,7 @@
     "sr": "Produženi sačmarni okvir II",
     "tr": "Uzatılmış Av Tüfeği Şarjörü II",
     "uk": "Розширений магазин для дробовика II",
-    "zh-CN": "延长霰弹枪弹匣 II",
+    "zh-CN": "霰弹枪扩容弹匣 II",
     "zh-TW": "延長霰彈槍彈匣 II"
   },
   "description": {
@@ -89,7 +89,7 @@
   "salvagesInto": {
     "mechanical_components": 1
   },
-  "imageFilename": "https://cdn.arctracker.io/items/extended_shotgun_mag_ii.png",
+  "imageFilename": "https://cdn.arctracker.io/items/v2/extended_shotgun_mag_ii.png",
   "updatedAt": "02/24/2026",
   "addedIn": "base"
 }

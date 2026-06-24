@@ -19,7 +19,7 @@
     "sr": "Vatrena Kugla",
     "tr": "Ateş Topu Yakıcı",
     "uk": "Вогняна куля",
-    "zh-CN": "火球燃烧器",
+    "zh-CN": "火球燃烧炉",
     "zh-TW": "火球燃燒器"
   },
   "description": {
@@ -128,7 +128,7 @@
   "salvagesInto": {
     "arc_alloy": 1
   },
-  "imageFilename": "https://cdn.arctracker.io/items/fireball_burner.png",
+  "imageFilename": "https://cdn.arctracker.io/items/v2/fireball_burner.png",
   "updatedAt": "03/17/2026",
   "addedIn": "base"
 }

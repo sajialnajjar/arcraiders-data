@@ -19,7 +19,7 @@
     "sr": "Zvučni alarm",
     "tr": "Yaygaracı",
     "uk": "Шумовик",
-    "zh-CN": "噪音制造器",
+    "zh-CN": "发声器",
     "zh-TW": "噪音製造器"
   },
   "description": {
@@ -41,7 +41,7 @@
     "sr": "Postavljivi senzor blizine koji aktivira alarm kada se otkriju neprijateljski Rajderi.",
     "tr": "Düşman akıncılar tespit edildiğinde alarm çalan konuşlandırılabilir yakınlık sensörü.",
     "uk": "Встановлюваний датчик наближення, який подає сигнал тривоги при виявленніворожих рейдерів.",
-    "zh-CN": "可部署的接近传感器，侦测到敌方掠夺者时会发出警报。",
+    "zh-CN": "可部署的接近传感器，侦测到敌方奇袭者时会发出警报。",
     "zh-TW": "可部署的接近感應器，偵測到敵方掠奪者時會發出警報。"
   },
   "type": "Quick Use",
@@ -98,6 +98,9 @@
     }
   },
   "craftBench": "in_raid",
+  "craftSkills": {
+    "in_raid": ["surv_5c", "surv_3r"]
+  },
   "recipe": {
     "plastic_parts": 2,
     "speaker_component": 1
@@ -108,8 +111,8 @@
   "salvagesInto": {
     "speaker_component": 1
   },
-  "imageFilename": "https://cdn.arctracker.io/items/noisemaker.png",
-  "updatedAt": "01/13/2026",
+  "imageFilename": "https://cdn.arctracker.io/items/v2/noisemaker.png",
+  "updatedAt": "05/30/2026",
   "addedIn": "base",
   "vendors": [
     {

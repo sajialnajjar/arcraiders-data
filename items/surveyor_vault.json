@@ -19,7 +19,7 @@
     "sr": "Trezor istraživača",
     "tr": "Gözetleyici Kasası",
     "uk": "Сховище геодезиста",
-    "zh-CN": "勘测师保险库",
+    "zh-CN": "“勘测师”保险库",
     "zh-TW": "勘測者保險庫"
   },
   "description": {
@@ -57,7 +57,7 @@
   "salvagesInto": {
     "mechanical_components": 1
   },
-  "imageFilename": "https://cdn.arctracker.io/items/surveyor_vault.png",
+  "imageFilename": "https://cdn.arctracker.io/items/v2/surveyor_vault.png",
   "updatedAt": "01/13/2026",
   "addedIn": "base"
 }

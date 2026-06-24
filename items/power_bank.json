@@ -19,7 +19,7 @@
     "sr": "Punjiva Baterija",
     "tr": "Taşınabilir Şarj Aleti",
     "uk": "Зовнішній акумулятор",
-    "zh-CN": "充电宝",
+    "zh-CN": "移动电源",
     "zh-TW": "行動電源"
   },
   "description": {
@@ -57,7 +57,7 @@
   "salvagesInto": {
     "battery": 2
   },
-  "imageFilename": "https://cdn.arctracker.io/items/power_bank.png",
+  "imageFilename": "https://cdn.arctracker.io/items/v2/power_bank.png",
   "updatedAt": "11/02/2025",
   "addedIn": "base"
 }

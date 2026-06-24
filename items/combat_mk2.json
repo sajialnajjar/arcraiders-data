@@ -19,7 +19,7 @@
     "sr": "Borbeni Mk. 2",
     "tr": "Çatışma Mod. 2",
     "uk": "Бойовий Mk. 2",
-    "zh-CN": "战斗型 Mk. 2",
+    "zh-CN": "战斗 Mk. 2",
     "zh-TW": "戰鬥型 Mk. 2"
   },
   "description": {
@@ -156,7 +156,7 @@
   "salvagesInto": {
     "electrical_components": 1
   },
-  "imageFilename": "https://cdn.arctracker.io/items/combat_i.png",
+  "imageFilename": "https://cdn.arctracker.io/items/v2/combat_mk2.png",
   "updatedAt": "03/22/2026",
   "addedIn": "base",
   "repairCost": {

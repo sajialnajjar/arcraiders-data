@@ -6,7 +6,7 @@
     "en": "Hullcracker II",
     "es": "Rompe Cascos II",
     "fr": "Brise-fuselage II",
-    "he": "Hullcracker II",
+    "he": "הולקראקר II",
     "hr": "Lomač Trupa II",
     "it": "Spaccascudi II",
     "ja": "ハルクラッカー II",
@@ -202,7 +202,7 @@
     "advanced_mechanical_components": 1,
     "heavy_gun_parts": 2
   },
-  "imageFilename": "https://cdn.arctracker.io/items/hullcracker.png",
+  "imageFilename": "https://cdn.arctracker.io/items/v2/hullcracker_ii.png",
   "updatedAt": "03/17/2026",
   "addedIn": "base",
   "agility": 67.9,

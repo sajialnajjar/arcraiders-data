@@ -19,7 +19,7 @@
     "sr": "Lagana Kundak",
     "tr": "Hafif Dipçik",
     "uk": "Полегшений приклад",
-    "zh-CN": "轻量枪托",
+    "zh-CN": "轻型枪托",
     "zh-TW": "輕量槍托"
   },
   "description": {
@@ -54,6 +54,7 @@
     "Arpeggio",
     "Bettina",
     "Bobcat",
+    "Canto",
     "Ferro",
     "Hullcracker",
     "Il Toro",
@@ -196,7 +197,7 @@
   "salvagesInto": {
     "mechanical_components": 2
   },
-  "imageFilename": "https://cdn.arctracker.io/items/lightweight_stock.png",
+  "imageFilename": "https://cdn.arctracker.io/items/v2/lightweight_stock.png",
   "updatedAt": "02/24/2026",
   "addedIn": "base"
 }

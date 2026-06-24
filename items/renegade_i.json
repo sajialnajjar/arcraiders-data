@@ -16,7 +16,7 @@
     "pt": "Renegade I",
     "pt-BR": "Renegado I",
     "ru": "Ренегат I",
-    "sr": "Renegade I",
+    "sr": "Ренегат I",
     "tr": "Kaçak I",
     "uk": "Ренегат I",
     "zh-CN": "叛逆 I",
@@ -181,7 +181,7 @@
   "salvagesInto": {
     "medium_gun_parts": 2
   },
-  "imageFilename": "https://cdn.arctracker.io/items/renegade.png",
+  "imageFilename": "https://cdn.arctracker.io/items/v2/renegade_i.png",
   "updatedAt": "03/22/2026",
   "addedIn": "base",
   "modSlots": {
@@ -194,7 +194,9 @@
       "compensator_i",
       "compensator_ii",
       "compensator_iii",
-      "extended_barrel",
+      "extended_barrel_i",
+      "extended_barrel_ii",
+      "extended_barrel_iii",
       "muzzle_brake_i",
       "muzzle_brake_ii",
       "muzzle_brake_iii",
